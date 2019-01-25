@@ -21614,3 +21614,9 @@
  paradigm: Adj-consonant
  trans_ru: яловый, бесплодный
 
+-lexeme
+ lex: недэй
+ stem: недэ.
+ gramm: A,rus
+ paradigm: Noun-num-j
+ trans_ru: гнедой

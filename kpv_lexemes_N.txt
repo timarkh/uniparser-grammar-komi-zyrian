@@ -1674,7 +1674,7 @@
 -lexeme
  lex: азбак
  stem: азбак.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: здоровяк
 
@@ -6917,9 +6917,9 @@
 -lexeme
  lex: берд
  stem: берд.
- gramm: N
+ gramm: N,rel_n
  paradigm: Noun-num-consonant
- trans_ru: единица длины, равная окружности сновалки, т.е. 8 метрам
+ trans_ru: место около
 
 -lexeme
  lex: берданка
@@ -10221,7 +10221,7 @@
 -lexeme
  lex: быдтантор
  stem: быдтантор.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: приёмыш
 
@@ -10564,7 +10564,7 @@
 -lexeme
  lex: бӧбйӧдлысь
  stem: бӧбйӧдлыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: мистификатор
 
@@ -10711,7 +10711,7 @@
 -lexeme
  lex: бӧрйысьысь
  stem: бӧрйысьыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: выборщик
 
@@ -10956,7 +10956,7 @@
 -lexeme
  lex: важолысь
  stem: важолыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: абориген
 
@@ -11068,7 +11068,7 @@
 -lexeme
  lex: ваксьысь
  stem: ваксьыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: хохотун
 
@@ -17116,7 +17116,7 @@
 -lexeme
  lex: вурысь
  stem: вурыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: занимающийся шитьём
 
@@ -22548,7 +22548,7 @@
 -lexeme
  lex: гусь
  stem: гус.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: вор
 
@@ -22583,7 +22583,7 @@
 -lexeme
  lex: гусясьысь
  stem: гусясьыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: вор
 
@@ -23059,7 +23059,7 @@
 -lexeme
  lex: гӧгӧрвоӧдысь
  stem: гӧгӧрвоӧдыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: толкователь
 
@@ -24858,7 +24858,7 @@
 -lexeme
  lex: джагӧдчысь
  stem: джагӧдчыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: удавленник
 
@@ -24893,7 +24893,7 @@
 -lexeme
  lex: джеджӧ
  stem: джеджӧ.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: коротышка
 
@@ -25215,7 +25215,7 @@
 -lexeme
  lex: дзеблалысь
  stem: дзеблалыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: укрыватель
 
@@ -25306,7 +25306,7 @@
 -lexeme
  lex: дзескӧдысь
  stem: дзескӧдыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: тиран
 
@@ -25362,14 +25362,14 @@
 -lexeme
  lex: дзирня
  stem: дзирня.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: вертун, егоза
 
 -lexeme
  lex: дзирнясьысь
  stem: дзирнясьыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: кокетка
 
@@ -25621,7 +25621,7 @@
 -lexeme
  lex: дзугысь
  stem: дзугыс.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: нарушитель
 
@@ -27392,7 +27392,7 @@
 -lexeme
  lex: драглӧй
  stem: драглӧ.
- gramm: NH
+ gramm: N,anim,hum
  paradigm: Noun-num-j
  trans_ru: изувеченный
 
@@ -63496,13 +63496,6 @@
  trans_ru: недоимка
 
 -lexeme
- lex: недэй
- stem: A
- gramm: N,anim,rus
- paradigm: Noun-num-j
- trans_ru: гнедой
-
--lexeme
  lex: недӧкунь
  stem: недӧкун.
  gramm: N,anim,rus
@@ -97621,13 +97614,6 @@
  trans_ru: бедность
 
 -lexeme
- lex: судзсьӧмӧн
- stem: судзсьӧмӧн.
- gramm: NADV
- paradigm: Noun-num-consonant
- trans_ru: в достатке
-
--lexeme
  lex: судзсянлун
  stem: судзсянлун.
  gramm: N,nmlz_lun
@@ -125799,7 +125785,7 @@
  stem: ӧчки.
  gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: очкиразг.
+ trans_ru: очки
 
 -lexeme
  lex: ӧш

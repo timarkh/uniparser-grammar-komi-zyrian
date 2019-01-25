@@ -48,6 +48,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: .са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-vowel
  -flex: .<.>
@@ -65,6 +69,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: .са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-v_l
  -flex: <0>.<.>
@@ -86,6 +94,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: <0>.са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-obl_j
  -flex: .<.>
@@ -112,10 +124,14 @@
   gloss: ATTR
   paradigm: Adj-vowel
   regex-prev: .*[^.<>аеёиоӧуыэюяі][.<>]*$
- -flex: <0>.тӧм<.>
+ -flex: .тӧм<.>
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: .са<.>//.[й]са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-obl_cons
  -flex: <0>.<.>
@@ -137,6 +153,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: <0>.са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-j
  -flex: .[й]<.>
@@ -159,6 +179,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: .[й]са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-CC'
  -flex: <0>.<.>
@@ -183,6 +207,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: <0>.са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-ddz
  -flex: <0>.<.>
@@ -204,6 +232,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: <0>.са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-soft
  -flex: .[ь]<.>
@@ -226,6 +258,10 @@
   gramm: neg_attr
   gloss: NEG.ATTR
   paradigm: Adj-consonant
+ -flex: .[ь]са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
 
 -paradigm: Noun-num-pi
  -flex: .<.>
