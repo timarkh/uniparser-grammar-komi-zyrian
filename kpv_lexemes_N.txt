@@ -1,4 +1,4 @@
-﻿-lexeme
+-lexeme
  lex: Ыджыдлун
  stem: ыджыдлун.
  gramm: N,time_meas
@@ -93,7 +93,7 @@
  lex: абутӧмтор
  stem: абутӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: нечто несуществующее
 
 -lexeme
@@ -429,7 +429,7 @@
  lex: аддзывтӧмтор
  stem: аддзывтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: невиданное
 
 -lexeme
@@ -464,7 +464,7 @@
  lex: аддзытӧмтор
  stem: аддзытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-то невидимое
 
 -lexeme
@@ -1394,7 +1394,7 @@
 -lexeme
  lex: аржи
  stem: аржи.
- gramm: N,rus
+ gramm: N
  paradigm: Noun-num-vowel
  trans_ru: аржи (сарафан из грубой домотканой крашенины)
 
@@ -1696,7 +1696,7 @@
  lex: аслыспӧлӧстор
  stem: аслыспӧлӧстор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо оригинальное
 
 -lexeme
@@ -4300,7 +4300,7 @@
  lex: бурджыктор
  stem: бурджыктор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: нечто лучшее
 
 -lexeme
@@ -4404,7 +4404,7 @@
 -lexeme
  lex: бурки
  stem: бурки.
- gramm: N,rus
+ gramm: N
  paradigm: Noun-num-vowel
  trans_ru: бурки (войлочная или суконная обувь с кожаными головками и на кожаных подошвах)
 
@@ -4503,7 +4503,7 @@
  lex: буртор
  stem: буртор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо хорошее
 
 -lexeme
@@ -4706,7 +4706,7 @@
  lex: быдлунъятор
  stem: быдлунъятор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо повседневное
 
 -lexeme
@@ -5357,7 +5357,7 @@
  lex: важнӧйтор
  stem: важнӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-л. важное, важность
 
 -lexeme
@@ -5371,7 +5371,7 @@
  lex: важсятор
  stem: важсятор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-л. старинное
 
 -lexeme
@@ -6015,7 +6015,7 @@
  lex: вежатор
  stem: вежатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: святое, святыня
 
 -lexeme
@@ -6736,7 +6736,7 @@
  lex: вермантор
  stem: вермантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо посильное
 
 -lexeme
@@ -6778,7 +6778,7 @@
  lex: вермытӧмтор
  stem: вермытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-л. непосильное
 
 -lexeme
@@ -7009,7 +7009,7 @@
  lex: веськӧдчантор
  stem: веськӧдчантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: опохмел
 
 -lexeme
@@ -9389,7 +9389,7 @@
  lex: вунлытӧмтор
  stem: вунлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо незабываемое
 
 -lexeme
@@ -9403,7 +9403,7 @@
  lex: вунӧдӧмтор
  stem: вунӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо забытое
 
 -lexeme
@@ -10551,7 +10551,7 @@
  lex: гажатор
  stem: гажатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо приятное
 
 -lexeme
@@ -10579,7 +10579,7 @@
  lex: гажтӧмтор
  stem: гажтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо скучное, неприятное
 
 -lexeme
@@ -11349,7 +11349,7 @@
  lex: главнӧйтор
  stem: главнӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: наиболее важное, главное
 
 -lexeme
@@ -11727,8 +11727,15 @@
  lex: горт
  stem: горт.
  gramm: N
- paradigm: Noun-num-obl_j
+ paradigm: Noun-num-consonant
  trans_ru: дом
+
+-lexeme
+ lex: горт
+ stem: горт.
+ gramm: N
+ paradigm: Noun-num-obl_j
+ trans_ru: гроб
 
 -lexeme
  lex: гортладорса
@@ -11790,7 +11797,7 @@
  lex: госатор
  stem: госатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо жирное
 
 -lexeme
@@ -12819,7 +12826,7 @@
  lex: гырысьтор
  stem: гырысьтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо большое
 
 -lexeme
@@ -12931,7 +12938,7 @@
  lex: гӧгӧрвоанатор
  stem: гӧгӧрвоанатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо понятное
 
 -lexeme
@@ -12945,7 +12952,7 @@
  lex: гӧгӧрвотӧмтор
  stem: гӧгӧрвотӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: непонятное
 
 -lexeme
@@ -13764,7 +13771,7 @@
  lex: дельнӧйтор
  stem: дельнӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо дельное, толковое
 
 -lexeme
@@ -14520,7 +14527,7 @@
  lex: дзолятор
  stem: дзолятор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо маленькое
 
 -lexeme
@@ -14765,7 +14772,7 @@
  lex: дивитантор
  stem: дивитантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо предосудительное
 
 -lexeme
@@ -14779,7 +14786,7 @@
  lex: дивӧтор
  stem: дивӧтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо удивительное
 
 -lexeme
@@ -15164,7 +15171,7 @@
  lex: долыдтор
  stem: долыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо радостное
 
 -lexeme
@@ -15234,7 +15241,7 @@
  lex: донатор
  stem: донатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо дорогое
 
 -lexeme
@@ -15304,7 +15311,7 @@
  lex: донтӧмтор
  stem: донтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо дешёвое
 
 -lexeme
@@ -16172,7 +16179,7 @@
  lex: дӧзмӧдантор
  stem: дӧзмӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо обидное
 
 -lexeme
@@ -17684,7 +17691,7 @@
  lex: запретиттӧмтор
  stem: запретиттӧмтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо незапрещённое
 
 -lexeme
@@ -19525,7 +19532,7 @@
  lex: интереснӧйтор
  stem: интереснӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо интересное
 
 -lexeme
@@ -20127,7 +20134,7 @@
  lex: йӧзӧдлытӧмтор
  stem: йӧзӧдлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо неопубликованное
 
 -lexeme
@@ -20197,7 +20204,7 @@
  lex: йӧктӧдантор
  stem: йӧктӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: плясовая
 
 -lexeme
@@ -21092,7 +21099,7 @@
 -lexeme
  lex: камыс
  stem: камыс.
- gramm: N,rus
+ gramm: N
  paradigm: Noun-num-consonant
  trans_ru: камыс
 
@@ -22717,7 +22724,7 @@
  lex: кизьӧртор
  stem: кизьӧртор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо жидкое
 
 -lexeme
@@ -23550,7 +23557,7 @@
  lex: ковтӧмтор
  stem: ковтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: ненужное
 
 -lexeme
@@ -23753,7 +23760,7 @@
  lex: козьналӧмтор
  stem: козьналӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо дарёное
 
 -lexeme
@@ -23921,7 +23928,7 @@
  lex: кокнитор
  stem: кокнитор.
  gramm: N,body
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо лёгкое
 
 -lexeme
@@ -24061,7 +24068,7 @@
  lex: коланатор
  stem: коланатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо необходимое
 
 -lexeme
@@ -24075,7 +24082,7 @@
  lex: колантор
  stem: колантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо необходимое
 
 -lexeme
@@ -24536,7 +24543,7 @@
 -lexeme
  lex: коми
  stem: коми.
- gramm: N,anim,hum,rus
+ gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: коми
 
@@ -25258,7 +25265,7 @@
  lex: корсянтор
  stem: корсянтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: искомый
 
 -lexeme
@@ -27645,7 +27652,7 @@
  lex: кывлытӧмтор
  stem: кывлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо неслыханное
 
 -lexeme
@@ -28156,7 +28163,7 @@
  lex: кыпыдтор
  stem: кыпыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо радостное
 
 -lexeme
@@ -28716,7 +28723,7 @@
  lex: кӧдзыдтор
  stem: кӧдзыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо холодное
 
 -lexeme
@@ -30858,7 +30865,7 @@
  lex: лишнӧйтор
  stem: лишнӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: лишнее
 
 -lexeme
@@ -32454,7 +32461,7 @@
  lex: лёктор
  stem: лёктор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: плохое
 
 -lexeme
@@ -32741,21 +32748,21 @@
  lex: лӧсьыдтор
  stem: лӧсьыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: хорошее
 
 -lexeme
  lex: лӧсьыдтӧмтор
  stem: лӧсьыдтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: нехорошее
 
 -lexeme
  lex: лӧсьыдысь-лӧсьыдтор
  stem: лӧсьыдысь-лӧсьыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо прекрасное
 
 -lexeme
@@ -32818,14 +32825,14 @@
  lex: лӧсявтӧмтор
  stem: лӧсявтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: неподходящее
 
 -lexeme
  lex: лӧсялантор
  stem: лӧсялантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: подходящее
 
 -lexeme
@@ -33335,7 +33342,7 @@
 -lexeme
  lex: март
  stem: март.
- gramm: N,rus
+ gramm: N,rus,time_meas
  paradigm: Noun-num-consonant
  trans_ru: март
 
@@ -33602,7 +33609,7 @@
  lex: матысатор
  stem: матысатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: близкое
 
 -lexeme
@@ -33770,14 +33777,14 @@
  lex: медбуртор
  stem: медбуртор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое лучшее
 
 -lexeme
  lex: медбӧръятор
  stem: медбӧръятор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: последнее
 
 -lexeme
@@ -33791,14 +33798,14 @@
  lex: меддонатор
  stem: меддонатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое дорогое
 
 -lexeme
  lex: меддонтӧмтор
  stem: меддонтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое дешёвое
 
 -lexeme
@@ -33812,35 +33819,35 @@
  lex: медколанатор
  stem: медколанатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое нужное
 
 -lexeme
  lex: медлёктор
  stem: медлёктор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое плохое
 
 -lexeme
  lex: медмусатор
  stem: медмусатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое любимое
 
 -lexeme
  lex: медсьӧкыдтор
  stem: медсьӧкыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое тяжёлое
 
 -lexeme
  lex: медтӧдчанатор
  stem: медтӧдчанатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое заметное
 
 -lexeme
@@ -33854,7 +33861,7 @@
  lex: медчӧскыдтор
  stem: медчӧскыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: самое вкусное
 
 -lexeme
@@ -34498,7 +34505,7 @@
  lex: мисьтӧмтор
  stem: мисьтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: нехорошее
 
 -lexeme
@@ -34540,7 +34547,7 @@
  lex: мичатор
  stem: мичатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо красивое
 
 -lexeme
@@ -34673,7 +34680,7 @@
  lex: могмӧдантор
  stem: могмӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо выполнимое
 
 -lexeme
@@ -35394,7 +35401,7 @@
  lex: мусатор
  stem: мусатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: милое
 
 -lexeme
@@ -35450,7 +35457,7 @@
  lex: мустӧмтор
  stem: мустӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо неприятное
 
 -lexeme
@@ -36066,7 +36073,7 @@
  lex: мӧрччанатор
  stem: мӧрччанатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-то внушительное
 
 -lexeme
@@ -36801,7 +36808,7 @@
  lex: небыдтор
  stem: небыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо мягкое
 
 -lexeme
@@ -36962,7 +36969,7 @@
  lex: неладнӧтор
  stem: неладнӧтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: неладное
 
 -lexeme
@@ -37200,7 +37207,7 @@
  lex: нимкодьтор
  stem: нимкодьтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: приятное
 
 -lexeme
@@ -39230,7 +39237,7 @@
  lex: омӧльтор
  stem: омӧльтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: плохое
 
 -lexeme
@@ -40140,7 +40147,7 @@
  lex: пакӧсьттор
  stem: пакӧсьттор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо пакостное
 
 -lexeme
@@ -41344,7 +41351,7 @@
  lex: пежтор
  stem: пежтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: скверна
 
 -lexeme
@@ -43577,7 +43584,7 @@
  lex: позьтӧмтор
  stem: позьтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: невозможное
 
 -lexeme
@@ -43598,7 +43605,7 @@
  lex: позянатор
  stem: позянатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: нечто возможное
 
 -lexeme
@@ -44627,7 +44634,7 @@
  lex: прамӧйтор
  stem: прамӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо настоящее
 
 -lexeme
@@ -45789,7 +45796,7 @@
  lex: прӧстӧйтор
  stem: прӧстӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо простое
 
 -lexeme
@@ -48050,7 +48057,7 @@
  lex: радуйтанатор
  stem: радуйтанатор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо радостное
 
 -lexeme
@@ -51046,7 +51053,7 @@
  lex: сгӧдитчанатор
  stem: сгӧдитчанатор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо годное
 
 -lexeme
@@ -52831,7 +52838,7 @@
  lex: солатор
  stem: солатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо солёное
 
 -lexeme
@@ -53538,7 +53545,7 @@
  lex: статиттӧмтор
  stem: статиттӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: неподходящее
 
 -lexeme
@@ -53825,7 +53832,7 @@
  lex: страшнӧйтор
  stem: страшнӧйтор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо страшное
 
 -lexeme
@@ -54749,7 +54756,7 @@
  lex: сылатор
  stem: сылатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо жирное
 
 -lexeme
@@ -55043,7 +55050,7 @@
  lex: сьӧдтор
  stem: сьӧдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо чёрное
 
 -lexeme
@@ -55134,7 +55141,7 @@
  lex: сьӧкыдтор
  stem: сьӧкыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: тяжесть
 
 -lexeme
@@ -55281,7 +55288,7 @@
  lex: сэтшӧм-татшӧмтор
  stem: сэтшӧм-татшӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: такое-сякое
 
 -lexeme
@@ -56254,7 +56261,7 @@
  lex: такӧдантор
  stem: такӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо успокоительное
 
 -lexeme
@@ -56947,7 +56954,7 @@
  lex: тешкодьтор
  stem: тешкодьтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: нечто смешное
 
 -lexeme
@@ -58221,7 +58228,7 @@
  lex: туйтӧмтор
  stem: туйтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо негодное
 
 -lexeme
@@ -59397,7 +59404,7 @@
  lex: тыдавтӧмтор
  stem: тыдавтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо невидимое
 
 -lexeme
@@ -59586,7 +59593,7 @@
  lex: тырмытӧмтор
  stem: тырмытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо недостающее
 
 -lexeme
@@ -60097,7 +60104,7 @@
  lex: тӧдантор
  stem: тӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо знакомое, известное
 
 -lexeme
@@ -60181,7 +60188,7 @@
  lex: тӧдсатор
  stem: тӧдсатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: знакомое, известное
 
 -lexeme
@@ -60209,14 +60216,14 @@
  lex: тӧдтӧмтор
  stem: тӧдтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: незнакомое
 
 -lexeme
  lex: тӧдчанатор
  stem: тӧдчанатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо заметное
 
 -lexeme
@@ -60307,7 +60314,7 @@
  lex: тӧлкатор
  stem: тӧлкатор.
  gramm: N,nmlz_tor,rus
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо толковое
 
 -lexeme
@@ -62656,6 +62663,13 @@
  trans_ru: жеребёнок
 
 -lexeme
+ lex: чань
+ stem: чань.|чаньм.
+ gramm: N,anim
+ paradigm: Noun-num-obl_cons
+ trans_ru: жеребёнок
+
+-lexeme
  lex: чанькок
  stem: чанькок.
  gramm: N
@@ -63947,7 +63961,7 @@
  lex: чорыдтор
  stem: чорыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо твёрдое
 
 -lexeme
@@ -63987,9 +64001,9 @@
 
 -lexeme
  lex: чув
- stem: чув.
+ stem: чув.|чув.//чуд.
  gramm: N,anim
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-v_l
  trans_ru: выдра
 
 -lexeme
@@ -64171,7 +64185,7 @@
  lex: чуймӧдантор
  stem: чуймӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо удивительное
 
 -lexeme
@@ -64815,7 +64829,7 @@
  lex: чӧскыдтор
  stem: чӧскыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо вкусное
 
 -lexeme
@@ -64863,7 +64877,7 @@
 -lexeme
  lex: шабур
  stem: шабур.
- gramm: N,rus
+ gramm: N
  paradigm: Noun-num-consonant
  trans_ru: шабур (рабочая верхняя одежда)
 
@@ -65053,7 +65067,7 @@
  lex: шаньтор
  stem: шаньтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо хорошее
 
 -lexeme
@@ -65298,7 +65312,7 @@
  lex: шемӧсмӧдантор
  stem: шемӧсмӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо удивительное
 
 -lexeme
@@ -65718,7 +65732,7 @@
  lex: шогманатор
  stem: шогманатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо стоящее
 
 -lexeme
@@ -65732,7 +65746,7 @@
  lex: шогмантор
  stem: шогмантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо стоящее
 
 -lexeme
@@ -65746,7 +65760,7 @@
  lex: шогмытӧмтор
  stem: шогмытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо негодное
 
 -lexeme
@@ -65872,7 +65886,7 @@
  lex: шоматор
  stem: шоматор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо кислое
 
 -lexeme
@@ -66054,7 +66068,7 @@
  lex: шоныдтор
  stem: шоныдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо тёплое
 
 -lexeme
@@ -66551,7 +66565,7 @@
  lex: шуштӧмтор
  stem: шуштӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-то мрачное
 
 -lexeme
@@ -67202,7 +67216,7 @@
  lex: ыджыдтор
  stem: ыджыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо большое
 
 -lexeme
@@ -67594,7 +67608,7 @@
  lex: ыштӧдантор
  stem: ыштӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо соблазнительное
 
 -lexeme
@@ -68252,7 +68266,7 @@
  lex: эсканатор
  stem: эсканатор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо правдивое
 
 -lexeme
@@ -68287,7 +68301,7 @@
  lex: эскытӧмтор
  stem: эскытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо невероятное
 
 -lexeme
@@ -68301,7 +68315,7 @@
  lex: эскӧдантор
  stem: эскӧдантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо убедительное
 
 -lexeme
@@ -68574,7 +68588,7 @@
  lex: югъялантор
  stem: югъялантор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-то блестящее
 
 -lexeme
@@ -68609,7 +68623,7 @@
  lex: югыдтор
  stem: югыдтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо светлое
 
 -lexeme
@@ -69897,7 +69911,7 @@
  lex: ёсьтор
  stem: ёсьтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: что-либо острое
 
 -lexeme
@@ -70478,7 +70492,7 @@
  lex: ӧткодьтор
  stem: ӧткодьтор.
  gramm: N,nmlz_tor
- paradigm: Adjective
+ paradigm: Noun-num-consonant
  trans_ru: общее
 
 -lexeme
@@ -70774,3 +70788,8319 @@
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: остаток полена, колотого на лучину
+
+-lexeme
+ lex: аддзанін
+ stem: аддзанін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: видное место
+
+-lexeme
+ lex: азьгум
+ stem: азьгум.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: борщевик сибирский
+
+-lexeme
+ lex: алькӧсін
+ stem: алькӧсін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: пологое место
+
+-lexeme
+ lex: асним
+ stem: асним.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: имя собственное
+
+-lexeme
+ lex: багай
+ stem: бага.
+ gramm: N,anim,hum
+ paradigm: Noun-num-j
+ trans_ru: немой
+
+-lexeme
+ lex: байдӧглапа
+ stem: байдӧглапа.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: сабельник болотный
+
+-lexeme
+ lex: баяр
+ stem: баяр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гагара чернозобая
+
+-lexeme
+ lex: бикыв
+ stem: бикыв.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: щавель конский
+
+-lexeme
+ lex: вакуль
+ stem: вакул.
+ gramm: N,supernat
+ paradigm: Noun-num-soft
+ trans_ru: водяной
+
+-lexeme
+ lex: вачача
+ stem: вачача.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: кувшинка жёлтая
+
+-lexeme
+ lex: вензяна
+ stem: вензяна.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: что-либо спорное
+
+-lexeme
+ lex: водзпом
+ stem: водзпом.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: передняя, прихожая
+
+-lexeme
+ lex: войпу
+ stem: войпу.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: смолистая, сухостойная сосна
+
+-lexeme
+ lex: вӧйласянін
+ stem: вӧйласянін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: зыбкое место
+
+-lexeme
+ lex: вӧлӧсеч
+ stem: вӧлӧсеч.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: червячок
+
+-lexeme
+ lex: гаглист
+ stem: гаглист.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: подорожник
+
+-lexeme
+ lex: гараньга
+ stem: гараньга.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: корявое, суховатое дерево
+
+-lexeme
+ lex: гаръюр
+ stem: гаръюр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ожика волосистая
+
+-lexeme
+ lex: главнича
+ stem: главнича.
+ gramm: N,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: хорошая, завидная девушка
+
+-lexeme
+ lex: гӧгъярӧз
+ stem: гӧгъярӧз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: подмаренник настоящий
+
+-lexeme
+ lex: гӧгӧрвотӧмин
+ stem: гӧгӧрвотӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: непонятное место
+
+-lexeme
+ lex: гӧран-кӧдзанін
+ stem: гӧран-кӧдзанін.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пахотная, посевная площадь
+
+-lexeme
+ lex: гӧрдъюр
+ stem: гӧрдъюр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: клевер луговой
+
+-lexeme
+ lex: енкай
+ stem: енка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: жаворонок полевой
+
+-lexeme
+ lex: епӧтош
+ stem: епӧтош.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: белоус обыкновенный
+
+-lexeme
+ lex: ерсейвуж
+ stem: ерсейвуж.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вахта трёхлистная
+
+-lexeme
+ lex: жальӧ
+ stem: жальӧ.
+ gramm: N,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: милый, любимый
+
+-lexeme
+ lex: жужаль
+ stem: жужал.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: навозник обыкновенный
+
+-lexeme
+ lex: зулина
+ stem: зулина.
+ gramm: N,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: навязчивый человек
+
+-lexeme
+ lex: зынтурун
+ stem: зынтурун.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: багульник болотный
+
+-lexeme
+ lex: зэваин
+ stem: зэваин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: ягодное, грибное место
+
+-lexeme
+ lex: зӧридз
+ stem: зӧридз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: хвощ болотный
+
+-lexeme
+ lex: йӧзтӧмин
+ stem: йӧзтӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: безлюдное место
+
+-lexeme
+ lex: йӧрмӧмин
+ stem: йӧрмӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: место, где можно застрять
+
+-lexeme
+ lex: карешки
+ stem: карешки.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: молодой осётр
+
+-lexeme
+ lex: керч
+ stem: керч.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: багульник болотный
+
+-lexeme
+ lex: кивуз
+ stem: кивуз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жгучий, резкий ветер
+
+-lexeme
+ lex: конда
+ stem: конда.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: смолистая, сухостойная сосна
+
+-lexeme
+ lex: коньӧранӧй
+ stem: коньӧранӧ.
+ gramm: N,anim,hum
+ paradigm: Noun-num-j
+ trans_ru: бедняжка
+
+-lexeme
+ lex: куралӧм
+ stem: куралӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выгребание
+
+-lexeme
+ lex: кыдӧмин
+ stem: кыдӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: порванное место
+
+-lexeme
+ lex: кӧдзӧм
+ stem: кӧдзӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сев
+
+-lexeme
+ lex: кӧзюк
+ stem: кӧзюк.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: милый, милая
+
+-lexeme
+ lex: кӧинсэтӧр
+ stem: кӧинсэтӧр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жимолость лесная
+
+-lexeme
+ lex: кӧкакань
+ stem: кӧкакан.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: чемерица обыкновенная
+
+-lexeme
+ lex: кӧктоин
+ stem: кӧктоин.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: хвощ полевой
+
+-lexeme
+ lex: кӧлас
+ stem: кӧлас.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: низка
+
+-lexeme
+ lex: кӧчсю
+ stem: кӧчсю.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: льнянка обыкновенная
+
+-lexeme
+ lex: ласта
+ stem: ласта.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: равнинный, низинный луг
+
+-lexeme
+ lex: лукавӧй
+ stem: лукавӧ.
+ gramm: N,rus,supernat
+ paradigm: Noun-num-j
+ trans_ru: лукавый, бес
+
+-lexeme
+ lex: лыско
+ stem: лыско.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: Лыско, Лысанка (кличка собаки и лошади с белой полосой или с лысиной на лбу)
+
+-lexeme
+ lex: мада
+ stem: мада.
+ gramm: N,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: милый
+
+-lexeme
+ lex: мора
+ stem: мора.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: весенний, незатвердевший рог оленя
+
+-lexeme
+ lex: муспоз
+ stem: муспоз.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: любимый
+
+-lexeme
+ lex: мустӧмин
+ stem: мустӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: неприятное место
+
+-lexeme
+ lex: мусук
+ stem: мусук.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: милый, милая
+
+-lexeme
+ lex: мылӧдвуж
+ stem: мылӧдвуж.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: герань луговая
+
+-lexeme
+ lex: мӧсгоб
+ stem: мӧсгоб.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: подберёзовик болотный
+
+-lexeme
+ lex: нок
+ stem: нок.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сбитое, спутанное
+
+-lexeme
+ lex: нырладор
+ stem: нырладор.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: передняя, носовая часть
+
+-lexeme
+ lex: ньывкӧсін
+ stem: ньывкӧсін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: пологое место
+
+-lexeme
+ lex: нюрколь
+ stem: нюркол.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: чертополох курчавый
+
+-lexeme
+ lex: нюрльӧм
+ stem: нюрльӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: крушина ольховидная
+
+-lexeme
+ lex: нӧрича
+ stem: нӧрича.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: клевер тёмнокаштановый
+
+-lexeme
+ lex: овтӧмин
+ stem: овтӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: дикое место
+
+-lexeme
+ lex: олькӧс
+ stem: олькӧс.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мелкий, сырой лес
+
+-lexeme
+ lex: ошгум
+ stem: ошгум.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: реброплодник уральский
+
+-lexeme
+ lex: ошльӧм
+ stem: ошльӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: крушина ольховидная
+
+-lexeme
+ lex: ошсэтӧр
+ stem: ошсэтӧр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бузина красная
+
+-lexeme
+ lex: пивнӧй
+ stem: пивнӧ.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: пивная
+
+-lexeme
+ lex: пирожнӧй
+ stem: пирожнӧ.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: пирожное
+
+-lexeme
+ lex: повзьӧдчысь
+ stem: повзьӧдчыс.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: пугало
+
+-lexeme
+ lex: полӧга
+ stem: полӧга.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: что-либо страшное
+
+-lexeme
+ lex: понбаз
+ stem: понбаз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вороника чёрная
+
+-lexeme
+ lex: понжыннян
+ stem: понжыннян.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: колокольчик круглолистный
+
+-lexeme
+ lex: понкӧлӧкӧл
+ stem: понкӧлӧкӧл.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: колокольчик раскидистый
+
+-lexeme
+ lex: понпув
+ stem: понпув.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: толокнянка обыкновенная
+
+-lexeme
+ lex: понпӧлян
+ stem: понпӧлян.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вех ядовитый
+
+-lexeme
+ lex: понсэтӧр
+ stem: понсэтӧр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жимолость лесная
+
+-lexeme
+ lex: понтаг
+ stem: понтаг.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: княжик сибирский
+
+-lexeme
+ lex: поншомкор
+ stem: поншомкор.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: щавель конский
+
+-lexeme
+ lex: понятӧй
+ stem: понятӧ.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-j
+ trans_ru: понятой
+
+-lexeme
+ lex: порськуз
+ stem: порськуз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: хвощ болотный
+
+-lexeme
+ lex: пражинеч
+ stem: пражинеч.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: жаркое
+
+-lexeme
+ lex: пукалысь
+ stem: пукалыс.
+ gramm: N,anim,hum
+ paradigm: Noun-num-soft
+ trans_ru: заключённый
+
+-lexeme
+ lex: пуртӧса
+ stem: пуртӧса.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: бобовые
+
+-lexeme
+ lex: пыран-петанін
+ stem: пыран-петанін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: проходная
+
+-lexeme
+ lex: пырей
+ stem: пыре.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: пырей ползучий
+
+-lexeme
+ lex: пӧгиб
+ stem: пӧгиб.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: безвыходное положение
+
+-lexeme
+ lex: пӧлӧзнича
+ stem: пӧлӧзнича.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: василёк синий
+
+-lexeme
+ lex: ракакуз
+ stem: ракакуз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: хвощ болотный
+
+-lexeme
+ lex: рыжин
+ stem: рыжин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: слабое место
+
+-lexeme
+ lex: рӧз
+ stem: рӧз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: подмаренник северный
+
+-lexeme
+ lex: сандальник
+ stem: сандальник.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: холщовый, крашеный сарафан
+
+-lexeme
+ lex: сарӧгӧсин
+ stem: сарӧгӧсин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: шероховатое место
+
+-lexeme
+ lex: сатӧкин
+ stem: сатӧкин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: чувствительное место
+
+-lexeme
+ lex: сизьюр
+ stem: сизьюр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: клевер луговой
+
+-lexeme
+ lex: сисьйӧг
+ stem: сисьйӧг.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: дорогой, голубчик
+
+-lexeme
+ lex: ситурун
+ stem: ситурун.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мятлик луговой, метлица
+
+-lexeme
+ lex: слагаемӧй
+ stem: слагаемӧ.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: слагаемое
+
+-lexeme
+ lex: сойим
+ stem: сойим.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: труднопроходимый ельник
+
+-lexeme
+ lex: сортируйтчанін
+ stem: сортируйтчанін.
+ gramm: N,nmlz_in,rus
+ paradigm: Noun-num-consonant
+ trans_ru: сортировочная
+
+-lexeme
+ lex: толич
+ stem: толич.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пырей ползучий
+
+-lexeme
+ lex: турунчӧж
+ stem: турунчӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: чернеть хохлатая
+
+-lexeme
+ lex: тшелля
+ stem: тшелля.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: крутой, высокий берег
+
+-lexeme
+ lex: тӧвбергач
+ stem: тӧвбергач.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: канюк малый, сарыч
+
+-lexeme
+ lex: тӧзь
+ stem: тӧз.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: лабазник вязколистный
+
+-lexeme
+ lex: укладалӧм
+ stem: укладалӧм.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: наварка стали
+
+-lexeme
+ lex: урбӧж
+ stem: урбӧж.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: хвощ луговой
+
+-lexeme
+ lex: усян
+ stem: усян.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: что-либо падающее
+
+-lexeme
+ lex: усяна
+ stem: усяна.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: что-либо падающее
+
+-lexeme
+ lex: чадаин
+ stem: чадаин.
+ gramm: N,nmlz_in,rus
+ paradigm: Noun-num-consonant
+ trans_ru: чадное место
+
+-lexeme
+ lex: чышкӧдпу
+ stem: чышкӧдпу.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: протирочный материал
+
+-lexeme
+ lex: шанин
+ stem: шанин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: тихое, спокойное место
+
+-lexeme
+ lex: шашара
+ stem: шашара.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: что-либо торчащее, колючее
+
+-lexeme
+ lex: шляпник
+ stem: шляпник.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: высококачественный лес с шапковидными кронами
+
+-lexeme
+ lex: шоль
+ stem: шол.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: талый, зернистый снег
+
+-lexeme
+ lex: шыльыдін
+ stem: шыльыдін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: ровное, гладкое место
+
+-lexeme
+ lex: ывлаладор
+ stem: ывлаладор.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: внешняя сторона
+
+-lexeme
+ lex: эмбуртӧм
+ stem: эмбуртӧм.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: неимущий, бедняк
+
+-lexeme
+ lex: юждӧмин
+ stem: юждӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: утоптанное место
+
+-lexeme
+ lex: юрсипыста
+ stem: юрсипыста.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: синица хохлатая
+
+-lexeme
+ lex: ёдіюр
+ stem: ёдіюр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: овсянка камышовая
+
+-lexeme
+ lex: ӧзимӧй
+ stem: ӧзимӧ.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: озимый
+
+-lexeme
+ lex: аклы
+ stem: аклы.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: морянка
+
+-lexeme
+ lex: акӧ
+ stem: акӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: стрекоза
+
+-lexeme
+ lex: аллык
+ stem: аллык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: морянка
+
+-lexeme
+ lex: андрака
+ stem: андрака.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ондатра
+
+-lexeme
+ lex: анемакӧ
+ stem: анемакӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: стрекоза
+
+-lexeme
+ lex: анича
+ stem: анича.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: норка европейская
+
+-lexeme
+ lex: анчапи
+ stem: анчапи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: детёныш норки
+
+-lexeme
+ lex: аньча
+ stem: аньча.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: норка европейская
+
+-lexeme
+ lex: аньӧмакӧ
+ stem: аньӧмакӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: стрекоза
+
+-lexeme
+ lex: арга
+ stem: арга.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: малёк
+
+-lexeme
+ lex: аргыж
+ stem: аргыж.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стадо
+
+-lexeme
+ lex: бабе
+ stem: бабе.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: вандыш
+
+-lexeme
+ lex: бабиль
+ stem: бабил.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: божья коровка
+
+-lexeme
+ lex: бабича
+ stem: бабича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: наседка
+
+-lexeme
+ lex: бадзан
+ stem: бадзан.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: клоака
+
+-lexeme
+ lex: бадькор
+ stem: бадькор.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: уклейка
+
+-lexeme
+ lex: бадькоркельчи
+ stem: бадькоркельчи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: уклейка
+
+-lexeme
+ lex: бадьӧг
+ stem: бадьӧг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: куропатка
+
+-lexeme
+ lex: бажинка
+ stem: бажинка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: важенка, оленуха
+
+-lexeme
+ lex: байддормык
+ stem: байддормык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: уклейка
+
+-lexeme
+ lex: байдкор
+ stem: байдкор.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: уклейка
+
+-lexeme
+ lex: байдкормык
+ stem: байдкормык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: уклейка
+
+-lexeme
+ lex: байдкорчери
+ stem: байдкорчери.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: уклейка
+
+-lexeme
+ lex: байдук
+ stem: байдук.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: куропатка
+
+-lexeme
+ lex: байдык
+ stem: байдык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: куропатка
+
+-lexeme
+ lex: байдькормык
+ stem: байдькормык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: уклейка
+
+-lexeme
+ lex: байдэг
+ stem: байдэг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: куропатка
+
+-lexeme
+ lex: байдӧдз
+ stem: байдӧдз.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: куропатка
+
+-lexeme
+ lex: балей
+ stem: бале.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: овца
+
+-lexeme
+ lex: бали
+ stem: бали.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ягнёнок
+
+-lexeme
+ lex: балька
+ stem: балька.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ягнёнок
+
+-lexeme
+ lex: баляалӧм
+ stem: баляалӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ягнение
+
+-lexeme
+ lex: барсук
+ stem: барсук.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: барсук
+
+-lexeme
+ lex: бебул
+ stem: бебул.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бабочка
+
+-lexeme
+ lex: бегыль
+ stem: бегыл.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: червь
+
+-lexeme
+ lex: белыш
+ stem: белыш.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: яичный белок
+
+-lexeme
+ lex: белэбок
+ stem: белэбок.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: морская чернеть
+
+-lexeme
+ lex: бия-борда
+ stem: бия-борда.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: змея
+
+-lexeme
+ lex: биявича
+ stem: биявича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пиявка
+
+-lexeme
+ lex: близ
+ stem: близ.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глист
+
+-lexeme
+ lex: бобе
+ stem: бобе.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабочка
+
+-lexeme
+ lex: бобр
+ stem: бобр.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бобр речной
+
+-lexeme
+ lex: бобул
+ stem: бобул.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бабочка
+
+-lexeme
+ lex: бобуу
+ stem: бобуу.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабочка
+
+-lexeme
+ lex: бобыл
+ stem: бобыл.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бабочка
+
+-lexeme
+ lex: больган
+ stem: больган.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: плавательный пузырь
+
+-lexeme
+ lex: больдан
+ stem: больдан.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: плавательный пузырь
+
+-lexeme
+ lex: бообе
+ stem: бообе.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабочка, божья коровка
+
+-lexeme
+ lex: боян
+ stem: боян.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: плавательный пузырь
+
+-lexeme
+ lex: брыдзан
+ stem: брыдзан.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: клоака
+
+-lexeme
+ lex: брыскан
+ stem: брыскан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: кузнечик певчий
+
+-lexeme
+ lex: бугу
+ stem: бугу.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: филин
+
+-lexeme
+ lex: буду
+ stem: буду.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: филин
+
+-lexeme
+ lex: буккуй
+ stem: букку.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: филин
+
+-lexeme
+ lex: буку
+ stem: буку.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: филин
+
+-lexeme
+ lex: бурдысь
+ stem: бурдыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: крот обыкновенный
+
+-lexeme
+ lex: бурей
+ stem: буре.
+ gramm: N,body
+ paradigm: Noun-num-j
+ trans_ru: грива
+
+-lexeme
+ lex: бурись
+ stem: бурис.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: грива
+
+-lexeme
+ lex: бурысь
+ stem: бурыс.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: грива
+
+-lexeme
+ lex: бухуй
+ stem: буху.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: филин
+
+-lexeme
+ lex: быд
+ stem: быд.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: руно
+
+-lexeme
+ lex: бызэй
+ stem: бызэ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: бык
+
+-lexeme
+ lex: быкарин
+ stem: быкарин.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бычок
+
+-lexeme
+ lex: быч
+ stem: быч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бык
+
+-lexeme
+ lex: быче
+ stem: быче.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: бык
+
+-lexeme
+ lex: бычей
+ stem: быче.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: бык
+
+-lexeme
+ lex: бычко
+ stem: бычко.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: бык
+
+-lexeme
+ lex: бычкопи
+ stem: бычкопи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: бычок
+
+-lexeme
+ lex: бычпи
+ stem: бычпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: бычок
+
+-lexeme
+ lex: бычӧпи
+ stem: бычӧпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: бычок
+
+-lexeme
+ lex: бӧжа
+ stem: бӧжа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: вадоркай
+ stem: вадорка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: кулик
+
+-lexeme
+ lex: ваеж
+ stem: ваеж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: верховка, овсянка
+
+-lexeme
+ lex: важынка
+ stem: важынка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: важенка
+
+-lexeme
+ lex: ваньчо
+ stem: ваньчо.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мошкара
+
+-lexeme
+ lex: вариш
+ stem: вариш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ястреб, коршун
+
+-lexeme
+ lex: варнӧс
+ stem: варнӧс.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: годовалая овечка
+
+-lexeme
+ lex: варс
+ stem: варс.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гной из носа лошади
+
+-lexeme
+ lex: василёк
+ stem: василёк.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: божья коровка
+
+-lexeme
+ lex: ватш
+ stem: ватш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель
+
+-lexeme
+ lex: ватшлябӧр
+ stem: ватшлябӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: перепел
+
+-lexeme
+ lex: ватькан
+ stem: ватькан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель
+
+-lexeme
+ lex: вашлябӧр
+ stem: вашлябӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: перепел
+
+-lexeme
+ lex: ваэж
+ stem: ваэж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: верховка, овсянка
+
+-lexeme
+ lex: вегиль
+ stem: вегил.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: червь, пресмыкающееся
+
+-lexeme
+ lex: вежем
+ stem: вежем.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: векли
+ stem: векли.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: черныш
+
+-lexeme
+ lex: ветелльӧ
+ stem: ветелльӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: черныш
+
+-lexeme
+ lex: ветли
+ stem: ветли.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: черныш
+
+-lexeme
+ lex: ветоли
+ stem: ветоли.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: черныш
+
+-lexeme
+ lex: ветоль
+ stem: ветол.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: черныш
+
+-lexeme
+ lex: ветяль
+ stem: ветял.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: черныш
+
+-lexeme
+ lex: вечик
+ stem: вечик.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: плечо
+
+-lexeme
+ lex: виер
+ stem: виер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: молодой, неперезимовавший глухарь
+
+-lexeme
+ lex: виньт-виньт
+ stem: виньт-виньт.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: черныш
+
+-lexeme
+ lex: вителегу
+ stem: вителегу.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: черныш
+
+-lexeme
+ lex: витьветель
+ stem: витьветел.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: черныш
+
+-lexeme
+ lex: водзор
+ stem: водзор.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: клык
+
+-lexeme
+ lex: войжур
+ stem: войжур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: летучая мышь
+
+-lexeme
+ lex: войжыр
+ stem: войжыр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: летучая мышь
+
+-lexeme
+ lex: войкай
+ stem: войка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: зяблик
+
+-lexeme
+ lex: войсин
+ stem: войсин.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: бабка
+
+-lexeme
+ lex: войтовтють
+ stem: войтовтют.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: зяблик
+
+-lexeme
+ lex: войтӧвбӧбув
+ stem: войтӧвбӧбув.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: совка
+
+-lexeme
+ lex: войтӧвкай
+ stem: войтӧвка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: зяблик
+
+-lexeme
+ lex: войтӧвном
+ stem: войтӧвном.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: малярийный комар
+
+-lexeme
+ lex: войтӧлкай
+ stem: войтӧлка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: зяблик
+
+-lexeme
+ lex: войтӧӧджидж
+ stem: войтӧӧджидж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: зяблик
+
+-lexeme
+ lex: воль
+ stem: вол.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: шкура оленя, лося
+
+-lexeme
+ lex: восег
+ stem: восег.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: перелётная птица
+
+-lexeme
+ lex: вострохвос
+ stem: вострохвос.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: шилохвость
+
+-lexeme
+ lex: восьӧг
+ stem: восьӧг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: перелётная птица
+
+-lexeme
+ lex: вуджем
+ stem: вуджем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: миграция, перелёт
+
+-lexeme
+ lex: вуджӧм
+ stem: вуджӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: миграция, перелёт
+
+-lexeme
+ lex: вурдісь
+ stem: вурдіс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: крот обыкновенный
+
+-lexeme
+ lex: вурин
+ stem: вурин.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть, руно
+
+-lexeme
+ lex: вурун
+ stem: вурун.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть, руно
+
+-lexeme
+ lex: вурундук
+ stem: вурундук.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бурундук
+
+-lexeme
+ lex: вурын
+ stem: вурын.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть, руно
+
+-lexeme
+ lex: выдра
+ stem: выдра.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: выдра
+
+-lexeme
+ lex: выльйӧв
+ stem: выльйӧв.|выльйӧл.
+ gramm: N
+ paradigm: Noun-num-v_l
+ trans_ru: молозиво
+
+-lexeme
+ lex: вӧвси
+ stem: вӧвси.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: волосатик
+
+-lexeme
+ lex: вӧдзир
+ stem: вӧдзир.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: клык
+
+-lexeme
+ lex: вӧзир
+ stem: вӧзир.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: клык
+
+-lexeme
+ lex: вӧл
+ stem: вӧл.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: киль, грудная кость птицы
+
+-lexeme
+ lex: вӧлси
+ stem: вӧлси.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: волосатик
+
+-lexeme
+ lex: вӧлэсеч
+ stem: вӧлэсеч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: волосатик
+
+-lexeme
+ lex: вӧлӧсеть
+ stem: вӧлӧсет.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: волосатик
+
+-lexeme
+ lex: вӧралэм
+ stem: вӧралэм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: охота, промысел
+
+-lexeme
+ lex: вӧралӧм
+ stem: вӧралӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: охота, промысел
+
+-lexeme
+ lex: вӧрасем
+ stem: вӧрасем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: охота, промысел
+
+-lexeme
+ lex: вӧрканьпи
+ stem: вӧрканьпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: рысёнок
+
+-lexeme
+ lex: вӧркась
+ stem: вӧркас.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: рысь
+
+-lexeme
+ lex: вӧрмеж
+ stem: вӧрмеж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бекас
+
+-lexeme
+ lex: вӧӧ
+ stem: вӧӧ.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: киль, грудная кость птицы
+
+-lexeme
+ lex: гавка
+ stem: гавка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: галка
+
+-lexeme
+ lex: гагара
+ stem: гагара.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: гагара
+
+-lexeme
+ lex: гагкырсь
+ stem: гагкырс.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: раковина, ракушка
+
+-lexeme
+ lex: гайд
+ stem: гайд.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: зоб
+
+-lexeme
+ lex: гайдь
+ stem: гайд.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: зоб
+
+-lexeme
+ lex: галка
+ stem: галка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: галка
+
+-lexeme
+ lex: гат
+ stem: гат.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мошкара
+
+-lexeme
+ lex: гертшкан
+ stem: гертшкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель
+
+-lexeme
+ lex: гетшкан
+ stem: гетшкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель
+
+-lexeme
+ lex: ги-гаг
+ stem: ги-гаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: насекомое
+
+-lexeme
+ lex: гигня
+ stem: гигня.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: конюшня
+
+-lexeme
+ lex: гидьня
+ stem: гидьня.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: конюшня
+
+-lexeme
+ lex: глис
+ stem: глис.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: глист
+
+-lexeme
+ lex: глӧкӧвина
+ stem: глӧкӧвина.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: преднерестовая сёмга
+
+-lexeme
+ lex: гогара
+ stem: гогара.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: гагара
+
+-lexeme
+ lex: гоглач
+ stem: гоглач.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: щур
+
+-lexeme
+ lex: гогора
+ stem: гогора.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: гагара
+
+-lexeme
+ lex: голов
+ stem: голов.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: голавль
+
+-lexeme
+ lex: горда
+ stem: горда.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: кряква
+
+-lexeme
+ lex: гордапи
+ stem: гордапи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец кряквы
+
+-lexeme
+ lex: гос
+ stem: гос.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жир
+
+-lexeme
+ lex: гретшкан
+ stem: гретшкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель
+
+-lexeme
+ lex: гречкан
+ stem: гречкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: утка
+
+-lexeme
+ lex: гречкӧм
+ stem: гречкӧм.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: кряканье
+
+-lexeme
+ lex: грива
+ stem: грива.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: грива
+
+-lexeme
+ lex: гуджгысь
+ stem: гуджгыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: грызун
+
+-lexeme
+ lex: гуж
+ stem: гуж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: преднерестовая сёмга
+
+-lexeme
+ lex: гузей
+ stem: гузе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: гуменик
+ stem: гуменик.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: гуменник
+
+-lexeme
+ lex: гурдысь
+ stem: гурдыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: крот обыкновенный
+
+-lexeme
+ lex: гурдісь
+ stem: гурдіс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: крот обыкновенный
+
+-lexeme
+ lex: гурт
+ stem: гурт.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: стая, косяк
+
+-lexeme
+ lex: гырчкан
+ stem: гырчкан.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: хрящ, скелет рыб
+
+-lexeme
+ lex: гӧгарин
+ stem: гӧгарин.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: гагара
+
+-lexeme
+ lex: гӧгера
+ stem: гӧгера.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: гагара
+
+-lexeme
+ lex: гӧгиньӧ
+ stem: гӧгиньӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: божья коровка
+
+-lexeme
+ lex: гӧн
+ stem: гӧн.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть, пух
+
+-lexeme
+ lex: гӧн-пук
+ stem: гӧн-пук.
+ gramm: N,body,rus
+ paradigm: Noun-num-consonant
+ trans_ru: оперение
+
+-lexeme
+ lex: гӧнтор
+ stem: гӧнтор.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: пушинка
+
+-lexeme
+ lex: деб
+ stem: деб.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мошка
+
+-lexeme
+ lex: дерчкан
+ stem: дерчкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель
+
+-lexeme
+ lex: дживгӧм
+ stem: дживгӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: щебет
+
+-lexeme
+ lex: джидж
+ stem: джидж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: птичка
+
+-lexeme
+ lex: джыджик
+ stem: джыджик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: береговая ласточка
+
+-lexeme
+ lex: джыджы
+ stem: джыджы.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: береговая ласточка
+
+-lexeme
+ lex: дзит
+ stem: дзит.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: синица большая
+
+-lexeme
+ lex: дзиткай
+ stem: дзитка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: синица большая
+
+-lexeme
+ lex: дзитук
+ stem: дзитук.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: синица большая
+
+-lexeme
+ lex: дзодзег
+ stem: дзодзег.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гусь серый
+
+-lexeme
+ lex: дзодзыв
+ stem: дзодзыв.|дзодзыл.
+ gramm: N,anim
+ paradigm: Noun-num-v_l
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: дзодзӧг-утка
+ stem: дзодзӧг-утка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: утиные
+
+-lexeme
+ lex: дзодзӧг-юсь
+ stem: дзодзӧг-юс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: гусиные
+
+-lexeme
+ lex: дзольна
+ stem: дзольна.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: снегирь
+
+-lexeme
+ lex: дзорка
+ stem: дзорка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: дзорка
+
+-lexeme
+ lex: дзотӧпи
+ stem: дзотӧпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: поросёнок
+
+-lexeme
+ lex: дзудупи
+ stem: дзудупи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: поросёнок
+
+-lexeme
+ lex: дзулей
+ stem: дзуле.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: некастрированный баран
+
+-lexeme
+ lex: дзульӧй
+ stem: дзульӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: некастрированный баран
+
+-lexeme
+ lex: дзуля
+ stem: дзуля.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: проглоченная рыба
+
+-lexeme
+ lex: дзутӧ
+ stem: дзутӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: поросёнок
+
+-lexeme
+ lex: дзутӧпи
+ stem: дзутӧпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: поросёнок
+
+-lexeme
+ lex: дзушка
+ stem: дзушка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: поросёнок
+
+-lexeme
+ lex: дзӧдука
+ stem: дзӧдука.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: поросёнок
+
+-lexeme
+ lex: дзӧдӧпи
+ stem: дзӧдӧпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: поросёнок
+
+-lexeme
+ lex: дозмер
+ stem: дозмер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глухарь
+
+-lexeme
+ lex: дозмор
+ stem: дозмор.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глухарь
+
+-lexeme
+ lex: дозмыр
+ stem: дозмыр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глухарь
+
+-lexeme
+ lex: дозмӧрпи
+ stem: дозмӧрпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец глухаря
+
+-lexeme
+ lex: дударка
+ stem: дударка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: головастик
+
+-lexeme
+ lex: дульым
+ stem: дульым.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: икра, нерест
+
+-lexeme
+ lex: дульӧм
+ stem: дульӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: икра, нерест
+
+-lexeme
+ lex: дулюм
+ stem: дулюм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: икра, нерест
+
+-lexeme
+ lex: дулян
+ stem: дулян.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: пескарь
+
+-lexeme
+ lex: дунь
+ stem: дун.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: дут
+ stem: дут.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: овод
+
+-lexeme
+ lex: дыдык
+ stem: дыдык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: голубь сизый
+
+-lexeme
+ lex: діринді
+ stem: діринді.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: стрекоза
+
+-lexeme
+ lex: дӧлгунеч
+ stem: дӧлгунеч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: толкунчик
+
+-lexeme
+ lex: дӧр
+ stem: дӧр.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: подкожный жир
+
+-lexeme
+ lex: еджыд
+ stem: еджыд.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: белок
+
+-lexeme
+ lex: енбаль
+ stem: енбал.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: божья коровка
+
+-lexeme
+ lex: енбобув
+ stem: енбобув.|енбобул.
+ gramm: N,anim
+ paradigm: Noun-num-v_l
+ trans_ru: бабочка
+
+-lexeme
+ lex: енкукей
+ stem: енкуке.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: божья коровка
+
+-lexeme
+ lex: енкукулей
+ stem: енкукуле.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: божья коровка
+
+-lexeme
+ lex: енлягей
+ stem: енляге.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: головастик
+
+-lexeme
+ lex: енчиби
+ stem: енчиби.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: кузнечик певчий
+
+-lexeme
+ lex: енчипан
+ stem: енчипан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бабочка
+
+-lexeme
+ lex: ехинокок
+ stem: ехинокок.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: эхинококк
+
+-lexeme
+ lex: жаба
+ stem: жаба.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: жабры
+
+-lexeme
+ lex: жабра
+ stem: жабра.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: жабры
+
+-lexeme
+ lex: жагла
+ stem: жагла.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: жабры
+
+-lexeme
+ lex: жвак
+ stem: жвак.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: жвачка
+
+-lexeme
+ lex: жеребеч
+ stem: жеребеч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: жеребец
+
+-lexeme
+ lex: животнӧй
+ stem: животнӧ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: животное
+
+-lexeme
+ lex: жовна
+ stem: жовна.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: желна, или чёрный дятел
+
+-lexeme
+ lex: жойна
+ stem: жойна.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: снегирь
+
+-lexeme
+ lex: жоньпи
+ stem: жоньпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец снегиря
+
+-lexeme
+ lex: жуж
+ stem: жуж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: жук
+
+-lexeme
+ lex: жужӧль
+ stem: жужӧл.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: щелкун
+
+-lexeme
+ lex: жуй
+ stem: жу.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: мелкая щука, щурёнок
+
+-lexeme
+ lex: жунь
+ stem: жун.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: мелкая щука, щурёнок
+
+-lexeme
+ lex: жыган
+ stem: жыган.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая рыба
+
+-lexeme
+ lex: жыръя-быръя
+ stem: жыръя-быръя.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: жӧлна
+ stem: жӧлна.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: желна, или чёрный дятел
+
+-lexeme
+ lex: зак
+ stem: зак.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: стрекоза
+
+-lexeme
+ lex: замӧр
+ stem: замӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: запал
+
+-lexeme
+ lex: зарниборд
+ stem: зарниборд.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: стрекоза
+
+-lexeme
+ lex: зельдь
+ stem: зельд.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: беломорская ряпушка
+
+-lexeme
+ lex: зерня
+ stem: зерня.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: турухтан
+
+-lexeme
+ lex: зидат
+ stem: зидат.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: чирок-трескунок
+
+-lexeme
+ lex: зымей
+ stem: зыме.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: землеройка
+
+-lexeme
+ lex: зьвер
+ stem: зьвер.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: волк
+
+-lexeme
+ lex: зьверна
+ stem: зьверна.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: дичь
+
+-lexeme
+ lex: зэрна
+ stem: зэрна.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: турухтан
+
+-lexeme
+ lex: зябра
+ stem: зябра.
+ gramm: N,rus,body
+ paradigm: Noun-num-vowel
+ trans_ru: жабры
+
+-lexeme
+ lex: зільӧ
+ stem: зільӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бык-производитель
+
+-lexeme
+ lex: зілюн
+ stem: зілюн.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: баран-производитель
+
+-lexeme
+ lex: зімшыр
+ stem: зімшыр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: землеройка
+
+-lexeme
+ lex: зіяс
+ stem: зіяс.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: жалящие перепончатокрылые
+
+-lexeme
+ lex: зӧмчер
+ stem: зӧмчер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: зӧризна
+ stem: зӧризна.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: обыкновенная овсянка
+
+-lexeme
+ lex: зӧрна
+ stem: зӧрна.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: турухтан
+
+-lexeme
+ lex: идус
+ stem: идус.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: помесь куницы и соболя
+
+-lexeme
+ lex: инь
+ stem: ин.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: самка
+
+-lexeme
+ lex: исай
+ stem: иса.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: подъязок
+
+-lexeme
+ lex: исак
+ stem: исак.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: стрекоза
+
+-lexeme
+ lex: истан
+ stem: истан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: перевозчик (птица)
+
+-lexeme
+ lex: истант
+ stem: истант.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: перевозчик (птица)
+
+-lexeme
+ lex: истань
+ stem: истан.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: перевозчик (птица)
+
+-lexeme
+ lex: истіринді
+ stem: истіринді.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: стрекоза
+
+-lexeme
+ lex: йывмем
+ stem: йывмем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: размножение
+
+-lexeme
+ lex: йывмӧм
+ stem: йывмӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вырождение
+
+-lexeme
+ lex: йӧгас
+ stem: йӧгас.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: ядро в вымени нетели перед отёлом
+
+-lexeme
+ lex: йӧла
+ stem: йӧла.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: улитка
+
+-lexeme
+ lex: йӧла-вӧла
+ stem: йӧла-вӧла.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: улитка
+
+-lexeme
+ lex: йӧла-йӧла
+ stem: йӧла-йӧла.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: улитка
+
+-lexeme
+ lex: йӧлва
+ stem: йӧлва.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: сыворотка
+
+-lexeme
+ lex: йӧрш-ёкыш
+ stem: йӧрш-ёкыш.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: окунёвые
+
+-lexeme
+ lex: йӧршпи
+ stem: йӧршпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: мелкий ёрш
+
+-lexeme
+ lex: йӧӧва
+ stem: йӧӧва.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: сыворотка
+
+-lexeme
+ lex: кавкан
+ stem: кавкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: галка
+
+-lexeme
+ lex: кагей
+ stem: каге.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: птица, дичь
+
+-lexeme
+ lex: кагӧй
+ stem: кагӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: птица, дичь
+
+-lexeme
+ lex: кайко
+ stem: кайко.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: птичка
+
+-lexeme
+ lex: калезур
+ stem: калезур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: кальзы
+ stem: кальзы.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: клёст
+
+-lexeme
+ lex: кальзі
+ stem: кальзі.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: клёст
+
+-lexeme
+ lex: кальля
+ stem: кальля.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: чайка сизая
+
+-lexeme
+ lex: кальсыпи
+ stem: кальсыпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец клеста
+
+-lexeme
+ lex: кальсі
+ stem: кальсі.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: клёст
+
+-lexeme
+ lex: калюга
+ stem: калюга.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: навозник обыкновенный
+
+-lexeme
+ lex: каляпи
+ stem: каляпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец чайки
+
+-lexeme
+ lex: кам
+ stem: кам.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: токовище
+
+-lexeme
+ lex: канасем
+ stem: канасем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: течка белки
+
+-lexeme
+ lex: канты
+ stem: канты.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: шерсть овцы второй стрижки
+
+-lexeme
+ lex: канті
+ stem: канті.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: шерсть овцы второй стрижки
+
+-lexeme
+ lex: каньнигӧн
+ stem: каньнигӧн.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть овцы второй стрижки
+
+-lexeme
+ lex: канэвей
+ stem: канэве.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: сапсан, сокол
+
+-lexeme
+ lex: канэй
+ stem: канэ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: мелкая щука, щурёнок
+
+-lexeme
+ lex: карат
+ stem: карат.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: карась
+
+-lexeme
+ lex: карп
+ stem: карп.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: карп
+
+-lexeme
+ lex: каръюз
+ stem: каръюз.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: хариус
+
+-lexeme
+ lex: каръюс
+ stem: каръюс.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: хариус
+
+-lexeme
+ lex: касьпи
+ stem: касьпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: котёнок
+
+-lexeme
+ lex: катшапи
+ stem: катшапи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец сороки
+
+-lexeme
+ lex: катшысок
+ stem: катшысок.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: галстучник
+
+-lexeme
+ lex: квайтквачкан
+ stem: квайтквачкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель, перепел
+
+-lexeme
+ lex: кваркан
+ stem: кваркан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ворона серая
+
+-lexeme
+ lex: кватьпалич
+ stem: кватьпалич.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дергач, коростель, перепел
+
+-lexeme
+ lex: кебес
+ stem: кебес.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: сибирский сиг
+
+-lexeme
+ lex: келеб
+ stem: келеб.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: косяк, стая
+
+-lexeme
+ lex: кельчи-мульчи
+ stem: кельчи-мульчи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мальки рыб
+
+-lexeme
+ lex: кермыш
+ stem: кермыш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: личинка майского хруща
+
+-lexeme
+ lex: кидус
+ stem: кидус.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: помесь куницы и соболя
+
+-lexeme
+ lex: кидэс
+ stem: кидэс.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: помесь куницы и соболя
+
+-lexeme
+ lex: кики
+ stem: кики.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабочка
+
+-lexeme
+ lex: кильмӧм
+ stem: кильмӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: течка
+
+-lexeme
+ lex: кирме-лёле
+ stem: кирме-лёле.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: спиральная раковина
+
+-lexeme
+ lex: китшсьӧм
+ stem: китшсьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стрёкот
+
+-lexeme
+ lex: кича
+ stem: кича.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: птица
+
+-lexeme
+ lex: клишпи
+ stem: клишпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: подлещик
+
+-lexeme
+ lex: клопкан
+ stem: клопкан.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: плавательный пузырь
+
+-lexeme
+ lex: клотшкан
+ stem: клотшкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: жук
+
+-lexeme
+ lex: клывгӧм
+ stem: клывгӧм.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: курлыканье
+
+-lexeme
+ lex: клык
+ stem: клык.
+ gramm: N,body,rus
+ paradigm: Noun-num-consonant
+ trans_ru: клык
+
+-lexeme
+ lex: клювкйӧдлӧм
+ stem: клювкйӧдлӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: курлыканье
+
+-lexeme
+ lex: кляпа
+ stem: кляпа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: подлещик
+
+-lexeme
+ lex: ковпинь
+ stem: ковпин.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: клык
+
+-lexeme
+ lex: кодзей
+ stem: кодзе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: вол
+
+-lexeme
+ lex: кодзивкот
+ stem: кодзивкот.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муравей
+
+-lexeme
+ lex: кодзувток
+ stem: кодзувток.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муравей
+
+-lexeme
+ lex: кодзулкар
+ stem: кодзулкар.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муравейник
+
+-lexeme
+ lex: кодзулкот
+ stem: кодзулкот.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муравей
+
+-lexeme
+ lex: кодзулкоткар
+ stem: кодзулкоткар.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: муравейник
+
+-lexeme
+ lex: кодзуукот
+ stem: кодзуукот.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муравей
+
+-lexeme
+ lex: кодзыв
+ stem: кодзыв.|кодзыл.
+ gramm: N,anim
+ paradigm: Noun-num-v_l
+ trans_ru: муравей
+
+-lexeme
+ lex: кодзылкӧт
+ stem: кодзылкӧт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: муравейник
+
+-lexeme
+ lex: коза
+ stem: коза.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: коза
+
+-lexeme
+ lex: козапи
+ stem: козапи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: козлёнок
+
+-lexeme
+ lex: козёл
+ stem: козёл.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: козёл
+
+-lexeme
+ lex: койтанін
+ stem: койтанін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: токовище
+
+-lexeme
+ lex: койтас
+ stem: койтас.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: токовище
+
+-lexeme
+ lex: койтым
+ stem: койтым.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: токовище
+
+-lexeme
+ lex: койтӧм
+ stem: койтӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: токование
+
+-lexeme
+ lex: кокчальпа
+ stem: кокчальпа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабка
+
+-lexeme
+ lex: колпинь
+ stem: колпин.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: клык
+
+-lexeme
+ lex: кольтэй
+ stem: кольтэ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: жук, навозник обыкновенный
+
+-lexeme
+ lex: коне
+ stem: коне.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: новорождённый телёнок
+
+-lexeme
+ lex: копытка
+ stem: копытка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: копытница
+
+-lexeme
+ lex: корадойд
+ stem: корадойд.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: крестцовая кость птицы
+
+-lexeme
+ lex: корсисем
+ stem: корсисем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: течка
+
+-lexeme
+ lex: косуля
+ stem: косуля.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: косуля
+
+-lexeme
+ lex: косісь
+ stem: косіс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: серая утка
+
+-lexeme
+ lex: кот
+ stem: кот.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муравей, муравейник
+
+-lexeme
+ lex: коткодзув
+ stem: коткодзув.|коткодзул.
+ gramm: N,anim
+ paradigm: Noun-num-v_l
+ trans_ru: муравей
+
+-lexeme
+ lex: коткодзулкар
+ stem: коткодзулкар.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муравейник
+
+-lexeme
+ lex: котыр
+ stem: котыр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выводок, рой
+
+-lexeme
+ lex: коянін
+ stem: коянін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: токовище
+
+-lexeme
+ lex: кравкан
+ stem: кравкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ворона серая
+
+-lexeme
+ lex: кривксьӧм
+ stem: кривксьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: курлыканье
+
+-lexeme
+ lex: крокаль
+ stem: крокал.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: крохаль
+
+-lexeme
+ lex: крохаль
+ stem: крохал.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: крохаль
+
+-lexeme
+ lex: крутш
+ stem: крутш.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: крӧкаль
+ stem: крӧкал.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: крохаль
+
+-lexeme
+ lex: кузей
+ stem: кузе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: кузьбӧж
+ stem: кузьбӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: кузьбӧжа
+ stem: кузьбӧжа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: кузьгаг
+ stem: кузьгаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: кузьнеч
+ stem: кузьнеч.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: лисица
+
+-lexeme
+ lex: кузьюр
+ stem: кузьюр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая нельма
+
+-lexeme
+ lex: кузьӧй
+ stem: кузьӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: кукей
+ stem: куке.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: телёнок
+
+-lexeme
+ lex: кукпи
+ stem: кукпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: телёнок
+
+-lexeme
+ lex: кукуння
+ stem: кукуння.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: телёнок
+
+-lexeme
+ lex: кукунь
+ stem: кукун.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: телёнок
+
+-lexeme
+ lex: кукша
+ stem: кукша.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кукша, ронжа
+
+-lexeme
+ lex: кукшаньга
+ stem: кукшаньга.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кукша, ронжа
+
+-lexeme
+ lex: кукъясем
+ stem: кукъясем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: отёл
+
+-lexeme
+ lex: кукӧй
+ stem: кукӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: телёнок
+
+-lexeme
+ lex: кулем
+ stem: кулем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: нерест
+
+-lexeme
+ lex: куллик
+ stem: куллик.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: кулик
+
+-lexeme
+ lex: кульым
+ stem: кульым.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: нерест
+
+-lexeme
+ lex: кумжа
+ stem: кумжа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мелкая сёмга
+
+-lexeme
+ lex: кумжыч
+ stem: кумжыч.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая сёмга
+
+-lexeme
+ lex: кунджа
+ stem: кунджа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мелкая сёмга
+
+-lexeme
+ lex: кунжа
+ stem: кунжа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мелкая сёмга
+
+-lexeme
+ lex: кунича
+ stem: кунича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: куница лесная
+
+-lexeme
+ lex: куничапи
+ stem: куничапи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: детёныш куницы
+
+-lexeme
+ lex: кургӧм
+ stem: кургӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: воркованье
+
+-lexeme
+ lex: курег
+ stem: курег.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: курекнича
+ stem: курекнича.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: курятник
+
+-lexeme
+ lex: куретьнича
+ stem: куретьнича.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: курятник
+
+-lexeme
+ lex: куриньга
+ stem: куриньга.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: тушка промыслового зверя
+
+-lexeme
+ lex: курича
+ stem: курича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: курица
+
+-lexeme
+ lex: куричапи
+ stem: куричапи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: куропатка
+ stem: куропатка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: куропатка
+
+-lexeme
+ lex: куропать
+ stem: куропат.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: куропатка
+
+-lexeme
+ lex: курыньга
+ stem: курыньга.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: тушка промыслового зверя
+
+-lexeme
+ lex: курятьник
+ stem: курятьник.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: курятник
+
+-lexeme
+ lex: курӧпать
+ stem: курӧпат.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: куропатка
+
+-lexeme
+ lex: куте
+ stem: куте.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: щенок
+
+-lexeme
+ lex: кутлас
+ stem: кутлас.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: широконоска
+
+-lexeme
+ lex: кутшпи
+ stem: кутшпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: орлёнок
+
+-lexeme
+ lex: кутыртанін
+ stem: кутыртанін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: токовище
+
+-lexeme
+ lex: кутю
+ stem: кутю.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: щенок
+
+-lexeme
+ lex: кутюпи
+ stem: кутюпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щенок
+
+-lexeme
+ lex: кутяш
+ stem: кутяш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: щенок
+
+-lexeme
+ lex: кыбӧрда
+ stem: кыбӧрда.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: лось
+
+-lexeme
+ lex: кыдзкиль
+ stem: кыдзкил.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: чечётка
+
+-lexeme
+ lex: кыдзкилькай
+ stem: кыдзкилька.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: чечётка
+
+-lexeme
+ lex: кыйӧм-виӧм
+ stem: кыйӧм-виӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: промысел, добыча
+
+-lexeme
+ lex: кыркычан
+ stem: кыркычан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дятел
+
+-lexeme
+ lex: кырніш
+ stem: кырніш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ворон
+
+-lexeme
+ lex: кырсасьӧм
+ stem: кырсасьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: течка
+
+-lexeme
+ lex: кырӧвик
+ stem: кырӧвик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: хряк
+
+-lexeme
+ lex: кыско
+ stem: кыско.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: котёнок
+
+-lexeme
+ lex: кыстур
+ stem: кыстур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: кошка
+
+-lexeme
+ lex: кысэй
+ stem: кысэ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: кот, кошка
+
+-lexeme
+ lex: кысэйпи
+ stem: кысэйпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: котёнок
+
+-lexeme
+ lex: кысӧ
+ stem: кысӧ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кот, кошка
+
+-lexeme
+ lex: кысӧйпи
+ stem: кысӧйпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: котёнок
+
+-lexeme
+ lex: кычанпи
+ stem: кычанпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щенок
+
+-lexeme
+ lex: кычей
+ stem: кыче.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: щенок
+
+-lexeme
+ lex: кычи
+ stem: кычи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: собачка
+
+-lexeme
+ lex: кычипи
+ stem: кычипи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щенок
+
+-lexeme
+ lex: кычкиль
+ stem: кычкил.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: чечётка
+
+-lexeme
+ lex: кычӧ
+ stem: кычӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: щенок
+
+-lexeme
+ lex: кӧбылича
+ stem: кӧбылича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кобылка
+
+-lexeme
+ lex: кӧбылки
+ stem: кӧбылки.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кобылка
+
+-lexeme
+ lex: кӧзла
+ stem: кӧзла.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: коза
+
+-lexeme
+ lex: кӧзлука
+ stem: кӧзлука.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: коза
+
+-lexeme
+ lex: кӧйин
+ stem: кӧйин.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: волк
+
+-lexeme
+ lex: кӧкла
+ stem: кӧкла.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: хохол
+
+-lexeme
+ lex: кӧклаш
+ stem: кӧклаш.
+ gramm: N,body,rus
+ paradigm: Noun-num-consonant
+ trans_ru: хохол
+
+-lexeme
+ lex: кӧклашка
+ stem: кӧклашка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: курица-хохлатка
+
+-lexeme
+ lex: кӧклушка
+ stem: кӧклушка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: курица-хохлатка
+
+-lexeme
+ lex: кӧкпи
+ stem: кӧкпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: кукушонок
+
+-lexeme
+ lex: кӧкӧм
+ stem: кӧкӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: кукование
+
+-lexeme
+ lex: кӧнаш
+ stem: кӧнаш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глухарка, тетёрка
+
+-lexeme
+ lex: кӧндозмер
+ stem: кӧндозмер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глухарка
+
+-lexeme
+ lex: кӧнэй
+ stem: кӧнэ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: глухарка, тетёрка
+
+-lexeme
+ lex: кӧнӧй
+ stem: кӧнӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: глухарка, тетёрка
+
+-lexeme
+ lex: кӧрег
+ stem: кӧрег.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: шилохвость
+
+-lexeme
+ lex: кӧрмӧй
+ stem: кӧрмӧ.
+ gramm: N,body
+ paradigm: Noun-num-j
+ trans_ru: бабка
+
+-lexeme
+ lex: кӧртбурган
+ stem: кӧртбурган.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: стрекоза
+
+-lexeme
+ lex: кӧртгаг
+ stem: кӧртгаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дровосек
+
+-lexeme
+ lex: кӧртгузей
+ stem: кӧртгузе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: пиявка
+
+-lexeme
+ lex: кӧртгурган
+ stem: кӧртгурган.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: стрекоза
+
+-lexeme
+ lex: кӧрткодзыв
+ stem: кӧрткодзыв.|кӧрткодзыл.
+ gramm: N,anim
+ paradigm: Noun-num-v_l
+ trans_ru: рыжий лесной муравей
+
+-lexeme
+ lex: кӧртлотшкан
+ stem: кӧртлотшкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: навозник обыкновенный
+
+-lexeme
+ lex: кӧрӧг
+ stem: кӧрӧг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: шилохвость
+
+-lexeme
+ lex: кӧсьтанеч
+ stem: кӧсьтанеч.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: точильщик, проволочник
+
+-lexeme
+ lex: лазар
+ stem: лазар.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: оляпка
+
+-lexeme
+ lex: лазарлы
+ stem: лазарлы.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: голеностопная кость птицы
+
+-lexeme
+ lex: лайко
+ stem: лайко.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: лайка
+
+-lexeme
+ lex: ласточка
+ stem: ласточка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: ласка
+
+-lexeme
+ lex: ластӧчка
+ stem: ластӧчка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: ласточка
+
+-lexeme
+ lex: левӧй
+ stem: левӧ.
+ gramm: N,body
+ paradigm: Noun-num-j
+ trans_ru: бабка, лодыжка
+
+-lexeme
+ lex: лелекан
+ stem: лелекан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: божья коровка
+
+-lexeme
+ lex: лен
+ stem: лен.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: таймень
+
+-lexeme
+ lex: ленка
+ stem: ленка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: таймень
+
+-lexeme
+ lex: лень
+ stem: лен.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: улитка, червяк, гусеница
+
+-lexeme
+ lex: лесьня
+ stem: лесьня.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: добыча, улов
+
+-lexeme
+ lex: липун
+ stem: липун.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бабочка
+
+-lexeme
+ lex: литовня
+ stem: литовня.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: литымъя
+ stem: литымъя.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: литэха
+ stem: литэха.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: лобдой
+ stem: лобдо.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: опой, запал
+
+-lexeme
+ lex: логдой
+ stem: логдо.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: опой, запал
+
+-lexeme
+ lex: локовина
+ stem: локовина.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: преднерестовая сёмга
+
+-lexeme
+ lex: лолапи
+ stem: лолапи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: лосёнок
+
+-lexeme
+ lex: лопаргаг
+ stem: лопаргаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: плавунец
+
+-lexeme
+ lex: лось
+ stem: лос.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: лось
+
+-lexeme
+ lex: лотсоф
+ stem: лотсоф.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: турухтан
+
+-lexeme
+ lex: лотшкан
+ stem: лотшкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: щелкун, жук
+
+-lexeme
+ lex: лоула
+ stem: лоула.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: морянка
+
+-lexeme
+ lex: лох
+ stem: лох.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: лох, преднерестовая сёмга
+
+-lexeme
+ lex: луда
+ stem: луда.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: парша
+
+-lexeme
+ lex: лудук
+ stem: лудук.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: клоп
+
+-lexeme
+ lex: лудык
+ stem: лудык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: клоп
+
+-lexeme
+ lex: лысьтысьӧм
+ stem: лысьтысьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: дойка
+
+-lexeme
+ lex: льӧкчим
+ stem: льӧкчим.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жабры
+
+-lexeme
+ lex: льӧнки
+ stem: льӧнки.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мелкая преднерестовая сёмга
+
+-lexeme
+ lex: лэбась
+ stem: лэбас.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: птица
+
+-lexeme
+ lex: лэбӧм
+ stem: лэбӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: полёт
+
+-lexeme
+ lex: лэн
+ stem: лэн.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: головастик
+
+-lexeme
+ lex: лэнга
+ stem: лэнга.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мелкая сёмга
+
+-lexeme
+ lex: лэно
+ stem: лэно.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: головастик
+
+-lexeme
+ lex: лэнъюр
+ stem: лэнъюр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: головастик
+
+-lexeme
+ lex: лэс
+ stem: лэс.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жир
+
+-lexeme
+ lex: люгаг
+ stem: люгаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: улитка, червяк, гусеница
+
+-lexeme
+ lex: люзю
+ stem: люзю.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: личинка мучного хрущака
+
+-lexeme
+ lex: люзюгаг
+ stem: люзюгаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: личинка мучного хрущака
+
+-lexeme
+ lex: люмсирпи
+ stem: люмсирпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок
+
+-lexeme
+ lex: люньпи
+ stem: люньпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок
+
+-lexeme
+ lex: люэсьӧв
+ stem: люэсьӧв.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ёрш
+
+-lexeme
+ lex: люӧсьӧв
+ stem: люӧсьӧв.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ёрш
+
+-lexeme
+ lex: лявля
+ stem: лявля.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабочка
+
+-lexeme
+ lex: лягей
+ stem: ляге.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: лягушка
+
+-lexeme
+ lex: лягушапи
+ stem: лягушапи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: лягушонок
+
+-lexeme
+ lex: лягӧ
+ stem: лягӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: лягушка
+
+-lexeme
+ lex: лягӧй
+ stem: лягӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: лягушка
+
+-lexeme
+ lex: лягӧпи
+ stem: лягӧпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: лягушонок
+
+-lexeme
+ lex: лязга
+ stem: лязга.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мальки
+
+-lexeme
+ lex: ляпа
+ stem: ляпа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: подлещик
+
+-lexeme
+ lex: ляпапи
+ stem: ляпапи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: подлещик, головастик
+
+-lexeme
+ lex: ляртса
+ stem: ляртса.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: гусеница шубной моли
+
+-lexeme
+ lex: лярца
+ stem: лярца.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: гусеница шубной моли
+
+-lexeme
+ lex: лёггаг
+ stem: лёггаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: лёгей
+ stem: лёге.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: лёкгагпи
+ stem: лёкгагпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: ящерка
+
+-lexeme
+ lex: лёкей
+ stem: лёке.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: лёкчим
+ stem: лёкчим.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жабры
+
+-lexeme
+ lex: лёкчым
+ stem: лёкчым.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жабры
+
+-lexeme
+ lex: лёкӧй
+ stem: лёкӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: лёлекыш
+ stem: лёлекыш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: раковина
+
+-lexeme
+ lex: лёлепань
+ stem: лёлепан.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: раковина
+
+-lexeme
+ lex: лёль
+ stem: лёл.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: сёмга
+
+-lexeme
+ lex: лёлькытш
+ stem: лёлькытш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: раковина
+
+-lexeme
+ lex: лёльӧгаг
+ stem: лёльӧгаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гусеница
+
+-lexeme
+ lex: лёсьӧ
+ stem: лёсьӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: лӧдз-гут
+ stem: лӧдз-гут.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: крупные насекомые
+
+-lexeme
+ lex: лӧзйӧлва
+ stem: лӧзйӧлва.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: сыворотка
+
+-lexeme
+ lex: лӧзйӧӧва
+ stem: лӧзйӧӧва.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: сыворотка
+
+-lexeme
+ lex: лӧкӧвина
+ stem: лӧкӧвина.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: преднерестовая сёмга
+
+-lexeme
+ lex: лӧмштшак
+ stem: лӧмштшак.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: годовалый медведь
+
+-lexeme
+ lex: лӧнтшак
+ stem: лӧнтшак.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: годовалый медведь
+
+-lexeme
+ lex: лӧньсяг
+ stem: лӧньсяг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: олений бык двухлеток
+
+-lexeme
+ lex: лӧсь
+ stem: лӧс.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: лось
+
+-lexeme
+ lex: лӧч
+ stem: лӧч.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: паутина
+
+-lexeme
+ lex: маг
+ stem: маг.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: позвоночник птицы, рыбы, птичье крыло
+
+-lexeme
+ lex: мазы
+ stem: мазы.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: пчела медоносная
+
+-lexeme
+ lex: майва
+ stem: майва.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: уклейка
+
+-lexeme
+ lex: макар
+ stem: макар.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: бабка
+
+-lexeme
+ lex: мале
+ stem: мале.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: малей
+ stem: мале.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: восточный майский хрущ, улитка
+
+-lexeme
+ lex: маля
+ stem: маля.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: пчела медоносная
+
+-lexeme
+ lex: малязі
+ stem: малязі.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: пчела медоносная
+
+-lexeme
+ lex: малямуш
+ stem: малямуш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: пчела медоносная
+
+-lexeme
+ lex: мамка
+ stem: мамка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: самка
+
+-lexeme
+ lex: маре
+ stem: маре.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: мась
+ stem: мас.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: масть
+
+-lexeme
+ lex: масю
+ stem: масю.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ягнёнок
+
+-lexeme
+ lex: маточка
+ stem: маточка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: маточка
+
+-lexeme
+ lex: мегар
+ stem: мегар.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: баран
+
+-lexeme
+ lex: мегарин
+ stem: мегарин.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: баран
+
+-lexeme
+ lex: меге
+ stem: меге.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: баран
+
+-lexeme
+ lex: мегей
+ stem: меге.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: баран
+
+-lexeme
+ lex: меги
+ stem: меги.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: баран
+
+-lexeme
+ lex: мегур
+ stem: мегур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: баран
+
+-lexeme
+ lex: мегурай
+ stem: мегура.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: баран
+
+-lexeme
+ lex: мегӧй
+ stem: мегӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: баран
+
+-lexeme
+ lex: межпи
+ stem: межпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: барашек
+
+-lexeme
+ lex: мезер
+ stem: мезер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: баран
+
+-lexeme
+ lex: меног
+ stem: меног.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: минога
+
+-lexeme
+ lex: менога
+ stem: менога.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: минога
+
+-lexeme
+ lex: менурей
+ stem: менуре.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: неприручённый олений кастрат старше четырёх-пяти лет
+
+-lexeme
+ lex: мерсын
+ stem: мерсын.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: подъязок
+
+-lexeme
+ lex: мех
+ stem: мех.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: мех
+
+-lexeme
+ lex: минога
+ stem: минога.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: минога
+
+-lexeme
+ lex: миноги
+ stem: миноги.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: минога
+
+-lexeme
+ lex: молей
+ stem: моле.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: мальки
+
+-lexeme
+ lex: моли
+ stem: моли.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: мальки
+
+-lexeme
+ lex: моль
+ stem: мол.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: моль
+
+-lexeme
+ lex: мудас
+ stem: мудас.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: нора
+
+-lexeme
+ lex: муляв
+ stem: муляв.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая рыба
+
+-lexeme
+ lex: мураш
+ stem: мураш.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: муравей
+
+-lexeme
+ lex: мурга
+ stem: мурга.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: нора
+
+-lexeme
+ lex: муртвечик
+ stem: муртвечик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: вальдшнеп
+
+-lexeme
+ lex: мышку
+ stem: мышку.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: спина
+
+-lexeme
+ lex: мӧкӧй
+ stem: мӧкӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: налим
+
+-lexeme
+ lex: мӧкӧтян
+ stem: мӧкӧтян.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дождевой червь
+
+-lexeme
+ lex: мӧскук
+ stem: мӧскук.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: божья коровка
+
+-lexeme
+ lex: мӧтпӧлӧс
+ stem: мӧтпӧлӧс.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: послед
+
+-lexeme
+ lex: навег
+ stem: навег.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жировая плёнка в брюшине упитанного животного
+
+-lexeme
+ lex: нагыш
+ stem: нагыш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: беломорская корюшка
+
+-lexeme
+ lex: накитка
+ stem: накитка.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: тонкий слой жира, облегающий брюшину
+
+-lexeme
+ lex: недэй
+ stem: A
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: гнедой
+
+-lexeme
+ lex: нельма
+ stem: нельма.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: нельма
+
+-lexeme
+ lex: нетель
+ stem: нетел.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: нетель
+
+-lexeme
+ lex: нетӧпыр
+ stem: нетӧпыр.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: нетопырь
+
+-lexeme
+ lex: нивурун
+ stem: нивурун.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: поярок
+
+-lexeme
+ lex: нига
+ stem: нига.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: нигыля
+ stem: нигыля.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: минога
+
+-lexeme
+ lex: нидз
+ stem: нидз.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: соболь
+
+-lexeme
+ lex: нидзей
+ stem: нидзе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: червяк
+
+-lexeme
+ lex: нидзыв
+ stem: нидзыв.|нидзыл.
+ gramm: N,anim
+ paradigm: Noun-num-v_l
+ trans_ru: червяк
+
+-lexeme
+ lex: низь-тулан
+ stem: низь-тулан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: куньи
+
+-lexeme
+ lex: низьпи
+ stem: низьпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: соболёнок
+
+-lexeme
+ lex: никлявонь
+ stem: никлявон.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: пиявка
+
+-lexeme
+ lex: нилас
+ stem: нилас.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: проглоченная рыба в желудке хишной рыбы
+
+-lexeme
+ lex: нимачери
+ stem: нимачери.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: сёмга
+
+-lexeme
+ lex: нипод
+ stem: нипод.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть овцы второй стрижки
+
+-lexeme
+ lex: нисер
+ stem: нисер.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть овцы второй стрижки
+
+-lexeme
+ lex: нокӧть
+ stem: нокӧт.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: опой, запал
+
+-lexeme
+ lex: номир
+ stem: номир.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гусеница, червь
+
+-lexeme
+ lex: норка
+ stem: норка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: норка
+
+-lexeme
+ lex: нош
+ stem: нош.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: надкостница
+
+-lexeme
+ lex: нырпавтан
+ stem: нырпавтан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: подлещик
+
+-lexeme
+ lex: нырӧб
+ stem: нырӧб.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: косяк рыбы
+
+-lexeme
+ lex: нырӧг
+ stem: нырӧг.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: косяк рыбы
+
+-lexeme
+ lex: нырӧс
+ stem: нырӧс.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: косяк, стая рыб
+
+-lexeme
+ lex: ньывкай
+ stem: ньывка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: щур
+
+-lexeme
+ lex: ньылык
+ stem: ньылык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая рыба
+
+-lexeme
+ lex: ньылым
+ stem: ньылым.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: слизь
+
+-lexeme
+ lex: ньылэм
+ stem: ньылэм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жиропот
+
+-lexeme
+ lex: ньылӧм
+ stem: ньылӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жиропот
+
+-lexeme
+ lex: ньӧрсын
+ stem: ньӧрсын.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: подъязок
+
+-lexeme
+ lex: ньӧрсін
+ stem: ньӧрсін.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: подъязок
+
+-lexeme
+ lex: нэрсын
+ stem: нэрсын.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: подъязок
+
+-lexeme
+ lex: нюгыль
+ stem: нюгыл.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: пескоройка
+
+-lexeme
+ lex: нюлас
+ stem: нюлас.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: проглоченная рыба в желудке хишной рыбы
+
+-lexeme
+ lex: нюлег
+ stem: нюлег.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: слизь
+
+-lexeme
+ lex: нюлим
+ stem: нюлим.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: слизь
+
+-lexeme
+ lex: нюлюк
+ stem: нюлюк.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая рыба
+
+-lexeme
+ lex: нявута
+ stem: нявута.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: телёнок годовалой важенки
+
+-lexeme
+ lex: нядко
+ stem: нядко.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: важенка, отелившаяся в возрасте одного года
+
+-lexeme
+ lex: няк
+ stem: няк.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: сосок
+
+-lexeme
+ lex: нярборд
+ stem: нярборд.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: летучая мышь, северный кожанок
+
+-lexeme
+ lex: нярбордпи
+ stem: нярбордпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: детёныш летучей мыши
+
+-lexeme
+ lex: няркуш
+ stem: няркуш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: летучая мышь, северный кожанок
+
+-lexeme
+ lex: няуча
+ stem: няуча.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: телёнок годовалой важенки
+
+-lexeme
+ lex: нёньӧдысь
+ stem: нёньӧдыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: млекопитающее
+
+-lexeme
+ lex: нёнясяндыр
+ stem: нёнясяндыр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: подсосный период
+
+-lexeme
+ lex: нӧйччӧдӧм
+ stem: нӧйччӧдӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: случка
+
+-lexeme
+ lex: нӧйччӧм
+ stem: нӧйччӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: случка, течка
+
+-lexeme
+ lex: нӧра
+ stem: нӧра.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: нора
+
+-lexeme
+ lex: нӧрка
+ stem: нӧрка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: норка
+
+-lexeme
+ lex: овмес
+ stem: овмес.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выводок, семья
+
+-lexeme
+ lex: овчарка
+ stem: овчарка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: овчарка
+
+-lexeme
+ lex: олас
+ stem: олас.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гнездо животных для выведения детёнышей
+
+-lexeme
+ lex: омоль
+ stem: омол.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: омуль
+
+-lexeme
+ lex: омуль
+ stem: омул.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: омуль
+
+-lexeme
+ lex: омыль
+ stem: омыл.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: омуль
+
+-lexeme
+ lex: оомӧс
+ stem: оомӧс.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: место обитания
+
+-lexeme
+ lex: ордавизя
+ stem: ордавизя.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бурундук
+
+-lexeme
+ lex: отшер
+ stem: отшер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: пальга
+ stem: пальга.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: палья
+
+-lexeme
+ lex: палюр
+ stem: палюр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: летяга обыкновенная
+
+-lexeme
+ lex: паляур
+ stem: паляур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: летяга обыкновенная
+
+-lexeme
+ lex: паруль
+ stem: парул.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: летяга обыкновенная
+
+-lexeme
+ lex: паруння
+ stem: паруння.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: чипан
+
+-lexeme
+ lex: паръя
+ stem: паръя.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: росомаха
+
+-lexeme
+ lex: пасёв
+ stem: пасёв.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гольян
+
+-lexeme
+ lex: пашовкай
+ stem: пашовка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: снегирь
+
+-lexeme
+ lex: пеж
+ stem: пеж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: молодой, безрогий олень
+
+-lexeme
+ lex: пежгу
+ stem: пежгу.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: пыжик
+
+-lexeme
+ lex: пежкай
+ stem: пежка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: пелыськай
+ stem: пелыська.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: рябинник
+
+-lexeme
+ lex: пелядь
+ stem: пеляд.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: пелядь
+
+-lexeme
+ lex: пендук
+ stem: пендук.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: оленёнок в возрасте двух-трёх недель
+
+-lexeme
+ lex: первӧтелӧк
+ stem: первӧтелӧк.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: первотёлка
+
+-lexeme
+ lex: переходьнича
+ stem: переходьнича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: корова, оставшаяся после отёла на один год яловой
+
+-lexeme
+ lex: пернагуська
+ stem: пернагуська.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: стрекоза
+
+-lexeme
+ lex: перт
+ stem: перт.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: кедровка, ореховка
+
+-lexeme
+ lex: песик
+ stem: песик.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: кобель, пёс
+
+-lexeme
+ lex: пескан
+ stem: пескан.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: пескань
+
+-lexeme
+ lex: пескань
+ stem: пескан.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: пескань
+
+-lexeme
+ lex: пескералысь
+ stem: пескералыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: дровосек
+
+-lexeme
+ lex: пескиш
+ stem: пескиш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: вандыш
+
+-lexeme
+ lex: пескозуб
+ stem: пескозуб.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: пескарь
+
+-lexeme
+ lex: пескыш
+ stem: пескыш.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: пескарь
+
+-lexeme
+ lex: петух
+ stem: петух.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: петух, самец лесной дичи
+
+-lexeme
+ lex: петушок
+ stem: петушок.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: петушок
+
+-lexeme
+ lex: печык
+ stem: печык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: кобель, пёс
+
+-lexeme
+ lex: пешкар
+ stem: пешкар.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: пескарь
+
+-lexeme
+ lex: пивича
+ stem: пивича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пиявка
+
+-lexeme
+ lex: пижик
+ stem: пижик.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: пыжик
+
+-lexeme
+ lex: письти
+ stem: письти.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ласточка
+
+-lexeme
+ lex: пиявича
+ stem: пиявича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пиявка
+
+-lexeme
+ lex: пиясь
+ stem: пияс.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: гнездо, семья, выводок
+
+-lexeme
+ lex: пияфка
+ stem: пияфка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пиявка
+
+-lexeme
+ lex: плитун
+ stem: плитун.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая сёмга
+
+-lexeme
+ lex: плишка
+ stem: плишка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: трясогузка белая
+
+-lexeme
+ lex: плишкай
+ stem: плишка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: трясогузка белая
+
+-lexeme
+ lex: плишпи
+ stem: плишпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: подлещик
+
+-lexeme
+ lex: плиштпи
+ stem: плиштпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: подлещик
+
+-lexeme
+ lex: подакокув
+ stem: подакокув.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: шерсть с брюшной части овцы
+
+-lexeme
+ lex: подлошка
+ stem: подлошка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: подлещик
+
+-lexeme
+ lex: поздысьӧм
+ stem: поздысьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гнездование, роение
+
+-lexeme
+ lex: полепи
+ stem: полепи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: поросёнок
+
+-lexeme
+ lex: польчак
+ stem: польчак.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: плавательный пузырь
+
+-lexeme
+ lex: порись
+ stem: порис.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: свинья
+
+-lexeme
+ lex: пороз
+ stem: пороз.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бык-производитель
+
+-lexeme
+ lex: пороль
+ stem: порол.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: бык-производитель
+
+-lexeme
+ lex: порська
+ stem: порська.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: поросёнок
+
+-lexeme
+ lex: порӧ
+ stem: порӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бык-производитель
+
+-lexeme
+ lex: прӧмис
+ stem: прӧмис.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: добыча
+
+-lexeme
+ lex: пузырь
+ stem: пузыр.
+ gramm: N,rus,body
+ paradigm: Noun-num-soft
+ trans_ru: плавательный пузырь
+
+-lexeme
+ lex: пук
+ stem: пук.
+ gramm: N,rus,body
+ paradigm: Noun-num-consonant
+ trans_ru: пух
+
+-lexeme
+ lex: пунэй
+ stem: пунэ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: пуночка, снежный подорожник
+
+-lexeme
+ lex: пунӧй
+ stem: пунӧ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: пуночка, снежный подорожник
+
+-lexeme
+ lex: пурч-парч
+ stem: пурч-парч.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: внутренности
+
+-lexeme
+ lex: путорач
+ stem: путорач.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: путорган
+
+-lexeme
+ lex: пучей
+ stem: пуче.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: короед
+
+-lexeme
+ lex: пучой
+ stem: пучо.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: короед
+
+-lexeme
+ lex: пыжык
+ stem: пыжык.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: пыжик
+
+-lexeme
+ lex: пырмес
+ stem: пырмес.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: нора
+
+-lexeme
+ lex: пытшкес
+ stem: пытшкес.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: внутренности, потроха
+
+-lexeme
+ lex: пышкитса
+ stem: пышкитса.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: пышнина
+ stem: пышнина.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пушнина
+
+-lexeme
+ lex: пыштють
+ stem: пыштют.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: пыштютю
+ stem: пыштютю.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: пышук
+ stem: пышук.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: пышчип
+ stem: пышчип.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: пышъялӧм
+ stem: пышъялӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: течка
+
+-lexeme
+ lex: пӧддяз
+ stem: пӧддяз.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: подъязок
+
+-lexeme
+ lex: пӧддязӧк
+ stem: пӧддязӧк.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: подъязок
+
+-lexeme
+ lex: пӧк
+ stem: пӧк.
+ gramm: N,oblin,body
+ paradigm: Noun-num-obl_j
+ trans_ru: икра
+
+-lexeme
+ lex: пӧльӧ-бобӧ
+ stem: пӧльӧ-бобӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: божья коровка
+
+-lexeme
+ lex: пӧрӧз
+ stem: пӧрӧз.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бык-производитель
+
+-lexeme
+ lex: пӧче-пӧле
+ stem: пӧче-пӧле.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: божья коровка
+
+-lexeme
+ lex: пӧчилей
+ stem: пӧчиле.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: божья коровка
+
+-lexeme
+ lex: пӧчӧ-бобӧ
+ stem: пӧчӧ-бобӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: божья коровка
+
+-lexeme
+ lex: пӧчӧ-пачӧ
+ stem: пӧчӧ-пачӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: божья коровка
+
+-lexeme
+ lex: ракапань
+ stem: ракапан.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: раковина
+
+-lexeme
+ lex: раккыш
+ stem: раккыш.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: раковина
+
+-lexeme
+ lex: ракпоз
+ stem: ракпоз.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: раковина
+
+-lexeme
+ lex: рисей
+ stem: рисе.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: рысь
+
+-lexeme
+ lex: риски
+ stem: риски.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: косяк
+
+-lexeme
+ lex: рисьӧй
+ stem: рисьӧ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: рысь
+
+-lexeme
+ lex: роньша
+ stem: роньша.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кукша, ронжа
+
+-lexeme
+ lex: рудз
+ stem: рудз.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: основание, плечо крыла
+
+-lexeme
+ lex: рузь
+ stem: руз.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: стрижиное гнездо
+
+-lexeme
+ lex: рукӧ
+ stem: рукӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: поросёнок
+
+-lexeme
+ lex: рӧмем
+ stem: рӧмем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧмидзтӧм
+ stem: рӧмидзтӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧмись
+ stem: рӧмис.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧмисьтан
+ stem: рӧмисьтан.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧмыдз
+ stem: рӧмыдз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧмысь
+ stem: рӧмыс.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧмысьтан
+ stem: рӧмысьтан.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧмыштан
+ stem: рӧмыштан.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жвачка
+
+-lexeme
+ lex: рӧсамак
+ stem: рӧсамак.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: росомаха
+
+-lexeme
+ lex: рӧсӧмак
+ stem: рӧсӧмак.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: росомаха
+
+-lexeme
+ lex: сана
+ stem: сана.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: росомаха
+
+-lexeme
+ lex: санка
+ stem: санка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: росомаха
+
+-lexeme
+ lex: санпи
+ stem: санпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щенок росомахи
+
+-lexeme
+ lex: саренча
+ stem: саренча.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: восточный майский хрущ, навозник обыкновенный
+
+-lexeme
+ lex: сареньчи
+ stem: сареньчи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: секлес
+ stem: секлес.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: бабка
+
+-lexeme
+ lex: селезень
+ stem: селезен.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: селезень
+
+-lexeme
+ lex: селетко
+ stem: селетко.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: жеребёнок-однолеток
+
+-lexeme
+ lex: селетӧк
+ stem: селетӧк.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: жеребёнок-однолеток
+
+-lexeme
+ lex: сельги
+ stem: сельги.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: беломорская ряпушка
+
+-lexeme
+ lex: семдзер
+ stem: семдзер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: семзер
+ stem: семзер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: семчер
+ stem: семчер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: семчерай
+ stem: семчера.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: луток
+
+-lexeme
+ lex: сень
+ stem: сен.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: молоки
+
+-lexeme
+ lex: сеньдзер
+ stem: сеньдзер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: серборд
+ stem: серборд.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: пестрокрылка
+
+-lexeme
+ lex: сехур
+ stem: сехур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мерин
+
+-lexeme
+ lex: сивӧдушка
+ stem: сивӧдушка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: сиводушка
+
+-lexeme
+ lex: сизьпи
+ stem: сизьпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: дятловый птенец
+
+-lexeme
+ lex: силе
+ stem: силе.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: птичка
+
+-lexeme
+ lex: сили
+ stem: сили.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: курица
+
+-lexeme
+ lex: силипи
+ stem: силипи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: силько
+ stem: силько.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: силюк
+ stem: силюк.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: симчир
+ stem: симчир.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сиргаг
+ stem: сиргаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дровосек, усач
+
+-lexeme
+ lex: сирин
+ stem: сирин.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: задний проход
+
+-lexeme
+ lex: скакушка
+ stem: скакушка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: лягушка
+
+-lexeme
+ lex: сквӧреч
+ stem: сквӧреч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: скворец обыкновенный
+
+-lexeme
+ lex: скӧпун
+ stem: скӧпун.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: орлан-белохвост, скопа
+
+-lexeme
+ lex: снегыр
+ stem: снегыр.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: снегирь
+
+-lexeme
+ lex: снитки
+ stem: снитки.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: снеток
+
+-lexeme
+ lex: стабун
+ stem: стабун.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: табун
+
+-lexeme
+ lex: стад
+ stem: стад.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: стадо
+
+-lexeme
+ lex: стадо
+ stem: стадо.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: стадо
+
+-lexeme
+ lex: стадӧ
+ stem: стадӧ.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: стадо
+
+-lexeme
+ lex: стайка
+ stem: стайка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: стайка
+
+-lexeme
+ lex: стареньча
+ stem: стареньча.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: стареч
+ stem: стареч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: скворец обыкновенный
+
+-lexeme
+ lex: стрелеч
+ stem: стрелеч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: стрекоза
+
+-lexeme
+ lex: сука
+ stem: сука.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: сука
+
+-lexeme
+ lex: сырича
+ stem: сырича.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: двухгодовалая важенка
+
+-lexeme
+ lex: сырчикпи
+ stem: сырчикпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец трясогузки
+
+-lexeme
+ lex: сьвишши
+ stem: сьвишши.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: личинка подкожного овода
+
+-lexeme
+ lex: сьлепета
+ stem: сьлепета.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: мелкий слепень
+
+-lexeme
+ lex: сьлепуга
+ stem: сьлепуга.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: мелкий слепень
+
+-lexeme
+ lex: сьтеп
+ stem: сьтеп.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: хребет конской шеи
+
+-lexeme
+ lex: сьылi
+ stem: сьылi.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: шея
+
+-lexeme
+ lex: сьылӧм
+ stem: сьылӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пение
+
+-lexeme
+ lex: сьӧдбӧжпи
+ stem: сьӧдбӧжпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: детёныш горностая
+
+-lexeme
+ lex: сьӧдкага
+ stem: сьӧдкага.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: скворец обыкновенный
+
+-lexeme
+ lex: сьӧдкайпи
+ stem: сьӧдкайпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: скворчонок
+
+-lexeme
+ lex: сьӧмгапи
+ stem: сьӧмгапи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: мелкая сёмга
+
+-lexeme
+ lex: сьӧмчер
+ stem: сьӧмчер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сэмдзӧр
+ stem: сэмдзӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сэмчер
+ stem: сэмчер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сэньдзер
+ stem: сэньдзер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сювка
+ stem: сювка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: гоголь
+
+-lexeme
+ lex: сювтшӧж
+ stem: сювтшӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гоголь
+
+-lexeme
+ lex: сюктім
+ stem: сюктім.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стадо
+
+-lexeme
+ lex: сюлчӧж
+ stem: сюлчӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гоголь
+
+-lexeme
+ lex: сюучӧж
+ stem: сюучӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гоголь
+
+-lexeme
+ lex: сяно
+ stem: сяно.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: личинки подкожного овода северного оленя
+
+-lexeme
+ lex: сятура
+ stem: сятура.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: щука
+
+-lexeme
+ lex: сёкат
+ stem: сёкат.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкий хариус
+
+-lexeme
+ lex: сёкур
+ stem: сёкур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мерин
+
+-lexeme
+ lex: сёледко
+ stem: сёледко.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: жеребёнок-однолеток
+
+-lexeme
+ lex: сёлетка
+ stem: сёлетка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: жеребёнок-однолеток
+
+-lexeme
+ lex: сёпӧлэска
+ stem: сёпӧлэска.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: сёпӧлӧска
+ stem: сёпӧлӧска.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: сісьгаг
+ stem: сісьгаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: сісьпугаг
+ stem: сісьпугаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: сӧлӧвей
+ stem: сӧлӧве.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: соловей
+
+-lexeme
+ lex: сӧмчер
+ stem: сӧмчер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сӧнчер
+ stem: сӧнчер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сӧнчӧж
+ stem: сӧнчӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сӧньчер
+ stem: сӧньчер.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: сӧньчӧр
+ stem: сӧньчӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: луток
+
+-lexeme
+ lex: тарпи
+ stem: тарпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: птенец тетерева
+
+-lexeme
+ lex: твореч
+ stem: твореч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: скворец обыкновенный
+
+-lexeme
+ lex: тебӧс
+ stem: тебӧс.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: сибирский сиг
+
+-lexeme
+ lex: тевкан
+ stem: тевкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: галка
+
+-lexeme
+ lex: тегур
+ stem: тегур.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: баран
+
+-lexeme
+ lex: телеб
+ stem: телеб.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стая, косяк
+
+-lexeme
+ lex: тельӧб
+ stem: тельӧб.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стая, косяк
+
+-lexeme
+ lex: теляасьӧм
+ stem: теляасьӧм.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: отёл
+
+-lexeme
+ lex: теня
+ stem: теня.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: кукша, ронжа
+
+-lexeme
+ lex: тер
+ stem: тер.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: пятачок
+
+-lexeme
+ lex: тив
+ stem: тив.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: содержимое брюшной полости
+
+-lexeme
+ lex: тивти
+ stem: тивти.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: коршун чёрный
+
+-lexeme
+ lex: типи
+ stem: типи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: титса
+ stem: титса.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: птица
+
+-lexeme
+ lex: тича
+ stem: тича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: птица
+
+-lexeme
+ lex: торокан
+ stem: торокан.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: таракан
+
+-lexeme
+ lex: тороч
+ stem: тороч.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: большой пёстрый дятел
+
+-lexeme
+ lex: торӧкан
+ stem: торӧкан.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: таракан
+
+-lexeme
+ lex: тотшкай
+ stem: тотшка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: сорокопут жулан
+
+-lexeme
+ lex: тох-тох
+ stem: тох-тох.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: широконоска
+
+-lexeme
+ lex: тохтун
+ stem: тохтун.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: широконоска
+
+-lexeme
+ lex: трелеч
+ stem: трелеч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: стрекоза
+
+-lexeme
+ lex: туланпи
+ stem: туланпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: детёныш куницы
+
+-lexeme
+ lex: тупъюр
+ stem: тупъюр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: лапландская, или бородатая неясыть
+
+-lexeme
+ lex: туриг
+ stem: туриг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: журавль серый
+
+-lexeme
+ lex: туринчӧж
+ stem: туринчӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: чернеть
+
+-lexeme
+ lex: турундзез
+ stem: турундзез.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: травянка обыкновенная
+
+-lexeme
+ lex: турунтшӧж
+ stem: турунтшӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: хохлатая чернеть
+
+-lexeme
+ lex: тшак-тшак
+ stem: тшак-тшак.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: деряба
+
+-lexeme
+ lex: тшакиль
+ stem: тшакил.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: каменка
+
+-lexeme
+ lex: тшаркан
+ stem: тшаркан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дрозд-белобровик
+
+-lexeme
+ lex: тшаркей
+ stem: тшарке.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: дрозд-белобровик
+
+-lexeme
+ lex: тшаръя
+ stem: тшаръя.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: дрозд-белобровик
+
+-lexeme
+ lex: тшаръябӧр
+ stem: тшаръябӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дрозд-белобровик
+
+-lexeme
+ lex: тшатшкись
+ stem: тшатшкис.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: тшатшык
+ stem: тшатшык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: воробей домовый
+
+-lexeme
+ lex: тшеж
+ stem: тшеж.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: молозиво
+
+-lexeme
+ lex: тшерань
+ stem: тшеран.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: паук
+
+-lexeme
+ lex: тшука
+ stem: тшука.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: щука
+
+-lexeme
+ lex: тшулюп
+ stem: тшулюп.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: щурёнок, мелкая щука
+
+-lexeme
+ lex: тшутш
+ stem: тшутш.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: внутренности
+
+-lexeme
+ lex: тшутшку
+ stem: тшутшку.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: внутренности
+
+-lexeme
+ lex: тшушкысь
+ stem: тшушкыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: оса настоящая
+
+-lexeme
+ lex: тшӧгӧдан
+ stem: тшӧгӧдан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: телёнок на откорм
+
+-lexeme
+ lex: тшӧж
+ stem: тшӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: утка
+
+-lexeme
+ lex: тшӧль
+ stem: тшӧл.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: колючий плавник
+
+-lexeme
+ lex: тшӧтка
+ stem: тшӧтка.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: щётка
+
+-lexeme
+ lex: тывборд
+ stem: тывборд.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: основание крыла
+
+-lexeme
+ lex: тыркан
+ stem: тыркан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: дятел
+
+-lexeme
+ lex: тыыборд
+ stem: тыыборд.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: перо
+
+-lexeme
+ lex: тэлеб
+ stem: тэлеб.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стая
+
+-lexeme
+ lex: тэльтук
+ stem: тэльтук.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: книжка (часть желудка)
+
+-lexeme
+ lex: тэр
+ stem: тэр.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: пятачок
+
+-lexeme
+ lex: тюбей
+ stem: тюбе.
+ gramm: N,body
+ paradigm: Noun-num-j
+ trans_ru: перо
+
+-lexeme
+ lex: тювӧ
+ stem: тювӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: тюксей
+ stem: тюксе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: синьга
+
+-lexeme
+ lex: тюксьӧй
+ stem: тюксьӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: синьга
+
+-lexeme
+ lex: тюкти
+ stem: тюкти.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: глухарь самец
+
+-lexeme
+ lex: тюликай
+ stem: тюлика.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: фифи
+
+-lexeme
+ lex: тюлисей
+ stem: тюлисе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: черныш
+
+-lexeme
+ lex: тюлюк
+ stem: тюлюк.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: галстучник
+
+-lexeme
+ lex: тюрлик
+ stem: тюрлик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: тулес, морская сивка
+
+-lexeme
+ lex: тють
+ stem: тют.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: птичка
+
+-lexeme
+ lex: тя
+ stem: тя.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: щенок
+
+-lexeme
+ lex: тяве
+ stem: тяве.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: дворняга
+
+-lexeme
+ lex: тяль
+ stem: тял.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: гусеница, червяк, улитка
+
+-lexeme
+ lex: тёко
+ stem: тёко.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: пескарь
+
+-lexeme
+ lex: тёль
+ stem: тёл.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: улитка, гусеница
+
+-lexeme
+ lex: тёп
+ stem: тёп.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: селезёнка
+
+-lexeme
+ lex: тіли
+ stem: тіли.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабочка
+
+-lexeme
+ lex: тіри
+ stem: тіри.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бабочка
+
+-lexeme
+ lex: тӧлканеч
+ stem: тӧлканеч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: толкунчик
+
+-lexeme
+ lex: тӧлчак
+ stem: тӧлчак.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: толкунчик
+
+-lexeme
+ lex: тӧрекан
+ stem: тӧрекан.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: таракан
+
+-lexeme
+ lex: увтыр
+ stem: увтыр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выводок
+
+-lexeme
+ lex: угра
+ stem: угра.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: личинка подкожного овода
+
+-lexeme
+ lex: удорвом
+ stem: удорвом.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: подуст
+
+-lexeme
+ lex: узьӧм
+ stem: узьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: спячка
+
+-lexeme
+ lex: укутик
+ stem: укутик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ласка
+
+-lexeme
+ lex: укучик
+ stem: укучик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ласка
+
+-lexeme
+ lex: укычик
+ stem: укычик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ласка
+
+-lexeme
+ lex: улем
+ stem: улем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: слизь, нерест
+
+-lexeme
+ lex: уловнэй
+ stem: уловнэ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: рыба средней величины
+
+-lexeme
+ lex: уловнӧй
+ stem: уловнӧ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: рыба средней величины
+
+-lexeme
+ lex: ульйӧв
+ stem: ульйӧв.|ульйӧл.
+ gramm: N
+ paradigm: Noun-num-v_l
+ trans_ru: молозиво
+
+-lexeme
+ lex: ульльӧв
+ stem: ульльӧв.|ульльӧл.
+ gramm: N
+ paradigm: Noun-num-v_l
+ trans_ru: молозиво
+
+-lexeme
+ lex: ульльӧӧ
+ stem: ульльӧӧ.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: молоко
+
+-lexeme
+ lex: ульлёо
+ stem: ульлёо.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: молоко
+
+-lexeme
+ lex: ульым
+ stem: ульым.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: слизь
+
+-lexeme
+ lex: уркага
+ stem: уркага.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: клёст
+
+-lexeme
+ lex: урперк
+ stem: урперк.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: кедровка, ореховка
+
+-lexeme
+ lex: учи-кычи
+ stem: учи-кычи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ласка
+
+-lexeme
+ lex: уяланка
+ stem: уяланка.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: плавательный пузырь
+
+-lexeme
+ lex: ханавей
+ stem: ханаве.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: сапсан, сокол
+
+-lexeme
+ lex: хапторка
+ stem: хапторка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бесплодная важенка
+
+-lexeme
+ lex: хитин
+ stem: хитин.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: хитин
+
+-lexeme
+ lex: хищник
+ stem: хищник.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: хищник
+
+-lexeme
+ lex: хора
+ stem: хора.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: не кастрированный олений бык в возрасте свыше двух лет
+
+-lexeme
+ lex: хорейко
+ stem: хорейко.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: годовалый олений самец
+
+-lexeme
+ lex: хрестэватьник
+ stem: хрестэватьник.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: крестоватик, четырёхмесячный песец
+
+-lexeme
+ lex: хумжа
+ stem: хумжа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: палья
+
+-lexeme
+ lex: хунжа
+ stem: хунжа.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: палья
+
+-lexeme
+ lex: хӧлка
+ stem: хӧлка.
+ gramm: N,rus,body
+ paradigm: Noun-num-vowel
+ trans_ru: холка
+
+-lexeme
+ lex: чавган
+ stem: чавган.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: галка
+
+-lexeme
+ lex: чавган
+ stem: чавган.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: галка
+
+-lexeme
+ lex: чак-чак
+ stem: чак-чак.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: деряба
+
+-lexeme
+ lex: чалкан
+ stem: чалкан.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: галка
+
+-lexeme
+ lex: чаля
+ stem: чаля.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: солёные внутренности рыбы
+
+-lexeme
+ lex: чанька
+ stem: чанька.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: жеребёнок
+
+-lexeme
+ lex: чаньпи
+ stem: чаньпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: жеребёнок-сосун
+
+-lexeme
+ lex: чараня
+ stem: чараня.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: паук
+
+-lexeme
+ lex: чаръя
+ stem: чаръя.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: деряба
+
+-lexeme
+ lex: чебывка
+ stem: чебывка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: чебылка
+
+-lexeme
+ lex: чебылка
+ stem: чебылка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: чебылка
+
+-lexeme
+ lex: чежйӧв
+ stem: чежйӧв.|чежйӧл.
+ gramm: N
+ paradigm: Noun-num-v_l
+ trans_ru: молозиво
+
+-lexeme
+ lex: чельпа
+ stem: чельпа.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: бабка
+
+-lexeme
+ lex: чень
+ stem: чен.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: жеребец
+
+-lexeme
+ lex: чераньпи
+ stem: чераньпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: паучок
+
+-lexeme
+ lex: чериг
+ stem: чериг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: рыба
+
+-lexeme
+ lex: черлядь
+ stem: черляд.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: стерлядь
+
+-lexeme
+ lex: чечотка
+ stem: чечотка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кузнечик
+
+-lexeme
+ lex: чеччась
+ stem: чеччас.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: лягушка
+
+-lexeme
+ lex: чиб
+ stem: чиб.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: жеребёнок
+
+-lexeme
+ lex: чибе
+ stem: чибе.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: жеребёнок
+
+-lexeme
+ lex: чибей
+ stem: чибе.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: жеребёнок
+
+-lexeme
+ lex: чибук
+ stem: чибук.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: жеребёнок
+
+-lexeme
+ lex: чибӧй
+ stem: чибӧ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: жеребёнок
+
+-lexeme
+ lex: чивиль
+ stem: чивил.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: личинка насекомых
+
+-lexeme
+ lex: чикинь
+ stem: чикин.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: ласточка
+
+-lexeme
+ lex: чикич
+ stem: чикич.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ласточка
+
+-lexeme
+ lex: чикиш
+ stem: чикиш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ласточка
+
+-lexeme
+ lex: чикунь
+ stem: чикун.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: ласточка
+
+-lexeme
+ lex: чикыч
+ stem: чикыч.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ласточка
+
+-lexeme
+ lex: чикышкай
+ stem: чикышка.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: ласточка
+
+-lexeme
+ lex: чилькӧдӧм
+ stem: чилькӧдӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: удой
+
+-lexeme
+ lex: чипуча
+ stem: чипуча.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: иглистая рыба
+
+-lexeme
+ lex: чипушка
+ stem: чипушка.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: чирксьӧм
+ stem: чирксьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стрёкот
+
+-lexeme
+ lex: чирык
+ stem: чирык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: кузнечик
+
+-lexeme
+ lex: читыль
+ stem: читыл.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: бабка
+
+-lexeme
+ lex: чиуль
+ stem: чиул.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: личинки насекомых
+
+-lexeme
+ lex: човча
+ stem: човча.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: большой улит
+
+-lexeme
+ lex: чодзив
+ stem: чодзив.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: чодзуу
+ stem: чодзуу.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: чодзыв
+ stem: чодзыв.|чодзыл.
+ gramm: N,anim
+ paradigm: Noun-num-v_l
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: чолча
+ stem: чолча.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: большой улит
+
+-lexeme
+ lex: чоша
+ stem: чоша.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: свинья
+
+-lexeme
+ lex: чошпи
+ stem: чошпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: поросёнок
+
+-lexeme
+ lex: чошӧй
+ stem: чошӧ.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: чушка, свинья
+
+-lexeme
+ lex: чуалӧм
+ stem: чуалӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гон, течка
+
+-lexeme
+ lex: чуйчик
+ stem: чуйчик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: головастик
+
+-lexeme
+ lex: чукар
+ stem: чукар.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глухарь самец
+
+-lexeme
+ lex: чукчи
+ stem: чукчи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: глухарь самец
+
+-lexeme
+ lex: чулчӧж
+ stem: чулчӧж.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: гоголь
+
+-lexeme
+ lex: чуль
+ stem: чул.
+ gramm: N,body
+ paradigm: Noun-num-soft
+ trans_ru: желудок
+
+-lexeme
+ lex: чульчик
+ stem: чульчик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: головастик
+
+-lexeme
+ lex: чуп
+ stem: чуп.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: сосок
+
+-lexeme
+ lex: чутык
+ stem: чутык.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: головастик, личинки насекомого в воде
+
+-lexeme
+ lex: чухар
+ stem: чухар.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глухарь самец
+
+-lexeme
+ lex: чучик
+ stem: чучик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: головастик
+
+-lexeme
+ lex: чуша
+ stem: чуша.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: бычок-подкаменщик
+
+-lexeme
+ lex: чушка
+ stem: чушка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: поросёнок
+
+-lexeme
+ lex: чушкан
+ stem: чушкан.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жало
+
+-lexeme
+ lex: чушкиль
+ stem: чушкил.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: оса настоящая
+
+-lexeme
+ lex: чушкильзі
+ stem: чушкильзі.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: оса настоящая
+
+-lexeme
+ lex: чушкись
+ stem: чушкис.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: оса настоящая
+
+-lexeme
+ lex: чушкыльзі
+ stem: чушкыльзі.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: оса настоящая
+
+-lexeme
+ lex: чушкысь
+ stem: чушкыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: змей
+
+-lexeme
+ lex: чушпи
+ stem: чушпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: поросёнок
+
+-lexeme
+ lex: чӧбывка
+ stem: чӧбывка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кобылка
+
+-lexeme
+ lex: чӧбыв
+ stem: чӧбыв.|чӧбыл.
+ gramm: N,anim,rus
+ paradigm: Noun-num-v_l
+ trans_ru: кобылка
+
+-lexeme
+ lex: чӧбылка
+ stem: чӧбылка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: кобылка
+
+-lexeme
+ lex: чӧвтчӧм
+ stem: чӧвтчӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выкидыш
+
+-lexeme
+ lex: чӧжпи
+ stem: чӧжпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: утёнок
+
+-lexeme
+ lex: шаглим
+ stem: шаглим.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жабры
+
+-lexeme
+ lex: шагля
+ stem: шагля.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: жабры
+
+-lexeme
+ lex: школ
+ stem: школ.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глист, солитёр
+
+-lexeme
+ lex: шлюнпи
+ stem: шлюнпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок
+
+-lexeme
+ lex: шлюнсирпи
+ stem: шлюнсирпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок
+
+-lexeme
+ lex: шлян
+ stem: шлян.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жабры
+
+-lexeme
+ lex: шойгаг
+ stem: шойгаг.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мертвоед
+
+-lexeme
+ lex: шойгут
+ stem: шойгут.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: муха мёртвых
+
+-lexeme
+ lex: шойдеб
+ stem: шойдеб.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: мелкая мошка
+
+-lexeme
+ lex: шокша
+ stem: шокша.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: холка, загривок
+
+-lexeme
+ lex: шошук
+ stem: шошук.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: холка, загривок
+
+-lexeme
+ lex: штшай
+ stem: штша.
+ gramm: N,body
+ paradigm: Noun-num-j
+ trans_ru: лошадиное копыто
+
+-lexeme
+ lex: штшеть
+ stem: штшет.
+ gramm: N,rus,body
+ paradigm: Noun-num-soft
+ trans_ru: щетина
+
+-lexeme
+ lex: штшокур
+ stem: штшокур.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: щокур, чир
+
+-lexeme
+ lex: штшука
+ stem: штшука.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: щука
+
+-lexeme
+ lex: штшур
+ stem: штшур.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: дождевой червь
+
+-lexeme
+ lex: штшурегай
+ stem: штшурега.
+ gramm: N,anim,rus
+ paradigm: Noun-num-j
+ trans_ru: щурёнок, мелкая щука
+
+-lexeme
+ lex: штшӧтки
+ stem: штшӧтки.
+ gramm: N,rus,body
+ paradigm: Noun-num-vowel
+ trans_ru: щётка
+
+-lexeme
+ lex: штшӧть
+ stem: штшӧт.
+ gramm: N,rus,body
+ paradigm: Noun-num-soft
+ trans_ru: щетина
+
+-lexeme
+ lex: шука
+ stem: шука.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: щука
+
+-lexeme
+ lex: шукапи
+ stem: шукапи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок
+
+-lexeme
+ lex: шульӧпи
+ stem: шульӧпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок, мелкая щука
+
+-lexeme
+ lex: шурган
+ stem: шурган.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: кость свиной ноги
+
+-lexeme
+ lex: шучка
+ stem: шучка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: щурёнок, мелкая щука
+
+-lexeme
+ lex: шучканпи
+ stem: шучканпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок, мелкая щука
+
+-lexeme
+ lex: шучкапи
+ stem: шучкапи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок, мелкая щука
+
+-lexeme
+ lex: шылбобӧ
+ stem: шылбобӧ.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: божья коровка
+
+-lexeme
+ lex: шыр-крыса
+ stem: шыр-крыса.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: мышиные
+
+-lexeme
+ lex: шыран
+ stem: шыран.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: клешня
+
+-lexeme
+ lex: шырда-борда
+ stem: шырда-борда.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: летучая мышь
+
+-lexeme
+ lex: шырчик
+ stem: шырчик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: трясогузка белая
+
+-lexeme
+ lex: шӧтина
+ stem: шӧтина.
+ gramm: N,body,rus
+ paradigm: Noun-num-vowel
+ trans_ru: щетина
+
+-lexeme
+ lex: шӧть
+ stem: шӧт.
+ gramm: N,body,rus
+ paradigm: Noun-num-soft
+ trans_ru: щетина
+
+-lexeme
+ lex: ыбшар
+ stem: ыбшар.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: жаворонок полевой
+
+-lexeme
+ lex: ыж-кӧза
+ stem: ыж-кӧза.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: мелкий скот
+
+-lexeme
+ lex: ыжей
+ stem: ыже.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: овца
+
+-lexeme
+ lex: ыжкарс
+ stem: ыжкарс.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стригущий лишай
+
+-lexeme
+ lex: ыжпи
+ stem: ыжпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: ягнёнок
+
+-lexeme
+ lex: этшӧр
+ stem: этшӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: восточный майский хрущ
+
+-lexeme
+ lex: юкта
+ stem: юкта.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: хорошо выделанная кожа нетели
+
+-lexeme
+ lex: юн
+ stem: юн.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: вьюн, минога
+
+-lexeme
+ lex: юнач
+ stem: юнач.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: щурёнок
+
+-lexeme
+ lex: юначпи
+ stem: юначпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок
+
+-lexeme
+ lex: юнпи
+ stem: юнпи.
+ gramm: N,anim,rus
+ paradigm: Noun-num-pi
+ trans_ru: малёк вьюна, миноги
+
+-lexeme
+ lex: юнсирпи
+ stem: юнсирпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: щурёнок
+
+-lexeme
+ lex: юньти
+ stem: юньти.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: молодь щуки
+
+-lexeme
+ lex: юранӧш
+ stem: юранӧш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: бычок-подкаменщик
+
+-lexeme
+ lex: юрсигувись
+ stem: юрсигувис.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: стрекоза
+
+-lexeme
+ lex: юрсигуись
+ stem: юрсигуис.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: стрекоза
+
+-lexeme
+ lex: юрсигуська
+ stem: юрсигуська.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: стрекоза
+
+-lexeme
+ lex: юрсигусялысь
+ stem: юрсигусялыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: стрекоза
+
+-lexeme
+ lex: юрсигуысь
+ stem: юрсигуыс.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: стрекоза
+
+-lexeme
+ lex: юрсикай
+ stem: юрсика.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: свиристель обыкновенный
+
+-lexeme
+ lex: юрсикуль
+ stem: юрсикул.
+ gramm: N,anim
+ paradigm: Noun-num-soft
+ trans_ru: стрекоза
+
+-lexeme
+ lex: юрӧк
+ stem: юрӧк.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: косяк, стая
+
+-lexeme
+ lex: юрӧс
+ stem: юрӧс.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: косяк, стая
+
+-lexeme
+ lex: ябырпи
+ stem: ябырпи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: скворчонок
+
+-lexeme
+ lex: ябӧр
+ stem: ябӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: скворец
+
+-lexeme
+ lex: ябӧр
+ stem: ябӧр.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: скворец
+
+-lexeme
+ lex: язарчик
+ stem: язарчик.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: оляпка
+
+-lexeme
+ lex: язва
+ stem: язва.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: зародыш в яйце
+
+-lexeme
+ lex: ялавеч
+ stem: ялавеч.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: яловица, нетель
+
+-lexeme
+ lex: ялэй
+ stem: ялэ.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: нетель
+
+-lexeme
+ lex: ялӧвича
+ stem: ялӧвича.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: яловица, нетель
+
+-lexeme
+ lex: ярка
+ stem: ярка.
+ gramm: N,anim,rus
+ paradigm: Noun-num-vowel
+ trans_ru: полугодовалая овца
+
+-lexeme
+ lex: яшшӧр
+ stem: яшшӧр.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+-lexeme
+ lex: ёв
+ stem: ёв.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: глист
+
+-lexeme
+ lex: ёды
+ stem: ёды.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: лещ
+
+-lexeme
+ lex: ёкиш
+ stem: ёкиш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: окунь
+
+-lexeme
+ lex: ёкним
+ stem: ёкним.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жабры
+
+-lexeme
+ lex: ёкуш
+ stem: ёкуш.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: окунь
+
+-lexeme
+ lex: ёкчим
+ stem: ёкчим.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ trans_ru: жабры
+
+-lexeme
+ lex: ёлькытш
+ stem: ёлькытш.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: раковина
+
+-lexeme
+ lex: ёрш
+ stem: ёрш.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ёрш
+
+-lexeme
+ lex: ёсёв
+ stem: ёсёв.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: ящерица живородящая
+
+-lexeme
+ lex: ӧбрат
+ stem: ӧбрат.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: обрат
+
+-lexeme
+ lex: ӧлчина
+ stem: ӧлчина.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: овчина
+
+-lexeme
+ lex: ӧрга
+ stem: ӧрга.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: пескарь
+
+-lexeme
+ lex: ӧрин
+ stem: ӧрин.
+ gramm: N,anim
+ paradigm: Noun-num-consonant
+ trans_ru: пескарь
+
+-lexeme
+ lex: ӧшей
+ stem: ӧше.
+ gramm: N,anim
+ paradigm: Noun-num-j
+ trans_ru: бык, вол
+
+-lexeme
+ lex: ӧшкапи
+ stem: ӧшкапи.
+ gramm: N,anim
+ paradigm: Noun-num-pi
+ trans_ru: бычок
+
