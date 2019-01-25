@@ -9,58 +9,118 @@
   gramm: comp
   gloss: COMP
 
+-paradigm: Adverbials-final
+ -flex: .
+  gramm: 
+ -flex: .джык
+  gramm: comp
+  gloss: COMP
+ -flex: .ӧсь
+  gramm: pl
+  gloss: PL.PRED
+ -flex: .ӧсь|джык
+  gramm: comp,pl
+  gloss: PL.PRED|COMP
+ -flex: .джык|ӧсь
+  gramm: comp,pl
+  gloss: COMP|PL.PRED
+
 
 
 -paradigm: Noun-num-consonant
  -flex: .<.>
   gramm: sg
+  paradigm: Noun-caseposs
  -flex: .ъяс<.>
   gramm: pl
   gloss: PL
+  paradigm: Noun-caseposs
  -flex: .ьяс<.>
   gramm: pl
   gloss: PL
   regex-prev: .*[чщ][<>.]*$
- paradigm: Noun-caseposs
+  paradigm: Noun-caseposs
+ -flex: .а<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: .тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-vowel
  -flex: .<.>
   gramm: sg
+  paradigm: Noun-caseposs
  -flex: .яс<.>
   gramm: pl
   gloss: PL
- paradigm: Noun-caseposs
+  paradigm: Noun-caseposs
+ -flex: .а<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: .тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-v_l
  -flex: <0>.<.>
   gramm: sg
+  paradigm: Noun-nom
   paradigm: Noun-caseposs_consonant
  -flex: <1>.<.>
   gramm: sg
-  paradigm: Noun-caseposs_vowel  
+  paradigm: Noun-caseposs_vowel
  -flex: <0>.ъяс<.>
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <1>.а<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: <0>.тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-obl_j
  -flex: .<.>
   gramm: sg
+  paradigm: Noun-nom
   paradigm: Noun-caseposs_consonant
  -flex: .[й]<.>
   gramm: sg
   paradigm: Noun-caseposs_vowel_ə
- -flex: .[ъ]<.>
+ -flex: .ъ<.>
   gramm: sg
   paradigm: Noun-caseposs_vowel_ja
  -flex: .ъяс<.>
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs 
+ -flex: .я<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+  regex-prev: .*[аеёиоӧуыэюяі][.<>]*$
+ -flex: .ъя<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+  regex-prev: .*[^.<>аеёиоӧуыэюяі][.<>]*$
+ -flex: <0>.тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-obl_cons
  -flex: <0>.<.>
   gramm: sg
+  paradigm: Noun-nom
   paradigm: Noun-caseposs_consonant
  -flex: <1>.<.>
   gramm: sg
@@ -69,23 +129,41 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <1>.а<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: <0>.тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-j
  -flex: .[й]<.>
   gramm: sg
+  paradigm: Noun-nom
   paradigm: Noun-caseposs_consonant
   paradigm: Noun-caseposs_vowel_ə
  -flex: .<.>
   gramm: sg
-  paradigm:Noun-caseposs_vowel_ja
+  paradigm: Noun-caseposs_vowel_ja
  -flex: .[й]яс<.>
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: .я<.>//.[й]я<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: .[й]тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-CC'
  -flex: <0>.<.>
   gramm: sg
+  paradigm: Noun-nom
   paradigm: Noun-caseposs_consonant
  -flex: <1>.<.>
   gramm: sg
@@ -97,10 +175,19 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <1>.я<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: <0>.тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-ddz
  -flex: <0>.<.>
   gramm: sg
+  paradigm: Noun-nom
   paradigm: Noun-caseposs_consonant
  -flex: <1>.[з]<.>
   gramm: sg
@@ -109,10 +196,19 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <1>.[з]а<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: <0>.тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-soft
  -flex: .[ь]<.>
   gramm: sg
+  paradigm: Noun-nom
   paradigm: Noun-caseposs_consonant
   paradigm: Noun-caseposs_vowel_ə
  -flex: .<.>
@@ -122,24 +218,143 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: .я<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: .[ь]тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 -paradigm: Noun-num-pi
  -flex: .<.>
   gramm: sg
-  gloss: SG
   paradigm: Noun-caseposs
- -flex: .ян<.>
+ -flex: .яс<.>//.ян<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-caseposs
+ -flex: .а<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: .тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
+
+
+
+-paradigm: Adj-consonant
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-caseposs
+ -flex: .джык<.>
+  gramm: sg,comp
+  gloss: COMP
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_a
+  paradigm: Noun-caseposs_vowel_ə
+ -flex: .ӧсь<.>
+  gramm: pl
+  gloss: PL.PRED
+  paradigm: Clitics
+ -flex: .ъяс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-caseposs
+ -flex: .ьяс<.>
+  gramm: pl
+  gloss: PL
+  regex-prev: .*[чщ][<>.]*$
+  paradigm: Noun-caseposs
+
+-paradigm: Adj-vowel
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-caseposs
+ -flex: .джык<.>
+  gramm: sg,comp
+  gloss: COMP
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_a
+  paradigm: Noun-caseposs_vowel_ə
+ -flex: .ӧсь<.>
+  gramm: pl
+  gloss: PL.PRED
+  paradigm: Clitics
+ -flex: .яс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-caseposs
+
+-paradigm: Adj-soft
+ -flex: .[ь]<.>
+  gramm: sg
+  paradigm: Noun-nom
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_ə
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-caseposs_vowel_ja
+ -flex: .[ь]джык<.>
+  gramm: sg,comp
+  gloss: COMP
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_a
+  paradigm: Noun-caseposs_vowel_ə
+ -flex: .[ь]ӧсь<.>
+  gramm: pl
+  gloss: PL.PRED
+  paradigm: Clitics
+ -flex: .[ь]яс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-caseposs
+
+-paradigm: Adj-j
+ -flex: .[й]<.>
+  gramm: sg
+  paradigm: Noun-nom
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_ə
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-caseposs_vowel_ja
+ -flex: .[й]джык<.>
+  gramm: sg,comp
+  gloss: COMP
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_a
+  paradigm: Noun-caseposs_vowel_ə
+ -flex: .[й]ӧсь<.>
+  gramm: pl
+  gloss: PL.PRED
+  paradigm: Clitics
+ -flex: .[й]яс<.>
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
 
 
+-paradigm: Noun-nom
+ -flex: .
+  gramm: nom
+ -flex: .джык
+  gramm: comp
+  gloss: COMP
 
 -paradigm: Noun-caseposs
+ -flex: .
+  gramm: nom
+ -flex: .джык
+  gramm: comp
+  gloss: COMP
  -flex: .<.>
-  gramm:
- paradigm: Noun-caseposs_consonant
- paradigm: Noun-caseposs_vowel
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_a
+  paradigm: Noun-caseposs_vowel_ə
 
 -paradigm: Noun-caseposs_vowel
  -flex: .<.>
@@ -148,8 +363,6 @@
  paradigm: Noun-caseposs_vowel_ə
 
 -paradigm: Noun-caseposs_consonant
- -flex: .<.>
-  gramm: nom
  -flex: .лӧн<.>
   gramm: gen
   gloss: GEN
@@ -288,7 +501,7 @@
  -flex: .ныд<.>
   gramm: nom,2pl
   gloss: 2PL
- -flex: .ныд|ӧ<.>
+ -flex: .ныт|ӧ<.>//.ныд|ӧ<.>
   gramm: acc,2pl
   gloss: 2PL|ACC
  -flex: .ныд|лӧн<.>
@@ -371,7 +584,7 @@
  -flex: .тi|ныс<.>
   gramm: trans,3pl
   gloss: TRANS|3PL  
- paradigm: Clitics
+ paradigm: Adverbials-final
 
 -paradigm: Noun-caseposs_vowel_ə
  -flex: .ӧс<.>
@@ -396,12 +609,12 @@
   gramm: term
   gloss: TERM
 
- -flex: .ӧй<.>
+ -flex: .ӧй<.>//.ӧ<.>
   gramm: nom,1sg
   gloss: 1SG
  -flex: .ӧс<.>
-  gramm: acc
-  gloss: ACC,1SG
+  gramm: acc,1sg
+  gloss: ACC
  -flex: .ӧй|лӧн<.>
   gramm: 1sg,gen
   gloss: 1SG|GEN
@@ -482,7 +695,7 @@
   gramm: term,3sg
   gloss: TERM|3SG
 
- -flex: ӧд|ныд<.>
+ -flex: .ӧд|ныд<.>
   gramm: prol,2pl
   gloss: PROL|2PL
  -flex: .ӧдз|ныд<.>
@@ -494,7 +707,7 @@
  -flex: .ӧдз|ныс<.>
   gramm: term,3pl
   gloss: TERM|3PL
- paradigm: Clitics
+ paradigm: Adverbials-final
 
 -paradigm: Noun-caseposs_vowel_a 
  -flex: .а|м<.>
@@ -539,7 +752,7 @@
  -flex: .а|ныс<.>
   gramm: ill,3pl
   gloss: ILL|3PL
- paradigm: Clitics
+ paradigm: Adverbials-final
 
 
 
@@ -597,33 +810,5 @@
   gramm: ill,3pl
   gloss: ILL|3PL
   regex-prev: ^.*[ьй][.<>]*$
- paradigm: Clitics
+ paradigm: Adverbials-final
 
-
-
--paradigm: Adjective
- -flex: .<.>
-  gramm:
- paradigm: Adjective-num
- paradigm: Adjective-case
- paradigm: Adjective-comparative
-
--paradigm: Adjective-num
- -flex: .<.>
-  gramm:
- paradigm: Adjective-case
- -flex: .ӧсь 
-  gramm: pl
-  gloss: PL.ADJ
-
--paradigm: Adjective-case
- -flex: .
- -flex: .ӧн
-  gramm: ins
-  gloss: INS
-
--paradigm: Adjective-comparative
- -flex: .джык<.>
-  gramm: comp
-  gloss: COMP
-  paradigm: Adjective-num
