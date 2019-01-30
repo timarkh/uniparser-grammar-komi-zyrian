@@ -16211,6 +16211,13 @@
  trans_ru: музыкальный
 
 -lexeme
+ lex: мукӧд
+ stem: мукӧд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: другой
+
+-lexeme
  lex: мунан
  stem: мунан.
  gramm: A
