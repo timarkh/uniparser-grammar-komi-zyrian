@@ -1,0 +1,1976 @@
+﻿####################################################################
+#                                                                  #
+#                         Personal pronouns                        #
+#                                                                  #
+####################################################################
+
+# 1sg
+
+-lexeme
+ lex: ме
+ stem: ме.
+ gramm: PRO,pers,1,sg,nom
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: менӧ.
+ gramm: PRO,pers,1,sg,acc
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: менам.
+ gramm: PRO,pers,1,sg,gen
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: менсьым.
+ gramm: PRO,pers,1,sg,abl
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меным.|мем.
+ gramm: PRO,pers,1,sg,dat
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: мекӧд.
+ gramm: PRO,pers,1,sg,com
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: метӧг.
+ gramm: PRO,pers,1,sg,car
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меӧн.
+ gramm: PRO,pers,1,sg,ins
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: мела.
+ gramm: PRO,pers,1,sg,cns
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меся.
+ gramm: PRO,pers,1,sg,pr
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меын.
+ gramm: PRO,pers,1,sg,loc
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меысь.
+ gramm: PRO,pers,1,sg,el
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меӧ.
+ gramm: PRO,pers,1,sg,ill
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меті.//меӧд.
+ gramm: PRO,pers,1,sg,prol
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: месянь.
+ gramm: PRO,pers,1,sg,egr
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: меӧдз.
+ gramm: PRO,pers,1,sg,term
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: ме
+ stem: мелань.
+ gramm: PRO,pers,1,sg,app
+ paradigm: Clitics
+ trans_ru: я
+
+
+
+# 2sg
+
+-lexeme
+ lex: тэ
+ stem: тэ.
+ gramm: PRO,pers,2,sg,nom
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэнӧ.
+ gramm: PRO,pers,2,sg,acc
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэнад.
+ gramm: PRO,pers,2,sg,gen
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэнсьыд.
+ gramm: PRO,pers,2,sg,abl
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэныд.|тэд.
+ gramm: PRO,pers,2,sg,dat
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэкӧд.
+ gramm: PRO,pers,2,sg,com
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэтӧг.
+ gramm: PRO,pers,2,sg,car
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэӧн.
+ gramm: PRO,pers,2,sg,ins
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэла.
+ gramm: PRO,pers,2,sg,cns
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэся.
+ gramm: PRO,pers,2,sg,pr
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэын.
+ gramm: PRO,pers,2,sg,loc
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэысь.
+ gramm: PRO,pers,2,sg,el
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэӧ.
+ gramm: PRO,pers,2,sg,ill
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэті.//тэӧд.
+ gramm: PRO,pers,2,sg,prol
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэсянь.
+ gramm: PRO,pers,2,sg,egr
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэӧдз.
+ gramm: PRO,pers,2,sg,term
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тэ
+ stem: тэлань.
+ gramm: PRO,pers,2,sg,app
+ paradigm: Clitics
+ trans_ru: ты
+
+
+
+
+
+
+# 3sg
+
+-lexeme
+ lex: сійӧ
+ stem: сы.
+ gramm: PRO,dem,3,sg,short
+ paradigm: Clitics
+ trans_ru: тот
+
+-lexeme
+ lex: сійӧ
+ stem: сійӧ.
+ gramm: PRO,dem,3,sg
+ paradigm: Clitics
+ trans_ru: тот
+
+-lexeme
+ lex: эсійӧ
+ stem: эсы.
+ gramm: PRO,dem,3,sg,short
+ paradigm: Clitics
+ trans_ru: вон тот
+
+-lexeme
+ lex: эсійӧ
+ stem: эсійӧ.
+ gramm: PRO,dem,3,sg
+ paradigm: Clitics
+ trans_ru: вон тот
+
+-lexeme
+ lex: сійӧ
+ stem: сы.
+ gramm: PRO,pers,3,sg,nom,short
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сійӧ.
+ gramm: PRO,pers,3,sg,nom
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сія.
+ gramm: PRO,pers,3,sg,nom,koi
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сійӧс.
+ gramm: PRO,pers,3,sg,acc
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сілӧн.
+ gramm: PRO,pers,3,sg,gen
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сілысь.
+ gramm: PRO,pers,3,sg,abl
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сылы.
+ gramm: PRO,pers,3,sg,dat
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыкӧд.
+ gramm: PRO,pers,3,sg,com
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сытӧг.
+ gramm: PRO,pers,3,sg,car
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сійӧн.//сыӧн.
+ gramm: PRO,pers,3,sg,ins
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыла.
+ gramm: PRO,pers,3,sg,cns
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыся.
+ gramm: PRO,pers,3,sg,pr
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыын.
+ gramm: PRO,pers,3,sg,loc
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыысь.
+ gramm: PRO,pers,3,sg,el
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыӧ.
+ gramm: PRO,pers,3,sg,ill
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыті.//сыӧд.
+ gramm: PRO,pers,3,sg,prol
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сысянь.
+ gramm: PRO,pers,3,sg,egr
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сыӧдз.
+ gramm: PRO,pers,3,sg,term
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сійӧ
+ stem: сылань.
+ gramm: PRO,pers,3,sg,app
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+
+
+
+
+-lexeme
+ lex: тайӧ
+ stem: та.
+ gramm: PRO,dem,3,sg,short
+ paradigm: Clitics
+ trans_ru: этот
+
+-lexeme
+ lex: тайӧ
+ stem: тайӧ.
+ gramm: PRO,dem,3,sg
+ paradigm: Clitics
+ trans_ru: этот
+
+-lexeme
+ lex: этайӧ
+ stem: эта.
+ gramm: PRO,dem,3,sg,short
+ paradigm: Clitics
+ trans_ru: вот этот
+
+-lexeme
+ lex: этайӧ
+ stem: этайӧ.
+ gramm: PRO,dem,3,sg
+ paradigm: Clitics
+ trans_ru: вот этот
+
+-lexeme
+ lex: тайӧ
+ stem: та.
+ gramm: PRO,pers,3,sg,nom,short
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: тайӧ.
+ gramm: PRO,pers,3,sg,nom
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: тая.
+ gramm: PRO,pers,3,sg,nom,koi
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: тайӧс.
+ gramm: PRO,pers,3,sg,acc
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: талӧн.
+ gramm: PRO,pers,3,sg,gen
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: талысь.
+ gramm: PRO,pers,3,sg,abl
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: талы.
+ gramm: PRO,pers,3,sg,dat
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: такӧд.
+ gramm: PRO,pers,3,sg,com
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: татӧг.
+ gramm: PRO,pers,3,sg,car
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: тайӧн.//таӧн.
+ gramm: PRO,pers,3,sg,ins
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: тала.
+ gramm: PRO,pers,3,sg,cns
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: тася.
+ gramm: PRO,pers,3,sg,pr
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: таын.
+ gramm: PRO,pers,3,sg,loc
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: таысь.
+ gramm: PRO,pers,3,sg,el
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: таӧ.
+ gramm: PRO,pers,3,sg,ill
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: таті.//таӧд.
+ gramm: PRO,pers,3,sg,prol
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: тасянь.
+ gramm: PRO,pers,3,sg,egr
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: таӧдз.
+ gramm: PRO,pers,3,sg,term
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+-lexeme
+ lex: тайӧ
+ stem: талань.
+ gramm: PRO,pers,3,sg,app
+ paradigm: Clitics
+ trans_ru: он, она, оно (присутствующий)
+
+
+
+# 1pl
+
+-lexeme
+ lex: ми
+ stem: ми.
+ gramm: PRO,pers,1,pl,nom
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянӧс.
+ gramm: PRO,pers,1,pl,acc
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миян.
+ gramm: PRO,pers,1,pl,gen
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянлысь.
+ gramm: PRO,pers,1,pl,abl
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянлы.
+ gramm: PRO,pers,1,pl,dat
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянкӧд.
+ gramm: PRO,pers,1,pl,com
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянтӧг.
+ gramm: PRO,pers,1,pl,car
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянӧн.
+ gramm: PRO,pers,1,pl,ins
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянла.
+ gramm: PRO,pers,1,pl,cns
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянся.
+ gramm: PRO,pers,1,pl,pr
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянын.
+ gramm: PRO,pers,1,pl,loc
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянысь.
+ gramm: PRO,pers,1,pl,el
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянӧ.
+ gramm: PRO,pers,1,pl,ill
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянті.//миянӧд.
+ gramm: PRO,pers,1,pl,prol
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянсянь.
+ gramm: PRO,pers,1,pl,egr
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянӧдз.
+ gramm: PRO,pers,1,pl,term
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: ми
+ stem: миянлань.
+ gramm: PRO,pers,1,pl,app
+ paradigm: Clitics
+ trans_ru: мы
+
+
+
+# 2pl
+
+-lexeme
+ lex: ті
+ stem: ті.
+ gramm: PRO,pers,2,pl,nom
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянӧс.
+ gramm: PRO,pers,2,pl,acc
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіян.
+ gramm: PRO,pers,2,pl,gen
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянлысь.
+ gramm: PRO,pers,2,pl,abl
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянлы.
+ gramm: PRO,pers,2,pl,dat
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянкӧд.
+ gramm: PRO,pers,2,pl,com
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянтӧг.
+ gramm: PRO,pers,2,pl,car
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянӧн.
+ gramm: PRO,pers,2,pl,ins
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянла.
+ gramm: PRO,pers,2,pl,cns
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянся.
+ gramm: PRO,pers,2,pl,pr
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянын.
+ gramm: PRO,pers,2,pl,loc
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянысь.
+ gramm: PRO,pers,2,pl,el
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянӧ.
+ gramm: PRO,pers,2,pl,ill
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянті.//тіянӧд.
+ gramm: PRO,pers,2,pl,prol
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянсянь.
+ gramm: PRO,pers,2,pl,egr
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянӧдз.
+ gramm: PRO,pers,2,pl,term
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: ті
+ stem: тіянлань.
+ gramm: PRO,pers,2,pl,app
+ paradigm: Clitics
+ trans_ru: вы
+
+
+
+
+
+
+# 3pl
+
+-lexeme
+ lex: найӧ
+ stem: на.
+ gramm: PRO,pers,3,pl,nom,short
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: найӧ.
+ gramm: PRO,pers,3,pl,nom
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: найӧс.//найӧӧс.
+ gramm: PRO,pers,3,pl,acc
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: налӧн.//найӧлӧн.//найӧяслӧн.
+ gramm: PRO,pers,3,pl,gen
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: налысь.//найӧлысь.//найӧяслысь.
+ gramm: PRO,pers,3,pl,abl
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: налы.//найӧлы.//найӧяслы.
+ gramm: PRO,pers,3,pl,dat
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: накӧд.
+ gramm: PRO,pers,3,pl,com
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: натӧг.
+ gramm: PRO,pers,3,pl,car
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: наӧн.//найӧн.
+ gramm: PRO,pers,3,pl,ins
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: нала.
+ gramm: PRO,pers,3,pl,cns
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: нася.
+ gramm: PRO,pers,3,pl,pr
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: наын.//найӧясын.
+ gramm: PRO,pers,3,pl,loc
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: наысь.//найӧясысь.
+ gramm: PRO,pers,3,pl,el
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: наӧ.//найӧясӧ.
+ gramm: PRO,pers,3,pl,ill
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: наті.//наӧд.
+ gramm: PRO,pers,3,pl,prol
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: насянь.
+ gramm: PRO,pers,3,pl,egr
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: наӧдз.
+ gramm: PRO,pers,3,pl,term
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: найӧ
+ stem: налань.
+ gramm: PRO,pers,3,pl,app
+ paradigm: Clitics
+ trans_ru: они
+
+
+
+####################################################################
+#                                                                  #
+#                        Reflexive pronouns                        #
+#                                                                  #
+####################################################################
+
+
+-lexeme
+ lex: ас
+ stem: ас.
+ gramm: PRO,refl,nom,short
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+
+# 1sg
+
+-lexeme
+ lex: ас
+ stem: ачым.
+ gramm: PRO,refl,1,sg,nom
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачымӧс.
+ gramm: PRO,refl,1,sg,acc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслам.
+ gramm: PRO,refl,1,sg,gen
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьым.
+ gramm: PRO,refl,1,sg,abl
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслым.
+ gramm: PRO,refl,1,sg,dat
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдым.
+ gramm: PRO,refl,1,sg,com
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астӧгым.
+ gramm: PRO,refl,1,sg,car
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачымӧн.
+ gramm: PRO,refl,1,sg,ins
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асла.//асымла.
+ gramm: PRO,refl,1,sg,cns
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асся.//ассям.
+ gramm: PRO,refl,1,sg,pr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачымын.
+ gramm: PRO,refl,1,sg,loc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачымысь.//ассьым.
+ gramm: PRO,refl,1,sg,el
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачымӧ.
+ gramm: PRO,refl,1,sg,ill
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асті.//астіым.
+ gramm: PRO,refl,1,sg,prol
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассяньым.
+ gramm: PRO,refl,1,sg,egr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асӧдз.
+ gramm: PRO,refl,1,sg,term
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланьым.
+ gramm: PRO,refl,1,sg,app
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+
+
+# 2sg
+
+-lexeme
+ lex: ас
+ stem: ачыд.
+ gramm: PRO,refl,2,sg,nom
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтӧ.
+ gramm: PRO,refl,2,sg,acc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслад.
+ gramm: PRO,refl,2,sg,gen
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыд.
+ gramm: PRO,refl,2,sg,abl
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыд.
+ gramm: PRO,refl,2,sg,dat
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдыд.
+ gramm: PRO,refl,2,sg,com
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астӧгыд.
+ gramm: PRO,refl,2,sg,car
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аснад.
+ gramm: PRO,refl,2,sg,ins
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асыдла.
+ gramm: PRO,refl,2,sg,cns
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асыдся.//ассяд.
+ gramm: PRO,refl,2,sg,pr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асад.
+ gramm: PRO,refl,2,sg,loc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачыдысь.//ассьыд.
+ gramm: PRO,refl,2,sg,el
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асад.
+ gramm: PRO,refl,2,sg,ill
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астіыд.
+ gramm: PRO,refl,2,sg,prol
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассяньыд.
+ gramm: PRO,refl,2,sg,egr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асӧдзыд.
+ gramm: PRO,refl,2,sg,term
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланьыд.
+ gramm: PRO,refl,2,sg,app
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+
+
+
+
+
+# 3sg
+
+-lexeme
+ lex: ас
+ stem: ачыс.
+ gramm: PRO,refl,3,sg,nom
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсӧ.
+ gramm: PRO,refl,3,sg,acc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслас.
+ gramm: PRO,refl,3,sg,gen
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыс.
+ gramm: PRO,refl,3,sg,abl
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыс.
+ gramm: PRO,refl,3,sg,dat
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдыс.
+ gramm: PRO,refl,3,sg,com
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астӧгыс.
+ gramm: PRO,refl,3,sg,car
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аснас.
+ gramm: PRO,refl,3,sg,ins
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асысла.
+ gramm: PRO,refl,3,sg,cns
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асысся.//ассяс.
+ gramm: PRO,refl,3,sg,pr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асас.
+ gramm: PRO,refl,3,sg,loc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыс.//ачысысь.
+ gramm: PRO,refl,3,sg,el
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асас.
+ gramm: PRO,refl,3,sg,ill
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астіыс.
+ gramm: PRO,refl,3,sg,prol
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассяньыс.
+ gramm: PRO,refl,3,sg,egr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асӧдзыс.
+ gramm: PRO,refl,3,sg,term
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланьыс.
+ gramm: PRO,refl,3,sg,app
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+
+
+# 1pl
+
+-lexeme
+ lex: ас
+ stem: асьным.
+ gramm: PRO,refl,1,pl,nom
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнымӧс.
+ gramm: PRO,refl,1,pl,acc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланым.//асланымлӧн.
+ gramm: PRO,refl,1,pl,gen
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыным.//асланыдлысь.
+ gramm: PRO,refl,1,pl,abl
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланым.//асланымлы.//аслынымлы.
+ gramm: PRO,refl,1,pl,dat
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдным.//асланымкӧд.
+ gramm: PRO,refl,1,pl,com
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астӧгным.//асланымтӧг.
+ gramm: PRO,refl,1,pl,car
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аснаным.//асланымӧн.
+ gramm: PRO,refl,1,pl,ins
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнымла.//асланымла.
+ gramm: PRO,refl,1,pl,cns
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнымся.//ассяным.//асланымся.
+ gramm: PRO,refl,1,pl,pr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асаным.//асланымын.
+ gramm: PRO,refl,1,pl,loc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнымысь.//асланымысь.
+ gramm: PRO,refl,1,pl,el
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асаным.//асланымӧ.
+ gramm: PRO,refl,1,pl,ill
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астіным.//асланымті.
+ gramm: PRO,refl,1,pl,prol
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассяньным.//асланымсянь.
+ gramm: PRO,refl,1,pl,egr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асӧдзным.//асланымӧдз.
+ gramm: PRO,refl,1,pl,term
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланьным.//асланымлань.
+ gramm: PRO,refl,1,pl,app
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+
+
+# 2pl
+
+-lexeme
+ lex: ас
+ stem: асьныд.
+ gramm: PRO,refl,2,pl,nom
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнытӧ.
+ gramm: PRO,refl,2,pl,acc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланыд.//асланыдлӧн.
+ gramm: PRO,refl,2,pl,gen
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыныд.//асланыдлысь.
+ gramm: PRO,refl,2,pl,abl
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыныд.//асланыдлы.//аслыныдлы.
+ gramm: PRO,refl,2,pl,dat
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдныд.//асланыдкӧд.
+ gramm: PRO,refl,2,pl,com
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астӧгныд.//асланыдтӧг.
+ gramm: PRO,refl,2,pl,car
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аснаныд.//асланыдӧн.
+ gramm: PRO,refl,2,pl,ins
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьныдла.//асланыдла.
+ gramm: PRO,refl,2,pl,cns
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьныдся.//ассяныд.//асланыдся.
+ gramm: PRO,refl,2,pl,pr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асаныд.//асланыдын.
+ gramm: PRO,refl,2,pl,loc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьныдысь.//асланыдысь.
+ gramm: PRO,refl,2,pl,el
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асаныд.//асланыдӧ.
+ gramm: PRO,refl,2,pl,ill
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астіныд.//асланыдті.
+ gramm: PRO,refl,2,pl,prol
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассяньныд.//асланыдсянь.
+ gramm: PRO,refl,2,pl,egr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асӧдзныд.//асланыдӧдз.
+ gramm: PRO,refl,2,pl,term
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланьныд.//асланыдлань.
+ gramm: PRO,refl,2,pl,app
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+
+
+# 3pl
+
+-lexeme
+ lex: ас
+ stem: асьныс.
+ gramm: PRO,refl,3,pl,nom
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнысӧ.
+ gramm: PRO,refl,3,pl,acc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланыс.//асланыслӧн.
+ gramm: PRO,refl,3,pl,gen
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассьыныс.//асланыслысь.
+ gramm: PRO,refl,3,pl,abl
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыныс.//асланыслы.//аслыныслы.
+ gramm: PRO,refl,3,pl,dat
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аскӧдныс.//асланыскӧд.
+ gramm: PRO,refl,3,pl,com
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астӧгныс.//асланыстӧг.
+ gramm: PRO,refl,3,pl,car
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аснаныс.//асланысӧн.
+ gramm: PRO,refl,3,pl,ins
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнысла.//асланысла.
+ gramm: PRO,refl,3,pl,cns
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнысся.//ассяныс.//асланысся.
+ gramm: PRO,refl,3,pl,pr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асаныс.//асланысын.
+ gramm: PRO,refl,3,pl,loc
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьнысысь.//асланысысь.
+ gramm: PRO,refl,3,pl,el
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асаныс.//асланысӧ.
+ gramm: PRO,refl,3,pl,ill
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астіныс.//асланысті.
+ gramm: PRO,refl,3,pl,prol
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассяньныс.//асланыссянь.
+ gramm: PRO,refl,3,pl,egr
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асӧдзныс.//асланысӧдз.
+ gramm: PRO,refl,3,pl,term
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асланьныс.//асланыслань.
+ gramm: PRO,refl,3,pl,app
+ paradigm: Clitics
+ trans_ru: сам, свой
+
+
+
+
+
+####################################################################
+#                                                                  #
+#                          Other pronouns                          #
+#                                                                  #
+####################################################################
+
+
+-lexeme
+ lex: код
+ stem: код.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: который, кто
+
+-lexeme
+ lex: код
+ stem: коді.
+ gramm: PRO,sg,nom
+ paradigm: Clitics
+ trans_ru: который, кто
+
+-lexeme
+ lex: некод
+ stem: некод.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: никоторый, никто
+
+-lexeme
+ lex: некод
+ stem: некоді.
+ gramm: PRO,sg,nom
+ paradigm: Clitics
+ trans_ru: никоторый, никто
+
+-lexeme
+ lex: мый
+ stem: мы.
+ gramm: PRO
+ paradigm: Noun-num-j
+ trans_ru: что
+
+-lexeme
+ lex: нинӧм
+ stem: нинӧм.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: ничто
+
+-lexeme
+ lex: немтор
+ stem: немтор.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: ничто
+
+-lexeme
+ lex: кыдзи
+ stem: кыдзи.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как
+
+-lexeme
+ lex: кыдз
+ stem: кыдз.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как
+
+-lexeme
+ lex: тадзи
+ stem: тадзи.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так
+
+-lexeme
+ lex: тадз
+ stem: тадз.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так
+
+-lexeme
+ lex: сідзи
+ stem: сідзи.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так
+
+-lexeme
+ lex: сідз
+ stem: сідз.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так
+
+-lexeme
+ lex: кымын
+ stem: кымын.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько
+
+-lexeme
+ lex: кымынысь
+ stem: кымынысь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько раз
+
+-lexeme
+ lex: мыйта
+ stem: мыйта.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько
+
+-lexeme
+ lex: мыйсяма
+ stem: мыйсяма.
+ gramm: APRO
+ paradigm: Adj-vowel
+ trans_ru: какой
+
+-lexeme
+ lex: кутшӧм
+ stem: кутшӧм.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: какой
+
+-lexeme
+ lex: некутшӧм
+ stem: некутшӧм.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: никакой
+
+-lexeme
+ lex: кымынӧд
+ stem: кымынӧд.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: какой
+
+-lexeme
+ lex: некымынӧд
+ stem: некымынӧд.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: никакой
+
+-lexeme
+ lex: татшӧм
+ stem: татшӧм.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: такой
+
+-lexeme
+ lex: сэтшӧм
+ stem: сэтшӧм.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: такой
+
+-lexeme
+ lex: этатшӧм
+ stem: этатшӧм.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: вот такой
+
+-lexeme
+ lex: эстшӧм
+ stem: эстшӧм.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: вот такой
+
+-lexeme
+ lex: став
+ stem: став.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: весь
+
+-lexeme
+ lex: быд
+ stem: быд.
+ gramm: APRO
+ paradigm: Adj-consonant
+ trans_ru: каждый
+
+
+
+
+-lexeme
+ lex: кысь
+ stem: кысь.
+ gramm: ADVPRO,el
+ paradigm: Clitics
+ trans_ru: откуда
+
+-lexeme
+ lex: кытысь
+ stem: кытысь.
+ gramm: ADVPRO,el
+ paradigm: Clitics
+ trans_ru: откуда
+
+-lexeme
+ lex: кӧн
+ stem: кӧн.
+ gramm: ADVPRO,loc
+ paradigm: Clitics
+ trans_ru: где
+
+-lexeme
+ lex: кытчӧ
+ stem: кытчӧ.
+ gramm: ADVPRO,ill
+ paradigm: Clitics
+ trans_ru: куда
+
+-lexeme
+ lex: кыт
+ stem: кыт.
+ gramm: ADVPRO,prol
+ paradigm: Clitics
+ trans_ru: где, по какому месту
+
+-lexeme
+ lex: кыті
+ stem: кыті.
+ gramm: ADVPRO,prol
+ paradigm: Clitics
+ trans_ru: где, по какому месту
+
+-lexeme
+ lex: кытчӧдз
+ stem: кытчӧдз.
+ gramm: ADVPRO,term
+ paradigm: Clitics
+ trans_ru: докуда
+
+-lexeme
+ lex: кысянь
+ stem: кысянь.
+ gramm: ADVPRO,egr
+ paradigm: Clitics
+ trans_ru: откуда, от какого места

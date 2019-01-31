@@ -8,6 +8,14 @@
  -flex: .джык
   gramm: comp
   gloss: COMP
+ -flex: .кӧ
+  gramm: indef
+  gloss: INDEF
+  regex-stem: ^(код|кутшӧм|мый|кымын(ысь?)|кыдзи?|кӧн|кысь|кысянь|кытчӧ|кытысь|кытчӧдз|кыті?)[.<>]*$
+ -flex: .сюрӧ
+  gramm: indef
+  gloss: INDEF
+  regex-stem: ^(код|кутшӧм|мый|кымын(ысь?)|кыдзи?|кӧн|кысь|кысянь|кытчӧ|кытысь|кытчӧдз|кыті?)[.<>]*$
 
 -paradigm: Adverbials-final
  -flex: .
@@ -427,11 +435,11 @@
   gramm: egr
   gloss: EGR
  -flex: .тi<.>
-  gramm: trans
-  gloss: TRANS
+  gramm: prol
+  gloss: PROL
  -flex: .тi|ым<.>
-  gramm: trans,1sg
-  gloss: TRANS|1SG
+  gramm: prol,1sg
+  gloss: PROL|1SG
 
  -flex: .на|м<.>
   gramm: ins,1sg
@@ -462,8 +470,8 @@
   gramm: egr,2sg
   gloss: EGR|2SG
  -flex: .тi|ыд<.>
-  gramm: trans,2sg
-  gloss: TRANS|2SG
+  gramm: prol,2sg
+  gloss: PROL|2SG
 
  -flex: .с|ӧ<.>
   gramm: acc,3sg
@@ -488,8 +496,8 @@
   gloss: EGR|3SG
 
  -flex: .тi|ыс<.>
-  gramm: trans,3sg
-  gloss: TRANS|3SG
+  gramm: prol,3sg
+  gloss: PROL|3SG
 
  -flex: .ным<.>
   gramm: nom,1pl
@@ -531,8 +539,8 @@
   gramm: egr,1pl
   gloss: EGR|1PL
  -flex: .тi|ным<.>
-  gramm: trans,1pl
-  gloss: TRANS|1PL 
+  gramm: prol,1pl
+  gloss: PROL|1PL 
 
  -flex: .ныд<.>
   gramm: nom,2pl
@@ -575,8 +583,8 @@
   gramm: egr,2pl
   gloss: EGR|2PL  
  -flex: .тi|ныд<.>
-  gramm: trans,2pl
-  gloss: TRANS|2PL  
+  gramm: prol,2pl
+  gloss: PROL|2PL  
 
  -flex: .ныс<.>
   gramm: nom,3pl
@@ -618,8 +626,8 @@
   gramm: egr,3pl
   gloss: EGR|3PL
  -flex: .тi|ныс<.>
-  gramm: trans,3pl
-  gloss: TRANS|3PL  
+  gramm: prol,3pl
+  gloss: PROL|3PL  
  paradigm: Adverbials-final
 
 -paradigm: Noun-caseposs_vowel_ə

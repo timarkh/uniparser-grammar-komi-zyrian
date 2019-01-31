@@ -116544,7 +116544,7 @@
 -lexeme
  lex: чӧс
  stem: чӧс.|чӧск.
- gramm: N,body
+ gramm: N
  paradigm: Noun-num-obl_cons
  trans_ru: ловушка
 
