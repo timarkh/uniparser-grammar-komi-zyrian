@@ -116934,6 +116934,13 @@
  trans_ru: шаньга
 
 -lexeme
+ lex: шаньги
+ stem: шаньги.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: шаньга
+
+-lexeme
  lex: шаньлун
  stem: шаньлун.
  gramm: N,nmlz_lun
