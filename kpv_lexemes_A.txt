@@ -846,6 +846,13 @@
  trans_ru: своеобразный
 
 -lexeme
+ lex: аслысныра
+ stem: аслысныра.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: своенравный
+
+-lexeme
  lex: аслыспӧлӧс
  stem: аслыспӧлӧс.
  gramm: A
@@ -858,6 +865,27 @@
  gramm: A
  paradigm: Adj-vowel
  trans_ru: своенравный
+
+-lexeme
+ lex: аслыссикас
+ stem: аслыссикас.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: своеобразный
+
+-lexeme
+ lex: аслыссяма
+ stem: аслыссяма.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: своеобразный
+
+-lexeme
+ lex: аснога
+ stem: аснога.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: своеобразный
 
 -lexeme
  lex: асныра
@@ -874,6 +902,20 @@
  trans_ru: довольно упрямый
 
 -lexeme
+ lex: аспом
+ stem: аспом.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: свой, собственный
+
+-lexeme
+ lex: аспӧлӧс
+ stem: аспӧлӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: своеобразный
+
+-lexeme
  lex: асруа
  stem: асруа.
  gramm: A
@@ -881,11 +923,32 @@
  trans_ru: со странностями
 
 -lexeme
+ lex: ассикас
+ stem: ассикас.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: своеобразный
+
+-lexeme
+ lex: ассяма
+ stem: ассяма.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: своенравный
+
+-lexeme
  lex: астрономическӧй
  stem: астрономическӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: астрономический
+
+-lexeme
+ lex: асшӧр
+ stem: асшӧр.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: из своей среды
 
 -lexeme
  lex: асъя
@@ -904,6 +967,13 @@
 -lexeme
  lex: асывся
  stem: асывся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: утренний
+
+-lexeme
+ lex: асывъя
+ stem: асывъя.
  gramm: A
  paradigm: Adj-vowel
  trans_ru: утренний
@@ -997,6 +1067,13 @@
  stem: багралан.
  gramm: A,rus
  paradigm: Adj-consonant
+ trans_ru: багровый
+
+-lexeme
+ lex: багрӧвӧй
+ stem: багрӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
  trans_ru: багровый
 
 -lexeme
@@ -1217,6 +1294,13 @@
  trans_ru: беж
 
 -lexeme
+ lex: безвозвратнӧй
+ stem: безвозвратнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: безвозвратный
+
+-lexeme
  lex: безграмотнӧй
  stem: безграмотнӧ.
  gramm: A,rus
@@ -1236,6 +1320,27 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: безоговорочный
+
+-lexeme
+ lex: безопаснӧй
+ stem: безопаснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: безопасный
+
+-lexeme
+ lex: безработнӧй
+ stem: безработнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: безработный
+
+-lexeme
+ lex: безраздельнӧй
+ stem: безраздельнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: безраздельный
 
 -lexeme
  lex: безъядернӧй
@@ -1413,6 +1518,13 @@
  trans_ru: неподвижный
 
 -lexeme
+ lex: бесклассовӧй
+ stem: бесклассовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бесклассовый
+
+-lexeme
  lex: беспартийнӧй
  stem: беспартийнӧ.
  gramm: A,rus
@@ -1441,11 +1553,39 @@
  trans_ru: беспризорный
 
 -lexeme
+ lex: беспримернӧй
+ stem: беспримернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: беспримерный
+
+-lexeme
+ lex: бесславнӧй
+ stem: бесславнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бесславный
+
+-lexeme
  lex: бессмертнӧй
  stem: бессмертнӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: бессмертный
+
+-lexeme
+ lex: бессмысленнӧй
+ stem: бессмысленнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бессмысленный
+
+-lexeme
+ lex: бесхозяйственнӧй
+ stem: бесхозяйственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бесхозяйственный
 
 -lexeme
  lex: бетоналӧм
@@ -1460,6 +1600,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: бетонный
+
+-lexeme
+ lex: бешенӧй
+ stem: бешенӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бешеный
 
 -lexeme
  lex: биа
@@ -1670,6 +1817,20 @@
  gramm: A,rus
  paradigm: Adj-vowel
  trans_ru: кривой, кривобокий
+
+-lexeme
+ lex: бокыса
+ stem: бокыса.
+ gramm: A,rus
+ paradigm: Adj-vowel
+ trans_ru: посторонний
+
+-lexeme
+ lex: бокӧвӧй
+ stem: бокӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: посторонний, чужой
 
 -lexeme
  lex: болкъя
@@ -1903,6 +2064,13 @@
  trans_ru: буксирный
 
 -lexeme
+ lex: букыд
+ stem: букыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: пасмурный
+
+-lexeme
  lex: букыдкодь
  stem: букыдкод.
  gramm: A
@@ -2043,6 +2211,13 @@
  trans_ru: целебный
 
 -lexeme
+ lex: буржуазно-демократическӧй
+ stem: буржуазно-демократическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: буржуазно-демократический
+
+-lexeme
  lex: буржуазнӧй
  stem: буржуазнӧ.
  gramm: A,rus
@@ -2062,6 +2237,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: неблагоустроенный
+
+-lexeme
+ lex: бурнӧй
+ stem: бурнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бурный
 
 -lexeme
  lex: буровой
@@ -2085,11 +2267,25 @@
  trans_ru: бурый
 
 -lexeme
+ lex: бусӧсь
+ stem: бусӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: покрытый пылью
+
+-lexeme
  lex: бусӧсьтӧм
  stem: бусӧсьтӧм.
  gramm: A
  paradigm: Adj-consonant
  trans_ru: запылённый
+
+-lexeme
+ lex: бывалӧй
+ stem: бывалӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бывалый
 
 -lexeme
  lex: быгзьӧдӧм
@@ -2160,6 +2356,13 @@
  gramm: A
  paradigm: Adj-vowel
  trans_ru: целый
+
+-lexeme
+ lex: быдсяма
+ stem: быдсяма.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: разнообразный
 
 -lexeme
  lex: былькъя
@@ -2372,6 +2575,13 @@
  trans_ru: старый
 
 -lexeme
+ lex: важдырся
+ stem: важдырся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: старинный
+
+-lexeme
  lex: важкодь
  stem: важкод.
  gramm: A
@@ -2524,6 +2734,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: валовой
+
+-lexeme
+ lex: ван
+ stem: ван.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: нараспашку
 
 -lexeme
  lex: вань
@@ -2680,6 +2897,13 @@
  trans_ru: вдохновенный
 
 -lexeme
+ lex: вевся
+ stem: вевся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: один сверху другого
+
+-lexeme
  lex: вевталӧм
  stem: вевталӧм.
  gramm: A
@@ -2699,6 +2923,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: величественный
+
+-lexeme
+ lex: вевъя
+ stem: вевъя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: с преобладанием
 
 -lexeme
  lex: вегетарианскӧй
@@ -2820,6 +3051,13 @@
  trans_ru: кривой, косой
 
 -lexeme
+ lex: вежӧг
+ stem: вежӧг.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: ревнивый
+
+-lexeme
  lex: вежӧгтысь
  stem: вежӧгтыс.
  gramm: A
@@ -2876,11 +3114,25 @@
  trans_ru: узкий
 
 -lexeme
+ lex: векньыд
+ stem: векньыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: узкий
+
+-lexeme
  lex: вековой
  stem: веково.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: вековой
+
+-lexeme
+ lex: векся
+ stem: векся.
+ gramm: A,rus
+ paradigm: Adj-vowel
+ trans_ru: вечный
 
 -lexeme
  lex: векыш
@@ -2902,6 +3154,13 @@
  gramm: A,rus
  paradigm: Adj-vowel
  trans_ru: вековой
+
+-lexeme
+ lex: векӧвӧйя
+ stem: векӧвӧйя.
+ gramm: A,rus
+ paradigm: Adj-vowel
+ trans_ru: вечный
 
 -lexeme
  lex: велавтӧма
@@ -3014,6 +3273,13 @@
  gramm: A,rus
  paradigm: Adj-vowel
  trans_ru: убедительный
+
+-lexeme
+ lex: верклян
+ stem: верклян.
+ gramm: A,rus
+ paradigm: Adj-consonant
+ trans_ru: вёрткий
 
 -lexeme
  lex: верктуя
@@ -3359,6 +3625,13 @@
  trans_ru: желтоватый
 
 -lexeme
+ lex: вижоват
+ stem: вижоват.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: желтоватый
+
+-lexeme
  lex: вижовруд
  stem: вижовруд.
  gramm: A
@@ -3420,6 +3693,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: непроточный
+
+-lexeme
+ lex: визьӧсь
+ stem: визьӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: полосатый
 
 -lexeme
  lex: визя
@@ -3681,6 +3961,13 @@
  trans_ru: влиятельный
 
 -lexeme
+ lex: внезапнӧй
+ stem: внезапнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: внезапный
+
+-lexeme
  lex: внекласснӧй
  stem: внекласснӧ.
  gramm: A,rus
@@ -3716,6 +4003,13 @@
  trans_ru: внешнеполитический
 
 -lexeme
+ lex: внешньӧй
+ stem: внешньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: внешний
+
+-lexeme
  lex: внешнӧй
  stem: внешнӧ.
  gramm: A,rus
@@ -3728,6 +4022,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: внештатный
+
+-lexeme
+ lex: внутренньӧй
+ stem: внутренньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: внутренний
 
 -lexeme
  lex: внутреннӧй
@@ -3868,6 +4169,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: возвратный
+
+-lexeme
+ lex: возвышеннӧй
+ stem: возвышеннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: возвышенный
 
 -lexeme
  lex: воздушнӧй
@@ -4015,6 +4323,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: гладкий
+
+-lexeme
+ lex: волькыд
+ stem: волькыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: гладкий, скользкий
 
 -lexeme
  lex: волькӧдтӧм
@@ -4190,6 +4505,13 @@
  gramm: A
  paradigm: Adj-vowel
  trans_ru: открытый
+
+-lexeme
+ lex: вося
+ stem: вося.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: пятилетний
 
 -lexeme
  lex: восӧссьӧм
@@ -4430,6 +4752,13 @@
  trans_ru: сшитый по заказу
 
 -lexeme
+ lex: вутшкӧсь
+ stem: вутшкӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: кочковатый
+
+-lexeme
  lex: вушйысь
  stem: вушйыс.
  gramm: A
@@ -4497,6 +4826,13 @@
  stem: выйӧссьӧм.
  gramm: A
  paradigm: Noun-num-consonant
+ trans_ru: запачканный маслом
+
+-lexeme
+ lex: выйӧсь
+ stem: выйӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
  trans_ru: запачканный маслом
 
 -lexeme
@@ -4645,6 +4981,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: необработанный
+
+-lexeme
+ lex: вӧй
+ stem: вӧ.
+ gramm: A
+ paradigm: Adj-j
+ trans_ru: дикий, пугливый
 
 -lexeme
  lex: вӧйласян
@@ -4822,6 +5165,13 @@
  trans_ru: тонкий
 
 -lexeme
+ lex: вӧсньыд
+ stem: вӧсньыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: тонкий
+
+-lexeme
  lex: вӧснялӧм
  stem: вӧснялӧм.
  gramm: A
@@ -4857,10 +5207,24 @@
  trans_ru: габардиновый
 
 -lexeme
+ lex: гагйӧсь
+ stem: гагйӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: изобилующий насекомыми, личинками
+
+-lexeme
  lex: гаддьӧссьӧм
  stem: гаддьӧссьӧм.
  gramm: A
  paradigm: Adj-consonant
+ trans_ru: мозолистый
+
+-lexeme
+ lex: гаддьӧсь
+ stem: гаддьӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
  trans_ru: мозолистый
 
 -lexeme
@@ -4962,6 +5326,13 @@
  trans_ru: газообразный
 
 -lexeme
+ lex: газӧвӧй
+ stem: газӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: газовый
+
+-lexeme
  lex: галантерейнӧй
  stem: галантерейнӧ.
  gramm: A,rus
@@ -5016,6 +5387,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: пересученный
+
+-lexeme
+ lex: гаров
+ stem: гаров.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: довольно сильно кручёный
 
 -lexeme
  lex: гартчан
@@ -5298,6 +5676,13 @@
  trans_ru: гнедой
 
 -lexeme
+ lex: гнуснӧй
+ stem: гнуснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гнусный
+
+-lexeme
  lex: гогнавтӧм
  stem: гогнавтӧм.
  gramm: A
@@ -5373,6 +5758,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: скользкий
+
+-lexeme
+ lex: гольӧб
+ stem: гольӧб.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: поспевший, годный для обработки
 
 -lexeme
  lex: гоночнӧй
@@ -5527,6 +5919,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: гранатовый
+
+-lexeme
+ lex: грандиознӧй
+ stem: грандиознӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: грандиозный
 
 -lexeme
  lex: гранитнӧй
@@ -5690,6 +6089,13 @@
  trans_ru: губернский
 
 -lexeme
+ lex: гуга-бана
+ stem: гуга-бана.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: составленный из кусочков правой и левой стороной вперемежку
+
+-lexeme
  lex: гугӧдӧм
  stem: гугӧдӧм.
  gramm: A
@@ -5753,6 +6159,13 @@
  trans_ru: залившийся
 
 -lexeme
+ lex: гупльӧс
+ stem: гупльӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: глубокий с крутыми стенками
+
+-lexeme
  lex: гурана
  stem: гурана.
  gramm: A
@@ -5786,6 +6199,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: воровской
+
+-lexeme
+ lex: гутӧсь
+ stem: гутӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: изобилующий мухами
 
 -lexeme
  lex: гыа
@@ -5914,6 +6334,13 @@
  trans_ru: заиндевелый
 
 -lexeme
+ lex: гӧгрӧс
+ stem: гӧгрӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: круглый
+
+-lexeme
  lex: гӧгыльтчӧм
  stem: гӧгыльтчӧм.
  gramm: A
@@ -6017,6 +6444,13 @@
  gramm: A
  paradigm: Noun-num-consonant
  trans_ru: запачканный шерстинками, пухом
+
+-lexeme
+ lex: гӧнӧсь
+ stem: гӧнӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: запачканный пухом, шерстью
 
 -lexeme
  lex: гӧпта
@@ -6250,6 +6684,13 @@
  trans_ru: двигательный
 
 -lexeme
+ lex: движущӧй
+ stem: движущӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: движущий
+
+-lexeme
  lex: двойственнӧй
  stem: двойственнӧ.
  gramm: A,rus
@@ -6353,6 +6794,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: декретный
+
+-lexeme
+ lex: делегатскӧй
+ stem: делегатскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: делегатский
 
 -lexeme
  lex: деловой
@@ -6495,6 +6943,13 @@
  trans_ru: цепкий, нескользкий
 
 -lexeme
+ lex: джагыд
+ stem: джагыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: труднопроглатываемый
+
+-lexeme
  lex: джагыдмӧм
  stem: джагыдмӧм.
  gramm: A
@@ -6521,6 +6976,13 @@
  gramm: A,oblin
  paradigm: Adj-soft
  trans_ru: ухабистый, неровный
+
+-lexeme
+ lex: джуджда
+ stem: джуджда.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: высотой с, глубиной с
 
 -lexeme
  lex: джуджыд
@@ -6640,6 +7102,20 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: неустойчивый
+
+-lexeme
+ lex: дзибыр
+ stem: дзибыр.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: неустойчивый
+
+-lexeme
+ lex: дзив
+ stem: дзив.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: редкий, короткий (о растительности)
 
 -lexeme
  lex: дзима-люка
@@ -7279,6 +7755,13 @@
  trans_ru: оправдательный
 
 -lexeme
+ lex: дорыня
+ stem: дорыня.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: косой
+
+-lexeme
  lex: дорӧсалысь
  stem: дорӧсалыс.
  gramm: A
@@ -7431,6 +7914,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: упрямый
+
+-lexeme
+ lex: дубгов
+ stem: дубгов.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: пресноватый
 
 -lexeme
  lex: дубильнӧй
@@ -7664,6 +8154,13 @@
  trans_ru: курной, чёрный
 
 -lexeme
+ lex: дыра
+ stem: дыра.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: длительностью с
+
+-lexeme
  lex: дырся
  stem: дырся.
  gramm: A
@@ -7895,11 +8392,25 @@
  trans_ru: светло-серый, дымчатый
 
 -lexeme
+ lex: единовременнӧй
+ stem: единовременнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: единовременный
+
+-lexeme
  lex: единогласнӧй
  stem: единогласнӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: единогласный
+
+-lexeme
+ lex: единственнӧй
+ stem: единственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: единственный
 
 -lexeme
  lex: единӧй
@@ -8056,6 +8567,13 @@
  trans_ru: щербатый
 
 -lexeme
+ lex: женскӧй
+ stem: женскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: женский
+
+-lexeme
  lex: жер
  stem: жер.
  gramm: A
@@ -8077,6 +8595,13 @@
  trans_ru: разошедшийся
 
 -lexeme
+ lex: жестокӧй
+ stem: жестокӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: жестокий
+
+-lexeme
  lex: живой
  stem: живо.
  gramm: A,rus
@@ -8089,6 +8614,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: животноводческий
+
+-lexeme
+ lex: жизненнӧй
+ stem: жизненнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: жизненный
 
 -lexeme
  lex: жилищно-коммунальнӧй
@@ -8117,6 +8649,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: жирный
+
+-lexeme
+ lex: жодза
+ stem: жодза.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: прокисший, но ещё жидкий (о молоке)
 
 -lexeme
  lex: жодзмӧм
@@ -8173,6 +8712,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: жульнический
+
+-lexeme
+ lex: жуним
+ stem: жуним.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: слабый; тепловатый, безвкусный
 
 -lexeme
  lex: журнальнӧй
@@ -8406,6 +8952,13 @@
  trans_ru: законодательный
 
 -lexeme
+ lex: закономернӧй
+ stem: закономернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: закономерный
+
+-lexeme
  lex: закупочнӧй
  stem: закупочнӧ.
  gramm: A,rus
@@ -8502,6 +9055,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: записной
+
+-lexeme
+ lex: заполярнӧй
+ stem: заполярнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: заполярный
 
 -lexeme
  lex: заработайтӧм
@@ -8791,6 +9351,13 @@
  trans_ru: знаменательный
 
 -lexeme
+ lex: знаменитӧй
+ stem: знаменитӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: знаменитый
+
+-lexeme
  lex: знатнӧй
  stem: знатнӧ.
  gramm: A,rus
@@ -8852,6 +9419,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: зрительный
+
+-lexeme
+ lex: зудъя
+ stem: зудъя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: (хлеб) с закалом
 
 -lexeme
  lex: зумгыртчӧм
@@ -8978,6 +9552,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: крутой
+
+-lexeme
+ lex: зӧркыд
+ stem: зӧркыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: тряский
 
 -lexeme
  lex: игана
@@ -9309,6 +9890,13 @@
  trans_ru: инвестиционный
 
 -lexeme
+ lex: индивидуальнӧй
+ stem: индивидуальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: индивидуальный
+
+-lexeme
  lex: индийскӧй
  stem: индийскӧ.
  gramm: A,rus
@@ -9484,6 +10072,13 @@
  trans_ru: исключительный
 
 -lexeme
+ lex: искренньӧй
+ stem: искренньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: искренний
+
+-lexeme
  lex: искусственнӧй
  stem: искусственнӧ.
  gramm: A,rus
@@ -9561,6 +10156,13 @@
  trans_ru: исходный
 
 -lexeme
+ lex: исчерпывающӧй
+ stem: исчерпывающӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: исчерпывающий
+
+-lexeme
  lex: итоговӧй
  stem: итоговӧ.
  gramm: A,rus
@@ -9580,6 +10182,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: неродной
+
+-lexeme
+ lex: ичиньпом
+ stem: ичиньпом.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: находящийся при мачехе
 
 -lexeme
  lex: ичӧт
@@ -10009,6 +10618,13 @@
  trans_ru: пугливый (о лошади)
 
 -lexeme
+ lex: кальӧг
+ stem: кальӧг.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: болтливый
+
+-lexeme
  lex: каменноугольнӧй
  stem: каменноугольнӧ.
  gramm: A,rus
@@ -10079,6 +10695,13 @@
  trans_ru: неровный (по длине)
 
 -lexeme
+ lex: канцелярскӧй
+ stem: канцелярскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: канцелярский
+
+-lexeme
  lex: капиллярнӧй
  stem: капиллярнӧ.
  gramm: A,rus
@@ -10126,6 +10749,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: каракулевый
+
+-lexeme
+ lex: карательнӧй
+ stem: карательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: карательный
 
 -lexeme
  lex: карбердса
@@ -10317,6 +10947,13 @@
  trans_ru: качающийся
 
 -lexeme
+ lex: качественнӧй
+ stem: качественнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: качественный
+
+-lexeme
  lex: качӧдчан
  stem: качӧдчан.
  gramm: A
@@ -10478,6 +11115,13 @@
  trans_ru: подёрнутый пенкой
 
 -lexeme
+ lex: кепрӧс
+ stem: кепрӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: косолапый
+
+-lexeme
  lex: кепысьтӧм
  stem: кепысьтӧм.
  gramm: A
@@ -10536,6 +11180,13 @@
 -lexeme
  lex: кесйӧдлан
  stem: кесйӧдлан.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: послушный
+
+-lexeme
+ lex: кесйӧс
+ stem: кесйӧс.
  gramm: A
  paradigm: Adj-consonant
  trans_ru: послушный
@@ -10630,6 +11281,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: шутовской
+
+-lexeme
+ lex: кикост
+ stem: кикост.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: мелкий (о работе)
 
 -lexeme
  lex: кикурӧд
@@ -10966,6 +11624,13 @@
  gramm: A
  paradigm: Adj-vowel
  trans_ru: алкогольный, пьяный
+
+-lexeme
+ lex: коддем
+ stem: коддем.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: подобный
 
 -lexeme
  lex: коддзӧдан
@@ -12011,11 +12676,25 @@
  trans_ru: краснознамённый
 
 -lexeme
+ lex: краснофлотскӧй
+ stem: краснофлотскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: краснофлотский
+
+-lexeme
  lex: краснӧй
  stem: краснӧ.
  gramm: A,rus,PN
  paradigm: Adj-j
  trans_ru: красный
+
+-lexeme
+ lex: кремлёвскӧй
+ stem: кремлёвскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кремлёвский
 
 -lexeme
  lex: крепостническӧй
@@ -12207,11 +12886,25 @@
  trans_ru: умелый
 
 -lexeme
+ lex: кузь
+ stem: куз.
+ gramm: A
+ paradigm: Adj-soft
+ trans_ru: длинный, долгий
+
+-lexeme
  lex: кузьмӧс
  stem: кузьмӧс.
  gramm: A
  paradigm: Adj-consonant
  trans_ru: продолговатый
+
+-lexeme
+ lex: кузьта
+ stem: кузьта.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: длиной с
 
 -lexeme
  lex: кузя-дженьыда
@@ -12282,6 +12975,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: ни разу не отелившийся
+
+-lexeme
+ lex: кулацкӧй
+ stem: кулацкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кулацкий
 
 -lexeme
  lex: кулитан
@@ -12443,6 +13143,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: кусачий
+
+-lexeme
+ lex: курыд
+ stem: курыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: горький
 
 -lexeme
  lex: курыдпырысь
@@ -12669,6 +13376,13 @@
  trans_ru: берёзовый
 
 -lexeme
+ lex: кыдйӧсь
+ stem: кыдйӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: с мякиной
+
+-lexeme
  lex: кыз
  stem: кыз.
  gramm: A
@@ -12681,6 +13395,13 @@
  gramm: A
  paradigm: Adj-vowel
  trans_ru: насильственный
+
+-lexeme
+ lex: кызта
+ stem: кызта.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: толщиной с
 
 -lexeme
  lex: кыйсян
@@ -13341,6 +14062,13 @@
  trans_ru: гончий
 
 -lexeme
+ lex: лаб
+ stem: лаб.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: слабо скрученный
+
+-lexeme
  lex: лабиализованнӧй
  stem: лабиализованнӧ.
  gramm: A,rus
@@ -13530,6 +14258,20 @@
  trans_ru: низинный
 
 -lexeme
+ lex: латшкыд
+ stem: латшкыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: коренастый, приземистый
+
+-lexeme
+ lex: латшкӧс
+ stem: латшкӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: коренастый, приземистый
+
+-lexeme
  lex: легальнӧй
  stem: легальнӧ.
  gramm: A,rus
@@ -13656,6 +14398,13 @@
  trans_ru: спелый
 
 -lexeme
+ lex: лесопильнӧй
+ stem: лесопильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лесопильный
+
+-lexeme
  lex: лесопромышленнӧй
  stem: лесопромышленнӧ.
  gramm: A,rus
@@ -13703,6 +14452,13 @@
  gramm: A,rus
  paradigm: Adj-soft
  trans_ru: лечащий
+
+-lexeme
+ lex: либеральнӧй
+ stem: либеральнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: либеральный
 
 -lexeme
  lex: лиловӧй
@@ -13864,6 +14620,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: будущий
+
+-lexeme
+ lex: лолӧд
+ stem: лолӧд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: крепкий, плотный
 
 -lexeme
  lex: ломзян
@@ -14230,6 +14993,13 @@
  trans_ru: любопытный
 
 -lexeme
+ lex: любӧй
+ stem: любӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: любой
+
+-lexeme
  lex: лювъя-лявъя
  stem: лювъя-лявъя.
  gramm: A
@@ -14319,6 +15089,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: вытоптанный
+
+-lexeme
+ lex: лякӧсь
+ stem: лякӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: запачканный
 
 -lexeme
  lex: лякӧсьтӧм
@@ -14636,6 +15413,13 @@
  trans_ru: успокаивающий
 
 -lexeme
+ lex: лӧптӧсь
+ stem: лӧптӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: засорённый наносным хламом
+
+-lexeme
  lex: лӧсавтӧм
  stem: лӧсавтӧм.
  gramm: A
@@ -14916,6 +15700,13 @@
  trans_ru: мандатный
 
 -lexeme
+ lex: мандач
+ stem: мандач.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: низкий, ветвистый, комлистый
+
+-lexeme
  lex: маневровӧй
  stem: маневровӧ.
  gramm: A,rus
@@ -14935,6 +15726,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: медлительный
+
+-lexeme
+ lex: манлив
+ stem: манлив.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: кропотливый
 
 -lexeme
  lex: манливӧй
@@ -14977,6 +15775,20 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: маркизетовый
+
+-lexeme
+ lex: марксистско-ленинскӧй
+ stem: марксистско-ленинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: марксистско-ленинский
+
+-lexeme
+ lex: марксистскӧй
+ stem: марксистскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: марксистский
 
 -lexeme
  lex: марочнӧй
@@ -15098,6 +15910,20 @@
  trans_ru: матросский
 
 -lexeme
+ lex: матын
+ stem: матын.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: вблизи, близко
+
+-lexeme
+ lex: матыса
+ stem: матыса.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: близкий
+
+-lexeme
  lex: матыссаджык
  stem: матыссаджык.
  gramm: A
@@ -15145,6 +15971,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: мачтовый
+
+-lexeme
+ lex: машинно-тракторнӧй
+ stem: машинно-тракторнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: машинно-тракторный
 
 -lexeme
  lex: машиннӧй
@@ -15455,6 +16288,13 @@
  trans_ru: самый умный
 
 -lexeme
+ lex: медся
+ stem: медся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: самый
+
+-lexeme
  lex: медтыдалана
  stem: медтыдалана.
  gramm: A
@@ -15644,6 +16484,13 @@
  trans_ru: мемуарный
 
 -lexeme
+ lex: меньшевистскӧй
+ stem: меньшевистскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: меньшевистский
+
+-lexeme
  lex: мерайтчан
  stem: мерайтчан.
  gramm: A,rus
@@ -15670,6 +16517,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: местный
+
+-lexeme
+ lex: металлическӧй
+ stem: металлическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: металлический
 
 -lexeme
  lex: металлообрабатывающӧй
@@ -15959,6 +16813,13 @@
  trans_ru: неудовлетворённый
 
 -lexeme
+ lex: могучӧй
+ stem: могучӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: могучий
+
+-lexeme
  lex: модатӧм
  stem: модатӧм.
  gramm: A
@@ -15994,6 +16855,13 @@
  trans_ru: сказочный
 
 -lexeme
+ lex: молевӧй
+ stem: молевӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: молевой
+
+-lexeme
  lex: мольыд
  stem: мольыд.
  gramm: A
@@ -16020,6 +16888,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: монтажный
+
+-lexeme
+ lex: морально-политическӧй
+ stem: морально-политическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: морально-политический
 
 -lexeme
  lex: моральнӧй
@@ -16064,6 +16939,13 @@
  trans_ru: морской
 
 -lexeme
+ lex: морскӧй
+ stem: морскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: морской
+
+-lexeme
  lex: морттӧм
  stem: морттӧм.
  gramm: A
@@ -16090,6 +16972,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: моторизованный
+
+-lexeme
+ lex: мощнӧй
+ stem: мощнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мощный
 
 -lexeme
  lex: мраморнӧй
@@ -16139,6 +17028,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: смуглый, темноватый
+
+-lexeme
+ lex: мугыд
+ stem: мугыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: цвета земли, смуглый
 
 -lexeme
  lex: мугӧм
@@ -16498,11 +17394,25 @@
  trans_ru: неровный
 
 -lexeme
+ lex: мында
+ stem: мында.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: количеством с
+
+-lexeme
  lex: мынтысяна
  stem: мынтысяна.
  gramm: A
  paradigm: Adj-vowel
  trans_ru: оплачиваемый
+
+-lexeme
+ lex: мырд
+ stem: мырд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: чрезмерно густой, сладкий, жирный
 
 -lexeme
  lex: мырдвиж
@@ -16680,6 +17590,13 @@
  trans_ru: наглый
 
 -lexeme
+ lex: надежнӧй
+ stem: надежнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: надёжный
+
+-lexeme
  lex: надейнӧй
  stem: надейнӧ.
  gramm: A,rus
@@ -16689,6 +17606,13 @@
 -lexeme
  lex: надз
  stem: надз.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: медлительный
+
+-lexeme
+ lex: надзмыд
+ stem: надзмыд.
  gramm: A
  paradigm: Adj-consonant
  trans_ru: медлительный
@@ -16783,6 +17707,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: наркологический
+
+-lexeme
+ lex: народно-освободительнӧй
+ stem: народно-освободительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: народно-освободительный
 
 -lexeme
  lex: народнӧй
@@ -17023,6 +17954,13 @@
  trans_ru: покрытый налётом, слизью
 
 -lexeme
+ lex: недокунь
+ stem: недокун.
+ gramm: A
+ paradigm: Adj-soft
+ trans_ru: недоразвитый
+
+-lexeme
  lex: недырся
  stem: недырся.
  gramm: A
@@ -17070,6 +18008,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: нездоровый, вредный
+
+-lexeme
+ lex: незыблемӧй
+ stem: незыблемӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: незыблемый
 
 -lexeme
  lex: нейтральнӧй
@@ -17149,6 +18094,27 @@
  trans_ru: бестолково
 
 -lexeme
+ lex: непобедимӧй
+ stem: непобедимӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: непобедимый
+
+-lexeme
+ lex: непоколебимӧй
+ stem: непоколебимӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: непоколебимый
+
+-lexeme
+ lex: непосредственнӧй
+ stem: непосредственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: непосредственный
+
+-lexeme
  lex: неправильнӧй
  stem: неправильнӧ.
  gramm: A,rus
@@ -17156,11 +18122,25 @@
  trans_ru: неправильный
 
 -lexeme
+ lex: непрамӧй
+ stem: непрамӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ненастоящий
+
+-lexeme
  lex: неприятельскӧй
  stem: неприятельскӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: неприятельский
+
+-lexeme
+ lex: неравномернӧй
+ stem: неравномернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неравномерный
 
 -lexeme
  lex: нерад
@@ -17254,11 +18234,25 @@
  trans_ru: неурожайный
 
 -lexeme
+ lex: нефтянӧй
+ stem: нефтянӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нефтяной
+
+-lexeme
  lex: неыджыд
  stem: неыджыд.
  gramm: A
  paradigm: Adj-consonant
  trans_ru: небольшой
+
+-lexeme
+ lex: низӧвӧй
+ stem: низӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: низовой
 
 -lexeme
  lex: никелированнӧй
@@ -17322,6 +18316,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: неношеный
+
+-lexeme
+ lex: ногса
+ stem: ногса.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: похожий на прежнее
 
 -lexeme
  lex: ногтӧм
@@ -17422,6 +18423,13 @@
  trans_ru: щуплый
 
 -lexeme
+ lex: нуръя
+ stem: нуръя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: с приправой из муки или хлебных зёрен
+
+-lexeme
  lex: нускан
  stem: нускан.
  gramm: A
@@ -17506,11 +18514,32 @@
  trans_ru: ухабистый
 
 -lexeme
+ lex: ньывкыд
+ stem: ньывкыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: пологий
+
+-lexeme
+ lex: ньывкӧс
+ stem: ньывкӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: пологий
+
+-lexeme
  lex: ньывтшак
  stem: ньывтшак.
  gramm: A
  paradigm: Adj-consonant
  trans_ru: млечник обыкновенный, путник (гриб)
+
+-lexeme
+ lex: ньылӧмӧсь
+ stem: ньылӧмӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: пропитанный потом
 
 -lexeme
  lex: ньӧжмыд
@@ -17548,11 +18577,25 @@
  trans_ru: вечный
 
 -lexeme
+ lex: нэмӧвӧй
+ stem: нэмӧвӧ.
+ gramm: A
+ paradigm: Adj-j
+ trans_ru: вечный, вековой
+
+-lexeme
  lex: нэмӧвӧйся
  stem: нэмӧвӧйся.
  gramm: A
  paradigm: Adj-vowel
  trans_ru: вековой
+
+-lexeme
+ lex: нэмӧвӧйя
+ stem: нэмӧвӧйя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: вечный, вековой
 
 -lexeme
  lex: нэр
@@ -17863,6 +18906,13 @@
  trans_ru: впалый
 
 -lexeme
+ lex: нёр
+ stem: нёр.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: наклонный
+
+-lexeme
  lex: нӧбасьысь
  stem: нӧбасьыс.
  gramm: A
@@ -17903,6 +18953,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: обидчивый
+
+-lexeme
+ lex: обильнӧй
+ stem: обильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обильный
 
 -lexeme
  lex: областной
@@ -18059,6 +19116,20 @@
  trans_ru: общий
 
 -lexeme
+ lex: объединённӧй
+ stem: объединённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: объединённый
+
+-lexeme
+ lex: объективнӧй
+ stem: объективнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: объективный
+
+-lexeme
  lex: обыкновеннӧй
  stem: обыкновеннӧ.
  gramm: A,rus
@@ -18071,6 +19142,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: обычный
+
+-lexeme
+ lex: обязательнӧ
+ stem: обязательнӧ.
+ gramm: A,rus
+ paradigm: Adj-vowel
+ trans_ru: обязательно
 
 -lexeme
  lex: обязательнӧй
@@ -18253,6 +19331,13 @@
  gramm: A,rus
  paradigm: Adj-consonant
  trans_ru: охочий
+
+-lexeme
+ lex: окочӧй
+ stem: окочӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: желающий
 
 -lexeme
  lex: окружной
@@ -18850,6 +19935,13 @@
  trans_ru: откинутый
 
 -lexeme
+ lex: пагыр
+ stem: пагыр.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: перекислый
+
+-lexeme
  lex: пагыртчӧм
  stem: пагыртчӧм.
  gramm: A
@@ -18925,6 +20017,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: разбитый
+
+-lexeme
+ lex: пазӧба
+ stem: пазӧба.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: рассыпчатый (о картофеле)
 
 -lexeme
  lex: пайгӧс
@@ -19319,6 +20418,13 @@
  trans_ru: аккуратный
 
 -lexeme
+ lex: пелькиник
+ stem: пелькиник.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: маленький, чистенький, уютненький
+
+-lexeme
  lex: пелькӧдтӧм
  stem: пелькӧдтӧм.
  gramm: A
@@ -19359,6 +20465,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: тёмно-зелёный
+
+-lexeme
+ lex: пемыдгӧрд
+ stem: пемыдгӧрд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: бордовый
 
 -lexeme
  lex: пемыдлӧз
@@ -19403,6 +20516,13 @@
  trans_ru: первобытный
 
 -lexeme
+ lex: первойя
+ stem: первойя.
+ gramm: A,rus
+ paradigm: Adj-vowel
+ trans_ru: первый
+
+-lexeme
  lex: первокласснӧй
  stem: первокласснӧ.
  gramm: A,rus
@@ -19424,11 +20544,25 @@
  trans_ru: похожий
 
 -lexeme
+ lex: передӧвӧй
+ stem: передӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: передовой
+
+-lexeme
  lex: перекидной
  stem: перекидно.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: перекидной
+
+-lexeme
+ lex: переломнӧй
+ stem: переломнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: переломный
 
 -lexeme
  lex: переменнӧй
@@ -19627,6 +20761,13 @@
  trans_ru: свилеватый
 
 -lexeme
+ lex: пионерскӧй
+ stem: пионерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пионерский
+
+-lexeme
  lex: писка
  stem: писка.
  gramm: A
@@ -19639,6 +20780,13 @@
  gramm: A
  paradigm: Noun-num-consonant
  trans_ru: с щербинами
+
+-lexeme
+ lex: писькӧс
+ stem: писькӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: пронырливый
 
 -lexeme
  lex: письменнӧй
@@ -19704,6 +20852,13 @@
  trans_ru: пленарный
 
 -lexeme
+ lex: пленнӧй
+ stem: пленнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пленный
+
+-lexeme
  lex: плисовӧй
  stem: плисовӧ.
  gramm: A,rus
@@ -19758,6 +20913,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: пляжный
+
+-lexeme
+ lex: победоноснӧй
+ stem: победоноснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: победоносный
 
 -lexeme
  lex: повелительнӧй
@@ -20222,6 +21384,13 @@
  trans_ru: непрерывный
 
 -lexeme
+ lex: помтӧм-дортӧм
+ stem: помтӧм-дортӧм.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: бесконечный
+
+-lexeme
  lex: помтӧм-пыдӧстӧм
  stem: помтӧм-пыдӧстӧм.
  gramm: A
@@ -20306,6 +21475,13 @@
  trans_ru: загаченный
 
 -lexeme
+ lex: последовательнӧй
+ stem: последовательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: последовательный
+
+-lexeme
  lex: посни
  stem: посни.
  gramm: A
@@ -20318,6 +21494,13 @@
  gramm: A
  paradigm: Adj-soft
  trans_ru: мелковатый
+
+-lexeme
+ lex: посньыд
+ stem: посньыд.
+ gramm: A,rus
+ paradigm: Adj-consonant
+ trans_ru: мелкий
 
 -lexeme
  lex: постнӧй
@@ -20537,6 +21720,13 @@
  trans_ru: предательский
 
 -lexeme
+ lex: предварительнӧй
+ stem: предварительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: предварительный
+
+-lexeme
  lex: предохранительнӧй
  stem: предохранительнӧ.
  gramm: A,rus
@@ -20670,6 +21860,13 @@
  trans_ru: приключенческий
 
 -lexeme
+ lex: приличнӧй
+ stem: приличнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: приличный
+
+-lexeme
  lex: примернӧй
  stem: примернӧ.
  gramm: A,rus
@@ -20689,6 +21886,13 @@
  gramm: A,rus
  paradigm: Adj-consonant
  trans_ru: приметливый
+
+-lexeme
+ lex: примитивнӧй
+ stem: примитивнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: примитивный
 
 -lexeme
  lex: принудительнӧй
@@ -20852,6 +22056,13 @@
  trans_ru: прозаический
 
 -lexeme
+ lex: прозорливӧй
+ stem: прозорливӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прозорливый
+
+-lexeme
  lex: производительнӧй
  stem: производительнӧ.
  gramm: A,rus
@@ -20941,6 +22152,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: противный
+
+-lexeme
+ lex: противоположнӧй
+ stem: противоположнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: противоположный
 
 -lexeme
  lex: профессиональнӧй
@@ -21083,6 +22301,13 @@
  trans_ru: запачканный брусникой
 
 -lexeme
+ lex: пувйӧсь
+ stem: пувйӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: запачканный брусникой
+
+-lexeme
  lex: пугрӧдлан
  stem: пугрӧдлан.
  gramm: A
@@ -21216,6 +22441,13 @@
  trans_ru: пуховый
 
 -lexeme
+ lex: пухӧвӧй
+ stem: пухӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пуховой
+
+-lexeme
  lex: пушитӧм
  stem: пушитӧм.
  gramm: A
@@ -21251,6 +22483,13 @@
  trans_ru: испачканный мукой
 
 -lexeme
+ lex: пызьӧсь
+ stem: пызьӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: запачканный мукой
+
+-lexeme
  lex: пыран
  stem: пыран.
  gramm: A
@@ -21263,6 +22502,20 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: просверлённый
+
+-lexeme
+ lex: пырновлан
+ stem: пырновлан.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: будничный
+
+-lexeme
+ lex: пырыстыдалана
+ stem: пырыстыдалана.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: прозрачный
 
 -lexeme
  lex: пыскыль
@@ -21284,6 +22537,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: раздавленный
+
+-lexeme
+ lex: пятилетньӧй
+ stem: пятилетньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пятилетний
 
 -lexeme
  lex: пятилетнӧй
@@ -21417,6 +22677,13 @@
  gramm: A,rus
  paradigm: Adj-consonant
  trans_ru: упрямый
+
+-lexeme
+ lex: пӧла
+ stem: пӧла.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: кривой, наклонный; непарный
 
 -lexeme
  lex: пӧла-пӧла
@@ -21594,6 +22861,13 @@
  trans_ru: рабовладельческий
 
 -lexeme
+ lex: рабоче-крестьянскӧй
+ stem: рабоче-крестьянскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рабоче-крестьянский
+
+-lexeme
  lex: рабскӧй
  stem: рабскӧ.
  gramm: A,rus
@@ -21699,6 +22973,13 @@
  trans_ru: разноспрягаемый
 
 -lexeme
+ lex: разнузданнӧй
+ stem: разнузданнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: разнузданный
+
+-lexeme
  lex: разнӧй
  stem: разнӧ.
  gramm: A,rus
@@ -21711,6 +22992,13 @@
  gramm: A,rus
  paradigm: Adj-consonant
  trans_ru: неразрешённый
+
+-lexeme
+ lex: разумнӧй
+ stem: разумнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: разумный
 
 -lexeme
  lex: разьсьӧм
@@ -22021,6 +23309,13 @@
  trans_ru: ретивый
 
 -lexeme
+ lex: ретивӧй
+ stem: ретивӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ретивый
+
+-lexeme
  lex: речной
  stem: речно.
  gramm: A,rus
@@ -22033,6 +23328,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: решающий
+
+-lexeme
+ lex: решительнӧй
+ stem: решительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: решительный
 
 -lexeme
  lex: решиттӧм
@@ -22294,6 +23596,13 @@
  trans_ru: трёпанный
 
 -lexeme
+ lex: руководящӧй
+ stem: руководящӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: руководящий
+
+-lexeme
  lex: рукопашнӧй
  stem: рукопашнӧ.
  gramm: A,rus
@@ -22320,6 +23629,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: русский
+
+-lexeme
+ lex: русыд
+ stem: русыд.
+ gramm: A,rus
+ paradigm: Adj-consonant
+ trans_ru: русоватый
 
 -lexeme
  lex: русӧй
@@ -22532,6 +23848,13 @@
  trans_ru: умный, толковый
 
 -lexeme
+ lex: сажӧвӧй
+ stem: сажӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сажевый
+
+-lexeme
  lex: сайкыд
  stem: сайкыд.
  gramm: A
@@ -22558,6 +23881,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: сахарный
+
+-lexeme
+ lex: салдатскӧй
+ stem: салдатскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: солдатский
 
 -lexeme
  lex: саль
@@ -22614,6 +23944,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: самолётостроительный
+
+-lexeme
+ lex: самоотверженнӧй
+ stem: самоотверженнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: самоотверженный
 
 -lexeme
  lex: самостоятельнӧй
@@ -22728,6 +24065,13 @@
  trans_ru: сатиновый
 
 -lexeme
+ lex: сатинӧвӧй
+ stem: сатинӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сатиновый
+
+-lexeme
  lex: сатирическӧй
  stem: сатирическӧ.
  gramm: A,rus
@@ -22768,6 +24112,13 @@
  gramm: A
  paradigm: Noun-num-consonant
  trans_ru: покрытый сажей
+
+-lexeme
+ lex: саӧсь
+ stem: саӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: запачканный сажей
 
 -lexeme
  lex: саӧсьтӧм
@@ -22959,6 +24310,13 @@
  trans_ru: сентябрьский
 
 -lexeme
+ lex: сепаратнӧй
+ stem: сепаратнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сепаратный
+
+-lexeme
  lex: сера
  stem: сера.
  gramm: A,rus
@@ -23062,6 +24420,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: серый
+
+-lexeme
+ lex: серӧсь
+ stem: серӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: узорчатый
 
 -lexeme
  lex: сетчана
@@ -23330,11 +24695,25 @@
  trans_ru: смолистый
 
 -lexeme
+ lex: сирӧсь
+ stem: сирӧс.
+ gramm: A,oblin
+ paradigm: Adj-soft
+ trans_ru: запачканный смолой
+
+-lexeme
  lex: сирӧсьтӧм
  stem: сирӧсьтӧм.
  gramm: A
  paradigm: Noun-num-consonant
  trans_ru: запачканный смолой
+
+-lexeme
+ lex: систематическӧй
+ stem: систематическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: систематический
 
 -lexeme
  lex: сисьталӧм
@@ -23694,6 +25073,13 @@
  trans_ru: согласный
 
 -lexeme
+ lex: соглашательскӧй
+ stem: соглашательскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: соглашательский
+
+-lexeme
  lex: содержательнӧй
  stem: содержательнӧ.
  gramm: A,rus
@@ -23741,6 +25127,27 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: солдатский
+
+-lexeme
+ lex: солидарнӧй
+ stem: солидарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: солидарный
+
+-lexeme
+ lex: сомнительнӧй
+ stem: сомнительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сомнительный
+
+-lexeme
+ lex: соответствующӧй
+ stem: соответствующӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: соответствующий
 
 -lexeme
  lex: сора
@@ -23862,6 +25269,13 @@
  trans_ru: сочный
 
 -lexeme
+ lex: союзнӧй
+ stem: союзнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: союзный
+
+-lexeme
  lex: спекулятивнӧй
  stem: спекулятивнӧ.
  gramm: A,rus
@@ -23902,6 +25316,20 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: спиртовой
+
+-lexeme
+ lex: сплавнӧй
+ stem: сплавнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сплавной
+
+-lexeme
+ lex: сплочённӧй
+ stem: сплочённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сплочённый
 
 -lexeme
  lex: сплошной
@@ -24016,6 +25444,13 @@
  trans_ru: со срубом
 
 -lexeme
+ lex: стабильнӧй
+ stem: стабильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стабильный
+
+-lexeme
  lex: ставмирса
  stem: ставмирса.
  gramm: A,rus
@@ -24030,8 +25465,22 @@
  trans_ru: всероссийский
 
 -lexeme
+ lex: сталинскӧй
+ stem: сталинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сталинский
+
+-lexeme
  lex: стальной
  stem: стально.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стальной
+
+-lexeme
+ lex: стальнӧй
+ stem: стальнӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: стальной
@@ -24105,6 +25554,13 @@
  gramm: A,rus
  paradigm: Adj-vowel
  trans_ru: статный
+
+-lexeme
+ lex: стахановскӧй
+ stem: стахановскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стахановский
 
 -lexeme
  lex: стационарнӧй
@@ -24263,6 +25719,13 @@
 -lexeme
  lex: строевой
  stem: строево.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: строевой
+
+-lexeme
+ lex: строевӧй
+ stem: строевӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: строевой
@@ -24443,11 +25906,25 @@
  trans_ru: судоходный
 
 -lexeme
+ lex: судта
+ stem: судта.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: высотой с
+
+-lexeme
  lex: суевернӧй
  stem: суевернӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: суеверный
+
+-lexeme
+ lex: сук
+ stem: сук.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: густой; частый
 
 -lexeme
  lex: суклясян
@@ -24548,6 +26025,13 @@
  trans_ru: колючий
 
 -lexeme
+ lex: существеннӧй
+ stem: существеннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: существенный
+
+-lexeme
  lex: суӧм
  stem: суӧм.
  gramm: A
@@ -24574,6 +26058,20 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: счётный
+
+-lexeme
+ lex: сыв
+ stem: сыв.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: талый, не мёрзлый; растопленный
+
+-lexeme
+ lex: сывтыръя
+ stem: сывтыръя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: в обхват
 
 -lexeme
  lex: сывтӧм
@@ -24616,6 +26114,13 @@
  gramm: A,oblin
  paradigm: Adj-soft
  trans_ru: бахромчатый
+
+-lexeme
+ lex: сьӧд
+ stem: сьӧд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: чёрный
 
 -lexeme
  lex: сьӧдасьтӧм
@@ -24727,6 +26232,13 @@
  stem: сэтчаньса.
  gramm: A
  paradigm: Adj-vowel
+ trans_ru: тамошний
+
+-lexeme
+ lex: сэтчӧс
+ stem: сэтчӧс.
+ gramm: A
+ paradigm: Adj-consonant
  trans_ru: тамошний
 
 -lexeme
@@ -24861,6 +26373,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: не поевший
+
+-lexeme
+ lex: сёйӧд
+ stem: сёйӧд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: глинистый
 
 -lexeme
  lex: сёйӧссьӧм
@@ -25003,6 +26522,13 @@
  trans_ru: несогласованный
 
 -lexeme
+ lex: сӧдз
+ stem: сӧдз.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: чистый, прозрачный
+
+-lexeme
  lex: сӧдзӧм
  stem: сӧдзӧм.
  gramm: A
@@ -25029,6 +26555,13 @@
  gramm: A
  paradigm: Noun-num-consonant
  trans_ru: заделанный снегом, смешанным с водой
+
+-lexeme
+ lex: сӧнӧд
+ stem: сӧнӧд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: крепкий, жилистый, мускулистый
 
 -lexeme
  lex: сӧрмӧм
@@ -25066,6 +26599,20 @@
  trans_ru: поплавковый
 
 -lexeme
+ lex: тавойся
+ stem: тавойся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: этой ночи
+
+-lexeme
+ lex: тавойя
+ stem: тавойя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: этой ночи
+
+-lexeme
  lex: тавося
  stem: тавося.
  gramm: A
@@ -25099,6 +26646,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: тайный
+
+-lexeme
+ lex: таковскӧй
+ stem: таковскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: таковский
 
 -lexeme
  lex: тактическӧй
@@ -25138,6 +26692,13 @@
 -lexeme
  lex: талунся
  stem: талунся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: сегодняшний
+
+-lexeme
+ lex: талунъя
+ stem: талунъя.
  gramm: A
  paradigm: Adj-vowel
  trans_ru: сегодняшний
@@ -25232,6 +26793,20 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: тряский
+
+-lexeme
+ lex: тарытся
+ stem: тарытся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: имевший место в этот (последний) вечер
+
+-lexeme
+ lex: тарытъя
+ stem: тарытъя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: имевший место в этот (последний) вечер
 
 -lexeme
  lex: тарӧг
@@ -25500,6 +27075,13 @@
  trans_ru: толковый
 
 -lexeme
+ lex: том
+ stem: том.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: молодой
+
+-lexeme
  lex: томатнӧй
  stem: томатнӧ.
  gramm: A,rus
@@ -25547,6 +27129,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: молодильный
+
+-lexeme
+ lex: томырся
+ stem: томырся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: периода молодости
 
 -lexeme
  lex: топавтӧм
@@ -25666,6 +27255,13 @@
  gramm: A
  paradigm: Adj-vowel
  trans_ru: порицательный
+
+-lexeme
+ lex: торъя
+ stem: торъя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: отдельный
 
 -lexeme
  lex: торъявлытӧм
@@ -25908,6 +27504,13 @@
 -lexeme
  lex: трудовой
  stem: трудово.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: трудовой
+
+-lexeme
+ lex: трудӧвӧй
+ stem: трудӧвӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: трудовой
@@ -26221,6 +27824,13 @@
  trans_ru: подходящий
 
 -lexeme
+ lex: тшап
+ stem: тшап.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: модничающий; горделивый
+
+-lexeme
  lex: тшапиттӧм
  stem: тшапиттӧм.
  gramm: A
@@ -26347,11 +27957,25 @@
  trans_ru: захлёбывающийся
 
 -lexeme
+ lex: тшӧкыд
+ stem: тшӧкыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: частый, густой;
+
+-lexeme
  lex: тшӧта
  stem: тшӧта.
  gramm: A,rus
  paradigm: Adj-vowel
  trans_ru: чётный
+
+-lexeme
+ lex: тшӧтшыд
+ stem: тшӧтшыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: ровный; с тупым концом
 
 -lexeme
  lex: тшӧтшӧдтӧм
@@ -26515,6 +28139,13 @@
  trans_ru: неродной
 
 -lexeme
+ lex: тьӧтпом
+ stem: тьӧтпом.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: пасынок, падчерица
+
+-lexeme
  lex: тэрмасьтӧм
  stem: тэрмасьтӧм.
  gramm: A
@@ -26611,6 +28242,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: бьющийся, колотящийся
+
+-lexeme
+ lex: тіль
+ stem: тіл.
+ gramm: A
+ paradigm: Adj-soft
+ trans_ru: густой, зарослевый (о лесе)
 
 -lexeme
  lex: тільсӧд
@@ -26788,6 +28426,13 @@
  trans_ru: месячный
 
 -lexeme
+ lex: тӧлыся
+ stem: тӧлыся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: лунный
+
+-lexeme
  lex: тӧлӧдан
  stem: тӧлӧдан.
  gramm: A
@@ -26823,11 +28468,25 @@
  trans_ru: торговый
 
 -lexeme
+ lex: тӧриг
+ stem: тӧриг.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: вместимостью с
+
+-lexeme
  lex: тӧрмӧм
  stem: тӧрмӧм.
  gramm: A
  paradigm: Adj-consonant
  trans_ru: прелый
+
+-lexeme
+ lex: тӧрытся
+ stem: тӧрытся.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: вчерашний
 
 -lexeme
  lex: тӧрытъя
@@ -27047,6 +28706,13 @@
  trans_ru: удалой
 
 -lexeme
+ lex: удалӧй
+ stem: удалӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: удалой
+
+-lexeme
  lex: ударнӧй
  stem: ударнӧ.
  gramm: A,rus
@@ -27087,6 +28753,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: трудолюбивый
+
+-lexeme
+ lex: уджачлив
+ stem: уджачлив.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: работящий
 
 -lexeme
  lex: удждысян
@@ -27348,6 +29021,13 @@
  trans_ru: умственный
 
 -lexeme
+ lex: умышленнӧй
+ stem: умышленнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: умышленный
+
+-lexeme
  lex: унаногса
  stem: унаногса.
  gramm: A
@@ -27437,6 +29117,13 @@
  gramm: A,rus
  paradigm: Adj-consonant
  trans_ru: уродливый
+
+-lexeme
+ lex: урӧс
+ stem: урӧс.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: недоразвитый, слабый
 
 -lexeme
  lex: усадьбавывса
@@ -27607,6 +29294,13 @@
  trans_ru: фарфоровый
 
 -lexeme
+ lex: фарфорӧвӧй
+ stem: фарфорӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фарфоровый
+
+-lexeme
  lex: фашистскӧй
  stem: фашистскӧ.
  gramm: A,rus
@@ -27763,6 +29457,13 @@
 -lexeme
  lex: финансовӧй
  stem: финансовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: финансовый
+
+-lexeme
+ lex: финансӧвӧй
+ stem: финансӧвӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: финансовый
@@ -27978,6 +29679,13 @@
  trans_ru: фронтовой
 
 -lexeme
+ lex: фронтӧвӧй
+ stem: фронтӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фронтовой
+
+-lexeme
  lex: фруктовӧй
  stem: фруктовӧ.
  gramm: A,rus
@@ -28146,6 +29854,13 @@
  trans_ru: хоровой
 
 -lexeme
+ lex: хорӧвӧй
+ stem: хорӧвӧ.
+ gramm: A
+ paradigm: Adj-j
+ trans_ru: хоровой
+
+-lexeme
  lex: храбрӧй
  stem: храбрӧ.
  gramm: A,rus
@@ -28172,6 +29887,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: хромой
+
+-lexeme
+ lex: хромӧвӧй
+ stem: хромӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: хромовый
 
 -lexeme
  lex: хроническӧй
@@ -28223,6 +29945,13 @@
  trans_ru: цветной
 
 -lexeme
+ lex: цветнӧй
+ stem: цветнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: цветной
+
+-lexeme
  lex: цветоводческӧй
  stem: цветоводческӧ.
  gramm: A,rus
@@ -28242,6 +29971,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: целевой
+
+-lexeme
+ lex: целесообразнӧй
+ stem: целесообразнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: целесообразный
 
 -lexeme
  lex: целиннӧй
@@ -28356,6 +30092,13 @@
  trans_ru: цинкографский
 
 -lexeme
+ lex: цинкӧвӧй
+ stem: цинкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: цинковый
+
+-lexeme
  lex: цирковой
  stem: цирково.
  gramm: A,rus
@@ -28372,6 +30115,13 @@
 -lexeme
  lex: цифровой
  stem: цифрово.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: цифровой
+
+-lexeme
+ lex: цифровӧй
+ stem: цифровӧ.
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: цифровой
@@ -28837,6 +30587,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: обожжённый
+
+-lexeme
+ lex: членскӧй
+ stem: членскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: членский
 
 -lexeme
  lex: чолӧмалан
@@ -29306,6 +31063,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: обтирочный
+
+-lexeme
+ lex: чёткӧй
+ stem: чёткӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чёткий
 
 -lexeme
  lex: чётнӧй
@@ -29966,6 +31730,20 @@
  trans_ru: шрапнельный
 
 -lexeme
+ lex: штабнӧй
+ stem: штабнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: штабной
+
+-lexeme
+ lex: штыкӧвӧй
+ stem: штыкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: штыковой
+
+-lexeme
  lex: шуана
  stem: шуана.
  gramm: A
@@ -30330,11 +32108,25 @@
  trans_ru: общий
 
 -lexeme
+ lex: шӧркоддем
+ stem: шӧркоддем.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: средний
+
+-lexeme
  lex: шӧркодь
  stem: шӧркод.
  gramm: A
  paradigm: Adj-soft
  trans_ru: средний
+
+-lexeme
+ lex: шӧркост
+ stem: шӧркост.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: средний по размеру
 
 -lexeme
  lex: шӧрпӧлӧс
@@ -30510,6 +32302,13 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: далёкий
+
+-lexeme
+ lex: ылысса
+ stem: ылысса.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: дальний
 
 -lexeme
  lex: ылькнитӧм
@@ -31380,6 +33179,13 @@
  trans_ru: юмористический
 
 -lexeme
+ lex: юмыр
+ stem: юмыр.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: с суживающимися краями (о посуде)
+
+-lexeme
  lex: юношескӧй
  stem: юношескӧ.
  gramm: A,rus
@@ -31674,6 +33480,13 @@
  trans_ru: горячий
 
 -lexeme
+ lex: яркӧй
+ stem: яркӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: яркий
+
+-lexeme
  lex: ярмангавывса
  stem: ярмангавывса.
  gramm: A,rus
@@ -31707,6 +33520,13 @@
  gramm: A,rus
  paradigm: Adj-j
  trans_ru: яровой
+
+-lexeme
+ lex: яснӧй
+ stem: яснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ясный
 
 -lexeme
  lex: ясыд
@@ -31891,6 +33711,13 @@
  trans_ru: наборный
 
 -lexeme
+ lex: ӧкуратнӧй
+ stem: ӧкуратнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: аккуратный
+
+-lexeme
  lex: ӧлӧдан
  stem: ӧлӧдан.
  gramm: A
@@ -31905,6 +33732,13 @@
  trans_ru: недавний
 
 -lexeme
+ lex: ӧнтайя
+ stem: ӧнтайя.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: давешний
+
+-lexeme
  lex: ӧнія
  stem: ӧнія.
  gramm: A
@@ -31917,6 +33751,13 @@
  gramm: A
  paradigm: Adj-vowel
  trans_ru: бывший
+
+-lexeme
+ lex: ӧпаснӧй
+ stem: ӧпаснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: опасный
 
 -lexeme
  lex: ӧталягъя
@@ -32073,11 +33914,25 @@
  trans_ru: единовременный
 
 -lexeme
+ lex: ӧтпӧвста
+ stem: ӧтпӧвста.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: однослойный
+
+-lexeme
  lex: ӧтрӧвнӧ
  stem: ӧтрӧвнӧ.
  gramm: A,rus
  paradigm: Adj-vowel
  trans_ru: ровный
+
+-lexeme
+ lex: ӧтсора
+ stem: ӧтсора.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: смешанный
 
 -lexeme
  lex: ӧтсудта

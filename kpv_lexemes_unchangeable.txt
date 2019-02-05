@@ -1,0 +1,6348 @@
+﻿-lexeme
+ lex: а
+ stem: а.
+ gramm: CONJ,rus
+ paradigm: Adverbials-final
+ trans_ru: а
+
+-lexeme
+ lex: а
+ stem: а.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: вероятно
+
+-lexeme
+ lex: абсолютнӧ
+ stem: абсолютнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: абсолютно
+
+-lexeme
+ lex: абу
+ stem: абу.
+ gramm: PART,neg
+ paradigm: Adverbials-final
+ trans_ru: не 
+
+-lexeme
+ lex: азыма
+ stem: азыма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с аппетитом
+
+-lexeme
+ lex: али
+ stem: али.
+ gramm: CONJ,rus
+ paradigm: Adverbials-final
+ trans_ru: или 
+
+-lexeme
+ lex: арбыд
+ stem: арбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всю осень
+
+-lexeme
+ lex: арладор
+ stem: арладор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к осени
+
+-lexeme
+ lex: аръявыв
+ stem: аръявыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: под осень
+
+-lexeme
+ lex: асвыйӧн
+ stem: асвыйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сам по себе
+
+-lexeme
+ lex: аски
+ stem: аски.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: завтра
+
+-lexeme
+ lex: аски-аскомысь
+ stem: аски-аскомысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на днях
+
+-lexeme
+ lex: аскомысь
+ stem: аскомысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: послезавтра
+
+-lexeme
+ lex: аслысног
+ stem: аслысног.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: своеобразно
+
+-lexeme
+ lex: аслысногӧн
+ stem: аслысногӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: своеобразно
+
+-lexeme
+ lex: аслыспӧлӧса
+ stem: аслыспӧлӧса.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: своеобразно
+
+-lexeme
+ lex: аснаукӧн
+ stem: аснаукӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: самовольно
+
+-lexeme
+ lex: асшодйӧн
+ stem: асшодйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: самотёком
+
+-lexeme
+ lex: асъявыв
+ stem: асъявыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: под утро
+
+-lexeme
+ lex: асъядор
+ stem: асъядор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к утру
+
+-lexeme
+ lex: асывбыд
+ stem: асывбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всё утро
+
+-lexeme
+ lex: асывладор
+ stem: асывладор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к утру
+
+-lexeme
+ lex: аттьӧ
+ stem: аттьӧ.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: спасибо
+
+-lexeme
+ lex: аттӧ
+ stem: аттӧ.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: выражает удивление
+
+-lexeme
+ lex: баквала
+ stem: баквала.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: хвастливо
+
+-lexeme
+ lex: бара
+ stem: бара.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: уж, небось, только
+
+-lexeme
+ lex: баръёва
+ stem: баръёва.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: криво, косолапо
+
+-lexeme
+ lex: батькокпӧв
+ stem: батькокпӧв.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: весь в отца
+
+-lexeme
+ lex: бауӧн
+ stem: бауӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на четвереньках
+
+-lexeme
+ lex: безболезненнӧя
+ stem: безболезненнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: безболезненно
+
+-lexeme
+ lex: беззаветнӧя
+ stem: беззаветнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: беззаветно
+
+-lexeme
+ lex: безусловнӧ
+ stem: безусловнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: безусловно
+
+-lexeme
+ lex: бердланьсянь
+ stem: бердланьсянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с места, примыкающего к чему-л.
+
+-lexeme
+ lex: бердланьысь
+ stem: бердланьысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: из места, примыкающего к чему-л.
+
+-lexeme
+ lex: беспощаднӧя
+ stem: беспощаднӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: беспощадно
+
+-lexeme
+ lex: бийылысь
+ stem: бийылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в бреду
+
+-lexeme
+ lex: бипурдорса
+ stem: бипурдорса.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: у костра
+
+-lexeme
+ lex: благополучнӧя
+ stem: благополучнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: благополучно
+
+-lexeme
+ lex: бокала
+ stem: бокала.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: боком
+
+-lexeme
+ lex: боквыв
+ stem: боквыв.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в сторону
+
+-lexeme
+ lex: бокисянь
+ stem: бокисянь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: со стороны
+
+-lexeme
+ lex: бокиті
+ stem: бокиті.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: стороной
+
+-lexeme
+ lex: бокланьын
+ stem: бокланьын.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в стороне
+
+-lexeme
+ lex: бокӧн
+ stem: бокӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: боком
+
+-lexeme
+ lex: брӧд
+ stem: брӧд.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: насквозь (промокнуть)
+
+-lexeme
+ lex: бугжыльӧн
+ stem: бугжыльӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: исподлобья, хмуро (смотреть)
+
+-lexeme
+ lex: букышӧн
+ stem: букышӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: хмуро
+
+-lexeme
+ lex: бура-лёка
+ stem: бура-лёка.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в общей сложности
+
+-lexeme
+ lex: бураддза
+ stem: бураддза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ради добра
+
+-lexeme
+ lex: буракӧ
+ stem: буракӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: может быть
+
+-lexeme
+ lex: бурасяна
+ stem: бурасяна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: примиренчески
+
+-lexeme
+ lex: бурдмӧн
+ stem: бурдмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до выздоровления
+
+-lexeme
+ lex: буретш
+ stem: буретш.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: впору
+
+-lexeme
+ lex: бурӧдана
+ stem: бурӧдана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: утешительно
+
+-lexeme
+ lex: бурӧн
+ stem: бурӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: добром
+
+-lexeme
+ lex: бус-тшын
+ stem: бус-тшын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вихрем
+
+-lexeme
+ lex: быдлаын
+ stem: быдлаын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всюду
+
+-lexeme
+ lex: быдлаысь
+ stem: быдлаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: отовсюду
+
+-lexeme
+ lex: быдлаӧ
+ stem: быдлаӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: во всякое место
+
+-lexeme
+ lex: быдсӧн
+ stem: быдсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: совсем; даже
+
+-lexeme
+ lex: быдысь
+ stem: быдысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: каждый раз
+
+-lexeme
+ lex: быдӧн
+ stem: быдӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: совсем; даже
+
+-lexeme
+ lex: бырана
+ stem: бырана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на исходе
+
+-lexeme
+ lex: быттьӧ
+ stem: быттьӧ.
+ gramm: CONJ,rus
+ paradigm: Adverbials-final
+ trans_ru: будто, как будто
+
+-lexeme
+ lex: быттьӧкӧ
+ stem: быттьӧкӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: будто
+
+-lexeme
+ lex: быть
+ stem: быть.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: обязательно
+
+-lexeme
+ lex: бӧбмытӧдз
+ stem: бӧбмытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до одурения
+
+-lexeme
+ lex: бӧжвыв
+ stem: бӧжвыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с перевесом, с перегрузкой кормы или задка
+
+-lexeme
+ lex: бӧр-водз
+ stem: бӧр-водз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: туда и обратно
+
+-lexeme
+ lex: бӧра-водза
+ stem: бӧра-водза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ненадолго
+
+-lexeme
+ lex: бӧрвыв
+ stem: бӧрвыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: назад
+
+-lexeme
+ lex: бӧрданкыв
+ stem: бӧрданкыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: обрядовый плач
+
+-lexeme
+ lex: бӧрдмӧн
+ stem: бӧрдмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до слёз
+
+-lexeme
+ lex: бӧрдӧмӧн
+ stem: бӧрдӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со слезами
+
+-lexeme
+ lex: бӧркокйыв
+ stem: бӧркокйыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на дыбы
+
+-lexeme
+ lex: бӧрся
+ stem: бӧрся.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: за, вслед
+
+-lexeme
+ lex: бӧрти
+ stem: бӧрти.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: после
+
+-lexeme
+ lex: бӧръявыв
+ stem: бӧръявыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: напоследок
+
+-lexeme
+ lex: бӧръяпомас
+ stem: бӧръяпомас.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в конце концов
+
+-lexeme
+ lex: бӧрыньӧн
+ stem: бӧрыньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: задом
+
+-lexeme
+ lex: бӧрӧн
+ stem: бӧрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: задом
+
+-lexeme
+ lex: важсянь
+ stem: важсянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с давних пор
+
+-lexeme
+ lex: важысянь
+ stem: важысянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с давних пор
+
+-lexeme
+ lex: важӧн
+ stem: важӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в старину
+
+-lexeme
+ lex: вай
+ stem: вай.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: давай
+
+-lexeme
+ lex: вак-вак
+ stem: вак-вак.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о громком смехе
+
+-lexeme
+ lex: вак-вакӧн
+ stem: вак-вакӧн.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о громком смехе
+
+-lexeme
+ lex: валйӧн-валйӧн
+ stem: валйӧн-валйӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: волнами, валами
+
+-lexeme
+ lex: вевйӧ
+ stem: вевйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: преждевременно (созреть)
+
+-lexeme
+ lex: вевсьӧн
+ stem: вевсьӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: друг на друга
+
+-lexeme
+ lex: вед
+ stem: вед.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: ведь
+
+-lexeme
+ lex: вежавидзӧмӧн
+ stem: вежавидзӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: учтиво
+
+-lexeme
+ lex: вежмӧн
+ stem: вежмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: опережая
+
+-lexeme
+ lex: вежонӧн-вежонӧн
+ stem: вежонӧн-вежонӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: понедельно
+
+-lexeme
+ lex: вежыньӧн
+ stem: вежыньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: криво, косо
+
+-lexeme
+ lex: вежӧн
+ stem: вежӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: крест-накрест
+
+-lexeme
+ lex: велавтӧг
+ stem: велавтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с непривычки
+
+-lexeme
+ lex: велавтӧмвылысь
+ stem: велавтӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с непривычки
+
+-lexeme
+ lex: велалӧмвылысь
+ stem: велалӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: научившись
+
+-lexeme
+ lex: вель
+ stem: вель.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: довольно
+
+-lexeme
+ lex: вемӧсӧн
+ stem: вемӧсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наяву
+
+-lexeme
+ lex: верзьӧмӧн
+ stem: верзьӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: верхом (на лошади)
+
+-lexeme
+ lex: вернӧ
+ stem: вернӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: верно
+
+-lexeme
+ lex: весиг
+ stem: весиг.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: даже
+
+-lexeme
+ lex: весь
+ stem: весь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: зря
+
+-lexeme
+ lex: веськодь
+ stem: веськодь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всё равно
+
+-lexeme
+ lex: весьтас
+ stem: весьтас.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: прямо, напрямик
+
+-lexeme
+ lex: весьшӧрӧ
+ stem: весьшӧрӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: напрасно
+
+-lexeme
+ lex: весьӧпӧрмӧн
+ stem: весьӧпӧрмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до оцепенения
+
+-lexeme
+ lex: взаимоотношение
+ stem: взаимоотношение.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: взаимоотношение
+
+-lexeme
+ lex: взаимопомощь
+ stem: взаимопомощь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: взаимопомощь
+
+-lexeme
+ lex: видзӧд
+ stem: видзӧд.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: ишь
+
+-lexeme
+ lex: видзӧдмӧн
+ stem: видзӧдмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на глазах, очень быстро
+
+-lexeme
+ lex: видзӧднысӧ
+ stem: видзӧднысӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с виду, внешне
+
+-lexeme
+ lex: видзӧдтӧг
+ stem: видзӧдтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без оглядки
+
+-lexeme
+ lex: визьӧн-визьӧн
+ stem: визьӧн-визьӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: рядами
+
+-lexeme
+ lex: вимӧн
+ stem: вимӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до смерти
+
+-lexeme
+ lex: вирсермунтӧдз
+ stem: вирсермунтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до полусмерти
+
+-lexeme
+ lex: висьмымӧн
+ stem: висьмымӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до боли
+
+-lexeme
+ lex: внимательнӧя
+ stem: внимательнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: внимательно
+
+-lexeme
+ lex: воандор
+ stem: воандор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к приходу
+
+-lexeme
+ lex: вобыд
+ stem: вобыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: целый год
+
+-lexeme
+ lex: водандор
+ stem: водандор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: перед сном
+
+-lexeme
+ lex: водзті
+ stem: водзті.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: впереди, раньше
+
+-lexeme
+ lex: водзча
+ stem: водзча.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: напротив, навстречу
+
+-lexeme
+ lex: водзӧдз
+ stem: водзӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до места, находящегося перед чем-л
+
+-lexeme
+ lex: водзӧсӧн
+ stem: водзӧсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: заимообразно
+
+-lexeme
+ lex: водсӧн
+ stem: водсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: лёжа
+
+-lexeme
+ lex: вой-вой
+ stem: вой-вой.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: целыми ночами
+
+-lexeme
+ lex: войбыд
+ stem: войбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всю ночь
+
+-lexeme
+ lex: войбыдӧн
+ stem: войбыдӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: целыми ночами
+
+-lexeme
+ lex: войдӧр
+ stem: войдӧр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: раньше
+
+-lexeme
+ lex: войдӧрлун
+ stem: войдӧрлун.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: позавчера
+
+-lexeme
+ lex: войколӧн
+ stem: войколӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с ночёвкой
+
+-lexeme
+ lex: вомгорулын
+ stem: вомгорулын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: под нос, про себя
+
+-lexeme
+ lex: вомӧн
+ stem: вомӧн.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: поперёк, через
+
+-lexeme
+ lex: восьлӧн
+ stem: восьлӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: шагом
+
+-lexeme
+ lex: вот
+ stem: вот.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: вот
+
+-lexeme
+ lex: воча
+ stem: воча.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: напротив, навстречу
+
+-lexeme
+ lex: вочасӧн
+ stem: вочасӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: постепенно
+
+-lexeme
+ lex: всесторонньӧя
+ stem: всесторонньӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: всесторонне
+
+-lexeme
+ lex: всё-таки
+ stem: всё-таки.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: всё-таки
+
+-lexeme
+ lex: вужыня-вежыня
+ stem: вужыня-вежыня.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: криво, косо
+
+-lexeme
+ lex: вывті
+ stem: вывті.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: слишком
+
+-lexeme
+ lex: выгӧднӧ
+ stem: выгӧднӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: выгодно
+
+-lexeme
+ lex: выгӧднӧя
+ stem: выгӧднӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: выгодно
+
+-lexeme
+ lex: выйын
+ stem: выйын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: при непосредственной близости
+
+-lexeme
+ lex: выйӧ
+ stem: выйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до какого-л. состояния
+
+-lexeme
+ lex: выйӧдз
+ stem: выйӧдз.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: даже
+
+-lexeme
+ lex: выйӧн
+ stem: выйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по какое-л. место
+
+-lexeme
+ lex: выльвылысь
+ stem: выльвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: снову, пока ещё новый
+
+-lexeme
+ lex: выльысь
+ stem: выльысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: снова
+
+-lexeme
+ lex: выльӧн
+ stem: выльӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: недавно
+
+-lexeme
+ lex: выразительнӧя
+ stem: выразительнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: выразительно
+
+-lexeme
+ lex: выяын
+ stem: выяын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на расстоянии
+
+-lexeme
+ lex: выяӧ
+ stem: выяӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на расстояние
+
+-lexeme
+ lex: выяӧдз
+ stem: выяӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на расстояние
+
+-lexeme
+ lex: вӧзьӧба
+ stem: вӧзьӧба.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наискосок (о срезе дерева)
+
+-lexeme
+ lex: вӧктӧмпырысь
+ stem: вӧктӧмпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: брезгливо
+
+-lexeme
+ lex: вӧлисти
+ stem: вӧлисти.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: только что
+
+-lexeme
+ lex: вӧлись
+ stem: вӧлись.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: только
+
+-lexeme
+ lex: вӧльнӧя
+ stem: вӧльнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: свободно, просторно
+
+-lexeme
+ lex: вӧсна
+ stem: вӧсна.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: из-за, за, для
+
+-lexeme
+ lex: гажаддза
+ stem: гажаддза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ради удовольствия
+
+-lexeme
+ lex: гажтӧмакодь
+ stem: гажтӧмакодь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: скучновато
+
+-lexeme
+ lex: гатш
+ stem: гатш.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: навзничь
+
+-lexeme
+ lex: гатшъёв
+ stem: гатшъёв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: навзничь
+
+-lexeme
+ lex: гатшӧн
+ stem: гатшӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на спине
+
+-lexeme
+ lex: гашкӧ
+ stem: гашкӧ.
+ gramm: PARENTH
+ paradigm: Clitics
+ trans_ru: может быть
+
+-lexeme
+ lex: гечӧн
+ stem: гечӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в пятнашки
+
+-lexeme
+ lex: гизьӧбӧн
+ stem: гизьӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сплошной массой
+
+-lexeme
+ lex: гиль-голь
+ stem: гиль-голь.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: с шумом звяканья
+
+-lexeme
+ lex: гири-люки
+ stem: гири-люки.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: с грохотом, задевая по пути что попало
+
+-lexeme
+ lex: гогйӧдлана
+ stem: гогйӧдлана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кивая головой
+
+-lexeme
+ lex: гожӧмбыд
+ stem: гожӧмбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всё лето
+
+-lexeme
+ lex: гозйӧн
+ stem: гозйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: парами
+
+-lexeme
+ lex: гозйӧн-гозйӧн
+ stem: гозйӧн-гозйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: попарно
+
+-lexeme
+ lex: гольс
+ stem: гольс.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: о дребезжании, звяканье, скрежете
+
+-lexeme
+ lex: гольыда
+ stem: гольыда.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: раскатисто
+
+-lexeme
+ lex: гораакодь
+ stem: гораакодь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: громковато
+
+-lexeme
+ lex: грым
+ stem: грым.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: о грохоте, стуке при падении тяжёлого предмета
+
+-lexeme
+ lex: гугӧн-банӧн
+ stem: гугӧн-банӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: лицом и изнанкой вперемежку
+
+-lexeme
+ lex: гудж
+ stem: гудж.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: о скрежете
+
+-lexeme
+ lex: гузьӧбӧн
+ stem: гузьӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: гурьбой
+
+-lexeme
+ lex: гурйыв
+ stem: гурйыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: настежь
+
+-lexeme
+ lex: гусьӧн
+ stem: гусьӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тайно
+
+-lexeme
+ lex: гырксӧн
+ stem: гырксӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: чулком
+
+-lexeme
+ lex: гӧгрӧсӧн
+ stem: гӧгрӧсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кругло
+
+-lexeme
+ lex: гӧгӧр
+ stem: гӧгӧр.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: вокруг
+
+-lexeme
+ lex: гӧгӧрбок
+ stem: гӧгӧрбок.
+ gramm: POST,rus
+ paradigm: Clitics
+ trans_ru: кругом
+
+-lexeme
+ lex: гӧгӧрпӧв
+ stem: гӧгӧрпӧв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кругом
+
+-lexeme
+ lex: гӧльпырысь
+ stem: гӧльпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: бедновато
+
+-lexeme
+ lex: гӧнеч
+ stem: гӧнеч.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: рысью
+
+-lexeme
+ lex: гӧнечӧн
+ stem: гӧнечӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: рысью
+
+-lexeme
+ lex: гӧрбыльӧн
+ stem: гӧрбыльӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: сгорбившись
+
+-lexeme
+ lex: гӧтов
+ stem: гӧтов.
+ gramm: PREDIC,rus
+ paradigm: Adverbials-final
+ trans_ru: готов
+
+-lexeme
+ lex: да
+ stem: да.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: да
+
+-lexeme
+ lex: дажӧ
+ stem: дажӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: даже
+
+-lexeme
+ lex: дай
+ stem: дай.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: да и
+
+-lexeme
+ lex: дарӧм
+ stem: дарӧм.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: даром
+
+-lexeme
+ lex: дасысь
+ stem: дасысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: десять раз
+
+-lexeme
+ lex: дасьпырысь
+ stem: дасьпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с готовностью
+
+-lexeme
+ lex: действительнӧ
+ stem: действительнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: действительно
+
+-lexeme
+ lex: дерт
+ stem: дерт.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: конечно
+
+-lexeme
+ lex: джагӧдчымӧн
+ stem: джагӧдчымӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до зарезу
+
+-lexeme
+ lex: джынвыйӧ
+ stem: джынвыйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до половины
+
+-lexeme
+ lex: джынйӧн
+ stem: джынйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по половине
+
+-lexeme
+ lex: джӧмдавтӧг
+ stem: джӧмдавтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без запинки
+
+-lexeme
+ lex: джӧмдывтӧг
+ stem: джӧмдывтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без остановки
+
+-lexeme
+ lex: дзайгана
+ stem: дзайгана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: надоедливо приставая
+
+-lexeme
+ lex: дзар
+ stem: дзар.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: совсем (светло)
+
+-lexeme
+ lex: дзенавтӧдз
+ stem: дзенавтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до боли
+
+-lexeme
+ lex: дзик
+ stem: дзик.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: совсем; точно
+
+-lexeme
+ lex: дзикӧдз
+ stem: дзикӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: совсем; точно
+
+-lexeme
+ lex: дзим-дзурк
+ stem: дзим-дзурк.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: чисто, аккуратно
+
+-lexeme
+ lex: дзирдавмӧн
+ stem: дзирдавмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до блеска
+
+-lexeme
+ lex: дзирйыв
+ stem: дзирйыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: настежь
+
+-lexeme
+ lex: дзобавмӧн
+ stem: дзобавмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до онемения
+
+-lexeme
+ lex: дзольӧбӧн
+ stem: дзольӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: струёй
+
+-lexeme
+ lex: дзоньӧн
+ stem: дзоньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: целиком
+
+-lexeme
+ lex: дзормымӧн
+ stem: дзормымӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до седин
+
+-lexeme
+ lex: дзормытӧдз
+ stem: дзормытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до седин
+
+-lexeme
+ lex: дзуглясьӧмӧн
+ stem: дзуглясьӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в беспокойстве
+
+-lexeme
+ lex: дзугсьӧмӧн
+ stem: дзугсьӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: путано
+
+-lexeme
+ lex: дзуж-дзаж
+ stem: дзуж-дзаж.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: с треском
+
+-lexeme
+ lex: дзулькйӧн
+ stem: дзулькйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ключом, фонтаном
+
+-lexeme
+ lex: дзульӧбӧн
+ stem: дзульӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ключом
+
+-lexeme
+ lex: дзурс
+ stem: дзурс.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: совсем (темно)
+
+-lexeme
+ lex: дзурттӧг
+ stem: дзурттӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без скрипа
+
+-lexeme
+ lex: дзуртӧмӧн
+ stem: дзуртӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со скрипом
+
+-lexeme
+ lex: дивуйтчанаа
+ stem: дивуйтчанаа.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с удивлением
+
+-lexeme
+ lex: дивъя
+ stem: дивъя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: не удивительно
+
+-lexeme
+ lex: дивъяпырысь
+ stem: дивъяпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с радостью
+
+-lexeme
+ lex: дивӧпырысь
+ stem: дивӧпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с удивлением
+
+-lexeme
+ lex: доддясьтӧдз
+ stem: доддясьтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до запряжки
+
+-lexeme
+ lex: дойдмӧн
+ stem: дойдмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до боли
+
+-lexeme
+ lex: доймымӧн
+ stem: доймымӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до боли
+
+-lexeme
+ lex: доймытӧдз
+ stem: доймытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до боли
+
+-lexeme
+ lex: дона-донысь
+ stem: дона-донысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: чрезмерно дорого
+
+-lexeme
+ lex: дона-донӧн
+ stem: дона-донӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: чрезмерно дорого
+
+-lexeme
+ lex: донтӧг
+ stem: донтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: дёшево
+
+-lexeme
+ lex: донысь
+ stem: донысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: за бесценок
+
+-lexeme
+ lex: донӧн
+ stem: донӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: за бесценок
+
+-lexeme
+ lex: дорала
+ stem: дорала.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: беспрерывно
+
+-lexeme
+ lex: дорвыв
+ stem: дорвыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: подряд, по порядку
+
+-lexeme
+ lex: доролӧн
+ stem: доролӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: накренившись
+
+-lexeme
+ lex: дорыньӧн
+ stem: дорыньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наклонно
+
+-lexeme
+ lex: дорышвыв
+ stem: дорышвыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на ребро
+
+-lexeme
+ lex: дубавтӧдз
+ stem: дубавтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до выдыхания
+
+-lexeme
+ lex: дугдывтӧг
+ stem: дугдывтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: беспрестанно
+
+-lexeme
+ lex: дугдылӧмӧн
+ stem: дугдылӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с перерывом
+
+-lexeme
+ lex: думысь
+ stem: думысь.
+ gramm: POST,rus
+ paradigm: Clitics
+ trans_ru: по мнению
+
+-lexeme
+ lex: думӧн
+ stem: думӧн.
+ gramm: POST,rus
+ paradigm: Clitics
+ trans_ru: по мнению
+
+-lexeme
+ lex: дундытӧдз
+ stem: дундытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до вздутия
+
+-lexeme
+ lex: дыр
+ stem: дыр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: долго
+
+-lexeme
+ lex: дырйи
+ stem: дырйи.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: во время
+
+-lexeme
+ lex: дырӧн
+ stem: дырӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в течение долгого времени
+
+-lexeme
+ lex: дэльӧдана
+ stem: дэльӧдана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: дразнясь
+
+-lexeme
+ lex: дӧвӧль
+ stem: дӧвӧль.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в изобилии
+
+-lexeme
+ lex: дӧсмерти
+ stem: дӧсмерти.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: до смерти
+
+-lexeme
+ lex: единогласнӧ
+ stem: единогласнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: единогласно
+
+-lexeme
+ lex: ещӧ
+ stem: ещӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: ещё
+
+-lexeme
+ lex: жаль
+ stem: жаль.
+ gramm: PREDIC,rus
+ paradigm: Clitics
+ trans_ru: жаль
+
+-lexeme
+ lex: жальпырысь
+ stem: жальпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с жалостью
+
+-lexeme
+ lex: жаляддза
+ stem: жаляддза.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: из жалости, из сострадания
+
+-lexeme
+ lex: жбыр
+ stem: жбыр.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: со звуком порхания
+
+-lexeme
+ lex: журӧбӧн
+ stem: журӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с шумом (от движения)
+
+-lexeme
+ lex: жӧ
+ stem: жӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: же
+
+-lexeme
+ lex: забеднӧ
+ stem: забеднӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: обидно
+
+-lexeme
+ lex: забыль
+ stem: забыль.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: верно
+
+-lexeme
+ lex: забыльысь
+ stem: забыльысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: верно
+
+-lexeme
+ lex: завидьпырысь
+ stem: завидьпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с завистью
+
+-lexeme
+ lex: зажиточнӧя
+ stem: зажиточнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: зажиточно
+
+-lexeme
+ lex: зато
+ stem: зато.
+ gramm: CONJ,rus
+ paradigm: Adverbials-final
+ trans_ru: зато
+
+-lexeme
+ lex: затяжнӧй
+ stem: затяжнӧй.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: затяжной
+
+-lexeme
+ lex: збыль
+ stem: збыль.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: действительно
+
+-lexeme
+ lex: збыльысь
+ stem: збыльысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: на самом деле
+
+-lexeme
+ lex: званньӧ
+ stem: званньӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: совсем
+
+-lexeme
+ lex: звирк
+ stem: звирк.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: одним броском
+
+-lexeme
+ lex: здорово
+ stem: здорово.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: здорово, привет
+
+-lexeme
+ lex: здукӧн
+ stem: здукӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: мигом, вмиг
+
+-lexeme
+ lex: здӧвӧль
+ stem: здӧвӧль.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: достаточно, в достатке; довольный
+
+-lexeme
+ lex: зеркала
+ stem: зеркала.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: зеркало
+
+-lexeme
+ lex: зури-зари
+ stem: зури-зари.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: с треском и с шумом (образ движения)
+
+-lexeme
+ lex: зуркыда
+ stem: зуркыда.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тряско
+
+-lexeme
+ lex: зывӧка
+ stem: зывӧка.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: брезгливо
+
+-lexeme
+ lex: зывӧктӧмӧн
+ stem: зывӧктӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с отвращением
+
+-lexeme
+ lex: зьвага
+ stem: зьвага.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: брюзгливо
+
+-lexeme
+ lex: зэв
+ stem: зэв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: очень
+
+-lexeme
+ lex: и
+ stem: и.
+ gramm: CONJ,rus
+ paradigm: Adverbials-final
+ trans_ru: и
+
+-lexeme
+ lex: идӧрӧн
+ stem: идӧрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: хозяйственно
+
+-lexeme
+ lex: изьвекысянь
+ stem: изьвекысянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: испокон веков
+
+-lexeme
+ lex: инын-туйын
+ stem: инын-туйын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в людях
+
+-lexeme
+ lex: инӧ
+ stem: инӧ.
+ gramm: PARENTH
+ paradigm: Clitics
+ trans_ru: в таком случае
+
+-lexeme
+ lex: йирки-тарки
+ stem: йирки-тарки.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с грохотом
+
+-lexeme
+ lex: йылавек
+ stem: йылавек.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: всё время
+
+-lexeme
+ lex: йӧзаддза
+ stem: йӧзаддза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: для виду
+
+-lexeme
+ lex: йӧйла
+ stem: йӧйла.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по глупости
+
+-lexeme
+ lex: йӧймымӧн
+ stem: йӧймымӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до сумасшествия
+
+-lexeme
+ lex: йӧмкӧ
+ stem: йӧмкӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: свободно, удобно, ловко
+
+-lexeme
+ lex: катчӧс
+ stem: катчӧс.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: против течения
+
+-lexeme
+ lex: качана
+ stem: качана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на лету
+
+-lexeme
+ lex: квайтысь
+ stem: квайтысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: шесть раз
+
+-lexeme
+ lex: кевмана
+ stem: кевмана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: умоляя
+
+-lexeme
+ lex: кевмысяна
+ stem: кевмысяна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с мольбой
+
+-lexeme
+ lex: кежана
+ stem: кежана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: свернув
+
+-lexeme
+ lex: кежлӧ
+ stem: кежлӧ.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: ко времени, на время
+
+-lexeme
+ lex: кежын
+ stem: кежын.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: между
+
+-lexeme
+ lex: кежӧ
+ stem: кежӧ.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: ко времени, на время
+
+-lexeme
+ lex: кекӧначӧн
+ stem: кекӧначӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в ладоши
+
+-lexeme
+ lex: кельдӧдмӧн
+ stem: кельдӧдмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до побледнения
+
+-lexeme
+ lex: кералігӧн
+ stem: кералігӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: при рубке
+
+-lexeme
+ lex: киасьтӧг
+ stem: киасьтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без рукопожатия
+
+-lexeme
+ lex: киасьӧмӧн
+ stem: киасьӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: пожав руку
+
+-lexeme
+ lex: кивыв
+ stem: кивыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на руку
+
+-lexeme
+ lex: кикурӧда
+ stem: кикурӧда.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: неаккуратно
+
+-lexeme
+ lex: килькувтӧдз
+ stem: килькувтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до отчаяния
+
+-lexeme
+ lex: кималасӧн
+ stem: кималасӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на ощупь
+
+-lexeme
+ lex: кимльӧскивыв
+ stem: кимльӧскивыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наотмашь
+
+-lexeme
+ lex: кливзігтыр
+ stem: кливзігтыр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: клича
+
+-lexeme
+ lex: клюна-клёна
+ stem: клюна-клёна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с грохотом
+
+-lexeme
+ lex: ковтӧг
+ stem: ковтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без надобности
+
+-lexeme
+ lex: кодкӧлун
+ stem: кодкӧлун.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на днях
+
+-lexeme
+ lex: кодь
+ stem: кодь.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: как
+
+-lexeme
+ lex: кокчунясьӧмӧн
+ stem: кокчунясьӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на цыпочках
+
+-lexeme
+ lex: кокысь-кок
+ stem: кокысь-кок.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в ногу
+
+-lexeme
+ lex: коланамоз
+ stem: коланамоз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по надобности
+
+-lexeme
+ lex: коли
+ stem: коли.
+ gramm: CONJ,rus
+ paradigm: Adverbials-final
+ trans_ru: коли
+
+-lexeme
+ lex: колігӧн
+ stem: колігӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: при желании
+
+-lexeme
+ lex: колӧкӧ
+ stem: колӧкӧ.
+ gramm: PARENTH
+ paradigm: Clitics
+ trans_ru: если угодно, возможно
+
+-lexeme
+ lex: комиӧн
+ stem: комиӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по-коми
+
+-lexeme
+ lex: комынысь
+ stem: комынысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тридцать раз
+
+-lexeme
+ lex: конь-конь
+ stem: конь-конь.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв телят, быков
+
+-lexeme
+ lex: копырӧн
+ stem: копырӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наклонившись
+
+-lexeme
+ lex: коранаа
+ stem: коранаа.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: просительно
+
+-lexeme
+ lex: коркӧясӧ
+ stem: коркӧясӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: временами
+
+-lexeme
+ lex: корӧмпырысь
+ stem: корӧмпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: просительно
+
+-lexeme
+ lex: косавлӧмӧн
+ stem: косавлӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с отступлениями
+
+-lexeme
+ lex: коставлытӧг
+ stem: коставлытӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: непрерывно
+
+-lexeme
+ lex: коставлӧмӧн
+ stem: коставлӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с перерывами
+
+-lexeme
+ lex: кості
+ stem: кості.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: преждевременно
+
+-lexeme
+ lex: костӧ
+ stem: костӧ.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: в, за, под что-л
+
+-lexeme
+ lex: костӧн-костӧн
+ stem: костӧн-костӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на расстоянии
+
+-lexeme
+ lex: косявмӧн
+ stem: косявмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до рези
+
+-lexeme
+ lex: котырӧн
+ stem: котырӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: группой
+
+-lexeme
+ lex: котӧрӧн
+ stem: котӧрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: бегом
+
+-lexeme
+ lex: кочкавмӧн
+ stem: кочкавмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до колик
+
+-lexeme
+ lex: кочкавтӧдз
+ stem: кочкавтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до колик
+
+-lexeme
+ lex: крестӧн-крестӧн
+ stem: крестӧн-крестӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: крестообразно
+
+-lexeme
+ lex: кристалля
+ stem: кристалля.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: ради Христа
+
+-lexeme
+ lex: крукасяна
+ stem: крукасяна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: придирчиво
+
+-lexeme
+ lex: кувмысти
+ stem: кувмысти.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: после смерти
+
+-lexeme
+ lex: кузьмӧса
+ stem: кузьмӧса.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: продолговато
+
+-lexeme
+ lex: кузяла
+ stem: кузяла.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вдоль, по всей длине
+
+-lexeme
+ lex: куландор
+ stem: куландор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: перед смертью
+
+-lexeme
+ lex: кульмытӧдз
+ stem: кульмытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до нереста
+
+-lexeme
+ lex: куньтыра
+ stem: куньтыра.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с прищуром
+
+-lexeme
+ lex: курыдакодь
+ stem: курыдакодь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с обидой
+
+-lexeme
+ lex: куть-куть
+ stem: куть-куть.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв собаки, щенка
+
+-lexeme
+ lex: куш
+ stem: куш.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: только
+
+-lexeme
+ lex: кывзысьтӧма
+ stem: кывзысьтӧма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: непослушно
+
+-lexeme
+ lex: кывтчӧс
+ stem: кывтчӧс.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по течению
+
+-lexeme
+ lex: кыдзиджык
+ stem: кыдзиджык.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: как именно
+
+-lexeme
+ lex: кызвыйӧ
+ stem: кызвыйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в основном
+
+-lexeme
+ lex: кызьысь
+ stem: кызьысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: двадцать раз
+
+-lexeme
+ lex: кызьӧдысь
+ stem: кызьӧдысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: двадцатый раз
+
+-lexeme
+ lex: кыккирудз
+ stem: кыккирудз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сложа руки
+
+-lexeme
+ lex: кыккокйыв
+ stem: кыккокйыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вскачь
+
+-lexeme
+ lex: кыкнанысь
+ stem: кыкнанысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: оба раза
+
+-lexeme
+ lex: кыксёысь
+ stem: кыксёысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: двести раз
+
+-lexeme
+ lex: кыкысь-куимысь
+ stem: кыкысь-куимысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: два-три раза
+
+-lexeme
+ lex: кыкӧн-кыкӧн
+ stem: кыкӧн-кыкӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: парами
+
+-lexeme
+ lex: кымынысь
+ stem: кымынысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сколько раз
+
+-lexeme
+ lex: кымыныськӧ
+ stem: кымыныськӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: несколько раз
+
+-lexeme
+ lex: кымынь
+ stem: кымынь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ничком
+
+-lexeme
+ lex: кымыньӧн
+ stem: кымыньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ничком
+
+-lexeme
+ lex: кымынӧдысь
+ stem: кымынӧдысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: который раз
+
+-lexeme
+ lex: кындзи
+ stem: кындзи.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: кроме
+
+-lexeme
+ lex: кынмытӧдз
+ stem: кынмытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до замерзания
+
+-lexeme
+ lex: кынмӧмвылысь
+ stem: кынмӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с морозу
+
+-lexeme
+ lex: кыскӧмӧн
+ stem: кыскӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: волоком
+
+-lexeme
+ lex: кытшлӧдлытӧг
+ stem: кытшлӧдлытӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без обиняков, прямо
+
+-lexeme
+ lex: кытшолӧн
+ stem: кытшолӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в обход
+
+-lexeme
+ lex: кытшыльӧн
+ stem: кытшыльӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: калачиком
+
+-lexeme
+ lex: кӧ
+ stem: кӧ.
+ gramm: CONJ
+ paradigm: Adverbials-final
+ trans_ru: если
+
+-lexeme
+ lex: кӧджӧн-кӧджӧн
+ stem: кӧджӧн-кӧджӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: зигзагом
+
+-lexeme
+ lex: кӧкъямысысь
+ stem: кӧкъямысысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: восемь раз
+
+-lexeme
+ lex: кӧсйытӧг
+ stem: кӧсйытӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: машинально
+
+-lexeme
+ lex: кӧть
+ stem: кӧть.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: хоть
+
+-lexeme
+ lex: кӧшельӧн
+ stem: кӧшельӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на спине
+
+-lexeme
+ lex: ладнӧ
+ stem: ладнӧ.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: ладно, хорошо
+
+-lexeme
+ lex: ладтӧг
+ stem: ладтӧг.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: без толку
+
+-lexeme
+ lex: лажыньӧн
+ stem: лажыньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на корточках
+
+-lexeme
+ lex: лайкйӧн
+ stem: лайкйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на перевесе, гибкой палке
+
+-lexeme
+ lex: лайкӧдана
+ stem: лайкӧдана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: качая
+
+-lexeme
+ lex: лестя
+ stem: лестя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: льстиво
+
+-lexeme
+ lex: ли
+ stem: ли.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: ли, или
+
+-lexeme
+ lex: либӧ
+ stem: либӧ.
+ gramm: CONJ,rus
+ paradigm: Adverbials-final
+ trans_ru: или
+
+-lexeme
+ lex: лишавмӧн
+ stem: лишавмӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в избытке
+
+-lexeme
+ lex: ловйӧн
+ stem: ловйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: живьём
+
+-lexeme
+ lex: лун-лун
+ stem: лун-лун.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: день-деньской
+
+-lexeme
+ lex: луна
+ stem: луна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: днём
+
+-lexeme
+ lex: лункосмӧс
+ stem: лункосмӧс.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: через день
+
+-lexeme
+ lex: лункосмӧсӧн
+ stem: лункосмӧсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: через день
+
+-lexeme
+ lex: лунтыр
+ stem: лунтыр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: целый день
+
+-lexeme
+ lex: лунын
+ stem: лунын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: днём
+
+-lexeme
+ lex: лыдын-тшӧтын
+ stem: лыдын-тшӧтын.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в расчёте
+
+-lexeme
+ lex: люб
+ stem: люб.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: полюбовно
+
+-lexeme
+ lex: любӧ
+ stem: любӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: любо
+
+-lexeme
+ lex: любӧпырысь
+ stem: любӧпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с удовольствием, охотно
+
+-lexeme
+ lex: люзьӧбӧн
+ stem: люзьӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: гуськом
+
+-lexeme
+ lex: лют
+ stem: лют.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: склонен, не прочь
+
+-lexeme
+ lex: лючки
+ stem: лючки.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: аккуратно
+
+-lexeme
+ lex: лючки-ладнӧ
+ stem: лючки-ладнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: аккуратно
+
+-lexeme
+ lex: лёддзӧн-лёддзӧн
+ stem: лёддзӧн-лёддзӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: рядами
+
+-lexeme
+ lex: лёкаддза
+ stem: лёкаддза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со зла
+
+-lexeme
+ lex: лёкӧн-зыкӧн
+ stem: лёкӧн-зыкӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со скандалом
+
+-lexeme
+ lex: лётавтӧдз
+ stem: лётавтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до изнеможения
+
+-lexeme
+ lex: ліза-лӧза
+ stem: ліза-лӧза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с шумом, со стуком
+
+-lexeme
+ lex: лӧга
+ stem: лӧга.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: злобно
+
+-lexeme
+ lex: лӧгаддза
+ stem: лӧгаддза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со зла
+
+-lexeme
+ lex: лӧгпырысь
+ stem: лӧгпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со злобой
+
+-lexeme
+ lex: лӧгын-лёкын
+ stem: лӧгын-лёкын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в ссоре
+
+-lexeme
+ lex: лӧзӧдтӧдз
+ stem: лӧзӧдтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до посинения
+
+-lexeme
+ lex: лӧсявтӧг
+ stem: лӧсявтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: несогласно
+
+-lexeme
+ lex: лӧсялананог
+ stem: лӧсялананог.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: надлежащим образом
+
+-lexeme
+ lex: маетнӧ
+ stem: маетнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: хлопотно, утомительно
+
+-lexeme
+ lex: майшасьӧмвылысь
+ stem: майшасьӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: от волнения
+
+-lexeme
+ lex: манливӧ
+ stem: манливӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: затруднительно
+
+-lexeme
+ lex: матысь
+ stem: матысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с места неподалёку
+
+-lexeme
+ lex: маті
+ stem: маті.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: близко, вблизи (двигаться)
+
+-lexeme
+ lex: матіті
+ stem: матіті.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: близко, вблизи (двигаться)
+
+-lexeme
+ lex: матӧ
+ stem: матӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на близкое расстояние
+
+-lexeme
+ lex: мегӧ
+ stem: мегӧ.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв барана
+
+-lexeme
+ lex: мед
+ stem: мед.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: пусть
+
+-lexeme
+ lex: медбӧрти
+ stem: медбӧрти.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: под конец
+
+-lexeme
+ lex: медводз
+ stem: медводз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: первым
+
+-lexeme
+ lex: медводдзаысь
+ stem: медводдзаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: первый раз
+
+-lexeme
+ lex: медвойдӧр
+ stem: медвойдӧр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: первым делом
+
+-lexeme
+ lex: медсясӧ
+ stem: медсясӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: главным образом
+
+-lexeme
+ lex: медтыкӧ
+ stem: медтыкӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: лишь бы
+
+-lexeme
+ lex: медтыкӧ
+ stem: медтыкӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: лишь бы
+
+-lexeme
+ lex: медъя
+ stem: медъя.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: пусть
+
+-lexeme
+ lex: медым
+ stem: медым.
+ gramm: CONJ
+ paradigm: Clitics
+ trans_ru: чтобы
+
+-lexeme
+ lex: медӧн
+ stem: медӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по найму
+
+-lexeme
+ lex: местаӧн-местаӧн
+ stem: местаӧн-местаӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: местами
+
+-lexeme
+ lex: мися
+ stem: мися.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: мол
+
+-lexeme
+ lex: могысь
+ stem: могысь.
+ gramm: CONJ
+ paradigm: Adverbials-final
+ trans_ru: с целью
+
+-lexeme
+ lex: могӧн
+ stem: могӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по делу
+
+-lexeme
+ lex: модаа
+ stem: модаа.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: наподобие
+
+-lexeme
+ lex: моз
+ stem: моз.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: как, подобно
+
+-lexeme
+ lex: морттӧма
+ stem: морттӧма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: бесчеловечно
+
+-lexeme
+ lex: мудзвылысь
+ stem: мудзвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: от усталости
+
+-lexeme
+ lex: мукӧдлаті
+ stem: мукӧдлаті.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: местами
+
+-lexeme
+ lex: муртса
+ stem: муртса.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: едва
+
+-lexeme
+ lex: мурч
+ stem: мурч.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: крепко, со скрежетом
+
+-lexeme
+ lex: мусапырысь
+ stem: мусапырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с любовью
+
+-lexeme
+ lex: мустӧма
+ stem: мустӧма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: неприязненно
+
+-lexeme
+ lex: мустӧмтӧмӧн
+ stem: мустӧмтӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: неприязненно
+
+-lexeme
+ lex: мучитчӧмпырысь
+ stem: мучитчӧмпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: мучаясь
+
+-lexeme
+ lex: мывкыдтӧма
+ stem: мывкыдтӧма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: неблагоразумно
+
+-lexeme
+ lex: мырдысь
+ stem: мырдысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: насильно
+
+-lexeme
+ lex: мырдӧн
+ stem: мырдӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: насильно
+
+-lexeme
+ lex: мырдӧнвылысь
+ stem: мырдӧнвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: через силу
+
+-lexeme
+ lex: мысти
+ stem: мысти.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: спустя, через
+
+-lexeme
+ lex: мытсавмӧн
+ stem: мытсавмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до отвала
+
+-lexeme
+ lex: мӧд-кӧ
+ stem: мӧд-кӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: во-вторых
+
+-lexeme
+ lex: мӧдысь
+ stem: мӧдысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: второй раз
+
+-lexeme
+ lex: мӧй
+ stem: мӧй.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: разве
+
+-lexeme
+ lex: мӧйму
+ stem: мӧйму.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в прошлом году
+
+-lexeme
+ lex: мӧрччана
+ stem: мӧрччана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: внушительно
+
+-lexeme
+ lex: на
+ stem: на.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ещё
+
+-lexeme
+ lex: набалмаш
+ stem: набалмаш.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: наобум
+
+-lexeme
+ lex: навернӧ
+ stem: навернӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: наверно
+
+-lexeme
+ lex: навыскок
+ stem: навыскок.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: вскачь
+
+-lexeme
+ lex: надеяпырысь
+ stem: надеяпырысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с надеждой
+
+-lexeme
+ lex: надзӧ
+ stem: надзӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тихо, медленно
+
+-lexeme
+ lex: надзӧн
+ stem: надзӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тихо, медленно
+
+-lexeme
+ lex: надурнӧ
+ stem: надурнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: назло
+
+-lexeme
+ lex: наперво
+ stem: наперво.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: по крайней мере
+
+-lexeme
+ lex: например
+ stem: например.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: например
+
+-lexeme
+ lex: нарошнӧ
+ stem: нарошнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: нарочно
+
+-lexeme
+ lex: нач
+ stem: нач.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: совсем, совершенно
+
+-lexeme
+ lex: не
+ stem: не.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: не
+
+-lexeme
+ lex: небось
+ stem: небось.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: небось
+
+-lexeme
+ lex: неважӧн
+ stem: неважӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: недавно
+
+-lexeme
+ lex: невӧляысь
+ stem: невӧляысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: поневоле
+
+-lexeme
+ lex: невӧляӧн
+ stem: невӧляӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: поневоле
+
+-lexeme
+ lex: недыр
+ stem: недыр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: недолго
+
+-lexeme
+ lex: некымынысь
+ stem: некымынысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: несколько раз
+
+-lexeme
+ lex: неладнӧ
+ stem: неладнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: неправильно
+
+-lexeme
+ lex: нелючки
+ stem: нелючки.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: неправильно
+
+-lexeme
+ lex: неног
+ stem: неног.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ненормально
+
+-lexeme
+ lex: неокота
+ stem: неокота.
+ gramm: PREDIC,rus
+ paradigm: Clitics
+ trans_ru: неохота
+
+-lexeme
+ lex: неправильнӧ
+ stem: неправильнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: неправильно
+
+-lexeme
+ lex: непременнӧ
+ stem: непременнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: непременно
+
+-lexeme
+ lex: непӧштӧ
+ stem: непӧштӧ.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: не то что
+
+-lexeme
+ lex: нето
+ stem: нето.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: не то
+
+-lexeme
+ lex: нетшкысьӧмӧн
+ stem: нетшкысьӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: рывками
+
+-lexeme
+ lex: неужели
+ stem: неужели.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: неужели
+
+-lexeme
+ lex: неуна
+ stem: неуна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: немного
+
+-lexeme
+ lex: неунаысь
+ stem: неунаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: несколько раз
+
+-lexeme
+ lex: неунаӧн
+ stem: неунаӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: понемногу
+
+-lexeme
+ lex: неылын
+ stem: неылын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: недалеко
+
+-lexeme
+ lex: неылысь
+ stem: неылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: из близкого места
+
+-lexeme
+ lex: неылӧ
+ stem: неылӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в близкое место
+
+-lexeme
+ lex: неӧтчыд
+ stem: неӧтчыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: не один раз
+
+-lexeme
+ lex: ни
+ stem: ни.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: ни
+
+-lexeme
+ lex: нивӧю
+ stem: нивӧю.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сплошной массой
+
+-lexeme
+ lex: нима
+ stem: нима.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по имени
+
+-lexeme
+ lex: нимкодь
+ stem: нимкодь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: приятно
+
+-lexeme
+ lex: нимкодьпырысь
+ stem: нимкодьпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с радостью
+
+-lexeme
+ lex: нин
+ stem: нин.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: уже
+
+-lexeme
+ lex: нисьӧ
+ stem: нисьӧ.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: не то
+
+-lexeme
+ lex: но
+ stem: но.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: ну
+
+-lexeme
+ lex: ногысь
+ stem: ногысь.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: по образу
+
+-lexeme
+ lex: ногӧн
+ stem: ногӧн.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: каким-то образом
+
+-lexeme
+ lex: ноко
+ stem: ноко.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: ну-ка
+
+-lexeme
+ lex: нолтӧ
+ stem: нолтӧ.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: нуте, нуте-ка
+
+-lexeme
+ lex: нолы
+ stem: нолы.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: ну, ну-ка
+
+-lexeme
+ lex: нолӧ
+ stem: нолӧ.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: нуте, нуте-ка
+
+-lexeme
+ lex: норасьтӧг
+ stem: норасьтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: безропотно
+
+-lexeme
+ lex: нуртӧма
+ stem: нуртӧма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без подъёма, грустно
+
+-lexeme
+ lex: ныргорӧн
+ stem: ныргорӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с храпом
+
+-lexeme
+ lex: ньывкӧса
+ stem: ньывкӧса.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: полого
+
+-lexeme
+ lex: ньылыд
+ stem: ньылыд.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: по одному направлению с
+
+-lexeme
+ lex: ньӧжйӧ
+ stem: ньӧжйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тихо, медленно
+
+-lexeme
+ lex: ньӧжйӧн
+ stem: ньӧжйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тихо, медленно
+
+-lexeme
+ lex: ньӧти
+ stem: ньӧти.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: нисколько, совсем
+
+-lexeme
+ lex: ньӧтчыд
+ stem: ньӧтчыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ни разу
+
+-lexeme
+ lex: нэмӧн
+ stem: нэмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в течение века (пока жив)
+
+-lexeme
+ lex: нюдза
+ stem: нюдза.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тягуче
+
+-lexeme
+ lex: нюжмасяна
+ stem: нюжмасяна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: потягиваясь
+
+-lexeme
+ lex: нюрс
+ stem: нюрс.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: (кыскыны) стянуть
+
+-lexeme
+ lex: нялӧбӧн
+ stem: нялӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сплошным пламенем
+
+-lexeme
+ lex: няра
+ stem: няра.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: слезливо
+
+-lexeme
+ lex: нёльпод
+ stem: нёльпод.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на четвереньках
+
+-lexeme
+ lex: нёриньӧн
+ stem: нёриньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наклонно
+
+-lexeme
+ lex: нӧ
+ stem: нӧ.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: же
+
+-lexeme
+ lex: нӧшта
+ stem: нӧшта.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ещё
+
+-lexeme
+ lex: ой
+ stem: ой.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: ой
+
+-lexeme
+ lex: ойя
+ stem: ойя.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: ох, ох-ох
+
+-lexeme
+ lex: ок
+ stem: ок.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: ох
+
+-lexeme
+ lex: окма
+ stem: окма.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: эхма
+
+-lexeme
+ lex: окотаысь
+ stem: окотаысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с удовольствием
+
+-lexeme
+ lex: олан-вылан
+ stem: олан-вылан.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: здравствуй
+
+-lexeme
+ lex: олӧмбыд
+ stem: олӧмбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всю жизнь
+
+-lexeme
+ lex: омӧля
+ stem: омӧля.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: плохо
+
+-lexeme
+ lex: ортсын
+ stem: ортсын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на стороне
+
+-lexeme
+ lex: ортсысь
+ stem: ортсысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со стороны
+
+-lexeme
+ lex: ортсӧ
+ stem: ортсӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наружу
+
+-lexeme
+ lex: орччӧн
+ stem: орччӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: рядом
+
+-lexeme
+ lex: орччӧн-орччӧн
+ stem: орччӧн-орччӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: парами
+
+-lexeme
+ lex: ошкӧмӧн
+ stem: ошкӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с похвалой
+
+-lexeme
+ lex: падвежӧн
+ stem: падвежӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: крестом
+
+-lexeme
+ lex: падуйӧн
+ stem: падуйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кувырком
+
+-lexeme
+ lex: паньыштмӧн
+ stem: паньыштмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с глоток
+
+-lexeme
+ lex: параӧн-параӧн
+ stem: параӧн-параӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: парами
+
+-lexeme
+ lex: пасибӧ
+ stem: пасибӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: спасибо
+
+-lexeme
+ lex: пасьтала
+ stem: пасьтала.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по всей ширине
+
+-lexeme
+ lex: патурликӧн
+ stem: патурликӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кувырком
+
+-lexeme
+ lex: пельӧ
+ stem: пельӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на две части
+
+-lexeme
+ lex: первойысь
+ stem: первойысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в первый раз
+
+-lexeme
+ lex: пидзикокӧн
+ stem: пидзикокӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на коленях
+
+-lexeme
+ lex: пидзӧсчаньӧн
+ stem: пидзӧсчаньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на коленях
+
+-lexeme
+ lex: пискаа
+ stem: пискаа.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: привередливо
+
+-lexeme
+ lex: пластӧн-пластӧн
+ stem: пластӧн-пластӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: пластами
+
+-lexeme
+ lex: пласьт
+ stem: пласьт.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: плашмя
+
+-lexeme
+ lex: повзьӧмвылысь
+ stem: повзьӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с испугу
+
+-lexeme
+ lex: повтӧг
+ stem: повтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: безбоязненно
+
+-lexeme
+ lex: подӧн
+ stem: подӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: пешком
+
+-lexeme
+ lex: позьтӧма
+ stem: позьтӧма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до невозможности
+
+-lexeme
+ lex: позьӧ
+ stem: позьӧ.
+ gramm: PREDIC
+ paradigm: Clitics
+ trans_ru: можно
+
+-lexeme
+ lex: поль
+ stem: поль.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв поросёнка
+
+-lexeme
+ lex: полькйӧн
+ stem: полькйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: пузырьками
+
+-lexeme
+ lex: помасяндор
+ stem: помасяндор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к концу
+
+-lexeme
+ lex: помӧн
+ stem: помӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: совсем
+
+-lexeme
+ lex: понда
+ stem: понда.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: из-за; ради
+
+-lexeme
+ lex: приблизительнӧ
+ stem: приблизительнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: приблизительно
+
+-lexeme
+ lex: прутьӧ-прутьӧ
+ stem: прутьӧ-прутьӧ.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв телят
+
+-lexeme
+ lex: прӧстӧ
+ stem: прӧстӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: просто
+
+-lexeme
+ lex: пугырӧн
+ stem: пугырӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: порывами
+
+-lexeme
+ lex: пумӧн
+ stem: пумӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на варку
+
+-lexeme
+ lex: пыдди
+ stem: пыдди.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: вместо
+
+-lexeme
+ lex: пыдын
+ stem: пыдын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в глубине
+
+-lexeme
+ lex: пыдысь
+ stem: пыдысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: из глубины
+
+-lexeme
+ lex: пыксяна
+ stem: пыксяна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: отпираясь
+
+-lexeme
+ lex: пыр
+ stem: пыр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сразу, сейчас; всегда
+
+-lexeme
+ lex: пыр
+ stem: пыр.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: сквозь
+
+-lexeme
+ lex: пырысь
+ stem: пырысь.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: с
+
+-lexeme
+ lex: пырысь-пыр
+ stem: пырысь-пыр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: немедленно
+
+-lexeme
+ lex: пырысьтӧм-пыр
+ stem: пырысьтӧм-пыр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: немедленно
+
+-lexeme
+ lex: пӧ
+ stem: пӧ.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: мол, дескать
+
+-lexeme
+ lex: пӧв
+ stem: пӧв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: снова
+
+-lexeme
+ lex: пӧв-мӧд
+ stem: пӧв-мӧд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: раз-другой
+
+-lexeme
+ lex: пӧв-мӧдысь
+ stem: пӧв-мӧдысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: пару раз
+
+-lexeme
+ lex: пӧд
+ stem: пӧд.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: (кыйны) ловить рыбу, когда она зимой начинает задыхаться подо льдом
+
+-lexeme
+ lex: пӧдрад
+ stem: пӧдрад.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: подряд
+
+-lexeme
+ lex: пӧжалуйста
+ stem: пӧжалуйста.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: пожалуйста
+
+-lexeme
+ lex: пӧлинӧ
+ stem: пӧлинӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в самом деле
+
+-lexeme
+ lex: пӧлыньӧн
+ stem: пӧлыньӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: криво
+
+-lexeme
+ lex: пӧлӧн
+ stem: пӧлӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: криво
+
+-lexeme
+ lex: пӧлӧн-пӧлӧн
+ stem: пӧлӧн-пӧлӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: непарно, из разных пар
+
+-lexeme
+ lex: пӧратӧг-кадтӧг
+ stem: пӧратӧг-кадтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: несвоевременно
+
+-lexeme
+ lex: пӧраӧн-пӧраӧн
+ stem: пӧраӧн-пӧраӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: порой
+
+-lexeme
+ lex: пӧрысьладор
+ stem: пӧрысьладор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: под старость
+
+-lexeme
+ lex: пӧшти
+ stem: пӧшти.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: почти
+
+-lexeme
+ lex: ради
+ stem: ради.
+ gramm: POST,rus
+ paradigm: Clitics
+ trans_ru: из-за; для, ради
+
+-lexeme
+ lex: радӧн-радӧн
+ stem: радӧн-радӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: рядами
+
+-lexeme
+ lex: разіпели
+ stem: разіпели.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: разбросанно
+
+-lexeme
+ lex: регыд
+ stem: регыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: скоро
+
+-lexeme
+ lex: регыдӧн
+ stem: регыдӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: скоро
+
+-lexeme
+ lex: ретива
+ stem: ретива.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: ретиво
+
+-lexeme
+ lex: рытгорув
+ stem: рытгорув.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: под вечер
+
+-lexeme
+ lex: рытнас
+ stem: рытнас.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вечером
+
+-lexeme
+ lex: рытъявыв
+ stem: рытъявыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к вечеру
+
+-lexeme
+ lex: рытъядор
+ stem: рытъядор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к вечеру
+
+-lexeme
+ lex: рытывбыд
+ stem: рытывбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: весь вечер
+
+-lexeme
+ lex: рӧдйӧн
+ stem: рӧдйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: рысью
+
+-lexeme
+ lex: рӧзвал
+ stem: рӧзвал.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в беспорядке
+
+-lexeme
+ lex: рӧмдандор
+ stem: рӧмдандор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: перед сумерками
+
+-lexeme
+ lex: рӧчӧн-рӧчӧн
+ stem: рӧчӧн-рӧчӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: местами
+
+-lexeme
+ lex: сайӧдз
+ stem: сайӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до места по ту сторону
+
+-lexeme
+ lex: свальщик
+ stem: свальщик.
+ gramm: ADV,rus,anim,hum
+ paradigm: Adverbials-final
+ trans_ru: свальщик
+
+-lexeme
+ lex: семьякодьнас
+ stem: семьякодьнас.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: всей семьёй
+
+-lexeme
+ lex: серамбанӧн
+ stem: серамбанӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с улыбкой на лице
+
+-lexeme
+ lex: серти
+ stem: серти.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: по сравнению
+
+-lexeme
+ lex: сизимысь
+ stem: сизимысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: много раз
+
+-lexeme
+ lex: сильӧ
+ stem: сильӧ.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв кур
+
+-lexeme
+ lex: силӧю
+ stem: силӧю.
+ gramm: ADV,rus,rus
+ paradigm: Adverbials-final
+ trans_ru: силой
+
+-lexeme
+ lex: скач
+ stem: скач.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: вскачь
+
+-lexeme
+ lex: скачӧн
+ stem: скачӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: вскачь
+
+-lexeme
+ lex: скрипъю
+ stem: скрипъю.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: навзрыд
+
+-lexeme
+ lex: скрипъюӧн
+ stem: скрипъюӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: навзрыд
+
+-lexeme
+ lex: скӧнь
+ stem: скӧнь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: совсем
+
+-lexeme
+ lex: слабог
+ stem: слабог.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: слава Богу
+
+-lexeme
+ lex: смела
+ stem: смела.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: смело
+
+-lexeme
+ lex: смоль
+ stem: смоль.
+ gramm: IMIT,rus
+ paradigm: Clitics
+ trans_ru: совсем (чёрный)
+
+-lexeme
+ lex: со
+ stem: со.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: вот
+
+-lexeme
+ lex: содтӧдӧн
+ stem: содтӧдӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с превышением
+
+-lexeme
+ lex: сорті-кості
+ stem: сорті-кості.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: чресполосно
+
+-lexeme
+ lex: сорӧн
+ stem: сорӧн.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: с добавлением
+
+-lexeme
+ lex: спасибо
+ stem: спасибо.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: спасибо
+
+-lexeme
+ lex: специальнӧ
+ stem: специальнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: специально
+
+-lexeme
+ lex: страсть
+ stem: страсть.
+ gramm: ADV,rus,rus
+ paradigm: Adverbials-final
+ trans_ru: страсть, очень
+
+-lexeme
+ lex: страсьт
+ stem: страсьт.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: страсть, очень
+
+-lexeme
+ lex: страшнӧ
+ stem: страшнӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: страшно
+
+-lexeme
+ lex: ступъю
+ stem: ступъю.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: шагом
+
+-lexeme
+ lex: стӧч
+ stem: стӧч.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: как раз, точно
+
+-lexeme
+ lex: сувтмӧн
+ stem: сувтмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до изнеможения
+
+-lexeme
+ lex: судзсьӧмӧн
+ stem: судзсьӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в достатке
+-lexeme
+ lex: сунтолӧн
+ stem: сунтолӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наклонно
+
+-lexeme
+ lex: сынисадь
+ stem: сынисадь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без сознания
+
+-lexeme
+ lex: сьта
+ stem: сьта.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв собаки
+
+-lexeme
+ lex: сьтпро
+ stem: сьтпро.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв лошади
+
+-lexeme
+ lex: сьывйӧн
+ stem: сьывйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на закорках
+
+-lexeme
+ lex: сьӧдас
+ stem: сьӧдас.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наугад
+
+-lexeme
+ lex: сьӧлӧмшӧрысь
+ stem: сьӧлӧмшӧрысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: от души
+
+-lexeme
+ lex: сьӧрсьӧн-бӧрсьӧн
+ stem: сьӧрсьӧн-бӧрсьӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вереницей, гуськом
+
+-lexeme
+ lex: сьӧрся-бӧрся
+ stem: сьӧрся-бӧрся.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: друг за другом
+
+-lexeme
+ lex: сюрсъясӧн
+ stem: сюрсъясӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: тысячами
+
+-lexeme
+ lex: сёрӧн
+ stem: сёрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: поздно
+
+-lexeme
+ lex: сёысь
+ stem: сёысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: много раз
+
+-lexeme
+ lex: сідзжӧ
+ stem: сідзжӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: также
+
+-lexeme
+ lex: сідзикӧн
+ stem: сідзикӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: таким образом
+
+-lexeme
+ lex: сідзкӧ
+ stem: сідзкӧ.
+ gramm: CONJ
+ paradigm: Adverbials-final
+ trans_ru: значит
+
+-lexeme
+ lex: сӧвсем
+ stem: сӧвсем.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: совсем
+
+-lexeme
+ lex: сӧгласен
+ stem: сӧгласен.
+ gramm: PREDIC,rus
+ paradigm: Adverbials-final
+ trans_ru: согласен
+
+-lexeme
+ lex: сӧмын
+ stem: сӧмын.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: только
+
+-lexeme
+ lex: тай
+ stem: тай.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: оказывается
+
+-lexeme
+ lex: тайкӧ
+ stem: тайкӧ.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: чуть не
+
+-lexeme
+ lex: тайтӧ
+ stem: тайтӧ.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв коровы
+
+-lexeme
+ lex: такӧдӧмпырысь
+ stem: такӧдӧмпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: утешая
+
+-lexeme
+ lex: талун
+ stem: талун.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сегодня
+
+-lexeme
+ lex: талун-аски
+ stem: талун-аски.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на днях
+
+-lexeme
+ lex: тамышӧн
+ stem: тамышӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: исподлобья
+
+-lexeme
+ lex: тарыт
+ stem: тарыт.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сегодня вечером
+
+-lexeme
+ lex: терпиттӧма
+ stem: терпиттӧма.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с нетерпением
+
+-lexeme
+ lex: тиньгымӧн
+ stem: тиньгымӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до звона
+
+-lexeme
+ lex: тиньгытӧдз
+ stem: тиньгытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до звона
+
+-lexeme
+ lex: то
+ stem: то.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: вот
+
+-lexeme
+ lex: тожӧ
+ stem: тожӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: тоже
+
+-lexeme
+ lex: тойтмымӧн
+ stem: тойтмымӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до изнурения
+
+-lexeme
+ lex: тойтмытӧдз
+ stem: тойтмытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до изнурения
+
+-lexeme
+ lex: толькӧ
+ stem: толькӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: только
+
+-lexeme
+ lex: томвылысь
+ stem: томвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по молодости
+
+-lexeme
+ lex: томйылысь
+ stem: томйылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по молодости
+
+-lexeme
+ lex: тон
+ stem: тон.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: только
+
+-lexeme
+ lex: топ
+ stem: топ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: плотно
+
+-lexeme
+ lex: торйӧдчӧмӧн
+ stem: торйӧдчӧмӧн.
+ gramm: ADV2
+ paradigm: Adverbials-final
+ trans_ru: обособленно
+
+-lexeme
+ lex: торйӧн
+ stem: торйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: отдельно
+
+-lexeme
+ lex: торйӧн-торйӧн
+ stem: торйӧн-торйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по отдельности
+
+-lexeme
+ lex: торйӧнкодь
+ stem: торйӧнкодь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: обособленно
+
+-lexeme
+ lex: торксьывтӧг
+ stem: торксьывтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: бесперебойно
+
+-lexeme
+ lex: торксявтӧг
+ stem: торксявтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без запинки
+
+-lexeme
+ lex: торксялӧмӧн
+ stem: торксялӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сбивчиво
+
+-lexeme
+ lex: точнӧя
+ stem: точнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: точно
+
+-lexeme
+ lex: тувсовъядор
+ stem: тувсовъядор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к весне
+
+-lexeme
+ lex: туйбок
+ stem: туйбок.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: обочина дороги
+
+-lexeme
+ lex: туйбӧр
+ stem: туйбӧр.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: под гору
+
+-lexeme
+ lex: туйын
+ stem: туйын.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: в роли
+
+-lexeme
+ lex: туйӧ
+ stem: туйӧ.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: вместо
+
+-lexeme
+ lex: тулысбыд
+ stem: тулысбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всю весну
+
+-lexeme
+ lex: тулыснас
+ stem: тулыснас.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: весной
+
+-lexeme
+ lex: тулысъявыв
+ stem: тулысъявыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к весне
+
+-lexeme
+ lex: тунагай
+ stem: тунагай.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без оглядки
+
+-lexeme
+ lex: тунки-пенки
+ stem: тунки-пенки.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: с шумом, с грохотом
+
+-lexeme
+ lex: турбыльӧн
+ stem: турбыльӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кувырком
+
+-lexeme
+ lex: туруна-няня
+ stem: туруна-няня.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с достатком
+
+-lexeme
+ lex: тшайподӧн
+ stem: тшайподӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на босу ногу
+
+-lexeme
+ lex: тшук
+ stem: тшук.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наверное, непременно
+
+-lexeme
+ lex: тшыгйӧн
+ stem: тшыгйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: голодом
+
+-lexeme
+ lex: тшыгла
+ stem: тшыгла.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с голоду
+
+-lexeme
+ lex: тшыглы
+ stem: тшыглы.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: из-за голода
+
+-lexeme
+ lex: тшӧтш
+ stem: тшӧтш.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вместе
+
+-lexeme
+ lex: тыдалӧ
+ stem: тыдалӧ.
+ gramm: PARENTH
+ paradigm: Clitics
+ trans_ru: должно быть
+
+-lexeme
+ lex: тыкӧ
+ stem: тыкӧ.
+ gramm: PART,rus
+ paradigm: Adverbials-final
+ trans_ru: лишь
+
+-lexeme
+ lex: тыр-бура
+ stem: тыр-бура.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: как следует
+
+-lexeme
+ lex: тырвыйӧ
+ stem: тырвыйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до полного уровня
+
+-lexeme
+ lex: тырвыйӧдз
+ stem: тырвыйӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до полного уровня
+
+-lexeme
+ lex: тырмымӧнъя
+ stem: тырмымӧнъя.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в достаточном количестве
+
+-lexeme
+ lex: тырмытӧмпырысь
+ stem: тырмытӧмпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: испытывая недостатки
+
+-lexeme
+ lex: тыртӧг
+ stem: тыртӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без груза
+
+-lexeme
+ lex: тырыс
+ stem: тырыс.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: довольно много
+
+-lexeme
+ lex: тырӧдз
+ stem: тырӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: доверху
+
+-lexeme
+ lex: тыӧд
+ stem: тыӧд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: озёрный
+
+-lexeme
+ lex: тэт-тэт
+ stem: тэт-тэт.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв собаки
+
+-lexeme
+ lex: тюрӧбӧн
+ stem: тюрӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: струёй
+
+-lexeme
+ lex: тіравмӧн
+ stem: тіравмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до дрожи
+
+-lexeme
+ lex: тӧвбыд
+ stem: тӧвбыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: всю зиму
+
+-lexeme
+ lex: тӧвбыдӧн
+ stem: тӧвбыдӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: за зиму
+
+-lexeme
+ lex: тӧвйигкежлӧ
+ stem: тӧвйигкежлӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к зимовке
+
+-lexeme
+ lex: тӧвнас
+ stem: тӧвнас.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: зимой
+
+-lexeme
+ lex: тӧданавылысь
+ stem: тӧданавылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по привычке
+
+-lexeme
+ lex: тӧдлытӧг
+ stem: тӧдлытӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: неожиданно
+
+-lexeme
+ lex: тӧдмасьтӧдз
+ stem: тӧдмасьтӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до знакомства
+
+-lexeme
+ lex: тӧдтӧма
+ stem: тӧдтӧма.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: неузнаваемо
+
+-lexeme
+ lex: тӧдӧмысь
+ stem: тӧдӧмысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: известно, конечно
+
+-lexeme
+ lex: тӧкӧтьӧ
+ stem: тӧкӧтьӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: немного
+
+-lexeme
+ lex: тӧлктӧг-ладтӧг
+ stem: тӧлктӧг-ладтӧг.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: бестолково
+
+-lexeme
+ lex: тӧлктӧма
+ stem: тӧлктӧма.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: бестолково
+
+-lexeme
+ lex: тӧлӧ
+ stem: тӧлӧ.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: возглас, которым успокаивают корову
+
+-lexeme
+ lex: тӧндзи
+ stem: тӧндзи.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в тот раз
+
+-lexeme
+ lex: тӧрыт
+ stem: тӧрыт.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вчера
+
+-lexeme
+ lex: увкйӧдлана
+ stem: увкйӧдлана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с ауканьем
+
+-lexeme
+ lex: уджйӧзӧн
+ stem: уджйӧзӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в долг
+
+-lexeme
+ lex: узьтӧг
+ stem: узьтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без сна
+
+-lexeme
+ lex: улысладорса
+ stem: улысладорса.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с низовья
+
+-lexeme
+ lex: уна
+ stem: уна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: много
+
+-lexeme
+ lex: уна
+ stem: унджык.
+ gramm: ADV,comp
+ paradigm: Adverbials-final
+ trans_ru: много
+
+-lexeme
+ lex: унаысь
+ stem: унаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: много раз
+
+-lexeme
+ lex: унйылысь
+ stem: унйылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со сна, во сне
+
+-lexeme
+ lex: уркӧвӧйӧн
+ stem: уркӧвӧйӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: урочно
+
+-lexeme
+ lex: урӧда
+ stem: урӧда.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: нечистоплотно
+
+-lexeme
+ lex: урӧдакодь
+ stem: урӧдакодь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: довольно неряшливо
+
+-lexeme
+ lex: урӧса
+ stem: урӧса.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: хило
+
+-lexeme
+ lex: успешнӧя
+ stem: успешнӧя.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: успешно
+
+-lexeme
+ lex: усурмунмӧн
+ stem: усурмунмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до изнеможения
+
+-lexeme
+ lex: чабуӧн
+ stem: чабуӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на четвереньках
+
+-lexeme
+ lex: частӧ
+ stem: частӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: часто
+
+-lexeme
+ lex: чатӧрӧн
+ stem: чатӧрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: запрокинув голову
+
+-lexeme
+ lex: челядьдырсянь
+ stem: челядьдырсянь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: с детства
+
+-lexeme
+ lex: чепӧльӧн
+ stem: чепӧльӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: щепоткой, щепотью
+
+-lexeme
+ lex: чиб-чиб
+ stem: чиб-чиб.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв жеребёнка
+
+-lexeme
+ lex: чиг
+ stem: чиг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: совсем
+
+-lexeme
+ lex: чилӧга
+ stem: чилӧга.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: визгливо
+
+-lexeme
+ lex: чим
+ stem: чим.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: совсем (красный)
+
+-lexeme
+ lex: читкыльӧн
+ stem: читкыльӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: барашком
+
+-lexeme
+ lex: чуймӧмла
+ stem: чуймӧмла.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: от удивления
+
+-lexeme
+ lex: чукйӧн
+ stem: чукйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: выше краёв
+
+-lexeme
+ lex: чукыль-мукыль
+ stem: чукыль-мукыль.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: зигзагами
+
+-lexeme
+ lex: чукыльӧн-мукыльӧн
+ stem: чукыльӧн-мукыльӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: зигзагами
+
+-lexeme
+ lex: чукӧрӧн
+ stem: чукӧрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кучей
+
+-lexeme
+ lex: чукӧрӧн-чукӧрӧн
+ stem: чукӧрӧн-чукӧрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кучами
+
+-lexeme
+ lex: чулькйӧн
+ stem: чулькйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ключом
+
+-lexeme
+ lex: чунавмӧн
+ stem: чунавмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: оглушительно
+
+-lexeme
+ lex: чунгана
+ stem: чунгана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со звоном
+
+-lexeme
+ lex: чунӧданаа
+ stem: чунӧданаа.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: оглушительно
+
+-lexeme
+ lex: чуть
+ stem: чуть.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: едва, еле
+
+-lexeme
+ lex: чушкыля
+ stem: чушкыля.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с обидой
+
+-lexeme
+ lex: чӧж
+ stem: чӧж.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: в течение
+
+-lexeme
+ lex: чӧрту
+ stem: чӧрту.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к чертям
+
+-lexeme
+ lex: шайпавтӧг
+ stem: шайпавтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без оглядки
+
+-lexeme
+ lex: шаньлы
+ stem: шаньлы.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: пока хватит
+
+-lexeme
+ lex: шарс
+ stem: шарс.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: о чиркании, хрусте
+
+-lexeme
+ lex: швальӧн
+ stem: швальӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: ливнем
+
+-lexeme
+ lex: швича-швача
+ stem: швича-швача.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со свистом
+
+-lexeme
+ lex: швыркйӧдлана
+ stem: швыркйӧдлана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с жужжанием
+
+-lexeme
+ lex: шемӧсмунӧмӧн
+ stem: шемӧсмунӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: удивлённо
+
+-lexeme
+ lex: шеныштчӧмӧн
+ stem: шеныштчӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с размаху
+
+-lexeme
+ lex: шешъялана
+ stem: шешъялана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: улыбаясь
+
+-lexeme
+ lex: шмониттӧг
+ stem: шмониттӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без шутки
+
+-lexeme
+ lex: шогвылысь
+ stem: шогвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с горя
+
+-lexeme
+ lex: шогӧдмӧн
+ stem: шогӧдмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до тошноты
+
+-lexeme
+ lex: шоналӧмвылысь
+ stem: шоналӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: от жары
+
+-lexeme
+ lex: шпур-шпар
+ stem: шпур-шпар.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: хлоп-хлоп
+
+-lexeme
+ lex: шпыннялана
+ stem: шпыннялана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: улыбаясь
+
+-lexeme
+ lex: шуасьтӧг
+ stem: шуасьтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: безропотно
+
+-lexeme
+ lex: шуйпеттӧдз
+ stem: шуйпеттӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до изнеможения
+
+-lexeme
+ lex: шура-шара
+ stem: шура-шара.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с шумом
+
+-lexeme
+ lex: шутёвтана
+ stem: шутёвтана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: со свистом
+
+-lexeme
+ lex: шутікӧн
+ stem: шутікӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: роем, тучами
+
+-lexeme
+ lex: шыркӧсӧн
+ stem: шыркӧсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: легко развязываемым узлом (завязать)
+
+-lexeme
+ lex: шӧрасмоз
+ stem: шӧрасмоз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в середине
+
+-lexeme
+ lex: шӧрвыйсянь
+ stem: шӧрвыйсянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с середины
+
+-lexeme
+ lex: шӧрвыйын
+ stem: шӧрвыйын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в середине
+
+-lexeme
+ lex: шӧрвыйысь
+ stem: шӧрвыйысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с середины
+
+-lexeme
+ lex: шӧрвыйӧ
+ stem: шӧрвыйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до середины
+
+-lexeme
+ lex: шӧрвыйӧдз
+ stem: шӧрвыйӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до середины
+
+-lexeme
+ lex: шӧри
+ stem: шӧри.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: пополам
+
+-lexeme
+ lex: шӧрипӧв
+ stem: шӧрипӧв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: наполовину
+
+-lexeme
+ lex: шӧриӧн
+ stem: шӧриӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: пополам
+
+-lexeme
+ lex: шӧрлань
+ stem: шӧрлань.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к середине
+
+-lexeme
+ lex: шӧрсянь
+ stem: шӧрсянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: от середины
+
+-lexeme
+ lex: шӧрӧ-водзӧ
+ stem: шӧрӧ-водзӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на глазах
+
+-lexeme
+ lex: шӧрӧдз
+ stem: шӧрӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до середины
+
+-lexeme
+ lex: ыз-баз
+ stem: ыз-баз.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: с шумом
+
+-lexeme
+ lex: ыз-буз-баз
+ stem: ыз-буз-баз.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: с шумом
+
+-lexeme
+ lex: ызьӧбӧн
+ stem: ызьӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с шумом
+
+-lexeme
+ lex: ызӧбӧн
+ stem: ызӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с шумом
+
+-lexeme
+ lex: ыкпаша
+ stem: ыкпаша.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: хвастливо
+
+-lexeme
+ lex: ыльӧбӧн
+ stem: ыльӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: потоком
+
+-lexeme
+ lex: ыліті
+ stem: ыліті.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по далёкому месту
+
+-lexeme
+ lex: ылӧсас
+ stem: ылӧсас.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: приблизительно
+
+-lexeme
+ lex: ыпъявтӧг
+ stem: ыпъявтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без пламени
+
+-lexeme
+ lex: ыргӧмӧн
+ stem: ыргӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с шумом
+
+-lexeme
+ lex: ырзӧмӧн
+ stem: ырзӧмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с воплем
+
+-lexeme
+ lex: ырыштчана
+ stem: ырыштчана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с размаху
+
+-lexeme
+ lex: ыстана
+ stem: ыстана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: отказывая
+
+-lexeme
+ lex: ыстӧдана
+ stem: ыстӧдана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: намекая, подсказывая
+
+-lexeme
+ lex: ышмӧмвылысь
+ stem: ышмӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: балуясь
+
+-lexeme
+ lex: ышнясьӧмпырысь
+ stem: ышнясьӧмпырысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: немного хвастливо
+
+-lexeme
+ lex: ышнясяна
+ stem: ышнясяна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: хвастливо
+
+-lexeme
+ lex: ыштӧ
+ stem: ыштӧ.
+ gramm: CONJ
+ paradigm: Adverbials-final
+ trans_ru: что, якобы
+
+-lexeme
+ lex: э
+ stem: э.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: э
+
+-lexeme
+ lex: эбӧстӧмвылысь
+ stem: эбӧстӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в изнеможении
+
+-lexeme
+ lex: эй
+ stem: эй.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: эй
+
+-lexeme
+ lex: элясьтӧг
+ stem: элясьтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: безропотно
+
+-lexeme
+ lex: эр-варӧн
+ stem: эр-варӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с рычанием
+
+-lexeme
+ lex: эргана
+ stem: эргана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: зло, с рычанием
+
+-lexeme
+ lex: эськӧ
+ stem: эськӧ.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: бы, же, и
+
+-lexeme
+ lex: этшалаті
+ stem: этшалаті.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по местам, по некоторым местам, в некоторых местах
+
+-lexeme
+ lex: эштандор
+ stem: эштандор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: к концу работы
+
+-lexeme
+ lex: юавтӧг
+ stem: юавтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без спроса
+
+-lexeme
+ lex: юасьтӧг-висьтасьтӧг
+ stem: юасьтӧг-висьтасьтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без ведома
+
+-lexeme
+ lex: югдандор
+ stem: югдандор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: на рассвете
+
+-lexeme
+ lex: югдытӧдз
+ stem: югдытӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до рассвета
+
+-lexeme
+ lex: югъявмӧн
+ stem: югъявмӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до блеска
+
+-lexeme
+ lex: юртӧг-садьтӧг
+ stem: юртӧг-садьтӧг.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без сознания, сломя голову
+
+-lexeme
+ lex: ӧ
+ stem: ӧ.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: ли
+
+-lexeme
+ lex: ӧбиднӧ
+ stem: ӧбиднӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: обидно
+
+-lexeme
+ lex: ӧд
+ stem: ӧд.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: ведь
+
+-lexeme
+ lex: ӧдва
+ stem: ӧдва.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: едва
+
+-lexeme
+ lex: ӧдва-ӧдва
+ stem: ӧдва-ӧдва.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: едва-едва
+
+-lexeme
+ lex: ӧдвакӧ
+ stem: ӧдвакӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: едва ли
+
+-lexeme
+ lex: ӧддзӧмвылысь
+ stem: ӧддзӧмвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с разбегу
+
+-lexeme
+ lex: ӧдйӧ
+ stem: ӧдйӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: быстро
+
+-lexeme
+ lex: ӧдйӧн
+ stem: ӧдйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: быстро
+
+-lexeme
+ lex: ӧдӧбвылысь
+ stem: ӧдӧбвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с разгона
+
+-lexeme
+ lex: ӧдӧбӧн
+ stem: ӧдӧбӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с разбегу
+
+-lexeme
+ lex: ӧкурат
+ stem: ӧкурат.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: как раз
+
+-lexeme
+ lex: ӧлӧдана
+ stem: ӧлӧдана.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с предупреждением
+
+-lexeme
+ lex: ӧмӧй
+ stem: ӧмӧй.
+ gramm: PART
+ paradigm: Adverbials-final
+ trans_ru: разве
+
+-lexeme
+ lex: ӧнтай
+ stem: ӧнтай.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: давеча
+
+-lexeme
+ lex: ӧнтайсянь
+ stem: ӧнтайсянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с давешнего времени
+
+-lexeme
+ lex: ӧні
+ stem: ӧні.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: теперь
+
+-lexeme
+ lex: ӧнісянь
+ stem: ӧнісянь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с этих пор
+
+-lexeme
+ lex: ӧніӧдз
+ stem: ӧніӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до сих пор
+
+-lexeme
+ lex: ӧнӧдз
+ stem: ӧнӧдз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: до сих пор
+
+-lexeme
+ lex: ӧприч
+ stem: ӧприч.
+ gramm: POST,rus
+ paradigm: Clitics
+ trans_ru: кроме
+
+-lexeme
+ lex: ӧстаткиысь
+ stem: ӧстаткиысь.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: последний раз
+
+-lexeme
+ lex: ӧсьт
+ stem: ӧсьт.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: подзыв овец
+
+-lexeme
+ lex: ӧтвесьтын
+ stem: ӧтвесьтын.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: на одном уровне
+
+-lexeme
+ lex: ӧтвесьтӧ
+ stem: ӧтвесьтӧ.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: в один уровень
+
+-lexeme
+ lex: ӧтвыв
+ stem: ӧтвыв.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сообща
+
+-lexeme
+ lex: ӧтвылысь
+ stem: ӧтвылысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сообща
+
+-lexeme
+ lex: ӧтдор
+ stem: ӧтдор.
+ gramm: POST
+ paradigm: Adverbials-final
+ trans_ru: кроме
+
+-lexeme
+ lex: ӧтиклаын
+ stem: ӧтиклаын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вместе
+
+-lexeme
+ lex: ӧтиклаысь
+ stem: ӧтиклаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: из одного места
+
+-lexeme
+ lex: ӧтиклаӧ
+ stem: ӧтиклаӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в одно место
+
+-lexeme
+ lex: ӧтилаын
+ stem: ӧтилаын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вместе
+
+-lexeme
+ lex: ӧтилаысь
+ stem: ӧтилаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: из одного места
+
+-lexeme
+ lex: ӧтилаӧ
+ stem: ӧтилаӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в одно место
+
+-lexeme
+ lex: ӧтиысь
+ stem: ӧтиысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: за один раз
+
+-lexeme
+ lex: ӧтка-ӧтка
+ stem: ӧтка-ӧтка.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: встречающиеся одиночками
+
+-lexeme
+ lex: ӧткӧн
+ stem: ӧткӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в одиночку
+
+-lexeme
+ lex: ӧткӧнмоз
+ stem: ӧткӧнмоз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: одиночкой
+
+-lexeme
+ lex: ӧтлаын
+ stem: ӧтлаын.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: вместе
+
+-lexeme
+ lex: ӧтлаысь
+ stem: ӧтлаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: с одного места
+
+-lexeme
+ lex: ӧтлаӧ
+ stem: ӧтлаӧ.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в одно место
+
+-lexeme
+ lex: ӧтмоз
+ stem: ӧтмоз.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: одинаково
+
+-lexeme
+ lex: ӧтмында
+ stem: ӧтмында.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: одинаковое количество
+
+-lexeme
+ lex: ӧтмындаысь
+ stem: ӧтмындаысь.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: одинаковое число раз
+
+-lexeme
+ lex: ӧтмындаӧн
+ stem: ӧтмындаӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: поровну
+
+-lexeme
+ lex: ӧтпӧвсӧн
+ stem: ӧтпӧвсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в один ряд
+
+-lexeme
+ lex: ӧтпӧлӧсӧн
+ stem: ӧтпӧлӧсӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: без верхней одежды
+
+-lexeme
+ lex: ӧтсор
+ stem: ӧтсор.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: в смеси
+
+-lexeme
+ lex: ӧтсӧгласӧн
+ stem: ӧтсӧгласӧн.
+ gramm: ADV,rus
+ paradigm: Adverbials-final
+ trans_ru: согласованно
+
+-lexeme
+ lex: ӧттшӧтш
+ stem: ӧттшӧтш.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: одновременно
+
+-lexeme
+ lex: ӧтув
+ stem: ӧтув.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: заодно
+
+-lexeme
+ lex: ӧтувйӧн
+ stem: ӧтувйӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: заодно
+
+-lexeme
+ lex: ӧтуркаӧн
+ stem: ӧтуркаӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: кувырком
+
+-lexeme
+ lex: ӧтчукӧрӧн
+ stem: ӧтчукӧрӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: стаей
+
+-lexeme
+ lex: ӧтчыд
+ stem: ӧтчыд.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: однажды
+
+-lexeme
+ lex: ӧтчыдӧн
+ stem: ӧтчыдӧн.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: по разу
+
+-lexeme
+ lex: ӧтырышъя
+ stem: ӧтырышъя.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: непрерывно; попутно
+
+-lexeme
+ lex: ӧть-ӧть
+ stem: ӧть-ӧть.
+ gramm: IMIT
+ paradigm: Adverbials-final
+ trans_ru: возглас, которым погоняют лошадей
+

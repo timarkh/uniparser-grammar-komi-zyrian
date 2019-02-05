@@ -1,0 +1,258 @@
+﻿-lexeme
+ lex: миллиард
+ stem: миллиард.
+ gramm: NUM,rus
+ paradigm: NUM-consonant
+ trans_ru: миллиард
+
+-lexeme
+ lex: миллион
+ stem: миллион.
+ gramm: NUM,rus
+ paradigm: NUM-consonant
+ trans_ru: миллион
+
+-lexeme
+ lex: сюрс
+ stem: сюрс.//1000.//1000-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: тысяча
+
+-lexeme
+ lex: тысяча
+ stem: тысяча.
+ gramm: NUM,rus
+ paradigm: NUM-vowel
+ trans_ru: тысяча
+
+-lexeme
+ lex: ӧти
+ stem: ӧти.//1.//1-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: один
+
+-lexeme
+ lex: ӧтик
+ stem: ӧтик.//ӧтк.//1.//1-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: один
+
+-lexeme
+ lex: кык
+ stem: кык.//2.//2-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: два
+
+-lexeme
+ lex: куим
+ stem: куим.//койм.//3.//3-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: три
+
+-lexeme
+ lex: нёль
+ stem: нёл.
+ gramm: NUM
+ paradigm: NUM-soft
+ trans_ru: четыре
+
+-lexeme
+ lex: нёль
+ stem: 4.//4-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: четыре
+
+-lexeme
+ lex: вит
+ stem: вит.//5.//5-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: пять
+
+-lexeme
+ lex: квайт
+ stem: квайт.//6.//6-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: шесть
+
+-lexeme
+ lex: сизим
+ stem: сизим.//7.//7-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: семь
+
+-lexeme
+ lex: кӧкъямыс
+ stem: кӧкъямыс.//8.//8-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: восемь
+
+-lexeme
+ lex: ӧкмыс
+ stem: ӧкмыс.//9.//9-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: девять
+
+-lexeme
+ lex: дас
+ stem: дас.//10.//10-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: десять
+
+-lexeme
+ lex: кызь
+ stem: кыз.
+ gramm: NUM
+ paradigm: NUM-soft
+ trans_ru: двадцать
+
+-lexeme
+ lex: кызь
+ stem: 20.//20-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: двадцать
+
+-lexeme
+ lex: комын
+ stem: комын.//30.//30-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: тридцать
+
+-lexeme
+ lex: нелямын
+ stem: нелямын.//40.//40-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: сорок
+
+-lexeme
+ lex: ветымын
+ stem: ветымын.//50.//50-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: пятьдесят
+
+-lexeme
+ lex: квайтымын
+ stem: квайтымын.//60.//60-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: шестьдесят
+
+-lexeme
+ lex: сизимдас
+ stem: сизимдас.//70.//70-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: семьдесят
+
+-lexeme
+ lex: кӧкъямысдас
+ stem: кӧкъямысдас.//80.//80-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: восемьдесят
+
+-lexeme
+ lex: ӧкмысдас
+ stem: ӧкмысдас.//90.//90-.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: девяносто
+
+-lexeme
+ lex: сё
+ stem: сё.//100.//100-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: сто
+
+-lexeme
+ lex: кыксё
+ stem: кыксё.//200.//200-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: двести
+
+-lexeme
+ lex: куимсё
+ stem: куимсё.//300.//300-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: триста
+
+-lexeme
+ lex: нёльсё
+ stem: нёльсё.//400.//400-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: четыреста
+
+-lexeme
+ lex: витсё
+ stem: витсё.//500.//500-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: пятьсот
+
+-lexeme
+ lex: квайтсё
+ stem: квайтсё.//600.//600-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: шестьсот
+
+-lexeme
+ lex: сизимсё
+ stem: сизимсё.//700.//700-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: семьсот
+
+-lexeme
+ lex: кӧкъямыссё
+ stem: кӧкъямыссё.//800.//800-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: восемьсот
+
+-lexeme
+ lex: ӧкмыссё
+ stem: ӧкмыссё.//900.//900-.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: девятьсот
+
+-lexeme
+ lex: первой
+ stem: перво.
+ gramm: NUM,ord,rus
+ paradigm: Adj-j
+ trans_ru: первый
+
+-lexeme
+ lex: медводдза
+ stem: медводдза.
+ gramm: NUM,ord
+ paradigm: Adj-vowel
+ trans_ru: первый
+
+-lexeme
+ lex: мӧд
+ stem: мӧд.
+ gramm: NUM,ord
+ paradigm: Adj-consonant
+ trans_ru: второй

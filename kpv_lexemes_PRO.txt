@@ -313,14 +313,14 @@
 
 -lexeme
  lex: сійӧ
- stem: сілӧн.
+ stem: сылӧн.//сілӧн.
  gramm: PRO,pers,3,sg,gen
  paradigm: Clitics
  trans_ru: он, она, оно
 
 -lexeme
  lex: сійӧ
- stem: сілысь.
+ stem: сылысь.//сілысь.
  gramm: PRO,pers,3,sg,abl
  paradigm: Clitics
  trans_ru: он, она, оно
@@ -1941,6 +1941,13 @@
  trans_ru: где
 
 -lexeme
+ lex: кытӧн
+ stem: кытӧн.
+ gramm: ADVPRO,loc
+ paradigm: Clitics
+ trans_ru: где
+
+-lexeme
  lex: кытчӧ
  stem: кытчӧ.
  gramm: ADVPRO,ill
@@ -1974,3 +1981,564 @@
  gramm: ADVPRO,egr
  paradigm: Clitics
  trans_ru: откуда, от какого места
+
+-lexeme
+ lex: кодакості
+ stem: кодакості.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: когда, в какое время
+
+-lexeme
+ lex: кодар
+ stem: кодар.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: которая сторона
+
+-lexeme
+ lex: кодъя
+ stem: кодъя.
+ gramm: PRO
+ paradigm: Noun-num-vowel
+ trans_ru: кто знает, кто
+
+-lexeme
+ lex: кодыр
+ stem: кодыр.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: когда
+
+-lexeme
+ lex: кор
+ stem: кор.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: когда
+
+-lexeme
+ lex: коръясӧкӧ
+ stem: коръясӧкӧ.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: иногда
+
+-lexeme
+ lex: кытчань
+ stem: кытчань.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: в какую сторону, куда
+
+-lexeme
+ lex: кытӧні
+ stem: кытӧні.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: где
+
+-lexeme
+ lex: кӧні
+ stem: кӧні.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: где
+
+-lexeme
+ lex: мыетш
+ stem: мыетш.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: сколько, в какой мере
+
+-lexeme
+ lex: мыйла
+ stem: мыйла.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: почему, зачем
+
+-lexeme
+ lex: мыйтӧм
+ stem: мыйтӧм.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: сколько
+
+-lexeme
+ lex: мӧда-мӧд
+ stem: мӧда-мӧд.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: друг друга
+
+-lexeme
+ lex: некодар
+ stem: некодар.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: никакая сторона
+
+-lexeme
+ lex: некор
+ stem: некор.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: некогда; никогда
+
+-lexeme
+ lex: некыдз
+ stem: некыдз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: никак
+
+-lexeme
+ lex: некыдзи
+ stem: некыдзи.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: никак
+
+-lexeme
+ lex: некымын
+ stem: некымын.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: несколько
+
+-lexeme
+ lex: некысь
+ stem: некысь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: ниоткуда
+
+-lexeme
+ lex: некысянь
+ stem: некысянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: ниоткуда
+
+-lexeme
+ lex: некыт
+ stem: некыт.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: нигде, ни по какому месту
+
+-lexeme
+ lex: некытчӧ
+ stem: некытчӧ.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: никуда
+
+-lexeme
+ lex: некытчӧдз
+ stem: некытчӧдз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: ни до какого места
+
+-lexeme
+ lex: некытысь
+ stem: некытысь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: ниоткуда
+
+-lexeme
+ lex: некыті
+ stem: некыті.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: нигде, ни по какому месту
+
+-lexeme
+ lex: некытӧн
+ stem: некытӧн.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: нигде
+
+-lexeme
+ lex: некӧн
+ stem: некӧн.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: нигде
+
+-lexeme
+ lex: нем
+ stem: нем.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: ничего, ничто
+
+-lexeme
+ lex: нинӧмла
+ stem: нинӧмла.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: незачем; не за что
+
+-lexeme
+ lex: сымда
+ stem: сымда.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: столько
+
+-lexeme
+ lex: сымын
+ stem: сымын.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: столько, постольку
+
+-lexeme
+ lex: сэк
+ stem: сэк.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: тогда
+
+-lexeme
+ lex: сэки
+ stem: сэки.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: тогда
+
+-lexeme
+ lex: сэксянь
+ stem: сэксянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: с того времени
+
+-lexeme
+ lex: сэн
+ stem: сэн.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: там
+
+-lexeme
+ lex: сэні
+ stem: сэні.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: там
+
+-lexeme
+ lex: сэсся
+ stem: сэсся.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: потом, дальше
+
+-lexeme
+ lex: сэсь
+ stem: сэсь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: оттуда
+
+-lexeme
+ lex: сэсянь
+ stem: сэсянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: с того времени
+
+-lexeme
+ lex: сэт
+ stem: сэт.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: там, по тому месту
+
+-lexeme
+ lex: сэтчань
+ stem: сэтчань.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: туда, в том направлении
+
+-lexeme
+ lex: сэтчӧ
+ stem: сэтчӧ.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: туда, в то место
+
+-lexeme
+ lex: сэтчӧдз
+ stem: сэтчӧдз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: дотуда; до того времени
+
+-lexeme
+ lex: сэтысь
+ stem: сэтысь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: оттуда
+
+-lexeme
+ lex: сэті
+ stem: сэті.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: там, по тому месту
+
+-lexeme
+ lex: сэтісянь
+ stem: сэтісянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: оттуда; с того места
+
+-lexeme
+ lex: сэтӧн
+ stem: сэтӧн.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: там
+
+-lexeme
+ lex: сэтӧні
+ stem: сэтӧні.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: там
+
+-lexeme
+ lex: тан
+ stem: тан.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: здесь
+
+-lexeme
+ lex: тані
+ stem: тані.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: здесь
+
+-lexeme
+ lex: тась
+ stem: тась.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: отсюда
+
+-lexeme
+ lex: тасянь
+ stem: тасянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: отсюда, от этого места
+
+-lexeme
+ lex: тат
+ stem: тат.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: здесь, по этому месту
+
+-lexeme
+ lex: татчань
+ stem: татчань.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: сюда, в этом направлении
+
+-lexeme
+ lex: татчӧ
+ stem: татчӧ.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: сюда
+
+-lexeme
+ lex: татчӧдз
+ stem: татчӧдз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: досюда, до этого места
+
+-lexeme
+ lex: татысь
+ stem: татысь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: отсюда
+
+-lexeme
+ lex: таті
+ stem: таті.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: здесь, по этому месту
+
+-lexeme
+ lex: эстчань
+ stem: эстчань.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: туда
+
+-lexeme
+ lex: эстчӧдз
+ stem: эстчӧдз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: дотуда
+
+-lexeme
+ lex: эстысь
+ stem: эстысь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: оттуда
+
+-lexeme
+ lex: эстысянь
+ stem: эстысянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: оттуда
+
+-lexeme
+ lex: эсті
+ stem: эсті.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: по тому месту
+
+-lexeme
+ lex: эстӧн
+ stem: эстӧн.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: там
+
+-lexeme
+ lex: эсылань
+ stem: эсылань.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: туда
+
+-lexeme
+ lex: эсідз
+ stem: эсідз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: так, этак
+
+-lexeme
+ lex: эсідзи
+ stem: эсідзи.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: так, этак
+
+-lexeme
+ lex: этадз
+ stem: этадз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: так, этак
+
+-lexeme
+ lex: этадзи
+ stem: этадзи.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: так, этак
+
+-lexeme
+ lex: эталань
+ stem: эталань.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: сюда
+
+-lexeme
+ lex: этані
+ stem: этані.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: здесь
+
+-lexeme
+ lex: этась
+ stem: этась.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: отсюда
+
+-lexeme
+ lex: этасянь
+ stem: этасянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: отсюда
+
+-lexeme
+ lex: этатчӧ
+ stem: этатчӧ.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: сюда
+
+-lexeme
+ lex: этатчӧдз
+ stem: этатчӧдз.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: досюда
+
+-lexeme
+ lex: этатысь
+ stem: этатысь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: отсюда
+
+-lexeme
+ lex: этатысянь
+ stem: этатысянь.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: отсюда
+
+-lexeme
+ lex: этаті
+ stem: этаті.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: по этому месту
+
+-lexeme
+ lex: ӧткымын
+ stem: ӧткымын.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: несколько
+
+-lexeme
+ lex: ӧткымынӧн
+ stem: ӧткымынӧн.
+ gramm: ADVPRO
+ paradigm: Adverbials-final
+ trans_ru: некоторые, кое-кто
+
