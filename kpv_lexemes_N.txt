@@ -64830,7 +64830,7 @@
  stem: негатив.
  gramm: N,rus
  paradigm: Noun-num-consonant
- trans_ru: фото негатив
+ trans_ru: негатив
 
 -lexeme
  lex: негодник
@@ -77069,6 +77069,13 @@
  trans_ru: повесть
 
 -lexeme
+ lex: повесьт
+ stem: повесьт.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: повесть
+
+-lexeme
  lex: повзьылӧм
  stem: повзьылӧм.
  gramm: N
@@ -83233,7 +83240,7 @@
  stem: проявител.
  gramm: N,rus
  paradigm: Noun-num-soft
- trans_ru: фото проявитель
+ trans_ru: проявитель
 
 -lexeme
  lex: проявитӧм
@@ -96426,7 +96433,7 @@
 -lexeme
  lex: снимайтчысь
  stem: снимайтчыс.
- gramm: N,anim,hum
+ gramm: N,anim,hum,rus
  paradigm: Noun-num-soft
  trans_ru: фотограф
 
@@ -103627,6 +103634,13 @@
  trans_ru: телефон
 
 -lexeme
+ lex: телепон
+ stem: телепон.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: телефон
+
+-lexeme
  lex: телефон-автомат
  stem: телефон-автомат.
  gramm: N,rus
@@ -107048,6 +107062,13 @@
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: туризм
+
+-lexeme
+ lex: марьямоль
+ stem: марьямол.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: пион
 
 -lexeme
  lex: туримоль
@@ -113628,6 +113649,13 @@
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: фотка
+
+-lexeme
+ lex: фото
+ stem: фото.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: фото
 
 -lexeme
  lex: фотоальбом

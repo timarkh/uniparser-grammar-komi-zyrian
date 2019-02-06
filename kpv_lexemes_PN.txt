@@ -2995,6 +2995,13 @@
  trans_ru: Алёша
 
 -lexeme
+ lex: Ӧльӧш
+ stem: ӧльӧш.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Алёша
+
+-lexeme
  lex: Алёшин
  stem: алёшин.
  gramm: N,PN,famn
@@ -3441,6 +3448,13 @@
  gramm: N,PN,patrn
  paradigm: Noun-num-consonant
  trans_ru: Андреич
+
+-lexeme
+ lex: Ӧньӧ
+ stem: ӧньӧ.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Андрей
 
 -lexeme
  lex: Андрей
@@ -24917,6 +24931,13 @@
  gramm: N,PN,patrn
  paradigm: Noun-num-consonant
  trans_ru: Ильшатович
+
+-lexeme
+ lex: Илля
+ stem: илля.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Илья
 
 -lexeme
  lex: Илья
@@ -47081,6 +47102,13 @@
  trans_ru: Петька
 
 -lexeme
+ lex: Петыр
+ stem: петыр.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Пётр
+
+-lexeme
  lex: Петя
  stem: петя.
  gramm: N,PN,persn
@@ -65468,6 +65496,13 @@
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Христолюбова
+
+-lexeme
+ lex: Кристос
+ stem: кристос.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Христос
 
 -lexeme
  lex: Христос

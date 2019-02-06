@@ -29477,7 +29477,7 @@
 
 -lexeme
  lex: финн-йӧгра
- stem: финн-йӧгра.
+ stem: финн-йӧгра.//фин-йӧгра.
  gramm: A
  paradigm: Adj-vowel
  trans_ru: финно-угорский

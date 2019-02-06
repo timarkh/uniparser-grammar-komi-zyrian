@@ -37,7 +37,14 @@
  lex: али
  stem: али.
  gramm: CONJ,rus
- paradigm: Adverbials-final
+ paradigm: Clitics
+ trans_ru: или 
+
+-lexeme
+ lex: или
+ stem: или.
+ gramm: CONJ,rus
+ paradigm: Clitics
  trans_ru: или 
 
 -lexeme
