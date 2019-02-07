@@ -72244,4 +72244,191 @@
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Белый Эшмес / Эшмес
+-lexeme
+ lex: Аньтусь
+ stem: аньтус.
+ gramm: N,PN,persn
+ paradigm: Noun-num-soft
+ trans_ru: Аньтусь
 
+-lexeme
+ lex: Ваньук
+ stem: ваньук.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Ваня
+
+-lexeme
+ lex: Вень
+ stem: вен.
+ gramm: N,PN,famn
+ paradigm: Noun-num-soft
+ trans_ru: Вень
+
+-lexeme
+ lex: Войнаральскӧй
+ stem: войнаральскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Войнаральский
+
+-lexeme
+ lex: Высоцкӧй
+ stem: высоцкӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Высоцкий
+
+-lexeme
+ lex: Вӧлӧкӧвӧй
+ stem: вӧлӧкӧвӧ.
+ gramm: N,PN,topn
+ paradigm: Noun-num-j
+ trans_ru: Волоковая
+
+-lexeme
+ lex: Геннадьӧй
+ stem: геннадьӧ.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Геннадий
+
+-lexeme
+ lex: Горькӧй
+ stem: горькӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Горький
+
+-lexeme
+ lex: Діколас
+ stem: діколас.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: 
+
+-lexeme
+ lex: Евлог
+ stem: евлог.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Евлог
+
+-lexeme
+ lex: Енишевскӧй
+ stem: енишевскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Енишевский
+
+-lexeme
+ lex: Жириновскӧй
+ stem: жириновскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Жириновский
+
+-lexeme
+ lex: Засодимскӧй
+ stem: засодимскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Засодимский
+
+-lexeme
+ lex: Зӧнзӧвӧй
+ stem: зӧнзӧвӧ.
+ gramm: N,PN
+ paradigm: Noun-num-j
+ trans_ru: Зӧнзӧвӧй (хор)
+
+-lexeme
+ lex: Кабалевскӧй
+ stem: кабалевскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Кабалевский
+
+-lexeme
+ lex: Кашпировскӧй
+ stem: кашпировскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Кашпировский
+
+-lexeme
+ lex: Кучарскӧй
+ stem: кучарскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Кучарский
+
+-lexeme
+ lex: Машук
+ stem: машук.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Маша
+
+-lexeme
+ lex: Митрей
+ stem: митре.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Дмитрий
+
+-lexeme
+ lex: Мишка
+ stem: мишка.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Мишка
+
+-lexeme
+ lex: Педӧр
+ stem: педӧр.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Фёдор
+
+-lexeme
+ lex: Пилӧй
+ stem: пилӧ.
+ gramm: N,PN
+ paradigm: Noun-num-j
+ trans_ru: 
+
+-lexeme
+ lex: Розук
+ stem: розук.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Розочка
+
+-lexeme
+ lex: Скребицкӧй
+ stem: скребицкӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Скребицкий
+
+-lexeme
+ lex: Цыбульскӧй
+ stem: цыбульскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Цыбульский
+
+-lexeme
+ lex: Чайковскӧй
+ stem: чайковскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Чайковский
+
+-lexeme
+ lex: Чуковскӧй
+ stem: чуковскӧ.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Чуковский

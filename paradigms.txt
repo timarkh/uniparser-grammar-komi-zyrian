@@ -1001,8 +1001,8 @@
  -flex: .ті|ныд<.>
   gramm: prol,2pl
   gloss: PROL|2PL  
-
   paradigm: Adverbials-final
+
  -flex: .ныс<.>
   gramm: nom,3pl
   gloss: 3PL

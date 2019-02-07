@@ -447,13 +447,6 @@
  trans_ru: стать осенним
 
 -lexeme
- lex: артавлыны
- stem: артавл.
- gramm: V
- paradigm: V-yny
- trans_ru: рассчитывать
-
--lexeme
  lex: артавны
  stem: арт.
  gramm: V
@@ -487,6 +480,13 @@
  gramm: V
  paradigm: V-yny
  trans_ru: получиться
+
+-lexeme
+ lex: артыштны
+ stem: артышт.
+ gramm: V
+ paradigm: V-yny
+ trans_ru: взвесить
 
 -lexeme
  lex: арӧстны
@@ -3947,6 +3947,13 @@
  trans_ru: крыть
 
 -lexeme
+ lex: вевттьыны
+ stem: вевт.
+ gramm: V,missp
+ paradigm: V-yny-soft
+ trans_ru: крыть
+
+-lexeme
  lex: вевттьысьны
  stem: вевттьыс.
  gramm: V
@@ -4399,7 +4406,7 @@
  stem: верм.
  gramm: V
  paradigm: V-yny
- trans_ru: победить
+ trans_ru: победить, смочь
 
 -lexeme
  lex: верстайтны
@@ -5839,6 +5846,13 @@
 -lexeme
  lex: вошны
  stem: вош.
+ gramm: V
+ paradigm: V-ny
+ trans_ru: пропасть
+
+-lexeme
+ lex: вӧшны
+ stem: вӧш.
  gramm: V
  paradigm: V-ny
  trans_ru: пропасть
@@ -21018,6 +21032,13 @@
  gramm: V
  paradigm: V-ny-soft
  trans_ru: сдвоить
+
+-lexeme
+ lex: буркылавны
+ stem: буркыл.
+ gramm: V
+ paradigm: V-avny
+ trans_ru: благословлять
 
 -lexeme
  lex: кылавны
@@ -54624,4 +54645,16 @@
  gramm: V,rus
  paradigm: V-avny
  trans_ru: побить поленом
+-lexeme
+ lex: гуглитны
+ stem: гуглит.
+ gramm: V,rus
+ paradigm: Verbs-ny
+ trans_ru: гуглить
 
+-lexeme
+ lex: гыгзьыны
+ stem: гыгз.
+ gramm: V
+ paradigm: Verbs-yny-soft
+ trans_ru: шутить, стебаться

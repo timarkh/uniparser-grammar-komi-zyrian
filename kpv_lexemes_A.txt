@@ -8385,6 +8385,13 @@
  trans_ru: беловатый
 
 -lexeme
+ lex: еджыд
+ stem: еджыд.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: белый
+
+-lexeme
  lex: еджыдруд
  stem: еджыдруд.
  gramm: A
@@ -34066,4 +34073,6752 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: повесившийся
+
+-lexeme
+ lex: аварийнӧй
+ stem: аврийнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: аварийный
+
+-lexeme
+ lex: австрийскӧй
+ stem: австирийскӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: австрийский
+
+-lexeme
+ lex: авторитарнӧй
+ stem: авторитарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: авторитарный
+
+-lexeme
+ lex: Агиевскӧй
+ stem: агиевскӧ.
+ gramm: A,rus,PN
+ paradigm: Adj-j
+ trans_ru: Агиевский
+
+-lexeme
+ lex: Азорскӧй
+ stem: азорскӧ.
+ gramm: A,rus,PN
+ paradigm: Adj-j
+ trans_ru: Азорский
+
+-lexeme
+ lex: академическӧй
+ stem: акдемическӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: академический
+
+-lexeme
+ lex: аккредитованнӧй
+ stem: аккредитованнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: аккредитованный
+
+-lexeme
+ lex: актёрскӧй
+ stem: актёрскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: актёрский
+
+-lexeme
+ lex: актӧвӧй
+ stem: актӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: актовый
+
+-lexeme
+ lex: Алексеевскӧй
+ stem: алексеевскӧ.
+ gramm: A,rus,PN
+ paradigm: Adj-j
+ trans_ru: Алексеевский
+
+-lexeme
+ lex: альпийскӧй
+ stem: альпийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: альпийский
+
+-lexeme
+ lex: анадромнӧй
+ stem: анадромнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: анадромный
+
+-lexeme
+ lex: аналогӧвӧй
+ stem: аналогӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: аналоговый
+
+-lexeme
+ lex: английскӧй
+ stem: англиийскӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: английский
+
+-lexeme
+ lex: английскӧй
+ stem: английзкӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: английский
+
+-lexeme
+ lex: английскӧй
+ stem: английкӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: английский
+
+-lexeme
+ lex: английскӧй
+ stem: анлийскӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: английский
+
+-lexeme
+ lex: андельнӧй
+ stem: андельнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: милый?
+
+-lexeme
+ lex: антиалкогольнӧй
+ stem: антиалкогольнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антиалкогольный
+
+-lexeme
+ lex: антигистаминнӧй
+ stem: антигистаминнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антигистаминный
+
+-lexeme
+ lex: антидопингӧвӧй
+ stem: антидопингӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антидопинговый
+
+-lexeme
+ lex: антикапиталистическӧй
+ stem: антикапиталистическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антикапиталистический
+
+-lexeme
+ lex: антикосячнӧй
+ stem: антикосячнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антикосячный
+
+-lexeme
+ lex: антикризиснӧй
+ stem: антикризиснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антикризисный
+
+-lexeme
+ lex: антикурильнӧй
+ stem: антикурильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антикурильный
+
+-lexeme
+ lex: антимонопольнӧй
+ stem: антимонопольнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антимонопольный
+
+-lexeme
+ lex: антипатриотическӧй
+ stem: антипатриотическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антипатриотический
+
+-lexeme
+ lex: антиреснӧй
+ stem: антиреснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: интересный
+
+-lexeme
+ lex: антироссийскӧй
+ stem: антироссийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антироссийский
+
+-lexeme
+ lex: антирусскӧй
+ stem: антирусскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: антирусский
+
+-lexeme
+ lex: аппетитнӧй
+ stem: аппетитнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: аппетитный
+
+-lexeme
+ lex: арабскӧй
+ stem: арабскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: арабский
+
+-lexeme
+ lex: арбитражнӧй
+ stem: арбитражнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: арбитражный
+
+-lexeme
+ lex: арийскӧй
+ stem: арийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: арийский
+
+-lexeme
+ lex: архиерейскӧй
+ stem: архиерейскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: архиерейский
+
+-lexeme
+ lex: асоциальнӧй
+ stem: асоциальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: асоциальный
+
+-lexeme
+ lex: ассенизаторскӧй
+ stem: ассенизаторскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ассенизаторский
+
+-lexeme
+ lex: Атлантическӧй
+ stem: атлантическӧ.
+ gramm: A,rus,PN
+ paradigm: Adj-j
+ trans_ru: Атлантический
+
+-lexeme
+ lex: афганскӧй
+ stem: афганскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: афганский
+
+-lexeme
+ lex: базӧвӧй
+ stem: базӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: базовый
+
+-lexeme
+ lex: балансӧвӧй
+ stem: балансӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: балансовый
+
+-lexeme
+ lex: баллоннӧй
+ stem: баллоннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: баллонный
+
+-lexeme
+ lex: банальнӧй
+ stem: банальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: банальный
+
+-lexeme
+ lex: барнаульскӧй
+ stem: барнаульскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: барнаульский
+
+-lexeme
+ lex: баскетбольнӧй
+ stem: баскетбольнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: баскетбольный
+
+-lexeme
+ lex: батрацкӧй
+ stem: батрацкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: батрацкий
+
+-lexeme
+ lex: бахвальнӧй
+ stem: бахвальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бахвальный
+
+-lexeme
+ lex: башкирскӧй
+ stem: башкирскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: башкирский
+
+-lexeme
+ lex: бездомнӧй
+ stem: бездомнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бездомный
+
+-lexeme
+ lex: безошибочнӧй
+ stem: безошибочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: безошибочный
+
+-lexeme
+ lex: безроднӧй
+ stem: безроднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: безродный
+
+-lexeme
+ lex: безыдейнӧй
+ stem: безыдейнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: безыдейный
+
+-lexeme
+ lex: белгородскӧй
+ stem: белгородскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: белгородский
+
+-lexeme
+ lex: беломорскӧй
+ stem: беломорскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: беломорский
+
+-lexeme
+ lex: бенгальскӧй
+ stem: бенгальскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бенгальский
+
+-lexeme
+ lex: берёзовскӧй
+ stem: берёзовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: берёзовский
+
+-lexeme
+ lex: бесплатнӧй
+ stem: бесплатнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бесплатный
+
+-lexeme
+ lex: беспӧлезнӧй
+ stem: беспӧлезнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бесполезный
+
+-lexeme
+ lex: бессрочнӧй
+ stem: бессрочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бессрочный
+
+-lexeme
+ lex: биобиблиографическӧй
+ stem: биобиблиографическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: биобиблиографический
+
+-lexeme
+ lex: благовернӧй
+ stem: благовернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: благоверный
+
+-lexeme
+ lex: блаженнӧй
+ stem: блаженнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: блаженный
+
+-lexeme
+ lex: блатнӧй
+ stem: блатнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: блатной
+
+-lexeme
+ lex: блокаднӧй
+ stem: блокаднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: блокадный
+
+-lexeme
+ lex: бобӧвӧй
+ stem: бобӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бобовый
+
+-lexeme
+ lex: богатӧй
+ stem: богатӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: богатый
+
+-lexeme
+ lex: богословскӧй
+ stem: богословскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: богословский
+
+-lexeme
+ lex: боевӧй
+ stem: боеӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: боевой
+
+-lexeme
+ lex: боксёрскӧй
+ stem: боксёрскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: боксёрский
+
+-lexeme
+ lex: болгарскӧй
+ stem: болгарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: болгарский
+
+-lexeme
+ lex: большеземельскӧй
+ stem: большеземельскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: большеземельский
+
+-lexeme
+ lex: больӧвӧй
+ stem: больӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: болевой
+
+-lexeme
+ lex: бомбардирскӧй
+ stem: бомбардирскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бомбардирский
+
+-lexeme
+ lex: борӧвӧй
+ stem: борӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: боровой
+
+-lexeme
+ lex: бравӧй
+ stem: бравӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бравый
+
+-lexeme
+ lex: бразильскӧй
+ stem: бразильскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бразильский
+
+-lexeme
+ lex: брендовӧй
+ stem: брендовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: брендовый
+
+-lexeme
+ lex: бреющӧй
+ stem: бреющӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бреющий
+
+-lexeme
+ lex: британскӧй
+ stem: британскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: британский
+
+-lexeme
+ lex: броневӧй
+ stem: броневӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: броневой
+
+-lexeme
+ lex: брутальнӧй
+ stem: брутальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: брутальный
+
+-lexeme
+ lex: Брыкаланскӧй
+ stem: брыкаланскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Брыкаланский
+
+-lexeme
+ lex: будущӧй
+ stem: будущӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: будущий
+
+-lexeme
+ lex: бульварнӧй
+ stem: бульварнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бульварный
+
+-lexeme
+ lex: буровзрывнӧй
+ stem: буровзрывнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: буровзрывной
+
+-lexeme
+ lex: бурсьӧлӧма
+ stem: бурсьӧлӧма.
+ gramm: A
+ paradigm: Adj-vowel
+ trans_ru: милосердный
+
+-lexeme
+ lex: буфернӧй
+ stem: буфернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: буферный
+
+-lexeme
+ lex: бухгалтерскӧй
+ stem: бухгалтерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бухгалтерский
+
+-lexeme
+ lex: бывшӧй
+ stem: бывшӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бывший
+
+-lexeme
+ lex: бытӧвӧй
+ stem: бытӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: бытовой
+
+-lexeme
+ lex: бӧлгарскӧй
+ stem: бӧлгарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: болгарский
+
+-lexeme
+ lex: вакуумнӧй
+ stem: вакуумнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вакуумный
+
+-lexeme
+ lex: вариативнӧй
+ stem: вариативнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вариативный
+
+-lexeme
+ lex: варшавскӧй
+ stem: варшавскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: варшавский
+
+-lexeme
+ lex: ведушӧй
+ stem: ведушӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ведущий
+
+-lexeme
+ lex: вежӧртеш
+ stem: вежӧртеш.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: интересный
+
+-lexeme
+ lex: векӧвечнӧй
+ stem: векӧвечнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вековечный
+
+-lexeme
+ lex: великоустюгскӧй
+ stem: великоустюгскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: великоустюгский
+
+-lexeme
+ lex: венгерскӧй
+ stem: венгерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: венгерский
+
+-lexeme
+ lex: веннӧй
+ stem: веннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: венный
+
+-lexeme
+ lex: верноподданическӧй
+ stem: верноподданическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: верноподданический
+
+-lexeme
+ lex: верёвочнӧй
+ stem: верёвочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: верёвочный
+
+-lexeme
+ lex: вестминстерскӧй
+ stem: вестминстерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вестминстерский
+
+-lexeme
+ lex: вечерньӧй
+ stem: вечерньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вечерний
+
+-lexeme
+ lex: взлётнӧй
+ stem: взлётнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: взлётный
+
+-lexeme
+ lex: взрывнӧй
+ stem: взрывнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: взрывной
+
+-lexeme
+ lex: визитнӧй
+ stem: визитнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: визитный
+
+-lexeme
+ lex: визуальнӧй
+ stem: визуальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: визуальный
+
+-lexeme
+ lex: виннӧй
+ stem: виннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: винный
+
+-lexeme
+ lex: виртуальнӧй
+ stem: виртуальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: виртуальный
+
+-lexeme
+ lex: вишерскӧй
+ stem: вишерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вишерский
+
+-lexeme
+ lex: владимирскӧй
+ stem: владимирскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: владимирский
+
+-lexeme
+ lex: власовскӧй
+ stem: власовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: власовский
+
+-lexeme
+ lex: вневедомственнӧй
+ stem: вневедомственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вневедомственный
+
+-lexeme
+ lex: водоохраннӧй
+ stem: водоохраннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: водоохранный
+
+-lexeme
+ lex: водоразборнӧй
+ stem: водоразборнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: водоразборный
+
+-lexeme
+ lex: военизированнӧй
+ stem: военизированнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: военизированный
+
+-lexeme
+ lex: военнӧй
+ stem: военӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: военный
+
+-lexeme
+ lex: войскӧвӧй
+ stem: войскӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: войсковой
+
+-lexeme
+ lex: волгоградскӧй
+ stem: волгоградскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: волгоградский
+
+-lexeme
+ lex: волейбольнӧй
+ stem: волейбольнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: волейбольный
+
+-lexeme
+ lex: вологодскӧй
+ stem: вологодскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вологодский
+
+-lexeme
+ lex: волховскӧй
+ stem: волховскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: волховский
+
+-lexeme
+ lex: вооружоннӧй
+ stem: вооружоннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вооружённый
+
+-lexeme
+ lex: вооружённӧй
+ stem: вооружённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вооружённый
+
+-lexeme
+ lex: вопиющӧй
+ stem: вопиющӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вопиющий
+
+-lexeme
+ lex: вордовскӧй
+ stem: вордовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вордовский
+
+-lexeme
+ lex: воркутинскӧй
+ stem: воркутинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: воркутинский
+
+-lexeme
+ lex: воронежскӧй
+ stem: воронежскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: воронежский
+
+-lexeme
+ lex: воскӧвӧй
+ stem: воскӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: восковой
+
+-lexeme
+ lex: вредоноснӧй
+ stem: вредоноснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вредоносный
+
+-lexeme
+ lex: второкласснӧй
+ stem: второкласснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: второклассный
+
+-lexeme
+ lex: вузовскӧй
+ stem: вузовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вузовский
+
+-lexeme
+ lex: вывознӧй
+ stem: вывознӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: вывозной
+
+-lexeme
+ lex: выпуклӧй
+ stem: выпуклӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: выпуклый
+
+-lexeme
+ lex: выпускнӧй
+ stem: выпускнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: выпускной
+
+-lexeme
+ lex: высоковольтнӧй
+ stem: высоковольтнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: высоковольтный
+
+-lexeme
+ lex: высококачественнӧй
+ stem: высококачественнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: высококачественный
+
+-lexeme
+ lex: выхлопнӧй
+ stem: выхлопнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: выхлопной
+
+-lexeme
+ lex: Вӧльскӧй
+ stem: вӧльскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Вольский
+
+-lexeme
+ lex: вӧранскӧй
+ stem: вӧранскӧ.
+ gramm: A,rus_afx
+ paradigm: Adj-j
+ trans_ru: лесной
+
+-lexeme
+ lex: галицинскӧй
+ stem: галицинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: галицинский
+
+-lexeme
+ lex: гарнӧй
+ stem: гарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гарный
+
+-lexeme
+ lex: Гебридскӧй
+ stem: гебридскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Гебридский
+
+-lexeme
+ lex: гелевӧй
+ stem: гелевӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гелевый
+
+-lexeme
+ lex: гендернӧй
+ stem: гендернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гендерный
+
+-lexeme
+ lex: геологоразведочнӧй
+ stem: геологоразведочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: геологоразведочный
+
+-lexeme
+ lex: георгиевскӧй
+ stem: георгиевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: георгиевский
+
+-lexeme
+ lex: геофизическӧй
+ stem: геофизическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: геофизический
+
+-lexeme
+ lex: геральдическӧй
+ stem: геральдическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: геральдический
+
+-lexeme
+ lex: германскӧй
+ stem: германскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: германский
+
+-lexeme
+ lex: гидрометеорологическӧй
+ stem: гидрометеорологическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гидрометеорологический
+
+-lexeme
+ lex: гидростатическӧй
+ stem: гидростатическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гидростатический
+
+-lexeme
+ lex: гидротехническӧй
+ stem: гидротехническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гидротехнический
+
+-lexeme
+ lex: глобальнӧй
+ stem: глобальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: глобальный
+
+-lexeme
+ lex: Глотовскӧй
+ stem: глотовскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Глотовский
+
+-lexeme
+ lex: глукӧй
+ stem: глукӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: глухой
+
+-lexeme
+ lex: глуповатӧй
+ stem: глуповатӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: глуповатый
+
+-lexeme
+ lex: голевӧй
+ stem: голевӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: голевой
+
+-lexeme
+ lex: голландскӧй
+ stem: голландскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: голландский
+
+-lexeme
+ lex: головокружительнӧй
+ stem: головокружительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: головокружительный
+
+-lexeme
+ lex: горанскӧй
+ stem: горанскӧ.
+ gramm: A,rus_afx
+ paradigm: Adj-j
+ trans_ru: громкий?
+
+-lexeme
+ lex: городскӧй
+ stem: городскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: городской
+
+-lexeme
+ lex: горьковскӧй
+ stem: горьковскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: горьковский
+
+-lexeme
+ lex: государственнӧй
+ stem: государственннӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: государственный
+
+-lexeme
+ lex: государственнӧй
+ stem: гсударственнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: государственный
+
+-lexeme
+ lex: гравийнӧй
+ stem: гравийнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гравийный
+
+-lexeme
+ lex: Грановитӧй
+ stem: грановитӧ.
+ gramm: A,rus,PN
+ paradigm: Adj-j
+ trans_ru: Грановитый
+
+-lexeme
+ lex: гранёнӧй
+ stem: гранённӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: гранёный
+
+-lexeme
+ lex: гранёнӧй
+ stem: гранёнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гранёный
+
+-lexeme
+ lex: гребнӧй
+ stem: гребнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гребной
+
+-lexeme
+ lex: греческӧй
+ stem: греческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: греческий
+
+-lexeme
+ lex: григорианскӧй
+ stem: григорианскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: григорианский
+
+-lexeme
+ lex: гробӧвӧй
+ stem: гробӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гробовой
+
+-lexeme
+ lex: грунтӧвӧй
+ stem: грунтӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: грунтовый
+
+-lexeme
+ lex: группӧвӧй
+ stem: группӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: групповой
+
+-lexeme
+ lex: Грюнвальдскӧй
+ stem: грюнвальдскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Грюнвальдский
+
+-lexeme
+ lex: губнӧй
+ stem: губнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: губной
+
+-lexeme
+ lex: гулящӧй
+ stem: гулящӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гулящий
+
+-lexeme
+ lex: гуманитарнӧй
+ stem: гумантарнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: гуманитарный
+
+-lexeme
+ lex: дагестанскӧй
+ stem: дагестанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дагестанский
+
+-lexeme
+ lex: дармӧвӧй
+ stem: дармӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дармовой
+
+-lexeme
+ lex: датскӧй
+ stem: датскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: датский
+
+-lexeme
+ lex: дачнӧй
+ stem: дачнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дачный
+
+-lexeme
+ lex: двойнӧй
+ stem: двойнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: двойной
+
+-lexeme
+ lex: дворцовӧй
+ stem: дворцовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дворцовый
+
+-lexeme
+ lex: девятибалльнӧй
+ stem: девятибалльнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: девятибалльный
+
+-lexeme
+ lex: декаднӧй
+ stem: декаднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: декадный
+
+-lexeme
+ lex: деликатнӧй
+ stem: деликатнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: деликатный
+
+-lexeme
+ lex: деловӧй
+ stem: деловӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: деловой
+
+-lexeme
+ lex: демонстрационнӧй
+ stem: демонстрационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: демонстрационный
+
+-lexeme
+ lex: денежнӧй
+ stem: денежнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: денежный
+
+-lexeme
+ lex: депрессивнӧй
+ stem: депрессивнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: депрессивный
+
+-lexeme
+ lex: Дерганскӧй
+ stem: дерганскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Дерганский
+
+-lexeme
+ lex: деревенскӧй
+ stem: деревенскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: деревенский
+
+-lexeme
+ lex: детекторнӧй
+ stem: детекторнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: детекторный
+
+-lexeme
+ lex: детскӧй
+ stem: детскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: детский
+
+-lexeme
+ lex: дефектологическӧй
+ stem: дефектологическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дефектологический
+
+-lexeme
+ lex: джерсийскӧй
+ stem: джерсийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: джерсийский
+
+-lexeme
+ lex: диалектнӧй
+ stem: диалектнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: диалектный
+
+-lexeme
+ lex: дидактическӧй
+ stem: дидактическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дидактический
+
+-lexeme
+ lex: диетическӧй
+ stem: диетическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: диетический
+
+-lexeme
+ lex: дизайнерскӧй
+ stem: дизайнерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дизайнерский
+
+-lexeme
+ lex: диктаторскӧй
+ stem: диктаторскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: диктаторский
+
+-lexeme
+ lex: диспетчерскӧй
+ stem: диспетчерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: диспетчерский
+
+-lexeme
+ lex: дистанционнӧй
+ stem: дистанционнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дистанционный
+
+-lexeme
+ lex: дисциплинарнӧй
+ stem: дисциплинарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дисциплинарный
+
+-lexeme
+ lex: дмитровскӧй
+ stem: дмитровскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дмитровский
+
+-lexeme
+ lex: днестровскӧй
+ stem: днестровскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: днестровский
+
+-lexeme
+ lex: добавочнӧй
+ stem: добавочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: добавочный
+
+-lexeme
+ lex: добрейшӧй
+ stem: добрейшӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: добрейший
+
+-lexeme
+ lex: добровольческӧй
+ stem: добровольческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: добровольческий
+
+-lexeme
+ lex: дозиметрическӧй
+ stem: дозиметрическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дозиметрический
+
+-lexeme
+ lex: донскӧй
+ stem: донскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: донской
+
+-lexeme
+ lex: допермскӧй
+ stem: допермскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: допермский
+
+-lexeme
+ lex: дословнӧй
+ stem: дословнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дословный
+
+-lexeme
+ lex: достопочтеннӧй
+ stem: достопочтеннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: достопочтенный
+
+-lexeme
+ lex: доступнӧй
+ stem: доступнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: доступный
+
+-lexeme
+ lex: дранкӧвӧй
+ stem: дранкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дранковый
+
+-lexeme
+ lex: драчӧвӧй
+ stem: драчӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: драчовый
+
+-lexeme
+ lex: древнепермскӧй
+ stem: древнепермскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: древнепермский
+
+-lexeme
+ lex: древнерусскӧй
+ stem: древнерусскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: древнерусский
+
+-lexeme
+ lex: древньӧй
+ stem: древньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: древний
+
+-lexeme
+ lex: дурацкӧй
+ stem: дурацкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: дурацкий
+
+-lexeme
+ lex: духовӧй
+ stem: духовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: духовой
+
+-lexeme
+ lex: дӧраовӧй
+ stem: дӧраовӧ.
+ gramm: A,rus_afx
+ paradigm: Adj-j
+ trans_ru: холщовый
+
+-lexeme
+ lex: египетскӧй
+ stem: египетскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: египетский
+
+-lexeme
+ lex: едкӧй
+ stem: едкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: едкий
+
+-lexeme
+ lex: екатерининскӧй
+ stem: екатерининскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: екатерининский
+
+-lexeme
+ lex: елецкӧй
+ stem: елецкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: елецкий
+
+-lexeme
+ lex: енкажнӧй
+ stem: енкажнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: каждый божий (день)
+
+-lexeme
+ lex: енсякажнӧй
+ stem: енсякажнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: каждый божий (день)
+
+-lexeme
+ lex: ерундовскӧй
+ stem: ерундовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ерундовский
+
+-lexeme
+ lex: житейскӧй
+ stem: житейскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: житейский
+
+-lexeme
+ lex: журналистскӧй
+ stem: журналистскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: журналистский
+
+-lexeme
+ lex: жёлтӧй
+ stem: жёлтӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: жёлтый
+
+-lexeme
+ lex: заброшеннӧй
+ stem: заброшеннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: заброшенный
+
+-lexeme
+ lex: заводскӧй
+ stem: заводскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: заводской
+
+-lexeme
+ lex: закавказскӧй
+ stem: закавказскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: закавказский
+
+-lexeme
+ lex: закарпатскӧй
+ stem: закарпатскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: закарпатский
+
+-lexeme
+ lex: запатентованнӧй
+ stem: запатентованнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: запатентованный
+
+-lexeme
+ lex: записнӧй
+ stem: записнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: записной
+
+-lexeme
+ lex: заречнӧй
+ stem: заречнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: заречный
+
+-lexeme
+ lex: зачумлённӧй
+ stem: зачумлённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зачумлённый
+
+-lexeme
+ lex: зачётнӧй
+ stem: зачётнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зачётный
+
+-lexeme
+ lex: збыльнӧй
+ stem: збыльнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: настоящий
+
+-lexeme
+ lex: зверинӧй
+ stem: зверинӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: звериный
+
+-lexeme
+ lex: здравомыслящӧй
+ stem: здравомыслящӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: здравомыслящий
+
+-lexeme
+ lex: зелёнӧй
+ stem: зелёнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зелёный
+
+-lexeme
+ lex: земляческӧй
+ stem: земляческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: земляческий
+
+-lexeme
+ lex: зимньӧй
+ stem: зимньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зимний
+
+-lexeme
+ lex: злополучнӧй
+ stem: злополучнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: злополучный
+
+-lexeme
+ lex: знаменскӧй
+ stem: знаменскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: знаменский
+
+-lexeme
+ lex: золотӧй
+ stem: золотӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: золотой
+
+-lexeme
+ lex: зональнӧй
+ stem: зональнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зональный
+
+-lexeme
+ lex: зооветеринарнӧй
+ stem: зооветеринарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зооветеринарный
+
+-lexeme
+ lex: зрослӧй
+ stem: зрослӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: взрослый
+
+-lexeme
+ lex: зыранскӧй
+ stem: зыранскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зырянский
+
+-lexeme
+ lex: зырянскӧй
+ stem: зырянскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зырянский
+
+-lexeme
+ lex: зӧлӧтнӧй
+ stem: зӧлӧтнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: золотой
+
+-lexeme
+ lex: иверскӧй
+ stem: иверскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: иверский
+
+-lexeme
+ lex: игристӧй
+ stem: игристӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: игристый
+
+-lexeme
+ lex: игровӧй
+ stem: игровӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: игровой
+
+-lexeme
+ lex: идентификационнӧй
+ stem: идентификационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: идентификационный
+
+-lexeme
+ lex: идиоматическӧй
+ stem: идиоматическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: идиоматический
+
+-lexeme
+ lex: иждивенческӧй
+ stem: иждивенческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: иждивенческий
+
+-lexeme
+ lex: ижемскӧй
+ stem: ижемскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ижемский
+
+-lexeme
+ lex: изуродованнӧй
+ stem: изуродованнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: изуродованный
+
+-lexeme
+ lex: имбирнӧй
+ stem: имбирнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: имбирный
+
+-lexeme
+ lex: имущӧй
+ stem: имущӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: имущой
+
+-lexeme
+ lex: индустриальнӧй
+ stem: индустриальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: индустриальный
+
+-lexeme
+ lex: иноязычнӧй
+ stem: иноязычнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: иноязычный
+
+-lexeme
+ lex: интерактивнӧй
+ stem: интерактивнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: интерактивный
+
+-lexeme
+ lex: интервальнӧй
+ stem: интервальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: интервальный
+
+-lexeme
+ lex: интереснӧй
+ stem: инереснӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: интересный
+
+-lexeme
+ lex: интригующӧй
+ stem: интригующӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: интригующий
+
+-lexeme
+ lex: инфинитнӧй
+ stem: инфинитнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: инфинитный
+
+-lexeme
+ lex: иньвенскӧй
+ stem: иньвенскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: иньвенский
+
+-lexeme
+ lex: ирвинскӧй
+ stem: ирвинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ирвинский
+
+-lexeme
+ lex: ирландскӧй
+ stem: ирландскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ирландский
+
+-lexeme
+ lex: испанскӧй
+ stem: испанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: испанский
+
+-lexeme
+ lex: исправительнӧй
+ stem: исправительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: исправительный
+
+-lexeme
+ lex: испытательнӧй
+ stem: испытательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: испытательный
+
+-lexeme
+ lex: истеричнӧй
+ stem: истеричнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: истеричный
+
+-lexeme
+ lex: истиннӧй
+ stem: истиннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: истинный
+
+-lexeme
+ lex: италийскӧй
+ stem: италийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: италийский
+
+-lexeme
+ lex: итальянскӧй
+ stem: итальянскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: итальянский
+
+-lexeme
+ lex: кавказскӧй
+ stem: кавказскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кавказский
+
+-lexeme
+ lex: кадастрӧвӧй
+ stem: кадастрӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кадастровый
+
+-lexeme
+ lex: кадетскӧй
+ stem: кадетскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кадетский
+
+-lexeme
+ lex: каждӧй
+ stem: каждӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: каждый
+
+-lexeme
+ lex: Кажимскӧй
+ stem: кажимскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Кажимский
+
+-lexeme
+ lex: казанскӧй
+ stem: казанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: казанский
+
+-lexeme
+ lex: казачӧй
+ stem: казачӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: казачий
+
+-lexeme
+ lex: калининградскӧй
+ stem: калининградскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: калининградский
+
+-lexeme
+ lex: калининскӧй
+ stem: калининскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: калининский
+
+-lexeme
+ lex: канадскӧй
+ stem: канадскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: канадский
+
+-lexeme
+ lex: кантемировскӧй
+ stem: кантемировскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кантемировский
+
+-lexeme
+ lex: капельнӧй
+ stem: капельнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: капельный
+
+-lexeme
+ lex: карачаевскӧй
+ stem: карачаевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: карачаевский
+
+-lexeme
+ lex: карболӧвӧй
+ stem: карболӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: карболовый
+
+-lexeme
+ lex: карманнӧй
+ stem: карманнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: карманный
+
+-lexeme
+ lex: карнавальнӧй
+ stem: карнавальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: карнавальный
+
+-lexeme
+ lex: карскӧй
+ stem: карскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: карский
+
+-lexeme
+ lex: картиннӧй
+ stem: картиннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: картинный
+
+-lexeme
+ lex: каспийскӧй
+ stem: каспийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: каспийский
+
+-lexeme
+ lex: католическӧй
+ stem: католическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: католический
+
+-lexeme
+ lex: кашемирӧвӧй
+ stem: кашемирӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кашемировый
+
+-lexeme
+ lex: квалификационнӧй
+ stem: квалификационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: квалификационный
+
+-lexeme
+ lex: кельчиюрскӧй
+ stem: кельчиюрскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кельчиюрский
+
+-lexeme
+ lex: кириллическӧй
+ stem: кириллическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кириллический
+
+-lexeme
+ lex: китайскӧй
+ stem: китайскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: китайский
+
+-lexeme
+ lex: клавишнӧй
+ stem: клавишнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: клавишный
+
+-lexeme
+ lex: клубнӧй
+ stem: клубнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: клубный
+
+-lexeme
+ lex: когнитивнӧй
+ stem: когнитивнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: когнитивный
+
+-lexeme
+ lex: колкознӧй
+ stem: колкознӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: колхозный
+
+-lexeme
+ lex: колоритнӧй
+ stem: колоритнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: колоритный
+
+-lexeme
+ lex: Кольскӧй
+ stem: кольскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Кольский
+
+-lexeme
+ lex: комипермяцкӧй
+ stem: комипермяцкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: коми-пермяцкий
+
+-lexeme
+ lex: комическӧй
+ stem: комическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: комический
+
+-lexeme
+ lex: коммунарскӧй
+ stem: коммунарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: коммунарский
+
+-lexeme
+ lex: компенсационнӧй
+ stem: компенсационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: компенсационный
+
+-lexeme
+ lex: компрессионнӧй
+ stem: компрессионнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: компрессионный
+
+-lexeme
+ lex: комяцкӧй
+ stem: комяцкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: комяцкий
+
+-lexeme
+ lex: коническӧй
+ stem: коническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: конический
+
+-lexeme
+ lex: консервированнӧй
+ stem: консервированнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: консервированный
+
+-lexeme
+ lex: контактнӧй
+ stem: контактнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: контактный
+
+-lexeme
+ lex: контактнӧй
+ stem: котактнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: контактный
+
+-lexeme
+ lex: концертнӧй
+ stem: коцертнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: концертный
+
+-lexeme
+ lex: конькӧвӧй
+ stem: конькӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: коньковый
+
+-lexeme
+ lex: корабельнӧй
+ stem: корабельнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: корабельный
+
+-lexeme
+ lex: корейскӧй
+ stem: корейскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: корейский
+
+-lexeme
+ lex: королевскӧй
+ stem: королевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: королевский
+
+-lexeme
+ lex: коррекционнӧй
+ stem: коррекционнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: коррекционный
+
+-lexeme
+ lex: косинскӧй
+ stem: косинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: косинский
+
+-lexeme
+ lex: Косланскӧй
+ stem: косланскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Косланский
+
+-lexeme
+ lex: космополитическӧй
+ stem: космополитическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: космополитический
+
+-lexeme
+ lex: костнӧй
+ stem: костнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: костный
+
+-lexeme
+ lex: Кочёвскӧй
+ stem: кочёвскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Кочёвский
+
+-lexeme
+ lex: крабӧвӧй
+ stem: крабӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крабовый
+
+-lexeme
+ lex: краевӧй
+ stem: краевӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: краевой
+
+-lexeme
+ lex: крамӧвӧй
+ stem: крамӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: храмовый
+
+-lexeme
+ lex: краснодарскӧй
+ stem: краснодарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: краснодарский
+
+-lexeme
+ lex: краткӧй
+ stem: краткӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: краткий
+
+-lexeme
+ lex: кредитнӧй
+ stem: кредитнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кредитный
+
+-lexeme
+ lex: креснӧй
+ stem: креснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крестный
+
+-lexeme
+ lex: крестнӧй
+ stem: крестнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крестный
+
+-lexeme
+ lex: крестовоздвиженскӧй
+ stem: крестовоздвиженскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крестовоздвиженский
+
+-lexeme
+ lex: крестовӧй
+ stem: крестовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крестовый
+
+-lexeme
+ lex: крестянскӧй
+ stem: крестянскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крестьянский
+
+-lexeme
+ lex: крещенскӧй
+ stem: крещенскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крещенский
+
+-lexeme
+ lex: крещёнӧй
+ stem: крещённӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: крещёный
+
+-lexeme
+ lex: криминальнӧй
+ stem: криминальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: криминальный
+
+-lexeme
+ lex: кристаллическӧй
+ stem: кристаллическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кристаллический
+
+-lexeme
+ lex: кровавӧй
+ stem: кровавӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кровавый
+
+-lexeme
+ lex: кропотливӧй
+ stem: кропотливӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кропотливый
+
+-lexeme
+ lex: кроткӧй
+ stem: кроткӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кроткий
+
+-lexeme
+ lex: крохотнӧй
+ stem: крохотнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крохотный
+
+-lexeme
+ lex: крымскӧй
+ stem: крымскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: крымский
+
+-lexeme
+ lex: кудымкарскӧй
+ stem: кудымкарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кудымкарский
+
+-lexeme
+ lex: кузнецкӧй
+ stem: кузнецкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кузнецкий
+
+-lexeme
+ lex: кузнечнӧй
+ stem: кузнечнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кузнечный
+
+-lexeme
+ lex: кулинарнӧй
+ stem: кулинарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кулинарный
+
+-lexeme
+ lex: куммунистическӧй
+ stem: куммунистическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: коммунистический
+
+-lexeme
+ lex: курильскӧй
+ stem: курильскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: курильский
+
+-lexeme
+ lex: курсивнӧй
+ stem: курсивнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: курсивный
+
+-lexeme
+ lex: курскӧй
+ stem: курскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: курский
+
+-lexeme
+ lex: курсӧвӧй
+ stem: курсӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: курсовый
+
+-lexeme
+ lex: кэмбриджскӧй
+ stem: кэмбриджскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кембриджский
+
+-lexeme
+ lex: кӧзяйственнӧй
+ stem: кӧзяйственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: хозяйственный
+
+-lexeme
+ lex: кӧлӧкӧльнӧй
+ stem: кӧлӧкӧльнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: колокольный
+
+-lexeme
+ lex: Кӧрткерӧсскӧй
+ stem: кӧрткерӧсскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Корткеросский
+
+-lexeme
+ lex: кӧртовӧй
+ stem: кӧртовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: кортовый
+
+-lexeme
+ lex: лабрадорскӧй
+ stem: лабрадорскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лабрадорский
+
+-lexeme
+ lex: лакированӧй
+ stem: лакированӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лакированый
+
+-lexeme
+ lex: ландшафтнӧй
+ stem: ландшафтнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ландшафтный
+
+-lexeme
+ lex: ласкӧвӧй
+ stem: ласкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ласковый
+
+-lexeme
+ lex: латиноамериканскӧй
+ stem: латиноамериканскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: латиноамериканский
+
+-lexeme
+ lex: латинскӧй
+ stem: латинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: латинский
+
+-lexeme
+ lex: Ледовитӧй
+ stem: ледовитӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Ледовитый
+
+-lexeme
+ lex: ледокольнӧй
+ stem: ледокольнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ледокольный
+
+-lexeme
+ lex: лейбористскӧй
+ stem: лейбористскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лейбористский
+
+-lexeme
+ lex: ленинградскӧй
+ stem: ленинградскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ленинградский
+
+-lexeme
+ lex: ленскӧй
+ stem: ленскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ленский
+
+-lexeme
+ lex: лесозаготовительнӧй
+ stem: лесозаготовительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лесозаготовительный
+
+-lexeme
+ lex: лесотехническӧй
+ stem: лесотехническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лесотехнический
+
+-lexeme
+ lex: летньӧй
+ stem: летньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: летний
+
+-lexeme
+ lex: лизингӧвӧй
+ stem: лизингӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лизинговый
+
+-lexeme
+ lex: лимфобластнӧй
+ stem: лимфобластнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лимфобластный
+
+-lexeme
+ lex: линейнӧй
+ stem: линейнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: линейный
+
+-lexeme
+ lex: линотипнӧй
+ stem: линотипнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: линотипный
+
+-lexeme
+ lex: литературнӧй
+ stem: литератрнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: литературный
+
+-lexeme
+ lex: литературнӧй
+ stem: литертаурнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: литературный
+
+-lexeme
+ lex: литературнӧй
+ stem: литратурнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: литературный
+
+-lexeme
+ lex: лицевӧй
+ stem: лицевӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лицевой
+
+-lexeme
+ lex: локальнӧй
+ stem: локальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: локальный
+
+-lexeme
+ lex: лондонскӧй
+ stem: лондонскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лондонский
+
+-lexeme
+ lex: лыжнӧй
+ stem: лыжнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лыжный
+
+-lexeme
+ lex: любимӧй
+ stem: любимӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: любимый
+
+-lexeme
+ lex: лютеранскӧй
+ stem: лютеранскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: лютеранский
+
+-lexeme
+ lex: малоземельскӧй
+ stem: малоземельскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: малоземельский
+
+-lexeme
+ lex: малокалибернӧй
+ stem: малокалибернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: малокалиберный
+
+-lexeme
+ lex: манастырскӧй
+ stem: манастырскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: монастырский
+
+-lexeme
+ lex: маневреннӧй
+ stem: маневреннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: маневренный
+
+-lexeme
+ lex: мариинскӧй
+ stem: мариинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мариинский
+
+-lexeme
+ lex: марийскӧй
+ stem: марийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: марийский
+
+-lexeme
+ lex: Мгинскӧй
+ stem: мгинскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Мгинский
+
+-lexeme
+ lex: медграмотнӧй
+ stem: медграмотнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: самый грамотный
+
+-lexeme
+ lex: медопаснӧй
+ stem: медопаснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: самый опасный
+
+-lexeme
+ lex: медтипӧвӧй
+ stem: медтипӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: самый типовый
+
+-lexeme
+ lex: межрайоннӧй
+ stem: межрайоннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: межрайонный
+
+-lexeme
+ lex: Мезеньскӧй
+ stem: мезеньскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Мезенский
+
+-lexeme
+ lex: мексиканскӧй
+ stem: мексиканскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мексиканский
+
+-lexeme
+ lex: мелехинскӧй
+ stem: мелехинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мелехинский
+
+-lexeme
+ lex: мелкобуржуазнӧй
+ stem: мелкобуржуазнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мелкобуржуазный
+
+-lexeme
+ lex: мелкокалибернӧй
+ stem: мелкокалибернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мелкокалиберный
+
+-lexeme
+ lex: мерзкӧй
+ stem: мерзкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мерзкий
+
+-lexeme
+ lex: мерянскӧй
+ stem: мерянскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мерянский
+
+-lexeme
+ lex: механизированнӧй
+ stem: механизированнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: механизированный
+
+-lexeme
+ lex: микробиологическӧй
+ stem: микробиологическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: микробиологический
+
+-lexeme
+ lex: милитаристическӧй
+ stem: милитаристическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: милитаристический
+
+-lexeme
+ lex: милитаристскӧй
+ stem: милитаристскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: милитаристский
+
+-lexeme
+ lex: милӧй
+ stem: милӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: милый
+
+-lexeme
+ lex: мирликийскӧй
+ stem: мирликийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мирликийский
+
+-lexeme
+ lex: миротворческӧй
+ stem: миротворческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: миротворческий
+
+-lexeme
+ lex: михайловскӧй
+ stem: михайловскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: михайловский
+
+-lexeme
+ lex: мнемоническӧй
+ stem: мнемоническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мнемонический
+
+-lexeme
+ lex: мнительнӧй
+ stem: мнительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мнительный
+
+-lexeme
+ lex: многонациональнӧй
+ stem: многонациональнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: многонациональный
+
+-lexeme
+ lex: мобильнӧй
+ stem: мобильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мобильный
+
+-lexeme
+ lex: модернисткӧй
+ stem: модернисткӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: модернисткий
+
+-lexeme
+ lex: молдавскӧй
+ stem: молдавскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: молдавский
+
+-lexeme
+ lex: молодцовскӧй
+ stem: молодцовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: молодцовский
+
+-lexeme
+ lex: молодёжнӧй
+ stem: молодёжнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: молодёжный
+
+-lexeme
+ lex: молочнӧй
+ stem: молочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: молочный
+
+-lexeme
+ lex: монографическӧй
+ stem: монографическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: монографический
+
+-lexeme
+ lex: мороженнӧй
+ stem: мороженнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мороженный
+
+-lexeme
+ lex: москитнӧй
+ stem: москитнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: москитный
+
+-lexeme
+ lex: мотострелкӧвӧй
+ stem: мотострелкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мотострелковый
+
+-lexeme
+ lex: мужскӧй
+ stem: мужскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мужской
+
+-lexeme
+ lex: мультикультурнӧй
+ stem: мультикультурнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мультикультурный
+
+-lexeme
+ lex: мультимедийнӧй
+ stem: мультимедийнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мультимедийный
+
+-lexeme
+ lex: мультяшнӧй
+ stem: мультяшнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мультяшный
+
+-lexeme
+ lex: муниципиальнӧй
+ stem: муниципиальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: муниципальный
+
+-lexeme
+ lex: мэрскӧй
+ stem: мэрскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мэрский
+
+-lexeme
+ lex: мягкӧй
+ stem: мягкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: мягкий
+
+-lexeme
+ lex: наблюдательнӧй
+ stem: наблюдательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: наблюдательный
+
+-lexeme
+ lex: наваринскӧй
+ stem: наваринскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: наваринский
+
+-lexeme
+ lex: нагорнӧй
+ stem: нагорнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нагорный
+
+-lexeme
+ lex: награднӧй
+ stem: награднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: наградной
+
+-lexeme
+ lex: нагревательнӧй
+ stem: нагревательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нагревательный
+
+-lexeme
+ lex: наивнӧй
+ stem: наивнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: наивный
+
+-lexeme
+ lex: наполеоновскӧй
+ stem: наполеоновскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: наполеоновский
+
+-lexeme
+ lex: напраснӧй
+ stem: напраснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: напрасный
+
+-lexeme
+ lex: нарезнӧй
+ stem: нарезнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нарезной
+
+-lexeme
+ lex: населённӧй
+ stem: населённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: населённый
+
+-lexeme
+ lex: настӧящӧй
+ stem: настӧящӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: настоящий
+
+-lexeme
+ lex: национальнӧй
+ stem: национальӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: национальный
+
+-lexeme
+ lex: национальнӧй
+ stem: национльнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: национальный
+
+-lexeme
+ lex: нацистскӧй
+ stem: нацистскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нацистский
+
+-lexeme
+ lex: небеснӧй
+ stem: небеснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: небесный
+
+-lexeme
+ lex: невельскӧй
+ stem: невельскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: невельский
+
+-lexeme
+ lex: невидимӧй
+ stem: невидимӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: невидимый
+
+-lexeme
+ lex: невнимательнӧй
+ stem: невнимательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: невнимательный
+
+-lexeme
+ lex: негостеприимнӧй
+ stem: негостеприимнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: негостеприимный
+
+-lexeme
+ lex: негосударственнӧй
+ stem: негосударственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: негосударственный
+
+-lexeme
+ lex: недвижимӧй
+ stem: недвижимӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: недвижимый
+
+-lexeme
+ lex: недоношеннӧй
+ stem: недоношеннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: недоношенный
+
+-lexeme
+ lex: недӧй
+ stem: недӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: гнедой
+
+-lexeme
+ lex: незаслуженнӧй
+ stem: незаслуженнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: незаслуженный
+
+-lexeme
+ lex: неизвестнӧй
+ stem: неизвестнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неизвестный
+
+-lexeme
+ lex: неисправнӧй
+ stem: неисправнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неисправный
+
+-lexeme
+ lex: некоммерческӧй
+ stem: некоммерческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: некоммерческий
+
+-lexeme
+ lex: некультурнӧй
+ stem: некультурнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: некультурный
+
+-lexeme
+ lex: нелицеприятнӧй
+ stem: нелицеприятнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нелицеприятный
+
+-lexeme
+ lex: нелогичнӧй
+ stem: нелогичнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нелогичный
+
+-lexeme
+ lex: ненормальнӧй
+ stem: ненормальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ненормальный
+
+-lexeme
+ lex: необычнӧй
+ stem: необычнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: необычный
+
+-lexeme
+ lex: неохотнӧй
+ stem: неохотнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неохотный
+
+-lexeme
+ lex: неочищеннӧй
+ stem: неочищеннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неочищенный
+
+-lexeme
+ lex: непотопляемӧй
+ stem: непотопляемӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: непотопляемый
+
+-lexeme
+ lex: неправомернӧй
+ stem: неправомернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неправомерный
+
+-lexeme
+ lex: неразменённӧй
+ stem: неразменённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неразменённый
+
+-lexeme
+ lex: нерентабельнӧй
+ stem: нерентабельнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нерентабельный
+
+-lexeme
+ lex: неромантичнӧй
+ stem: неромантичнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неромантичный
+
+-lexeme
+ lex: нерушимӧй
+ stem: нерушимӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нерушимый
+
+-lexeme
+ lex: неспокойнӧй
+ stem: неспокойнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неспокойный
+
+-lexeme
+ lex: нестандартнӧй
+ stem: нестандартнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нестандартный
+
+-lexeme
+ lex: неуборнӧй
+ stem: неуборнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неуборный
+
+-lexeme
+ lex: неустойчивӧй
+ stem: неустойчивӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: неустойчивый
+
+-lexeme
+ lex: нижегородскӧй
+ stem: нижегородскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нижегородский
+
+-lexeme
+ lex: нижньӧй
+ stem: нижньӧ.
+ gramm: A,rus,body
+ paradigm: Adj-j
+ trans_ru: нижнbй
+
+-lexeme
+ lex: николаевскӧй
+ stem: николаевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: николаевский
+
+-lexeme
+ lex: нобелевскӧй
+ stem: нобелевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нобелевский
+
+-lexeme
+ lex: норвежскӧй
+ stem: норвежскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: норвежский
+
+-lexeme
+ lex: нориджскӧй
+ stem: нориджскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нориджский
+
+-lexeme
+ lex: нормативнӧй
+ stem: нормативнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нормативный
+
+-lexeme
+ lex: нормотворческӧй
+ stem: нормотворческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нормотворческий
+
+-lexeme
+ lex: нороднӧй
+ stem: нороднӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: народный
+
+-lexeme
+ lex: нульӧвӧй
+ stem: нульӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: нулевой
+
+-lexeme
+ lex: областнӧй
+ stem: областнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: областнjй
+
+-lexeme
+ lex: оболенскӧй
+ stem: оболенскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: оболенский
+
+-lexeme
+ lex: обороннӧй
+ stem: обороннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: оборонный
+
+-lexeme
+ lex: обречённӧй
+ stem: обречённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обречённый
+
+-lexeme
+ lex: обшӧй
+ stem: обшӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: общий
+
+-lexeme
+ lex: общественнӧй
+ stem: обшественнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: общественный
+
+-lexeme
+ lex: обывательскӧй
+ stem: обывательскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обывательский
+
+-lexeme
+ lex: овальнӧй
+ stem: овальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: овальный
+
+-lexeme
+ lex: огневӧй
+ stem: огневӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: огневой
+
+-lexeme
+ lex: одарённӧй
+ stem: одареннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: одарённый
+
+-lexeme
+ lex: одесскӧй
+ stem: одесскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: одесский
+
+-lexeme
+ lex: одиночнӧй
+ stem: одиночнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: одиночный
+
+-lexeme
+ lex: однокореннӧй
+ stem: однокореннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: однокоренной
+
+-lexeme
+ lex: океаническӧй
+ stem: океаническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: океанический
+
+-lexeme
+ lex: окказиональнӧй
+ stem: окказиональнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: окказиональный
+
+-lexeme
+ lex: окостеневшӧй
+ stem: окостеневшӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: окостеневший
+
+-lexeme
+ lex: окояннӧй
+ stem: окояннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: окаянный
+
+-lexeme
+ lex: окружнӧй
+ stem: окружнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: окружной
+
+-lexeme
+ lex: октябрскӧй
+ stem: октябрскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: октябрьский
+
+-lexeme
+ lex: олбанскӧй
+ stem: олбанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: олбанский
+
+-lexeme
+ lex: олемпийскӧй
+ stem: олемпийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: олимпийский
+
+-lexeme
+ lex: оливкӧвӧй
+ stem: оливкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: оливковый
+
+-lexeme
+ lex: омельяновскӧй
+ stem: омельяновскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: омельяновский
+
+-lexeme
+ lex: опгӧшнӧй
+ stem: опгӧшнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ОПГшный
+
+-lexeme
+ lex: опознавательнӧй
+ stem: опознавательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: опознавательный
+
+-lexeme
+ lex: оползневӧй
+ stem: оползневӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: оползневый
+
+-lexeme
+ lex: оригинальнӧй
+ stem: оригинальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: оригинальный
+
+-lexeme
+ lex: орловскӧй
+ stem: орловскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: орловский
+
+-lexeme
+ lex: орскӧй
+ stem: орскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: орский
+
+-lexeme
+ lex: оружейнӧй
+ stem: оружейнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: оружейный
+
+-lexeme
+ lex: османскӧй
+ stem: османскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: османский
+
+-lexeme
+ lex: осмысленнӧй
+ stem: осмысленнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: осмысленный
+
+-lexeme
+ lex: основнӧй
+ stem: основнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: основной
+
+-lexeme
+ lex: особӧй
+ stem: особӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: особый
+
+-lexeme
+ lex: островнӧй
+ stem: островнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: островной
+
+-lexeme
+ lex: отечественнӧй
+ stem: отечественӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: отечественный
+
+-lexeme
+ lex: отечественнӧй
+ stem: отечетвеннӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: отечественный
+
+-lexeme
+ lex: открепительнӧй
+ stem: открепительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: открепительный
+
+-lexeme
+ lex: отчётнӧй
+ stem: отчётнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: отчётный
+
+-lexeme
+ lex: охраннӧй
+ stem: охраннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: охранный
+
+-lexeme
+ lex: очищеннӧй
+ stem: очищеннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: очищенный
+
+-lexeme
+ lex: очнӧй
+ stem: очнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: очный
+
+-lexeme
+ lex: павленковскӧй
+ stem: павленковскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: павленковский
+
+-lexeme
+ lex: павловскӧй
+ stem: павловскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: павловский
+
+-lexeme
+ lex: паллиативнӧй
+ stem: палиативнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: паллиативный
+
+-lexeme
+ lex: паметнӧй
+ stem: паметнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: памятный
+
+-lexeme
+ lex: памятнӧй
+ stem: памятнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: памятный
+
+-lexeme
+ lex: парейдолическӧй
+ stem: парейдолическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: парейдолический
+
+-lexeme
+ lex: парникӧвӧй
+ stem: парникӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: парниковый
+
+-lexeme
+ lex: паспортнӧй
+ stem: паспортнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: паспортный
+
+-lexeme
+ lex: патриархальнӧй
+ stem: патриархальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: патриархальный
+
+-lexeme
+ lex: пацифистскӧй
+ stem: пацифистскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пацифистский
+
+-lexeme
+ lex: первозваннӧй
+ stem: первозваннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: первозванный
+
+-lexeme
+ lex: первӧй
+ stem: первӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: первый
+
+-lexeme
+ lex: передвижнӧй
+ stem: передвижнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: передвижной
+
+-lexeme
+ lex: переплётнӧй
+ stem: переплётнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: переплётный
+
+-lexeme
+ lex: переспелӧй
+ stem: переспелӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: переспелый
+
+-lexeme
+ lex: периферийнӧй
+ stem: периферийнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: периферийный
+
+-lexeme
+ lex: пермскӧй
+ stem: пермскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пермский
+
+-lexeme
+ lex: пермяцкӧй
+ stem: пермяцкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пермяцкий
+
+-lexeme
+ lex: перьмятскӧй
+ stem: перьмятскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пермяцкий
+
+-lexeme
+ lex: пессимистичнӧй
+ stem: пессимистичнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пессимистичный
+
+-lexeme
+ lex: петровскӧй
+ stem: петровскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: петровский
+
+-lexeme
+ lex: петропавловскӧй
+ stem: петропавловскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: петропавловский
+
+-lexeme
+ lex: петруньскӧй
+ stem: петруньскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: петруньский
+
+-lexeme
+ lex: пехотнӧй
+ stem: пехотнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пехотный
+
+-lexeme
+ lex: печорскӧй
+ stem: печорскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: печорский
+
+-lexeme
+ lex: печӧрскӧй
+ stem: печӧрскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: печорский
+
+-lexeme
+ lex: пилотажнӧй
+ stem: пилотажнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пилотажный
+
+-lexeme
+ lex: пилотнӧй
+ stem: пилотнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пилотный
+
+-lexeme
+ lex: пильнӧй
+ stem: пильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: оставшийся от пиления
+
+-lexeme
+ lex: пинежскӧй
+ stem: пинежскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пинежский
+
+-lexeme
+ lex: пискливӧй
+ stem: пискливӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пискливый
+
+-lexeme
+ lex: питиримскӧй
+ stem: питиримскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: питиримский
+
+-lexeme
+ lex: пищевӧй
+ stem: пищевӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пищевой
+
+-lexeme
+ lex: плавленнӧй
+ stem: плавленнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: плавленный
+
+-lexeme
+ lex: плазменнӧй
+ stem: плазменнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: плазменный
+
+-lexeme
+ lex: пластикӧвӧй
+ stem: пластикӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пластиковый
+
+-lexeme
+ lex: пластическӧй
+ stem: пластическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пластический
+
+-lexeme
+ lex: плачущӧй
+ stem: плачущӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: плачущий
+
+-lexeme
+ lex: плесовскӧй
+ stem: плесовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: плесовский
+
+-lexeme
+ lex: плешивӧй
+ stem: плешивӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: плешивый
+
+-lexeme
+ lex: плотнӧй
+ stem: плтнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: плотный
+
+-lexeme
+ lex: пневматическӧй
+ stem: пневматическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пневматический
+
+-lexeme
+ lex: победнӧй
+ stem: победнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: победный
+
+-lexeme
+ lex: подготовительнӧй
+ stem: подготовительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: подготовительный
+
+-lexeme
+ lex: подзаконнӧй
+ stem: подзаконнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: подзаконный
+
+-lexeme
+ lex: подзолистӧй
+ stem: подзолистӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: подзолистый
+
+-lexeme
+ lex: подсознательнӧй
+ stem: подсознательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: подсознательный
+
+-lexeme
+ lex: подтӧварнӧй
+ stem: подтӧварнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: подтоварный
+
+-lexeme
+ lex: подушнӧй
+ stem: подушнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: подушный
+
+-lexeme
+ lex: подӧвӧй
+ stem: подӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: подовый
+
+-lexeme
+ lex: пожароопаснӧй
+ stem: пожароопаснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пожароопасный
+
+-lexeme
+ lex: пожегодскӧй
+ stem: пожегодскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пожегодский
+
+-lexeme
+ lex: поисковӧй
+ stem: поисковӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: поисковый
+
+-lexeme
+ lex: поискӧвӧй
+ stem: поискӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: поисковый
+
+-lexeme
+ lex: покровскӧй
+ stem: покровскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: покровский
+
+-lexeme
+ lex: покупательнӧй
+ stem: покупательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: покупательный
+
+-lexeme
+ lex: поленовскӧй
+ stem: поленовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: поленовский
+
+-lexeme
+ lex: полтавскӧй
+ stem: полтавскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: полтавский
+
+-lexeme
+ lex: полуколониальнӧй
+ stem: полуколониальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: полуколониальный
+
+-lexeme
+ lex: помещичӧй
+ stem: помещичӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: помещичий
+
+-lexeme
+ lex: помоздинскӧй
+ stem: помоздинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: помоздинский
+
+-lexeme
+ lex: попечительскӧй
+ stem: попечительскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: попечительский
+
+-lexeme
+ lex: попсовӧй
+ stem: попсовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: попсовый
+
+-lexeme
+ lex: популистскӧй
+ stem: популистскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: популистский
+
+-lexeme
+ lex: популярнӧй
+ stem: популярнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: популярный
+
+-lexeme
+ lex: порожскӧй
+ stem: порожскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: порожский
+
+-lexeme
+ lex: порочнӧй
+ stem: порочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: порочный
+
+-lexeme
+ lex: поснӧй
+ stem: поснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: постный
+
+-lexeme
+ lex: посольскӧй
+ stem: посольскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: посольский
+
+-lexeme
+ lex: потенциальнӧй
+ stem: потенциальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: потенциальный
+
+-lexeme
+ lex: потомственнӧй
+ stem: потомственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: потомственный
+
+-lexeme
+ lex: поурочнӧй
+ stem: поурочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: поурочный
+
+-lexeme
+ lex: похабнӧй
+ stem: похабнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: похабный
+
+-lexeme
+ lex: почётнӧй
+ stem: почётнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: почётный
+
+-lexeme
+ lex: пошехонскӧй
+ stem: пошехонскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пошехонский
+
+-lexeme
+ lex: поштовӧй
+ stem: поштовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: почтовый
+
+-lexeme
+ lex: поштӧвӧй
+ stem: поштӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: почтовый
+
+-lexeme
+ lex: правовӧй
+ stem: правовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: правовой
+
+-lexeme
+ lex: правӧвӧй
+ stem: правӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: правовой
+
+-lexeme
+ lex: предметнӧй
+ stem: предметнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: предметный
+
+-lexeme
+ lex: преднамереннӧй
+ stem: преднамереннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: преднамеренный
+
+-lexeme
+ lex: предпремьернӧй
+ stem: предпремьернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: предпремьерный
+
+-lexeme
+ lex: председательствующӧй
+ stem: председательствующӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: председательствующый
+
+-lexeme
+ lex: преображенскӧй
+ stem: преображенскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: преображенский
+
+-lexeme
+ lex: пресвятӧй
+ stem: пресвятӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пресвятой
+
+-lexeme
+ lex: преспокойнӧй
+ stem: преспокойнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: преспокойный
+
+-lexeme
+ lex: прибалтийскӧй
+ stem: прибалтийскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прибалтийский
+
+-lexeme
+ lex: привычнӧй
+ stem: привычнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: привычный
+
+-lexeme
+ lex: приготовительнӧй
+ stem: приготовительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: приготовительный
+
+-lexeme
+ lex: признаннӧй
+ stem: признанӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: признанный
+
+-lexeme
+ lex: призӧвӧй
+ stem: призӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: призовой
+
+-lexeme
+ lex: прикладнӧй
+ stem: прикладнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прикладной
+
+-lexeme
+ lex: приозёрнӧй
+ stem: приозёрнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: приозёрный
+
+-lexeme
+ lex: приставучӧй
+ stem: приставучӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: приставучий
+
+-lexeme
+ lex: пристанскӧй
+ stem: пристанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пристанский
+
+-lexeme
+ lex: приходскӧй
+ stem: приходскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: приходской
+
+-lexeme
+ lex: прихотливӧй
+ stem: прихотливӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прихотливый
+
+-lexeme
+ lex: приятнӧй
+ stem: приятнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: приятный
+
+-lexeme
+ lex: пробнӧй
+ stem: пробнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пробный
+
+-lexeme
+ lex: провославнӧй
+ stem: провославнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: православный
+
+-lexeme
+ lex: продлённӧй
+ stem: продлённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: продлённый
+
+-lexeme
+ lex: прозрачнӧй
+ stem: прозрачнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прозрачный
+
+-lexeme
+ lex: проклятӧй
+ stem: проклятӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: проклятый
+
+-lexeme
+ lex: промыслӧвӧй
+ stem: промыслӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: промысловый
+
+-lexeme
+ lex: протестанскӧй
+ stem: протестанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: протестантский
+
+-lexeme
+ lex: противовоздушнӧй
+ stem: противовоздушнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: противовоздушный
+
+-lexeme
+ lex: противопневмококкӧвӧй
+ stem: противопневмококкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: противопневмококковый
+
+-lexeme
+ lex: противотуберкулёзнӧй
+ stem: противотуберкулёзнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: противотуберкулёзный
+
+-lexeme
+ lex: прусскӧй
+ stem: прусскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прусский
+
+-lexeme
+ lex: прямӧй
+ stem: прямӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прямой
+
+-lexeme
+ lex: прӧверочнӧй
+ stem: прӧверочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: проверочный
+
+-lexeme
+ lex: прӧдуктӧвӧй
+ stem: прӧдуктӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: продуктовый
+
+-lexeme
+ lex: прӧклятӧй
+ stem: прӧклятӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: проклятый
+
+-lexeme
+ lex: прӧмыслӧвӧй
+ stem: прӧмыслӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: промысловый
+
+-lexeme
+ lex: прӧщальнӧй
+ stem: прӧщальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: прощальный
+
+-lexeme
+ lex: псевдосоциалистическӧй
+ stem: псевдосоциалистическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: псевдосоциалистический
+
+-lexeme
+ lex: психоневрологическӧй
+ stem: психоневрологическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: психоневрологический
+
+-lexeme
+ lex: психотерапевтическӧй
+ stem: психотерапевтическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: психотерапевтический
+
+-lexeme
+ lex: публичнӧй
+ stem: публичнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: публичный
+
+-lexeme
+ lex: пукӧвӧй
+ stem: пукӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пуховый
+
+-lexeme
+ lex: пулемётнӧй
+ stem: пулемётнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пулемётный
+
+-lexeme
+ lex: пустошинскӧй
+ stem: пустошинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пустошинский
+
+-lexeme
+ lex: путинскӧй
+ stem: путинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: путинский
+
+-lexeme
+ lex: пятибалльнӧй
+ stem: пятибалльнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пятибалльный
+
+-lexeme
+ lex: пятизвёздочнӧй
+ stem: пятизвёздочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пятизвёздочный
+
+-lexeme
+ lex: пӧжарнӧй
+ stem: пӧжарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пожарный
+
+-lexeme
+ lex: пӧжарскӧй
+ stem: пӧжарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: пожарский
+
+-lexeme
+ lex: пӧлӧй
+ stem: пӧлӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: полый
+
+-lexeme
+ lex: пӧперечнӧй
+ stem: пӧперечнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: поперечный
+
+-lexeme
+ lex: пӧснӧй
+ stem: пӧснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: постный
+
+-lexeme
+ lex: пӧштӧвӧй
+ stem: пӧштӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: почтовый
+
+-lexeme
+ lex: равномернӧй
+ stem: равномернӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: равномерный
+
+-lexeme
+ lex: радиоактивнӧй
+ stem: радиактивнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: радиоактивный
+
+-lexeme
+ lex: радиолокационнӧй
+ stem: радиолокационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: радиолокационный
+
+-lexeme
+ lex: радиотехническӧй
+ stem: радиотехническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: радиотехнический
+
+-lexeme
+ lex: раевскӧй
+ stem: раевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: раевский
+
+-lexeme
+ lex: разведывательнӧй
+ stem: разведывательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: разведывательный
+
+-lexeme
+ lex: разговорнӧй
+ stem: разговорнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: разговорный
+
+-lexeme
+ lex: разменнӧй
+ stem: разменнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: разменный
+
+-lexeme
+ lex: ракитӧвӧй
+ stem: ракитӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ракитовый
+
+-lexeme
+ lex: ранимӧй
+ stem: ранимӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ранимый
+
+-lexeme
+ lex: раритетнӧй
+ stem: раритетнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: раритетный
+
+-lexeme
+ lex: рациональнӧй
+ stem: рациональнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рациональный
+
+-lexeme
+ lex: реабилитационнӧй
+ stem: реабилитационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: реабилитационный
+
+-lexeme
+ lex: ревизионнӧй
+ stem: ревизионнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ревизионный
+
+-lexeme
+ lex: революциннӧй
+ stem: революциннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: революцинный
+
+-lexeme
+ lex: резервнӧй
+ stem: резервнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: резервный
+
+-lexeme
+ lex: резинӧвӧй
+ stem: резинӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: резиновый
+
+-lexeme
+ lex: результативнӧй
+ stem: результативнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: результативный
+
+-lexeme
+ lex: рейсӧвӧй
+ stem: рейсӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рейсовый
+
+-lexeme
+ lex: репертуарнӧй
+ stem: репертуарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: репертуарный
+
+-lexeme
+ lex: репетиционнӧй
+ stem: репетиционнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: репетиционный
+
+-lexeme
+ lex: рефлективнӧй
+ stem: рефлективнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рефлективный
+
+-lexeme
+ lex: ржанӧй
+ stem: ржанӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ржаной
+
+-lexeme
+ lex: римскӧй
+ stem: римскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: римский
+
+-lexeme
+ lex: ритмическӧй
+ stem: ритмическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ритмический
+
+-lexeme
+ lex: риторическӧй
+ stem: риторическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: риторический
+
+-lexeme
+ lex: роднӧй
+ stem: роднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: родной
+
+-lexeme
+ lex: рождественскӧй
+ stem: рождественскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рождественский
+
+-lexeme
+ lex: романтичнӧй
+ stem: романтичнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: романтичный
+
+-lexeme
+ lex: роторнӧй
+ stem: роторнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: роторный
+
+-lexeme
+ lex: рочӧвӧй
+ stem: рочӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: русский
+
+-lexeme
+ lex: рощевскӧй
+ stem: рощевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рощевский
+
+-lexeme
+ lex: рудзӧговӧй
+ stem: рудзӧговӧ.
+ gramm: A,rus_afx
+ paradigm: Adj-j
+ trans_ru: ржаной
+
+-lexeme
+ lex: румянӧй
+ stem: румянӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: румяный
+
+-lexeme
+ lex: русификаторскӧй
+ stem: русификаторскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: русификаторский
+
+-lexeme
+ lex: ручевскӧй
+ stem: ручевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ручевский
+
+-lexeme
+ lex: рыночнӧй
+ stem: рыночнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рыночный
+
+-lexeme
+ lex: рыцарскӧй
+ stem: рыцарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рыцарский
+
+-lexeme
+ lex: рядӧвӧй
+ stem: рядӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рядовой
+
+-lexeme
+ lex: рязанскӧй
+ stem: рязанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: рязанский
+
+-lexeme
+ lex: рӧдӧвӧй
+ stem: рӧдӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: родовой
+
+-lexeme
+ lex: Саковскӧй
+ stem: саковскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Саковский
+
+-lexeme
+ lex: саровскӧй
+ stem: саровскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: саровский
+
+-lexeme
+ lex: сарскӧй
+ stem: сарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: царский
+
+-lexeme
+ lex: саудовскӧй
+ stem: саудовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: саудовский
+
+-lexeme
+ lex: свайнӧй
+ stem: свайнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: свайный
+
+-lexeme
+ lex: сверхталантливӧй
+ stem: сверхталантливӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сверхталантливый
+
+-lexeme
+ lex: светскӧй
+ stem: светскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: светский
+
+-lexeme
+ lex: свинӧй
+ stem: свинӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: свиной
+
+-lexeme
+ lex: святейшӧй
+ stem: святейшӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: святейший
+
+-lexeme
+ lex: селекторнӧй
+ stem: селекторнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: селекторный
+
+-lexeme
+ lex: сельскокӧзяйственнӧй
+ stem: сельскокӧзяйственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сельскохозяйственный
+
+-lexeme
+ lex: сельскӧй
+ stem: сельскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сельский
+
+-lexeme
+ lex: сельхозприходскӧй
+ stem: сельхозприходскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сельхозприходский
+
+-lexeme
+ lex: семилетньӧй
+ stem: семилетньӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: семилетний
+
+-lexeme
+ lex: семиреченскӧй
+ stem: семиреченскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: семиреченский
+
+-lexeme
+ lex: сенсомоторнӧй
+ stem: сенсомоторнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сенсомоторный
+
+-lexeme
+ lex: сентиментальнӧй
+ stem: сентиментальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сентиментальный
+
+-lexeme
+ lex: сенявинскӧй
+ stem: сенявинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сенявинский
+
+-lexeme
+ lex: сервинскӧй
+ stem: сервинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сервинский
+
+-lexeme
+ lex: сереговогорскӧй
+ stem: сереговогорскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сереговогорский
+
+-lexeme
+ lex: серьёзнӧй
+ stem: серьёзнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: серьёзный
+
+-lexeme
+ lex: сивушнӧй
+ stem: сивушнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сивушный
+
+-lexeme
+ lex: синхроннӧй
+ stem: синхроннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: синхронный
+
+-lexeme
+ lex: синьӧй
+ stem: синьӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: синий
+
+-lexeme
+ lex: системнӧй
+ stem: системнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: системный
+
+-lexeme
+ lex: скандинавскӧй
+ stem: скандинавскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: скандинавский
+
+-lexeme
+ lex: скульптурнӧй
+ stem: скульптурнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: скульптурный
+
+-lexeme
+ lex: скӧтскӧй
+ stem: скӧтскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: скотский
+
+-lexeme
+ lex: следующӧй
+ stem: следующӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: следующий
+
+-lexeme
+ lex: слобожанскӧй
+ stem: слобожанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: слобожанский
+
+-lexeme
+ lex: сложносокращённӧй
+ stem: сложносокращённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сложносокращённый
+
+-lexeme
+ lex: смешаннӧй
+ stem: смешаннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: смешанный
+
+-lexeme
+ lex: смраднӧй
+ stem: смраднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: смрадный
+
+-lexeme
+ lex: событийнӧй
+ stem: событийнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: событийный
+
+-lexeme
+ lex: совковӧй
+ stem: совковӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: совковый
+
+-lexeme
+ lex: совнаркомовскӧй
+ stem: совнаркомовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: совнаркомовский
+
+-lexeme
+ lex: солигалическӧй
+ stem: солигалическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: солигаличский
+
+-lexeme
+ lex: солиднӧй
+ stem: солиднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: солидный
+
+-lexeme
+ lex: соловецкӧй
+ stem: соловецкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: соловецкий
+
+-lexeme
+ lex: сольвычегодскӧй
+ stem: сольвычегодскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сольвычегодский
+
+-lexeme
+ lex: сольнӧй
+ stem: сольнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сольный
+
+-lexeme
+ lex: солянӧй
+ stem: солянӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: соляной
+
+-lexeme
+ lex: составнӧй
+ stem: составнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: составной
+
+-lexeme
+ lex: сотовӧй
+ stem: сотовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сотовый
+
+-lexeme
+ lex: сотӧвӧй
+ stem: сотӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сотовый
+
+-lexeme
+ lex: социокультурнӧй
+ stem: социокультурнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: социокультурный
+
+-lexeme
+ lex: спасательнӧй
+ stem: спасательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: спасательный
+
+-lexeme
+ lex: спасскӧй
+ stem: спасскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: спасский
+
+-lexeme
+ lex: спиридоновскӧй
+ stem: спиридоновскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: спиридоновский
+
+-lexeme
+ lex: спичечнӧй
+ stem: спичечнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: спичечный
+
+-lexeme
+ lex: сплошнӧй
+ stem: сплошнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сплошной
+
+-lexeme
+ lex: сполнӧй
+ stem: сполнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: полный
+
+-lexeme
+ lex: спонтаннӧй
+ stem: спонтаннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: спонтанный
+
+-lexeme
+ lex: спускӧвӧй
+ stem: спускӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: спусковой
+
+-lexeme
+ lex: спутникӧвӧй
+ stem: спутникӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: спутниковый
+
+-lexeme
+ lex: средиземнӧй
+ stem: средиземнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: средиземный
+
+-lexeme
+ lex: среднеазиатскӧй
+ stem: среднеазиатскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: среднеазиатский
+
+-lexeme
+ lex: среднесысольскӧй
+ stem: среднесысольскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: среднесысольский
+
+-lexeme
+ lex: старовскӧй
+ stem: старовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: старовский
+
+-lexeme
+ lex: старославянскӧй
+ stem: старославянскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: старославянский
+
+-lexeme
+ lex: стартовӧй
+ stem: стартовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стартовый
+
+-lexeme
+ lex: статскӧй
+ stem: статскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: статский
+
+-lexeme
+ lex: стекляннӧй
+ stem: стекляннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стеклянный
+
+-lexeme
+ lex: стефановскӧй
+ stem: стефановскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стефановский
+
+-lexeme
+ lex: стилизованнӧй
+ stem: стилизованнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стилизованный
+
+-lexeme
+ lex: стильнӧй
+ stem: стильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стильный
+
+-lexeme
+ lex: сторожевскӧй
+ stem: сторожевскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сторожевский
+
+-lexeme
+ lex: страстнӧй
+ stem: страстнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: страстный
+
+-lexeme
+ lex: страхӧвӧй
+ stem: страхӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: страховой
+
+-lexeme
+ lex: стрелкӧвӧй
+ stem: стрелкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: стрелковый
+
+-lexeme
+ lex: строкоотливнӧй
+ stem: строкоотливнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: строкоотливный
+
+-lexeme
+ lex: стрӧительнӧй
+ stem: стрӧительнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: строительный
+
+-lexeme
+ lex: сувенирнӧй
+ stem: сувенирнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сувенирный
+
+-lexeme
+ lex: судейскӧй
+ stem: судейскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: судейский
+
+-lexeme
+ lex: судоремонтнӧй
+ stem: судоремонтнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: судоремонтный
+
+-lexeme
+ lex: суомскӧй
+ stem: суомскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: суомский
+
+-lexeme
+ lex: супердиалектнӧй
+ stem: супердиалектнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: супердиалектный
+
+-lexeme
+ lex: сурьёзнӧй
+ stem: сурьёзнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сурьёзный
+
+-lexeme
+ lex: сухопутнӧй
+ stem: сухопутнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сухопутный
+
+-lexeme
+ lex: сухӧй
+ stem: сухӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сухой
+
+-lexeme
+ lex: сферическӧй
+ stem: сферическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сферический
+
+-lexeme
+ lex: сценарнӧй
+ stem: сценарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сценарный
+
+-lexeme
+ lex: счастливӧй
+ stem: счастливӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: счастливый
+
+-lexeme
+ lex: счётнӧй
+ stem: счётнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: счётный
+
+-lexeme
+ lex: съёмочнӧй
+ stem: съёмочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: съёмочный
+
+-lexeme
+ lex: сыктывкарскӧй
+ stem: сыктывкарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сыктывкарский
+
+-lexeme
+ lex: сюжетнӧй
+ stem: сюжетнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: сюжетный
+
+-lexeme
+ lex: сякӧй
+ stem: сякӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: всякий
+
+-lexeme
+ lex: сӧветскӧй
+ stem: сӧвесткӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: советский
+
+-lexeme
+ lex: сӧветскӧй
+ stem: сӧвестскӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: советский
+
+-lexeme
+ lex: сӧгласнӧй
+ stem: сӧгласнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: согласный
+
+-lexeme
+ lex: тазовскӧй
+ stem: тазовскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тазовский
+
+-lexeme
+ lex: тайницкӧй
+ stem: тайницкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тайницкий
+
+-lexeme
+ lex: танкӧвӧй
+ stem: танкӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: танковый
+
+-lexeme
+ lex: тверскӧй
+ stem: тверскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тверской
+
+-lexeme
+ lex: театральнӧй
+ stem: тетаральнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: театральный
+
+-lexeme
+ lex: театроведческӧй
+ stem: театроведческӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: театроведческий
+
+-lexeme
+ lex: текстовӧй
+ stem: текстовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: текстовый
+
+-lexeme
+ lex: текстӧвӧй
+ stem: текстӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: текстовый
+
+-lexeme
+ lex: текущӧй
+ stem: текущӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: текущий
+
+-lexeme
+ lex: телеграфнӧй
+ stem: телеграфнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: телеграфный
+
+-lexeme
+ lex: телекоммуникационнӧй
+ stem: телекоммуникационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: телекоммуникационный
+
+-lexeme
+ lex: телеснӧй
+ stem: телеснӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: телесный
+
+-lexeme
+ lex: темперированнӧй
+ stem: темперированнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: темперированный
+
+-lexeme
+ lex: тепличнӧй
+ stem: тепличнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тепличный
+
+-lexeme
+ lex: теплӧвӧй
+ stem: теплӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тепловой
+
+-lexeme
+ lex: термальнӧй
+ stem: термальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: термальный
+
+-lexeme
+ lex: тестӧвӧй
+ stem: тестӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тестовый
+
+-lexeme
+ lex: тиманскӧй
+ stem: тиманскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тиманский
+
+-lexeme
+ lex: типӧвӧй
+ stem: типӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: типовой
+
+-lexeme
+ lex: тихоокеанскӧй
+ stem: тихоокеанскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тихоокеанский
+
+-lexeme
+ lex: тихӧй
+ stem: тихӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тихий
+
+-lexeme
+ lex: токсическӧй
+ stem: токсическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: токсический
+
+-lexeme
+ lex: токсичнӧй
+ stem: токсичнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: токсичный
+
+-lexeme
+ lex: толерантнӧй
+ stem: толерантнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: толерантный
+
+-lexeme
+ lex: толстӧй
+ stem: толстӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: толстый
+
+-lexeme
+ lex: томнӧй
+ stem: томнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: томный
+
+-lexeme
+ lex: топливнӧй
+ stem: топливнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: топливный
+
+-lexeme
+ lex: торжествующӧй
+ stem: торжествующӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: торжествующий
+
+-lexeme
+ lex: тормознӧй
+ stem: тормознӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тормозной
+
+-lexeme
+ lex: тоталитарнӧй
+ stem: тоталитарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тоталитарный
+
+-lexeme
+ lex: тотальнӧй
+ stem: тотальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тотальный
+
+-lexeme
+ lex: трафальгарскӧй
+ stem: трафальгарскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: трафальгарский
+
+-lexeme
+ lex: третьяковскӧй
+ stem: третьяковскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: третьяковский
+
+-lexeme
+ lex: троицкӧй
+ stem: троицкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: троицкий
+
+-lexeme
+ lex: тройнӧй
+ stem: тройнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тройной
+
+-lexeme
+ lex: троннӧй
+ stem: троннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тронный
+
+-lexeme
+ lex: трубнӧй
+ stem: трубнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: трубный
+
+-lexeme
+ lex: трудовӧй
+ stem: трудовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: трудовой
+
+-lexeme
+ lex: тупӧй
+ stem: тупӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тупой
+
+-lexeme
+ lex: турецкӧй
+ stem: турецкӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: турецкий
+
+-lexeme
+ lex: туристскӧй
+ stem: туристкӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: туристский
+
+-lexeme
+ lex: тшайнӧй
+ stem: тшайнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чайный
+
+-lexeme
+ lex: тюменьскӧй
+ stem: тюменьскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тюменский
+
+-lexeme
+ lex: тёмнӧй
+ stem: тёмнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: тёмный
+
+-lexeme
+ lex: тӧварнӧй
+ stem: тӧварнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: товарный
+
+-lexeme
+ lex: тӧчильнӧй
+ stem: тӧчильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: точильный
+
+-lexeme
+ lex: убийственнӧй
+ stem: убийственнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: убийственный
+
+-lexeme
+ lex: убогӧй
+ stem: убогӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: убогий
+
+-lexeme
+ lex: убойнӧй
+ stem: убойнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: убойный
+
+-lexeme
+ lex: угарнӧй
+ stem: угарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: угарный
+
+-lexeme
+ lex: углистӧй
+ stem: углистӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: углистый
+
+-lexeme
+ lex: угрожающӧй
+ stem: угрожающӧ.
+ gramm: A,rus,body
+ paradigm: Adj-j
+ trans_ru: угрожающий
+
+-lexeme
+ lex: угрюмӧй
+ stem: угрюмӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: угрюмый
+
+-lexeme
+ lex: удорскӧй
+ stem: удорскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: удорский
+
+-lexeme
+ lex: ужасающӧй
+ stem: ужасающӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ужасающий
+
+-lexeme
+ lex: укреплённӧй
+ stem: укреплённӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: укреплённый
+
+-lexeme
+ lex: умнӧй
+ stem: умнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: умный
+
+-lexeme
+ lex: унитарнӧй
+ stem: унитарнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: унитарный
+
+-lexeme
+ lex: упаковочнӧй
+ stem: упаковочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: упаковочный
+
+-lexeme
+ lex: уразнӧй
+ stem: уразнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: зверобой
+
+-lexeme
+ lex: урановӧй
+ stem: урановӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: урановый
+
+-lexeme
+ lex: ускореннӧй
+ stem: ускореннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ускоренный
+
+-lexeme
+ lex: условнӧй
+ stem: условнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: условный
+
+-lexeme
+ lex: успенскӧй
+ stem: успенскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: успенский
+
+-lexeme
+ lex: успешнӧй
+ stem: успешнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: успешный
+
+-lexeme
+ lex: устюжскӧй
+ stem: устюжскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: устюжский
+
+-lexeme
+ lex: ушинскӧй
+ stem: ушинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ушинский
+
+-lexeme
+ lex: ушительскӧй
+ stem: ушительскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: учительский
+
+-lexeme
+ lex: фарерскӧй
+ stem: фарерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фарерский
+
+-lexeme
+ lex: фашистскӧй
+ stem: фашисткӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: фашистский
+
+-lexeme
+ lex: фейковӧй
+ stem: фейковӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фейковый
+
+-lexeme
+ lex: филиппинскӧй
+ stem: филиппинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: филиппинский
+
+-lexeme
+ lex: финноугорскӧй
+ stem: финноугорскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: финно-угорский
+
+-lexeme
+ lex: фиолетӧвӧй
+ stem: фиолетӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фиолетовый
+
+-lexeme
+ lex: фолиевӧй
+ stem: фолиевӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фолиевый
+
+-lexeme
+ lex: фортепианнӧй
+ stem: фортепианнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фортепианный
+
+-lexeme
+ lex: французcкӧй
+ stem: французкӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: французcкий
+
+-lexeme
+ lex: фронтовӧй
+ stem: фронтовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: фронтовой
+
+-lexeme
+ lex: хайгетскӧй
+ stem: хайгетскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: хайгетский
+
+-lexeme
+ lex: ханжескӧй
+ stem: ханжескӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ханжеский
+
+-lexeme
+ lex: харьковскӧй
+ stem: харьковскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: харьковский
+
+-lexeme
+ lex: Холуницкӧй
+ stem: холуницкӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Холуницкий
+
+-lexeme
+ lex: храмӧвӧй
+ stem: храмӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: храмовый
+
+-lexeme
+ lex: цифрӧвӧй
+ stem: цифрӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: цифровой
+
+-lexeme
+ lex: часливӧй
+ stem: часливӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: счастливый
+
+-lexeme
+ lex: часовенскӧй
+ stem: часовенскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: часовенский
+
+-lexeme
+ lex: человеконенавистническӧй
+ stem: человеконенавистническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: человеконенавистнический
+
+-lexeme
+ lex: чемоданнӧй
+ stem: чемоданнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чемоданный
+
+-lexeme
+ lex: чернильнӧй
+ stem: чернильнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чернильный
+
+-lexeme
+ lex: Чернутьевскӧй
+ stem: чернутьевскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Чернутьевский
+
+-lexeme
+ lex: чернӧвӧй
+ stem: чернӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: черновой
+
+-lexeme
+ lex: чесменскӧй
+ stem: чесменскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чесменский
+
+-lexeme
+ lex: четвероюроднӧй
+ stem: четвероюроднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: четвероюродный
+
+-lexeme
+ lex: чиновничӧй
+ stem: чиновничӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чиновничий
+
+-lexeme
+ lex: чиновнӧй
+ stem: чиновнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чиновный
+
+-lexeme
+ lex: чотнӧй
+ stem: чотнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чётный
+
+-lexeme
+ lex: чудскӧй
+ stem: чудскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чудский
+
+-lexeme
+ lex: Чудӧвӧй
+ stem: чудӧвӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Чудов
+
+-lexeme
+ lex: Чупровскӧй
+ stem: чупровскӧ.
+ gramm: A,rus,PN,topn
+ paradigm: Adj-j
+ trans_ru: Чупровский
+
+-lexeme
+ lex: чюднӧй
+ stem: чюднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: чудный
+
+-lexeme
+ lex: шальнӧй
+ stem: шальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шальной
+
+-lexeme
+ lex: шамаханскӧй
+ stem: шамаханскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шамаханский
+
+-lexeme
+ lex: шведскӧй
+ stem: шведскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шведский
+
+-lexeme
+ lex: шелтозерскӧй
+ stem: шелтозерскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шелтозерский
+
+-lexeme
+ lex: широковещательнӧй
+ stem: широковещательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: широковещательный
+
+-lexeme
+ lex: широтнӧй
+ stem: широтнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: широтный
+
+-lexeme
+ lex: шокӧвӧй
+ stem: шокӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шоковый
+
+-lexeme
+ lex: шомпольнӧй
+ stem: шомпольнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шомпольный
+
+-lexeme
+ lex: штатнӧй
+ stem: штатнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: штатный
+
+-lexeme
+ lex: штепсельнӧй
+ stem: штепсельнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: штепсельный
+
+-lexeme
+ lex: штучнӧй
+ stem: штучнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: штучный
+
+-lexeme
+ lex: шумнӧй
+ stem: шумнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шумный
+
+-lexeme
+ lex: шуточнӧй
+ stem: шуточнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шуточный
+
+-lexeme
+ lex: шушукайтчӧй
+ stem: шушукайтчӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: шушукайтчый
+
+-lexeme
+ lex: шӧрстатистическӧй
+ stem: шӧрстатистическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: среднестатистический
+
+-lexeme
+ lex: щитовиднӧй
+ stem: щитовиднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: щитовидный
+
+-lexeme
+ lex: щитӧвӧй
+ stem: щитӧвӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: щитовой
+
+-lexeme
+ lex: щукинскӧй
+ stem: щукинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: щукинский
+
+-lexeme
+ lex: эволюционнӧй
+ stem: эволюционнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эволюционный
+
+-lexeme
+ lex: эзофагеальнӧй
+ stem: эзофагеальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эзофагеальный
+
+-lexeme
+ lex: экваториальнӧй
+ stem: экваториальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: экваториальный
+
+-lexeme
+ lex: экзотическӧй
+ stem: экзотическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: экзотический
+
+-lexeme
+ lex: эксклюзивнӧй
+ stem: эксклюзивнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эксклюзивный
+
+-lexeme
+ lex: эксплуатационнӧй
+ stem: эксплуатационнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эксплуатационный
+
+-lexeme
+ lex: экстремальнӧй
+ stem: экстремальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: экстремальный
+
+-lexeme
+ lex: экстреннӧй
+ stem: экстреннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: экстренный
+
+-lexeme
+ lex: элегантнӧй
+ stem: элегантнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: элегантный
+
+-lexeme
+ lex: электрическӧй
+ stem: электричсекӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: электрический
+
+-lexeme
+ lex: электротехническӧй
+ stem: электротехническӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: электротехнический
+
+-lexeme
+ lex: элитнӧй
+ stem: элитнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: элитный
+
+-lexeme
+ lex: эмигрантскӧй
+ stem: эмигрантскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эмигрантский
+
+-lexeme
+ lex: эмоциональнӧй
+ stem: эмоцианальнӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: эмоциональный
+
+-lexeme
+ lex: эмоциональнӧй
+ stem: эмоциональнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эмоциональный
+
+-lexeme
+ lex: эндокриннӧй
+ stem: эндокриннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эндокринный
+
+-lexeme
+ lex: эндоскопическӧй
+ stem: эндоскопическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эндоскопический
+
+-lexeme
+ lex: энокультурнӧй
+ stem: энокультурнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: энокультурный
+
+-lexeme
+ lex: эскизнӧй
+ stem: эскизнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эскизный
+
+-lexeme
+ lex: эстафетнӧй
+ stem: эстафетнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: эстафетный
+
+-lexeme
+ lex: этимологическӧй
+ stem: этимологическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: этимологический
+
+-lexeme
+ lex: этнографическӧй
+ stem: этнграфическӧ.
+ gramm: A,rus,missp
+ paradigm: Adj-j
+ trans_ru: этнографический
+
+-lexeme
+ lex: этнофольклорнӧй
+ stem: этнофольклорнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: этнофольклорный
+
+-lexeme
+ lex: юнионистскӧй
+ stem: юнионистскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: юнионистский
+
+-lexeme
+ lex: яблочнӧй
+ stem: яблочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: яблочный
+
+-lexeme
+ lex: язьвинскӧй
+ stem: язьвинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: язьвинский
+
+-lexeme
+ lex: якобинскӧй
+ stem: якобинскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: якобинский
+
+-lexeme
+ lex: якутскӧй
+ stem: якутскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: якутский
+
+-lexeme
+ lex: ямочнӧй
+ stem: ямочнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ямочный
+
+-lexeme
+ lex: яренскӧй
+ stem: яренскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: яренский
+
+-lexeme
+ lex: ярославскӧй
+ stem: ярославскӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: ярославский
+
+-lexeme
+ lex: яфетическӧй
+ stem: яфетическӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: яфетический
+
+-lexeme
+ lex: ӧбетнӧй
+ stem: ӧбетнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обетный
+
+-lexeme
+ lex: ӧбидчивӧй
+ stem: ӧбидчивӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обидчивый
+
+-lexeme
+ lex: ӧбрядовӧй
+ stem: ӧбрядовӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обрядовый
+
+-lexeme
+ lex: ӧбьязательнӧй
+ stem: ӧбьязательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обязательный
+
+-lexeme
+ lex: ӧбязательнӧй
+ stem: ӧбязательнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: обязательный
+
+-lexeme
+ lex: ӧстальнӧй
+ stem: ӧстальнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: остальной
+
+-lexeme
+ lex: ӧтнокультурнӧй
+ stem: ӧтнокультурнӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: этнокультурный
+
+-lexeme
+ lex: ӧчаяннӧй
+ stem: ӧчаяннӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: отчаянный
+
+-lexeme
+ lex: ӧчереднӧй
+ stem: ӧчереднӧ.
+ gramm: A,rus
+ paradigm: Adj-j
+ trans_ru: очередной
 

@@ -6353,3 +6353,17 @@
  paradigm: Adverbials-final
  trans_ru: возглас, которым погоняют лошадей
 
+-lexeme
+ lex: аминьӧй
+ stem: аминьӧ.
+ gramm: PART
+ paradigm: Adj-j
+ trans_ru: аминь
+
+-lexeme
+ lex: аттӧй
+ stem: аттӧ.
+ gramm: PART
+ paradigm: Adj-j
+ trans_ru: вот так, ну и
+
