@@ -36,7 +36,7 @@
 
 -lexeme
  lex: ме
- stem: меным.|мем.
+ stem: меным.|мем.|мен.
  gramm: PRO,pers,1,sg,dat
  paradigm: Clitics
  trans_ru: я
@@ -159,7 +159,7 @@
 
 -lexeme
  lex: тэ
- stem: тэныд.|тэд.
+ stem: тэныд.|тэд.|тэн.
  gramm: PRO,pers,2,sg,dat
  paradigm: Clitics
  trans_ru: ты

@@ -129317,7 +129317,7 @@
  lex: ӧтуввез
  stem: ӧтуввез.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: интернет
 
 -lexeme

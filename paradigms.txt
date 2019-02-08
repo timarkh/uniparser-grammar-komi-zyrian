@@ -1330,7 +1330,7 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .c<.>
+ -flex: .с<.>
   gramm: pass
   gloss: PASS
   regex-prev: .*([^дтчз<>.]|[^д]з)[<>.]*$
@@ -1522,17 +1522,23 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .с|ьыв<.>
-  gramm: pass,delim
+ -flex: .сьы|в<.>
+  gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .с|ьыл<.>
-  gramm: pass,delim
+ -flex: .сьы|л<.>
+  gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
+ -flex: .сь|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .ч|ыв<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
@@ -1588,13 +1594,13 @@
   gramm: 
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .c<.>
+ -flex: .с<.>
   gramm: pass,pass_ysj
   gloss: PASS
   paradigm: V-finite-soft
   paradigm: V-inf-ny-soft-deriv
   paradigm: V-ptcp-cvb-ny-soft-deriv
- -flex: .сc<.>//.[в]с<.>
+ -flex: .сс<.>//.[в]с<.>
   gramm: pass,pass_sjy
   gloss: PASS
   paradigm: V-finite-soft
@@ -1769,17 +1775,12 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .с|ьыв<.>
-  gramm: pass,pass_ysj,delim
-  gloss: PASS|DELIM
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .с|ьыл<.>
+ -flex: .сь|л<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
   paradigm: V-finite
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .сс|ьыв<.>//.[в]сс|ьыв<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
@@ -1833,13 +1834,13 @@
   gramm: 
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[а]c<.>
+ -flex: .[а]с<.>
   gramm: pass,pass_ysj
   gloss: PASS
   paradigm: V-finite-soft
   paradigm: V-inf-ny-soft-deriv
   paradigm: V-ptcp-cvb-ny-soft-deriv
- -flex: .[а]сc<.>//.[ав]с<.>
+ -flex: .[а]сс<.>//.[ав]с<.>
   gramm: pass,pass_sjy
   gloss: PASS
   paradigm: V-finite-soft
@@ -2014,23 +2015,18 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[а]с|ьыв<.>
-  gramm: pass,pass_ysj,delim
-  gloss: PASS|DELIM
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .[а]с|ьыл<.>
+ -flex: .[а]сь|л<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
   paradigm: V-finite
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .[а]сс|ьыв<.>//.[ав]сс|ьыв<.>
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .[а]ссьы|в<.>//.[ав]ссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[а]сс|ьыл<.>//.[ав]сс|ьыл<.>
+ -flex: .[а]ссьы|л<.>//.[ав]ссьы|л<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-finite
@@ -2078,13 +2074,13 @@
   gramm: 
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[я]c<.>
+ -flex: .[я]с<.>
   gramm: pass,pass_ysj
   gloss: PASS
   paradigm: V-finite-soft
   paradigm: V-inf-ny-soft-deriv
   paradigm: V-ptcp-cvb-ny-soft-deriv
- -flex: .[я]сc<.>//.[яв]с<.>
+ -flex: .[я]сс<.>//.[яв]с<.>
   gramm: pass,pass_sjy
   gloss: PASS
   paradigm: V-finite-soft
@@ -2259,23 +2255,18 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[я]с|ьыв<.>
-  gramm: pass,pass_ysj,delim
-  gloss: PASS|DELIM
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .[я]с|ьыл<.>
+ -flex: .[я]сь|л<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
   paradigm: V-finite
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .[я]сс|ьыв<.>//.[яв]сс|ьыв<.>
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .[я]ссьы|в<.>//.[яв]ссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[я]сс|ьыл<.>//.[яв]сс|ьыл<.>
+ -flex: .[я]ссьы|л<.>//.[яв]ссьы|л<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-finite
@@ -2319,13 +2310,13 @@
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
- -flex: .ыc<.>
+ -flex: .ыс<.>
   gramm: pass,pass_ysj
   gloss: PASS
   paradigm: V-finite-soft
   paradigm: V-inf-ny-soft-deriv
   paradigm: V-ptcp-cvb-ny-soft-deriv
- -flex: .ысc<.>
+ -flex: .ысс<.>
   gramm: pass,pass_sjy
   gloss: PASS
   paradigm: V-finite-soft
@@ -2500,23 +2491,18 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .ыс|ьыв<.>
-  gramm: pass,pass_ysj,delim
-  gloss: PASS|DELIM
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .ыс|ьыл<.>
+ -flex: .ысь|л<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
   paradigm: V-finite
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .ысс|ьыв<.>
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .ыссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .ысс|ьыл<.>
+ -flex: .ыссьы|л<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-finite
@@ -2565,7 +2551,7 @@
   paradigm: V-finite-soft
   paradigm: V-inf-ny-soft
   paradigm: V-ptcp-cvb-ny-soft
- -flex: .[ь]c<.>
+ -flex: .[ь]с<.>
   gramm: pass
   gloss: PASS
   paradigm: V-finite-soft
@@ -2729,17 +2715,12 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[ь]с|ьыв<.>
-  gramm: pass,delim
-  gloss: PASS|DELIM
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .[ь]с|ьыл<.>
+ -flex: .[ь]сь|л<.>
   gramm: pass,delim
   gloss: PASS|DELIM
   paradigm: V-finite
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .[ь]л<.>
   gramm: delim
   gloss: DELIM
@@ -2778,13 +2759,13 @@
   paradigm: V-finite-soft
   paradigm: V-inf-yny-soft
   paradigm: V-ptcp-cvb-yny-soft
- -flex: .[ь]ыc<.>
+ -flex: .[ь]ыс<.>
   gramm: pass,pass_ysj
   gloss: PASS
   paradigm: V-finite-soft
   paradigm: V-inf-ny-soft-deriv
   paradigm: V-ptcp-cvb-ny-soft-deriv
- -flex: .[ь]ысc<.>
+ -flex: .[ь]ысс<.>
   gramm: pass,pass_sjy
   gloss: PASS
   paradigm: V-finite-soft
@@ -2959,23 +2940,18 @@
   paradigm: V-finite
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[ь]ыс|ьыв<.>
-  gramm: pass,pass_ysj,delim
-  gloss: PASS|DELIM
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .[ь]ыс|ьыл<.>
+ -flex: .[ь]ысь|л<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
   paradigm: V-finite
-  paradigm: V-inf-ny
-  paradigm: V-ptcp-cvb-ny
- -flex: .[ь]ысс|ьыв<.>
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .[ь]ыссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-inf-ny
   paradigm: V-ptcp-cvb-ny
- -flex: .[ь]ысс|ьыл<.>
+ -flex: .[ь]ыссьы|л<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
   paradigm: V-finite

@@ -5200,20 +5200,6 @@
  trans_ru: ждать
 
 -lexeme
- lex: виччысьны
- stem: виччыс.
- gramm: V
- paradigm: V-ny-soft
- trans_ru: ждать
-
--lexeme
- lex: виччысявны
- stem: виччыс.
- gramm: V
- paradigm: V-yavny
- trans_ru: ждать (о многих)
-
--lexeme
  lex: вишкыны
  stem: вишк.
  gramm: V
@@ -29583,7 +29569,7 @@
 -lexeme
  lex: ог
  stem: ог.
- gramm: V,neg,fut
+ gramm: V,neg,fut,1
  paradigm: Clitics
  trans_ru: не, нет
 
@@ -29597,7 +29583,14 @@
 -lexeme
  lex: огӧ
  stem: огӧ.
- gramm: V,neg,fut
+ gramm: V,neg,fut,1,pl
+ paradigm: Clitics
+ trans_ru: не, нет
+
+-lexeme
+ lex: огӧй
+ stem: огӧй.
+ gramm: V,neg,fut,1,pl
  paradigm: Clitics
  trans_ru: не, нет
 
@@ -29607,6 +29600,13 @@
  gramm: V
  paradigm: V-ny-soft
  trans_ru: воевать
+
+-lexeme
+ lex: оз
+ stem: оз.
+ gramm: V,neg,fut,3
+ paradigm: Clitics
+ trans_ru: не, нет
 
 -lexeme
  lex: ознаменуйтны
@@ -29854,6 +29854,13 @@
  trans_ru: порочить
 
 -lexeme
+ lex: он
+ stem: он.
+ gramm: V,neg,fut,2
+ paradigm: Clitics
+ trans_ru: не, нет
+
+-lexeme
  lex: онишмунны
  stem: онишмун.
  gramm: V
@@ -29898,7 +29905,7 @@
 -lexeme
  lex: онӧ
  stem: онӧ.
- gramm: V,neg,fut,2
+ gramm: V,neg,fut,2,pl
  paradigm: Clitics
  trans_ru: не, нет
 
@@ -52613,14 +52620,21 @@
 -lexeme
  lex: эг
  stem: эг.
- gramm: V,neg
+ gramm: V,neg,pst,1
  paradigm: Clitics
  trans_ru: не; нет
 
 -lexeme
  lex: эгӧ
  stem: эгӧ.
- gramm: V,neg
+ gramm: V,neg,pst,1,pl
+ paradigm: Clitics
+ trans_ru: не; нет
+
+-lexeme
+ lex: эгӧй
+ stem: эгӧй.
+ gramm: V,neg,pst,1,pl
  paradigm: Clitics
  trans_ru: не; нет
 
@@ -52669,7 +52683,7 @@
 -lexeme
  lex: эз
  stem: эз.
- gramm: V,neg
+ gramm: V,neg,pst,3
  paradigm: Clitics
  trans_ru: не; нет
 
@@ -52767,7 +52781,7 @@
 -lexeme
  lex: эн
  stem: эн.
- gramm: V,neg
+ gramm: V,neg,pst,2
  paradigm: Clitics
  trans_ru: не; нет
 
@@ -52802,7 +52816,7 @@
 -lexeme
  lex: энӧ
  stem: энӧ.
- gramm: V,neg
+ gramm: V,neg,pst,2,pl
  paradigm: Clitics
  trans_ru: не; нет
 
@@ -54650,4065 +54664,4065 @@
  lex: гуглитны
  stem: гуглит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: гуглить
 
 -lexeme
  lex: гыгзьыны
  stem: гыгз.
  gramm: V
- paradigm: Verbs-yny-soft
+ paradigm: V-yny-soft
  trans_ru: шутить, стебаться
 
 -lexeme
  lex: адаптируйтны
  stem: адаптируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: адаптировать
 
 -lexeme
  lex: активничайтны
  stem: активничайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: активничать
 
 -lexeme
  lex: актируйтны
  stem: актируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: актировать
 
 -lexeme
  lex: алкашитны
  stem: алкашит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: алкашить
 
 -lexeme
  lex: амнистируйтны
  stem: амнистируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: амнистировать
 
 -lexeme
  lex: анонсируйтны
  stem: анонсируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: анонсировать
 
 -lexeme
  lex: апробируйтны
  stem: апробируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: апробировать
 
 -lexeme
  lex: апробируйтны
  stem: опробируйт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: апробировать
 
 -lexeme
  lex: ассоциируйтны
  stem: ассоциируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ассоциировать
 
 -lexeme
  lex: аттестуйтны
  stem: аттестуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: аттестовать
 
 -lexeme
  lex: аудируйтны
  stem: аудируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: аудировать
 
 -lexeme
  lex: бажитны
  stem: бажит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: каркать; накликать беду
 
 -lexeme
  lex: балдейтны
  stem: балдейт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: балдеть
 
 -lexeme
  lex: басурманитчыны
  stem: басурманитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: басурманиться
 
 -lexeme
  lex: батлуйтны
  stem: батлуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: проводить батл
 
 -lexeme
  lex: берегитны
  stem: берегит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: беречь
 
 -lexeme
  lex: беситны
  stem: бесит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: бесить
 
 -lexeme
  lex: благодаритны
  stem: благодарит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: благодарить
 
 -lexeme
  lex: благоустраивайтны
  stem: благоустраивайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: благоустраивать
 
 -lexeme
  lex: бласлӧвитны
  stem: бласлӧвит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: благословить
 
 -lexeme
  lex: блогируйтны
  stem: блогируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вести блог
 
 -lexeme
  lex: блокируйтны
  stem: блокируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: блокировать
 
 -lexeme
  lex: болейтны
  stem: болейт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: болеть
 
 -lexeme
  lex: брольснитны
  stem: брольснит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: брызнитны
  stem: брызнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: брызнуть
 
 -lexeme
  lex: бӧлванитны
  stem: бӧлванит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: болванить
 
 -lexeme
  lex: ватлайтны
  stem: ватлайт.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: коверкать
 
 -lexeme
  lex: введитны
  stem: введит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ввести
 
 -lexeme
  lex: вдохновитны
  stem: вдохновит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вдохновить
 
 -lexeme
  lex: вештуйтны
  stem: вештуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вещевать, предсказывать
 
 -lexeme
  lex: вештшуйтны
  stem: вештшуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вещевать, предсказывать
 
 -lexeme
  lex: включайтны
  stem: включайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: включать
 
 -lexeme
  lex: властвуйтны
  stem: властвуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: властвовать
 
 -lexeme
  lex: вникнитны
  stem: вникнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вникнуть
 
 -lexeme
  lex: возвеличитны
  stem: возвеличит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: возвеличить
 
 -lexeme
  lex: возникайтны
  stem: возникайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: возникать
 
 -lexeme
  lex: восхищайтчыны
  stem: восхищайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: восхищаться
 
 -lexeme
  lex: впяривайтны
  stem: впяривайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: впяривать
 
 -lexeme
  lex: вредничайтны
  stem: вредничайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вредничать
 
 -lexeme
  lex: вспоминайтны
  stem: вспоминайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вспоминать
 
 -lexeme
  lex: вспомнитны
  stem: вспомнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вспомнить
 
 -lexeme
  lex: встретитны
  stem: встретит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: встретить
 
 -lexeme
  lex: встречайтны
  stem: встречайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: встречать
 
 -lexeme
  lex: выглядитны
  stem: выглядит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выглядеть
 
 -lexeme
  lex: выдавитны
  stem: выдавит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выдавить
 
 -lexeme
  lex: выделитны
  stem: выделит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выделить
 
 -lexeme
  lex: выделывайтчыны
  stem: выделыывайтч.
  gramm: V,rus,missp
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: выделываться
 
 -lexeme
  lex: выживитны
  stem: выживит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выжить
 
 -lexeme
  lex: выжимайтны
  stem: выжимайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выжимать
 
 -lexeme
  lex: выиграйтны
  stem: выиграйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выиграть
 
 -lexeme
  lex: выигрывайтны
  stem: выигрывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выигрывать
 
 -lexeme
  lex: выкладывайтны
  stem: выкладывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выкладывать
 
 -lexeme
  lex: выключитны
  stem: выключит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выключить
 
 -lexeme
  lex: выложитны
  stem: выложит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выложить
 
 -lexeme
  lex: выпендривайтчыны
  stem: выпендривайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: выпендриваться
 
 -lexeme
  lex: выписывайтны
  stem: выписывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выписывать
 
 -lexeme
  lex: высидитны
  stem: высидит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: высидеть
 
 -lexeme
  lex: выскажитны
  stem: выскажит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: высказать
 
 -lexeme
  lex: высказывайтны
  stem: высказывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: высказывать
 
 -lexeme
  lex: выспитчыны
  stem: выспитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: выспаться
 
 -lexeme
  lex: выставитны
  stem: выставит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выставить
 
 -lexeme
  lex: выступайтны
  stem: выступайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выступать
 
 -lexeme
  lex: вышитчыны
  stem: вышитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: гордиться, зазнаваться
 
 -lexeme
  lex: выщипывайтны
  stem: выщипывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выщипывать
 
 -lexeme
  lex: выяснитны
  stem: выяснит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: выяснить
 
 -lexeme
  lex: вӧжжайтчыны
  stem: вӧжжайтч.
  gramm: V
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: 
 
 -lexeme
  lex: гадитны
  stem: гадит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: гадить
 
 -lexeme
  lex: гастролируйтны
  stem: гастролируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: гастролировать
 
 -lexeme
  lex: гленитчыны
  stem: гленитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: нравиться
 
 -lexeme
  lex: глючитны
  stem: глючит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: глючить
 
 -lexeme
  lex: голӧсуйтны
  stem: голӧсуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: голосовать
 
 -lexeme
  lex: груститны
  stem: грустит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: грустить
 
 -lexeme
  lex: гӧсьтитны
  stem: гӧсьтит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: гостить
 
 -lexeme
  lex: давитны
  stem: давит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: давить
 
 -lexeme
  lex: деградируйтны
  stem: деградируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: деградировать
 
 -lexeme
  lex: демобилизируйтны
  stem: демобилизируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: демобилизовать
 
 -lexeme
  lex: держитны
  stem: держит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: держать
 
 -lexeme
  lex: джымайтны
  stem: джымайт.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: стучать ногой
 
 -lexeme
  lex: дзумкнитны
  stem: дзумкнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: дзӧвкнитны
  stem: дзӧвкнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: быстро пробежать
 
 -lexeme
  lex: диагностируйтны
  stem: диагностируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: диагностировать
 
 -lexeme
  lex: дискуссируйтны
  stem: дискуссируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: дискутировать
 
 -lexeme
  lex: добавитны
  stem: добавит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: добавить
 
 -lexeme
  lex: догадывайтчыны
  stem: догадывайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: догадываться
 
 -lexeme
  lex: договоритчыны
  stem: договоритч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: договориться
 
 -lexeme
  lex: доебитны
  stem: доебит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: доебать(ся)
 
 -lexeme
  lex: докопайтчыны
  stem: докопайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: докопаться
 
 -lexeme
  lex: допускайтны
  stem: допускайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: допускать
 
 -lexeme
  lex: дрейфуйтны
  stem: дрейфуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: дрейфовать
 
 -lexeme
  lex: дублируйтны
  stem: дублируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: дублировать
 
 -lexeme
  lex: думайтны
  stem: жумайт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: думать
 
 -lexeme
  lex: дёрнитны
  stem: дёрнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: дёрнуть
 
 -lexeme
  lex: дӧзеритны
  stem: дӧзерит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: ебайтны
  stem: ебайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ебать
 
 -lexeme
  lex: ездитны
  stem: ездит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ездить
 
 -lexeme
  lex: жалейтны
  stem: жалейт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: жалеть
 
 -lexeme
  lex: жахнитны
  stem: жахнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: жахнуть
 
 -lexeme
  lex: желайтны
  stem: желайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: желать
 
 -lexeme
  lex: жмотнитчыны
  stem: жмотнитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: жмотничать
 
 -lexeme
  lex: жритны
  stem: жрит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: жрать
 
 -lexeme
  lex: завидуйтны
  stem: завидуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: завидовать
 
 -lexeme
  lex: заводитны
  stem: зааводит.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заводить
 
 -lexeme
  lex: завтрайтны
  stem: завтрайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: завтракать
 
 -lexeme
  lex: завӧдитны
  stem: завӧдит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заводить
 
 -lexeme
  lex: загнитны
  stem: загнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: загнуть
 
 -lexeme
  lex: загоритны
  stem: загорит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: загореть
 
 -lexeme
  lex: загромождайтны
  stem: загромождайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: загромождать
 
 -lexeme
  lex: загрузитны
  stem: загрузит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: загрузить
 
 -lexeme
  lex: задайтны
  stem: задайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: задать
 
 -lexeme
  lex: заденитны
  stem: заденит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: задеть
 
 -lexeme
  lex: заебитны
  stem: заебит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заебать
 
 -lexeme
  lex: закажитны
  stem: закажит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заказать
 
 -lexeme
  lex: заказывайтны
  stem: заказывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заказывать
 
 -lexeme
  lex: закаливайтны
  stem: закаливайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: закаливать
 
 -lexeme
  lex: закачайтны
  stem: закачайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: закачать
 
 -lexeme
  lex: закачивайтны
  stem: закачивайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: закачивать
 
 -lexeme
  lex: закрепитны
  stem: закрепит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: закрепить
 
 -lexeme
  lex: замкнитны
  stem: замкнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: замкнуть
 
 -lexeme
  lex: замёрзнитны
  stem: замёрзнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: замёрзнуть
 
 -lexeme
  lex: запекайтны
  stem: запекайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: запекать
 
 -lexeme
  lex: запомнитны
  stem: запомнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: запомнить
 
 -lexeme
  lex: зарабатывайтны
  stem: зарабатывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: зарабатывать
 
 -lexeme
  lex: заряжайтны
  stem: заряжайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заряжать
 
 -lexeme
  lex: заткнитны
  stem: заткнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заткнуться
 
 -lexeme
  lex: затрӧкайтны
  stem: затрӧкайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: завтракать
 
 -lexeme
  lex: захватитны
  stem: захватит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: захватить
 
 -lexeme
  lex: захлебнитчыны
  stem: захлебнитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: захлебнуться
 
 -lexeme
  lex: зашкаливайтны
  stem: зашкаливайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: зашкаливать
 
 -lexeme
  lex: заявитны
  stem: заявит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заявить
 
 -lexeme
  lex: звездитчыны
  stem: звездитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: звездиться
 
 -lexeme
  lex: звижитны
  stem: звижит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: здайтны
  stem: здайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сдать
 
 -lexeme
  lex: здӧрӧвайтчыны
  stem: здӧрӧвайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: здороваться
 
 -lexeme
  lex: зимӧгӧритны
  stem: зимӧгӧрит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: бродяжить в поисках пропитания
 
 -lexeme
  lex: значитны
  stem: значит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: значить
 
 -lexeme
  lex: игноритны
  stem: игнорит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: игнорить
 
 -lexeme
  lex: изнасилуйтны
  stem: износилуйт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: изнасиловать
 
 -lexeme
  lex: изучайтны
  stem: изучайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: изучать
 
 -lexeme
  lex: имейтны
  stem: имейт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: иметь
 
 -lexeme
  lex: имитируйтны
  stem: имитируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: имитировать
 
 -lexeme
  lex: индексируйтны
  stem: инденсируйт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: индексировать
 
 -lexeme
  lex: искупитны
  stem: искупит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: искупить
 
 -lexeme
  lex: исполнитны
  stem: исполнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: исполнить
 
 -lexeme
  lex: истязуйтны
  stem: истязуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: истязать
 
 -lexeme
  lex: кайфуйтны
  stem: кайфуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: кайфовать
 
 -lexeme
  lex: камнитны
  stem: камнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: кампужитчыны
  stem: кампужитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: дебоширить
 
 -lexeme
  lex: кампузитчыны
  stem: кампузитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: дебоширить
 
 -lexeme
  lex: капнитны
  stem: капнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: капнуть
 
 -lexeme
  lex: каравлитны
  stem: каравлит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: караулить
 
 -lexeme
  lex: касайтны
  stem: касайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: касать(ся)
 
 -lexeme
  lex: качитны
  stem: качит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: скакать
 
 -lexeme
  lex: квакнитны
  stem: квакнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: квакнуть
 
 -lexeme
  lex: келснитны
  stem: келснит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: порезать?
 
 -lexeme
  lex: киместитчыны
  stem: киместитч.
  gramm: V
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: чудить
 
 -lexeme
  lex: кинитны
  stem: кинит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: кинуть
 
 -lexeme
  lex: клевещитны
  stem: клевещит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: клеветать
 
 -lexeme
  lex: клейтны
  stem: клейт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: клеить
 
 -lexeme
  lex: клонируйтны
  stem: клонируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: клонировать
 
 -lexeme
  lex: ключитны
  stem: ключит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: включить
 
 -lexeme
  lex: кодируйтны
  stem: кодируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: кодировать
 
 -lexeme
  lex: колотитны
  stem: колотит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: колотить
 
 -lexeme
  lex: комментируйтны
  stem: комментируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: комментировать
 
 -lexeme
  lex: коммерциализируйтны
  stem: коммерциализируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: коммерциализировать
 
 -lexeme
  lex: конкурируйтны
  stem: конкурируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: конкурировать
 
 -lexeme
  lex: консервируйтны
  stem: консервируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: консервировать
 
 -lexeme
  lex: консолидируйтны
  stem: консолидируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: консолидировать
 
 -lexeme
  lex: констатируйтны
  stem: констатируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: констатировать
 
 -lexeme
  lex: контачитны
  stem: контачит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: контачить
 
 -lexeme
  lex: корректируйтны
  stem: корректируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: корректировать
 
 -lexeme
  lex: костюмируйтны
  stem: костюмируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: костюмировать
 
 -lexeme
  lex: котируйтчыны
  stem: котируйтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: котироваться
 
 -lexeme
  lex: кранитны
  stem: кранит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: хранить
 
 -lexeme
  lex: креститны
  stem: крестит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: крестить
 
 -lexeme
  lex: крутитны
  stem: крутит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: крутить
 
 -lexeme
  lex: ксерокопируйтны
  stem: ксерокопируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ксерокопировать
 
 -lexeme
  lex: кукситчыны
  stem: кукситч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: кукситься
 
 -lexeme
  lex: кукуйтны
  stem: кукуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: куковать
 
 -lexeme
  lex: курвитчыны
  stem: курвитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: курвиться
 
 -lexeme
  lex: курируйтны
  stem: курируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: курировать
 
 -lexeme
  lex: куститчыны
  stem: куститч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: куститься
 
 -lexeme
  lex: кыберитны
  stem: кыберит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: балагурить
 
 -lexeme
  lex: лайкайтны
  stem: лайкайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: лайкать
 
 -lexeme
  lex: левкнитны
  stem: левкнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: повесить
 
 -lexeme
  lex: легализуйтны
  stem: легализуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: легализовать
 
 -lexeme
  lex: лекнитны
  stem: лекнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: повесить
 
 -lexeme
  lex: летитны
  stem: летит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: лететь
 
 -lexeme
  lex: лидируйтны
  stem: лидируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: лидировать
 
 -lexeme
  lex: листайтны
  stem: листайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: листать
 
 -lexeme
  lex: лишайтны
  stem: лишайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: лишать
 
 -lexeme
  lex: лишитны
  stem: лишит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: лишить
 
 -lexeme
  lex: локализуйтны
  stem: локализуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: локализовать
 
 -lexeme
  lex: лэччитны
  stem: лэччит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: лечить
 
 -lexeme
  lex: любопытничайтны
  stem: любопытничайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: любопытничать
 
 -lexeme
  lex: магнититны
  stem: магнитит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: магнитить
 
 -lexeme
  lex: материализуйтчыны
  stem: материализуйтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: материализоваться
 
 -lexeme
  lex: машкуритчыны
  stem: машкуритч.
  gramm: V
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: колядовать
 
 -lexeme
  lex: месанитны
  stem: месанит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: хозяйничать
 
 -lexeme
  lex: миксуйтны
  stem: миксуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: миксовать
 
 -lexeme
  lex: мозолитны
  stem: мозолит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: мозолить
 
 -lexeme
  lex: молебствуйтны
  stem: молебствуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: молебствовать
 
 -lexeme
  lex: молитчыны
  stem: молитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: молиться
 
 -lexeme
  lex: молчитны
  stem: молчит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: молчать
 
 -lexeme
  lex: мусолитны
  stem: мусолит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: мусолить
 
 -lexeme
  lex: мыслитны
  stem: мыслит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: мыслить
 
 -lexeme
  lex: мытаритчыны
  stem: мытаритч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: мытариться
 
 -lexeme
  lex: набросайтны
  stem: набросайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: набросать
 
 -lexeme
  lex: наведитны
  stem: наведит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: навести
 
 -lexeme
  lex: надоитны
  stem: надоит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: надоить
 
 -lexeme
  lex: надругайтчыны
  stem: надругайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: надругаться
 
 -lexeme
  lex: наезжайтны
  stem: наезжайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: наезжать
 
 -lexeme
  lex: нажимайтны
  stem: нажимайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: нажимать
 
 -lexeme
  lex: накинитчыны
  stem: накинитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: накинуться
 
 -lexeme
  lex: намекнитны
  stem: намекнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: намекнуть
 
 -lexeme
  lex: нападитны
  stem: нападит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: напасть
 
 -lexeme
  lex: напоминайтны
  stem: напоминайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: напоминать
 
 -lexeme
  lex: напомнитны
  stem: напомнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: напомнить
 
 -lexeme
  lex: напортачитны
  stem: напартачит.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: напортачить
 
 -lexeme
  lex: напортачитны
  stem: напортачит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: напортачить
 
 -lexeme
  lex: наражайтны
  stem: наражайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: говорить?
 
 -lexeme
  lex: насилуйтны
  stem: насилуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: насиловать
 
 -lexeme
  lex: наследуйтны
  stem: наследуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: наследовать
 
 -lexeme
  lex: находитчыны
  stem: находитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: находиться
 
 -lexeme
  lex: наяривайтны
  stem: наяривайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: наяривать
 
 -lexeme
  lex: негодуйтны
  stem: негодуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: негодовать
 
 -lexeme
  lex: недовольствуйтны
  stem: недовольствуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: недовольствовать
 
 -lexeme
  lex: нерадейтны
  stem: нерадейт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: не любить
 
 -lexeme
  lex: нерничайтны
  stem: нерничайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: нервничать
 
 -lexeme
  lex: нисшебродитны
  stem: нисшебродит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: нищебродить
 
 -lexeme
  lex: нравитчыны
  stem: нравитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: нравиться
 
 -lexeme
  lex: обвинитны
  stem: обвинит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обвинить
 
 -lexeme
  lex: обговоритны
  stem: обговорит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обговорить
 
 -lexeme
  lex: обмоитны
  stem: обмоит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обмыть
 
 -lexeme
  lex: обожайтны
  stem: обожайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обожать
 
 -lexeme
  lex: обознайтчыны
  stem: обознайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: обознаться
 
 -lexeme
  lex: обойдитны
  stem: обойдит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обойти
 
 -lexeme
  lex: обосритны
  stem: обосрит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обосрать
 
 -lexeme
  lex: обработайтны
  stem: обработайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обработать
 
 -lexeme
  lex: обратитчыны
  stem: обратитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: обратиться
 
 -lexeme
  lex: обращайтны
  stem: обращайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обращать
 
 -lexeme
  lex: обсирайтны
  stem: обсирайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обсирать
 
 -lexeme
  lex: обсуждайтны
  stem: обсуждайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обсуждать
 
 -lexeme
  lex: общайтчыны
  stem: общайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: общаться
 
 -lexeme
  lex: объяснитны
  stem: объяснит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: объяснить
 
 -lexeme
  lex: оговоритчыны
  stem: оговоритч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: оговориться
 
 -lexeme
  lex: ограничитны
  stem: ограничит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ограничить
 
 -lexeme
  lex: оживитны
  stem: оживит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: оживить
 
 -lexeme
  lex: озвучивайтны
  stem: озвучивайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: озвучивать
 
 -lexeme
  lex: озвучитны
  stem: озвучит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: озвучить
 
 -lexeme
  lex: оказывайтчыны
  stem: оказывайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: оказываться
 
 -lexeme
  lex: окружайтны
  stem: окружайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: окружать
 
 -lexeme
  lex: октитны
  stem: октит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: хотеть
 
 -lexeme
  lex: окучитны
  stem: окучит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: окучить
 
 -lexeme
  lex: омораживайтны
  stem: омораживайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: омораживать
 
 -lexeme
  lex: оперируйтны
  stem: оперируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: оперировать
 
 -lexeme
  lex: опишитны
  stem: опишит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: описать
 
 -lexeme
  lex: опоздайтны
  stem: опоздайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: опоздать
 
 -lexeme
  lex: опозоритны
  stem: опозорит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: опозорить
 
 -lexeme
  lex: опротестуйтны
  stem: опротестуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: опротестовать
 
 -lexeme
  lex: оптимизируйтны
  stem: оптимизируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: оптимизировать
 
 -lexeme
  lex: опуститны
  stem: опустит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: опустить
 
 -lexeme
  lex: опустошитны
  stem: опустошит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: опустошить
 
 -lexeme
  lex: организируйтны
  stem: организируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: организовать
 
 -lexeme
  lex: орудуйтны
  stem: орудуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: орудовать
 
 -lexeme
  lex: оскорбитны
  stem: оскорбит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: оскорбить
 
 -lexeme
  lex: осложнитны
  stem: осложнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: осложнить
 
 -lexeme
  lex: ослушайтчыны
  stem: ослушайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: ослушаться
 
 -lexeme
  lex: осуждайтны
  stem: осуждайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: осуждать
 
 -lexeme
  lex: отбитны
  stem: отбит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отбить
 
 -lexeme
  lex: отвлекитны
  stem: отвлекит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отвлечь
 
 -lexeme
  lex: отжимайтчыны
  stem: отжимайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: отжиматься
 
 -lexeme
  lex: отказывайтны
  stem: отказывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отказывать
 
 -lexeme
  lex: откликнитчыны
  stem: откликнитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: откликнуться
 
 -lexeme
  lex: отмечайтны
  stem: отмечайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отмечать
 
 -lexeme
  lex: отмститны
  stem: отмстит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отомстить
 
 -lexeme
  lex: отнеситны
  stem: отнесит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отнести
 
 -lexeme
  lex: отнеситчыны
  stem: отнеситч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: отнестись
 
 -lexeme
  lex: отограйтны
  stem: отограйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отыграть
 
 -lexeme
  lex: оторвитны
  stem: оторвит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: оторвать
 
 -lexeme
  lex: отпишитчыны
  stem: отпишитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: отписаться
 
 -lexeme
  lex: отправитны
  stem: отправит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отправить
 
 -lexeme
  lex: отхуяритны
  stem: отхуярит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отхуярить
 
 -lexeme
  lex: отцифруйтны
  stem: отцифруйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: оцифровать
 
 -lexeme
  lex: отъебитчыны
  stem: отъебитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: отъебаться
 
 -lexeme
  lex: охлаждайтны
  stem: охлаждайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: охлаждать
 
 -lexeme
  lex: охуевайтны
  stem: охуевайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: охуевать
 
 -lexeme
  lex: очерчивайтны
  stem: очерчивайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: очерчивать
 
 -lexeme
  lex: пакӧсьтитны
  stem: пакӧсьтит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пакостить
 
 -lexeme
  lex: паразитируйтны
  stem: паразитируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: паразитировать
 
 -lexeme
  lex: парашутитны
  stem: парашутит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: прыгать с парашютом
 
 -lexeme
  lex: пародируйтны
  stem: пародируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пародировать
 
 -lexeme
  lex: патрулируйтны
  stem: патрулируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: патрулировать
 
 -lexeme
  lex: пашитны
  stem: пашит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пахать
 
 -lexeme
  lex: пелькуйтны
  stem: пелькуйт.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: пердитны
  stem: пердит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пердеть
 
 -lexeme
  lex: передумайтны
  stem: передумайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: передумать
 
 -lexeme
  lex: переиздавайтны
  stem: переиздавайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: переиздавать
 
 -lexeme
  lex: переиздайтны
  stem: переиздайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: переиздать
 
 -lexeme
  lex: переименуйтны
  stem: переименуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: переименовать
 
 -lexeme
  lex: переключайтны
  stem: переключайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: переключать
 
 -lexeme
  lex: переписывайтчыны
  stem: переписывайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: переписываться
 
 -lexeme
  lex: перепишитны
  stem: перепишит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: переписать
 
 -lexeme
  lex: переработайтны
  stem: переработайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: переработать
 
 -lexeme
  lex: перескажитны
  stem: перескажит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пересказать
 
 -lexeme
  lex: пересмотритны
  stem: пересмотрит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пересмотреть
 
 -lexeme
  lex: пестуйтны
  stem: пестуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пестовать
 
 -lexeme
  lex: петшатайтны
  stem: петшатайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: печатать
 
 -lexeme
  lex: пизданитны
  stem: пизданит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пиздануть
 
 -lexeme
  lex: пилотируйтны
  stem: пилотируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пилотировать
 
 -lexeme
  lex: пинайтны
  stem: пинайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пинать
 
 -lexeme
  lex: повредитны
  stem: повредит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: повредить
 
 -lexeme
  lex: подведитны
  stem: подведит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подвести
 
 -lexeme
  lex: подвергайтны
  stem: подвергайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подвергать
 
 -lexeme
  lex: поддержитны
  stem: поддержит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: поддержать
 
 -lexeme
  lex: подкалывайтны
  stem: подкалывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подкалывать
 
 -lexeme
  lex: подкатывайтны
  stem: подкатывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подкатывать
 
 -lexeme
  lex: подкачайтны
  stem: подкачайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подкачать
 
 -lexeme
  lex: поднимайтны
  stem: поднимайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: поднимать
 
 -lexeme
  lex: подписывайтны
  stem: подпиывайт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подписывать
 
 -lexeme
  lex: подразделитны
  stem: подразделит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подразделить
 
 -lexeme
  lex: подружитны
  stem: подружит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подружить
 
 -lexeme
  lex: подтягивайтчыны
  stem: подтягивайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: подтягиваться
 
 -lexeme
  lex: подчёркивайтны
  stem: подчёркивайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подчёркивать
 
 -lexeme
  lex: подъябывайтны
  stem: подъябывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подъёбывать
 
 -lexeme
  lex: позволитны
  stem: позволит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: позволить
 
 -lexeme
  lex: позируйтны
  stem: позируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: позировать
 
 -lexeme
  lex: позитивируйтны
  stem: позитивируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: позитивировать
 
 -lexeme
  lex: позиционируйтны
  stem: позиционируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: позиционировать
 
 -lexeme
  lex: познакомитны
  stem: познакомит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: познакомить
 
 -lexeme
  lex: покинитны
  stem: покинит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: покинуть
 
 -lexeme
  lex: покрывайтны
  stem: покрывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: покрывать
 
 -lexeme
  lex: поликайтчыны
  stem: поликайтч.
  gramm: V
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: плескаться?
 
 -lexeme
  lex: помнитны
  stem: промнит.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: помнить
 
 -lexeme
  lex: понимайтны
  stem: понимайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: понимать
 
 -lexeme
  lex: поощритны
  stem: поощрит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: поощрить
 
 -lexeme
  lex: поправитчыны
  stem: поправитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: поправиться
 
 -lexeme
  lex: популяризуйтны
  stem: популяризуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: популяризовать
 
 -lexeme
  lex: попытайтчыны
  stem: попытайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: попытаться
 
 -lexeme
  lex: поразитны
  stem: поразит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: поразить
 
 -lexeme
  lex: порвитны
  stem: порвит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: порвать
 
 -lexeme
  lex: посетитны
  stem: посетит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: посетить
 
 -lexeme
  lex: постарайтчыны
  stem: постарайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: постараться
 
 -lexeme
  lex: поститны
  stem: постит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: постить
 
 -lexeme
  lex: поступайтны
  stem: поступайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: поступать
 
 -lexeme
  lex: поступитны
  stem: поступит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: поступить
 
 -lexeme
  lex: почувствуйтны
  stem: почувствуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: почувствовать
 
 -lexeme
  lex: празьничайтны
  stem: празьничайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: праздничать
 
 -lexeme
  lex: предлагайтны
  stem: предлагайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: предлагать
 
 -lexeme
  lex: предполагайтны
  stem: предпологайт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: предполагать
 
 -lexeme
  lex: предпочитайтны
  stem: предпочитайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: предпочитать
 
 -lexeme
  lex: предъявитны
  stem: предъявит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: предъявить
 
 -lexeme
  lex: презентуйтны
  stem: презентуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: презентовать
 
 -lexeme
  lex: препинайтчыны
  stem: препинайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: препинаться
 
 -lexeme
  lex: преподнеситны
  stem: преподнесит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: преподнести
 
 -lexeme
  lex: привлекайтны
  stem: привлекайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: привлекать
 
 -lexeme
  lex: пригласитны
  stem: пригласит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пригласить
 
 -lexeme
  lex: придумайтны
  stem: придумайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: придумать
 
 -lexeme
  lex: придумывайтны
  stem: придумывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: придумывать
 
 -lexeme
  lex: приезжайтны
  stem: приезжайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: приезжать
 
 -lexeme
  lex: признавайтны
  stem: признавайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: признавать
 
 -lexeme
  lex: прикуритны
  stem: прикурит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: прикурить
 
 -lexeme
  lex: принимайтны
  stem: принимайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: принимать
 
 -lexeme
  lex: припишитны
  stem: припишит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: приписать
 
 -lexeme
  lex: присоситчыны
  stem: присоситч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: присосаться
 
 -lexeme
  lex: приспособитны
  stem: приспособит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: приспособить
 
 -lexeme
  lex: приставайтны
  stem: приставайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: приставать
 
 -lexeme
  lex: приступитны
  stem: приступит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: приступить
 
 -lexeme
  lex: присутствуйтны
  stem: присутствуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: присутствовать
 
 -lexeme
  lex: прицелитчыны
  stem: прицелитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: прицелиться
 
 -lexeme
  lex: проваливайтны
  stem: проваливайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: проваливать
 
 -lexeme
  lex: проветритны
  stem: проветрит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: проветрить
 
 -lexeme
  lex: проводитны
  stem: проводит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: проводить
 
 -lexeme
  lex: провожайтны
  stem: провожайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: провожать
 
 -lexeme
  lex: программируйтны
  stem: программируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: программировать
 
 -lexeme
  lex: продавайтны
  stem: продавайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: продавать
 
 -lexeme
  lex: продитны
  stem: продит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пройти
 
 -lexeme
  lex: продолжитны
  stem: продолжит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: продолжить
 
 -lexeme
  lex: проебитны
  stem: проебит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: проебать
 
 -lexeme
  lex: прокошмаритны
  stem: прокошмарит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: прокошмарить
 
 -lexeme
  lex: пропалитны
  stem: пропалит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пропалить
 
 -lexeme
  lex: пропиаритны
  stem: пропиарит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пропиарить
 
 -lexeme
  lex: пропуститны
  stem: пропустит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пропустить
 
 -lexeme
  lex: пророчествуйтны
  stem: пророчествуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пророчествовать
 
 -lexeme
  lex: протестуйтны
  stem: протестуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: протестовать
 
 -lexeme
  lex: прӧбуйтны
  stem: прӧбуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пробовать
 
 -lexeme
  lex: прӧдитны
  stem: прӧдит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пройти
 
 -lexeme
  lex: пылесоситны
  stem: пылесосит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пылесосить
 
 -lexeme
  lex: пӧгибайтны
  stem: пӧгибайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: погибать
 
 -lexeme
  lex: пӧдражайтны
  stem: пӧдражайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: подражать
 
 -lexeme
  lex: пӧймитны
  stem: пӧймит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: понять
 
 -lexeme
  lex: пӧкӧрайтны
  stem: пӧкӧрайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: покорять
 
 -lexeme
  lex: пӧлькнитны
  stem: пӧлькнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: пӧминайтны
  stem: пӧминайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: поминать
 
 -lexeme
  lex: пӧмнитны
  stem: пӧмнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: помнить
 
 -lexeme
  lex: пӧсвящайтны
  stem: пӧсвящайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: посвящать
 
 -lexeme
  lex: радейтны
  stem: радеит.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: любить
 
 -lexeme
  lex: радейтны
  stem: райдейт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: любить
 
 -lexeme
  lex: разблокируйтны
  stem: разблокируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разблокировать
 
 -lexeme
  lex: разговаривайтны
  stem: разговаривайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разговаривать
 
 -lexeme
  lex: разгонитны
  stem: разгонит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разогнать
 
 -lexeme
  lex: раздувайтны
  stem: раздувайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: раздувать
 
 -lexeme
  lex: разжигайтны
  stem: разжигайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разжигать
 
 -lexeme
  lex: разлагайтны
  stem: разлагайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разлагать
 
 -lexeme
  lex: размечтайтчыны
  stem: размечтайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: размечтаться
 
 -lexeme
  lex: размораживайтны
  stem: размораживайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: размораживать
 
 -lexeme
  lex: разморожайтны
  stem: разморожайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: размораживать
 
 -lexeme
  lex: разрабатывайтны
  stem: разрабатывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разрабатывать
 
 -lexeme
  lex: разучитчыны
  stem: разучитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: разучиться
 
 -lexeme
  lex: разъяснитны
  stem: разъяснит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разъяснить
 
 -lexeme
  lex: разыгрывайтны
  stem: разыгрывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: разыгрывать
 
 -lexeme
  lex: районируйтны
  stem: районируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: районировать
 
 -lexeme
  lex: расквартируйтчыны
  stem: расквартируйтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: расквартироваться
 
 -lexeme
  lex: распечатайтны
  stem: распечатайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: распечатать
 
 -lexeme
  lex: располагайтчыны
  stem: располагайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: располагаться
 
 -lexeme
  lex: рассказывайтны
  stem: рассказывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: рассказывать
 
 -lexeme
  lex: рассматривайтны
  stem: рассматривайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: рассматривать
 
 -lexeme
  lex: рассчитывайтны
  stem: рассчитывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: рассчитывать
 
 -lexeme
  lex: растерзайтны
  stem: растерзайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: растерзать
 
 -lexeme
  lex: расшатывайтны
  stem: расшатывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: расшатывать
 
 -lexeme
  lex: расшифруйтны
  stem: расшифруйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: расшифровать
 
 -lexeme
  lex: реабилитируйтны
  stem: реабилитируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: реабилитировать
 
 -lexeme
  lex: реагируйтны
  stem: реагируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: реагировать
 
 -lexeme
  lex: рекламируйтны
  stem: рекламируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: рекламировать
 
 -lexeme
  lex: репетируйтны
  stem: репетируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: репетировать
 
 -lexeme
  lex: репоститны
  stem: репостит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: репостить
 
 -lexeme
  lex: репостнитны
  stem: репостнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: репостнуть
 
 -lexeme
  lex: репостничайтны
  stem: репостничайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: репостничать
 
 -lexeme
  lex: рискнитны
  stem: рискнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: рискнуть
 
 -lexeme
  lex: робитны
  stem: робит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: работать
 
 -lexeme
  lex: роботайтны
  stem: роботайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: работать
 
 -lexeme
  lex: руководитны
  stem: руководит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: руководить
 
 -lexeme
  lex: русифицируйтны
  stem: русифицируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: русифицировать
 
 -lexeme
  lex: рӧбитны
  stem: рӧбит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: работать
 
 -lexeme
  lex: рӧзберитчыны
  stem: рӧзберитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: разобраться
 
 -lexeme
  lex: рӧпчитны
  stem: рӧпчит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: роптать, брюзжать
 
 -lexeme
  lex: рӧссуждайтны
  stem: рӧссуждайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: рассуждать
 
 -lexeme
  lex: сарствуйтны
  stem: сарствуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: царствовать
 
 -lexeme
  lex: сатшнитны
  stem: сатшнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: воткнуть
 
 -lexeme
  lex: сбивайтчыны
  stem: сбивайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: сбиваться
 
 -lexeme
  lex: сбитчыны
  stem: сбитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: сбиться
 
 -lexeme
  lex: сваритны
  stem: сварит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сварить
 
 -lexeme
  lex: свитны
  stem: свит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: свить
 
 -lexeme
  lex: свяжитчыны
  stem: свяжитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: связаться
 
 -lexeme
  lex: связывайтчыны
  stem: связывайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: связываться
 
 -lexeme
  lex: сдохнитны
  stem: сдохнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сдохнуть
 
 -lexeme
  lex: семинаритны
  stem: семинарит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: семинарить
 
 -lexeme
  lex: сидитны
  stem: сидит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сидеть
 
 -lexeme
  lex: силӧсуйтны
  stem: силӧсуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: силосовать
 
 -lexeme
  lex: симайтны
  stem: симайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: снимать
 
 -lexeme
  lex: систематизируйтны
  stem: систематизируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: систематизировать
 
 -lexeme
  lex: скажитны
  stem: скажит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сказать
 
 -lexeme
  lex: скандируйтны
  stem: скандируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: скандировать
 
 -lexeme
  lex: сканируйтны
  stem: сканируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сканировать
 
 -lexeme
  lex: скачайтны
  stem: скачайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: скачать
 
 -lexeme
  lex: скинитны
  stem: скинит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: скинуть
 
 -lexeme
  lex: скинитчыны
  stem: скинитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: скинуться
 
 -lexeme
  lex: складывайтны
  stem: складывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: складывать
 
 -lexeme
  lex: скрывайтны
  stem: скрывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: скрывать
 
 -lexeme
  lex: смиритчыны
  stem: смиритч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: смириться
 
 -lexeme
  lex: смущайтны
  stem: смушайт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: смущать
 
 -lexeme
  lex: снабдитны
  stem: снабдит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: снабдить
 
 -lexeme
  lex: снимитны
  stem: снимит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: снять
 
 -lexeme
  lex: соблазнитны
  stem: соблазнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: соблазнить
 
 -lexeme
  lex: соглашайтчыны
  stem: соглашайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: соглашаться
 
 -lexeme
  lex: создавайтны
  stem: создавайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: создавать
 
 -lexeme
  lex: соответствуйтны
  stem: соответствуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: соответствовать
 
 -lexeme
  lex: сопровождайтны
  stem: сопровождайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сопровождать
 
 -lexeme
  lex: соситны
  stem: сосит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сосать
 
 -lexeme
  lex: сохранитны
  stem: сохраит.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сохранить
 
 -lexeme
  lex: сохранитны
  stem: сохранит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сохранить
 
 -lexeme
  lex: сочетайтны
  stem: сочетайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сочетать
 
 -lexeme
  lex: сочинитны
  stem: сочинит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сочинить
 
 -lexeme
  lex: спешитны
  stem: спешит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: спешить
 
 -lexeme
  lex: списывайтны
  stem: списывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: списывать
 
 -lexeme
  lex: сплавитны
  stem: сплавит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сплавить
 
 -lexeme
  lex: спомнитны
  stem: спомнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: вспомнить
 
 -lexeme
  lex: спортуйтны
  stem: спортуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: заниматься спортом
 
 -lexeme
  lex: спрашивайтны
  stem: спрашивайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: спрашивать
 
 -lexeme
  lex: стажируйтчыны
  stem: стажируйтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: стажироваться
 
 -lexeme
  lex: стирайтны
  stem: стирайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: стирать
 
 -lexeme
  lex: столуйтны
  stem: столуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: пировать
 
 -lexeme
  lex: стракуйтны
  stem: стракуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: страховать
 
 -lexeme
  lex: стремитчыны
  stem: стремитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: стремиться
 
 -lexeme
  lex: стретитны
  stem: стретит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: встретить
 
 -lexeme
  lex: стукнитны
  stem: стукнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: стукнуть
 
 -lexeme
  lex: стыкуйтны
  stem: стыкуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: стыковать
 
 -lexeme
  lex: сукмалитны
  stem: сукмалит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: суммируйтны
  stem: суммируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: суммировать
 
 -lexeme
  lex: сунитны
  stem: сунит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сунуть
 
 -lexeme
  lex: сфоткайтны
  stem: сфоткайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сфоткать
 
 -lexeme
  lex: считайтны
  stem: считайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: считать
 
 -lexeme
  lex: сыркнитны
  stem: сыркнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: построить
 
 -lexeme
  lex: сьмекайтны
  stem: сьмекайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: смекать
 
 -lexeme
  lex: сялькнитны
  stem: сялькнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: сёлькнитны
  stem: сёлькнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: сӧпчитны
  stem: сӧпчит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: копить
 
 -lexeme
  lex: сӧтвӧритны
  stem: сӧтвӧрит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: сотворить
 
 -lexeme
  lex: таксуйтны
  stem: таксуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: таксовать
 
 -lexeme
  lex: таритчыны
  stem: таритч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: тариться
 
 -lexeme
  lex: творитны
  stem: творит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: творить
 
 -lexeme
  lex: текстуйтны
  stem: текстуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: расшифровывать
 
 -lexeme
  lex: тестируйтны
  stem: тестируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тестировать
 
 -lexeme
  lex: титруйтчыны
  stem: титруйтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: титроваться
 
 -lexeme
  lex: толдычитны
  stem: толдычит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: толдычить
 
 -lexeme
  lex: толкнитны
  stem: толкнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: толкнуть
 
 -lexeme
  lex: тормошитны
  stem: тормошит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тормошить
 
 -lexeme
  lex: транслируйтны
  stem: транслируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: транслировать
 
 -lexeme
  lex: трансформируйтны
  stem: трансформируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: трансформировать
 
 -lexeme
  lex: траситны
  stem: трасит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: трясти?
 
 -lexeme
  lex: тратитны
  stem: тратит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тратить
 
 -lexeme
  lex: троллитны
  stem: троллит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: троллить
 
 -lexeme
  lex: тронитны
  stem: тронит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тронуть
 
 -lexeme
  lex: труситны
  stem: трусит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: трусить
 
 -lexeme
  lex: тупитны
  stem: тупит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тупить
 
 -lexeme
  lex: туситны
  stem: тусит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тусить
 
 -lexeme
  lex: тусуйтчыны
  stem: тусуйтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: тусоваться
 
 -lexeme
  lex: тушитны
  stem: тушит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тушить
 
 -lexeme
  lex: тшаевайтны
  stem: тшаевайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: чаевать
 
 -lexeme
  lex: тычитны
  stem: тычит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тыкать
 
 -lexeme
  lex: тӧрмӧшитны
  stem: тӧрмӧшит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: тормошить
 
 -lexeme
  lex: уберитны
  stem: уберит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: убрать
 
 -lexeme
  lex: уборитны
  stem: уборит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: убирать
 
 -lexeme
  lex: уважитны
  stem: уважит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: уважать
 
 -lexeme
  lex: уговоритны
  stem: уговорит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: уговорить
 
 -lexeme
  lex: угрожайтны
  stem: угрожайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: угрожать
 
 -lexeme
  lex: удеритны
  stem: удерит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: удрать
 
 -lexeme
  lex: удивитны
  stem: удивит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: удивить
 
 -lexeme
  lex: ужинайтны
  stem: ужинайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ужинать
 
 -lexeme
  lex: указывайтны
  stem: указывайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: указывать
 
 -lexeme
  lex: умничайтны
  stem: умничайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: умничать
 
 -lexeme
  lex: умножайтны
  stem: умножайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: умножать
 
 -lexeme
  lex: умножитны
  stem: умножит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: умножить
 
 -lexeme
  lex: унижайтны
  stem: унижайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: унижать
 
 -lexeme
  lex: употребитны
  stem: употребит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: употребить
 
 -lexeme
  lex: успевайтны
  stem: успевайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: успевать
 
 -lexeme
  lex: успокаивайтны
  stem: успокаивайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: успокаивать
 
 -lexeme
  lex: устанавливайтны
  stem: устанавливайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: устанавливать
 
 -lexeme
  lex: установитны
  stem: утановит.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: установить
 
 -lexeme
  lex: утвердитны
  stem: утвердит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: утвердить
 
 -lexeme
  lex: утилизируйтны
  stem: утилизируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: утилизировать
 
 -lexeme
  lex: участвуйтны
  stem: учавствуйт.
  gramm: V,rus,missp
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: участвовать
 
 -lexeme
  lex: фиксируйтны
  stem: фиксируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: фиксировать
 
 -lexeme
  lex: финишируйтны
  stem: финишируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: финишировать
 
 -lexeme
  lex: фольшуйтны
  stem: фольшуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: жить припеваючи
 
 -lexeme
  lex: форсируйтны
  stem: форсируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: форсировать
 
 -lexeme
  lex: фоткайтны
  stem: фоткайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: фоткать
 
 -lexeme
  lex: фуганитны
  stem: фуганит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: фуганить
 
 -lexeme
  lex: фуроритны
  stem: фурорит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: фурорить
 
 -lexeme
  lex: хипуйтны
  stem: хипуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: хиповать
 
 -lexeme
  lex: хлопайтны
  stem: хлопайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: хлопать
 
 -lexeme
  lex: хранитны
  stem: хранит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: хранить
 
 -lexeme
  lex: хулиганитны
  stem: хулиганит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: хулиганить
 
 -lexeme
  lex: царствуйтны
  stem: царствуйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: царствовать
 
 -lexeme
  lex: ценитны
  stem: ценит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ценить
 
 -lexeme
  lex: цитируйтны
  stem: цитируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: цитировать
 
 -lexeme
  lex: чветитны
  stem: чветит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: цвести
 
 -lexeme
  lex: черканитны
  stem: черканит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: черкануть
 
 -lexeme
  lex: чилкнитны
  stem: чилкнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: чинитны
  stem: чинит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: чинить
 
 -lexeme
  lex: чпокнитны
  stem: чпокнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: чпокнуть
 
 -lexeme
  lex: шандарахнитны
  stem: шандарахнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: шандарахнуть
 
 -lexeme
  lex: шаркайтны
  stem: шаркайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: шаркать
 
 -lexeme
  lex: шасьтитны
  stem: шасьтит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: 
 
 -lexeme
  lex: шливнитны
  stem: шливнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ливануть?
 
 -lexeme
  lex: шлёпайтны
  stem: шлёпайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: шлёпать
 
 -lexeme
  lex: шняпнитны
  stem: шняпнит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: грузно упасть
 
 -lexeme
  lex: шпаритны
  stem: шпарит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: шпарить
 
 -lexeme
  lex: штудируйтны
  stem: штудируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: штудировать
 
 -lexeme
  lex: экспериментируйтны
  stem: экспериментируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: экспериментировать
 
 -lexeme
  lex: эксплуатируйтны
  stem: эксплуатируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: эксплуатировать
 
 -lexeme
  lex: эмигрируйтны
  stem: эмигрируйт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: эмигрировать
 
 -lexeme
  lex: ёбнитны
  stem: ёбнит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: ёбнуть
 
 -lexeme
  lex: ёжитчыны
  stem: ёжитч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: ёжиться
 
 -lexeme
  lex: ӧбедитны
  stem: ӧбедит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: обидеть
 
 -lexeme
  lex: ӧдӧлейтны
  stem: ӧдӧлейт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: одолеть
 
 -lexeme
  lex: ӧкупитны
  stem: ӧкупит.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: окупить
 
 -lexeme
  lex: ӧтказывайтчыны
  stem: ӧтказывайтч.
  gramm: V,rus
- paradigm: Verbs-yny
+ paradigm: V-yny
  trans_ru: отказываться
 
 -lexeme
  lex: ӧтлаасьтитны
  stem: ӧтлаасьтит.
  gramm: V
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: соединить
 
 -lexeme
  lex: ӧтпевайтны
  stem: ӧтпевайт.
  gramm: V,rus
- paradigm: Verbs-ny
+ paradigm: V-ny
  trans_ru: отпевать

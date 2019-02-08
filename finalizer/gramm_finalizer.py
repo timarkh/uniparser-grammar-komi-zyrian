@@ -29,6 +29,13 @@ def collect_lemmata():
     return lemmata, lexrules
 
 
+def collect_paradigms():
+    fIn = open('../paradigms.txt', 'r', encoding='utf-8-sig')
+    text = fIn.read()
+    fIn.close()
+    return text
+
+
 def add_diacriticless(morph):
     """
     Add a diacriticless variant to a stem or an inflection
@@ -71,12 +78,16 @@ def main():
     relevant files for diacriticless texts.
     """
     lemmata, lexrules = collect_lemmata()
+    paradigms = collect_paradigms()
     fOutLemmata = open('lexemes.txt', 'w', encoding='utf-8')
     fOutLemmata.write(russify(lemmata))
     fOutLemmata.close()
     fOutLexrules = open('lex_rules.txt', 'w', encoding='utf-8')
     fOutLexrules.write(lexrules)
     fOutLexrules.close()
+    fOutParadigms = open('paradigms.txt', 'w', encoding='utf-8')
+    fOutParadigms.write(russify(paradigms))
+    fOutParadigms.close()
 
 
 if __name__ == '__main__':
