@@ -72432,3 +72432,60 @@
  gramm: N,PN,famn
  paradigm: Noun-num-j
  trans_ru: Чуковский
+
+-lexeme
+ lex: Ангелита
+ stem: ангелита.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Ангелита
+
+-lexeme
+ lex: Анита
+ stem: анита.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Анита
+
+-lexeme
+ lex: Афродита
+ stem: афродита.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Афродита
+
+-lexeme
+ lex: Милит
+ stem: милит.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Милит
+
+-lexeme
+ lex: Окситания
+ stem: окситания.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Окситания
+
+-lexeme
+ lex: Пӧлит
+ stem: пӧлит.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Пӧлит
+
+-lexeme
+ lex: Танита
+ stem: танита.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Танита
+
+-lexeme
+ lex: Эдита
+ stem: эдита.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Эдита
+

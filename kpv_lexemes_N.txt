@@ -129319,3 +129319,45 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: интернет
+
+-lexeme
+ lex: боксит
+ stem: боксит.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: боксит
+
+-lexeme
+ lex: кальцит
+ stem: кальцит.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: кальцит
+
+-lexeme
+ lex: кроссфит
+ stem: кроссфит.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: кроссфит
+
+-lexeme
+ lex: нефрит
+ stem: нефрит.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: нефрит
+
+-lexeme
+ lex: овощи
+ stem: овощи.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: овощи
+
+-lexeme
+ lex: порносайт
+ stem: порносайт.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: порносайт
