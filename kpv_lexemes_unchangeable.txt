@@ -6367,3 +6367,10 @@
  paradigm: Adj-j
  trans_ru: вот так, ну и
 
+-lexeme
+ lex: аскеж
+ stem: аскеж.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: сам по себе
+

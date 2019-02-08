@@ -3325,10 +3325,10 @@
 
 -lexeme
  lex: верстьӧ
- stem: верстьӧ.
+ stem: верстьӧ.//версттьӧ.
  gramm: A
  paradigm: Adj-vowel
- trans_ru: взрослый, на возрасте
+ trans_ru: взрослый
 
 -lexeme
  lex: верстяммӧм
@@ -40822,3 +40822,9 @@
  paradigm: Adj-j
  trans_ru: очередной
 
+-lexeme
+ lex: быдсикас
+ stem: быдсикас.
+ gramm: A
+ paradigm: Adj-consonant
+ trans_ru: разнообразный

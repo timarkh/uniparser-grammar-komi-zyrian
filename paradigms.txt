@@ -137,6 +137,15 @@
   gloss: PL
   regex-prev: .*([чщ]|дз)[<>.]*$
   paradigm: Noun-caseposs
+ -flex: .ъяс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
+ -flex: .ьяс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  regex-prev: .*([чщ]|дз)[<>.]*$
+  paradigm: Adj-vowel
  -flex: .а<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -158,6 +167,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: .яс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: .а<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -183,6 +196,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <0>.ъяс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: <1>.а<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -211,6 +228,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs 
+ -flex: .ъяс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: .я<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -242,6 +263,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <0>.ъяс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: <1>.а<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -268,6 +293,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: .[й]яс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: .я<.>//.[й]я<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -296,6 +325,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <0>.яс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: <1>.я<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -321,6 +354,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: <0>.[ь]яс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: <1>.[з]а<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -347,6 +384,10 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: .[ь]яс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
  -flex: .я<.>
   gramm: attr,attr_a
   gloss: ATTR
@@ -892,7 +933,7 @@
   gramm: nom,1pl
   gloss: 1PL
   paradigm: Adverbials-final
- -flex: .ным|ӧ<.>
+ -flex: .ным|ӧс<.>//.ным|ӧ<.>
   gramm: acc,1pl
   gloss: 1PL|ACC
   paradigm: Adverbials-final
@@ -939,6 +980,10 @@
  -flex: .сянь|ным<.>
   gramm: egr,1pl
   gloss: EGR|1PL
+  paradigm: Adverbials-final
+ -flex: .ным|сянь<.>
+  gramm: egr,1pl
+  gloss: 1PL|EGR
   paradigm: Adverbials-final
  -flex: .ті|ным<.>
   gramm: prol,1pl
@@ -998,6 +1043,10 @@
   gramm: egr,2pl
   gloss: EGR|2PL  
   paradigm: Adverbials-final
+ -flex: .ныд|сянь<.>
+  gramm: egr,2pl
+  gloss: 2PL|EGR
+  paradigm: Adverbials-final
  -flex: .ті|ныд<.>
   gramm: prol,2pl
   gloss: PROL|2PL  
@@ -1054,6 +1103,10 @@
  -flex: .сянь|ныс<.>
   gramm: egr,3pl
   gloss: EGR|3PL
+  paradigm: Adverbials-final
+ -flex: .ныс|сянь<.>
+  gramm: egr,3pl
+  gloss: 3PL|EGR
   paradigm: Adverbials-final
  -flex: .ті|ныс<.>
   gramm: prol,3pl
