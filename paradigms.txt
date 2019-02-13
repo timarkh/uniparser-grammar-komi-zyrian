@@ -3188,19 +3188,19 @@
   regex-prev: .*([абвгеёжиікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
 
  -flex: .ӧм|ыд<.>
-  gramm: pst,2,sg
+  gramm: pst2,2,sg
   gloss: PST2|2SG
  -flex: .ӧма<.>
-  gramm: pst,3,sg
+  gramm: pst2,3,sg
   gloss: PST2
  -flex: .ӧм|ныд<.>
-  gramm: pst,2,pl
+  gramm: pst2,2,pl
   gloss: PST2|2PL
  -flex: .ӧма|ӧсь<.>
-  gramm: pst,3,pl
+  gramm: pst2,3,pl
   gloss: PST2|PL.PRED
  -flex: .ӧм|ны<.>
-  gramm: pst,3,pl
+  gramm: pst2,3,pl
   gloss: PST2|3PL
  paradigm: Clitics
 
@@ -3271,19 +3271,19 @@
   gloss: PST.3PL
 
  -flex: .[ь]ӧм|ыд<.>
-  gramm: pst,2,sg
+  gramm: pst2,2,sg
   gloss: PST2|2SG
  -flex: .[ь]ӧма<.>
-  gramm: pst,3,sg
+  gramm: pst2,3,sg
   gloss: PST2
  -flex: .[ь]ӧм|ныд<.>
-  gramm: pst,2,pl
+  gramm: pst2,2,pl
   gloss: PST2|2PL
  -flex: .[ь]ӧма|ӧсь<.>
-  gramm: pst,3,pl
+  gramm: pst2,3,pl
   gloss: PST2|PL.PRED
  -flex: .[ь]ӧм|ны<.>
-  gramm: pst,3,pl
+  gramm: pst2,3,pl
   gloss: PST2|3PL
  paradigm: Clitics
 
