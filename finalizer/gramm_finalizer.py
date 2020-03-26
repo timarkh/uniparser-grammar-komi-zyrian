@@ -82,9 +82,10 @@ def main():
     fOutLemmata = open('lexemes.txt', 'w', encoding='utf-8')
     fOutLemmata.write(russify(lemmata))
     fOutLemmata.close()
-    fOutLexrules = open('lex_rules.txt', 'w', encoding='utf-8')
-    fOutLexrules.write(lexrules)
-    fOutLexrules.close()
+    if len(lexrules) > 0:
+        fOutLexrules = open('lex_rules.txt', 'w', encoding='utf-8')
+        fOutLexrules.write(lexrules)
+        fOutLexrules.close()
     fOutParadigms = open('paradigms.txt', 'w', encoding='utf-8')
     fOutParadigms.write(russify(paradigms))
     fOutParadigms.close()
