@@ -40828,3 +40828,39 @@
  gramm: A
  paradigm: Adj-consonant
  trans_ru: разнообразный
+
+-lexeme
+ lex: стӧч
+ gramm: A,rus
+ stem: стӧч.
+ paradigm: Adj-consonant
+ trans_ru: точный
+
+-lexeme
+ lex: войнабӧрся
+ gramm: A,rus
+ stem: войнабӧрся.
+ paradigm: Adj-vowel
+ trans_ru: послевоенный
+
+-lexeme
+ lex: чийӧдик
+ gramm: A,rus_afx
+ stem: чийӧдик.
+ paradigm: Adj-consonant
+ trans_ru: худенький
+
+-lexeme
+ lex: дзоридзӧсь
+ gramm: A,oblin
+ stem: дзоридзос.
+ paradigm: Adj-soft
+ trans_ru: в цветочек
+
+-lexeme
+ lex: тырбур
+ gramm: A
+ stem: тырбур.
+ paradigm: Adj-consonant
+ trans_ru: достаточный
+

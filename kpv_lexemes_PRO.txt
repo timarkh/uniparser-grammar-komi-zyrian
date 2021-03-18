@@ -2074,6 +2074,13 @@
  trans_ru: друг друга
 
 -lexeme
+ lex: ӧта-мӧд
+ gramm: PRO
+ stem: ӧта-мӧд.
+ paradigm: Noun-num-consonant
+ trans_ru: друг друга
+
+-lexeme
  lex: некодар
  stem: некодар.
  gramm: PRO

@@ -129657,3 +129657,30 @@
  paradigm: Noun-num-vowel
  trans_ru: весы
 
+-lexeme
+ lex: должность
+ gramm: N,rus,missp
+ stem: должносьт.
+ paradigm: Noun-num-consonant
+ trans_ru: должность
+
+-lexeme
+ lex: лоӧмтор
+ gramm: N,nmlz_tor
+ stem: лоӧмтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: событие
+
+-lexeme
+ lex: мужиктӧмлун
+ gramm: N,nmlz_lun,rus
+ stem: мужиктӧмлун.
+ paradigm: Noun-num-consonant
+ trans_ru: пребывание без мужчины
+
+-lexeme
+ lex: немеч
+ gramm: N,anim,rus,hum
+ stem: немеч.
+ paradigm: Noun-num-consonant
+ trans_ru: немец

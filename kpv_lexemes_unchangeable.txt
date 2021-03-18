@@ -6374,3 +6374,9 @@
  paradigm: Adverbials-final
  trans_ru: сам по себе
 
+-lexeme
+ lex: асногӧн
+ gramm: ADV
+ stem: асногӧн.
+ paradigm: Adverbials-final
+ trans_ru: по-своему

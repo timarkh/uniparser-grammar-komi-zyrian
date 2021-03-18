@@ -72929,3 +72929,25 @@
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Вождин
+
+-lexeme
+ lex: Куратова
+ gramm: N,PN,famn
+ stem: Куратова.
+ paradigm: Noun-num-vowel
+ trans_ru: Куратова
+
+-lexeme
+ lex: Серегово
+ gramm: N,PN,topn
+ stem: Серегово.
+ paradigm: Noun-num-vowel
+ trans_ru: Серегово
+
+-lexeme
+ lex: Марьюшка
+ gramm: N,PN,persn
+ stem: Марьюшка.
+ paradigm: Noun-num-vowel
+ trans_ru: Марьюшка
+

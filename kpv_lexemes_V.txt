@@ -58726,3 +58726,18 @@
  gramm: V,rus
  paradigm: V-ny
  trans_ru: отпевать
+
+-lexeme
+ lex: мӧвпыштны
+ gramm: V,intr
+ stem: мӧвпышт.
+ paradigm: V-ny
+ trans_ru: подумать
+
+-lexeme
+ lex: сконйыштны
+ gramm: V,intr
+ stem: сконйышт.
+ paradigm: V-ny
+ trans_ru: подставить ногу
+
