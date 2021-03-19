@@ -5,8 +5,8 @@ finalizer/lexemes.txt
 finalizer/lexemes.txt
 finalizer/lexemes_rus.txt
 finalizer/paradigms_rus.txt
-uniparser_meadow_mari/data_nodiacritics/meadow_mari_disambiguation.cg3
-uniparser_meadow_mari/data_strict/meadow_mari_disambiguation.cg3
+uniparser_komi_zyrian/data_nodiacritics/komi_zyrian_disambiguation.cg3
+uniparser_komi_zyrian/data_strict/komi_zyrian_disambiguation.cg3
 **.pyc
 **.idea/**
 __pycache__/
