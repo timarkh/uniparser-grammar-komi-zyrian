@@ -1,0 +1,4 @@
+include uniparser_komi_zyrian/data_strict/*.txt
+include uniparser_komi_zyrian/data_nodiacritics/*.txt
+include uniparser_komi_zyrian/data_strict/*.cg3
+include uniparser_komi_zyrian/data_nodiacritics/*.cg3

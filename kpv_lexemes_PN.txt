@@ -72933,21 +72933,21 @@
 -lexeme
  lex: Куратова
  gramm: N,PN,famn
- stem: Куратова.
+ stem: куратова.
  paradigm: Noun-num-vowel
  trans_ru: Куратова
 
 -lexeme
  lex: Серегово
  gramm: N,PN,topn
- stem: Серегово.
+ stem: серегово.
  paradigm: Noun-num-vowel
  trans_ru: Серегово
 
 -lexeme
  lex: Марьюшка
  gramm: N,PN,persn
- stem: Марьюшка.
+ stem: марьюшка.
  paradigm: Noun-num-vowel
  trans_ru: Марьюшка
 
