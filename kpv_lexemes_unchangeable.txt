@@ -534,14 +534,14 @@
  lex: бӧрся
  stem: бӧрся.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: за, вслед
 
 -lexeme
  lex: бӧрти
  stem: бӧрти.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: после
 
 -lexeme
@@ -870,7 +870,7 @@
  lex: водзті
  stem: водзті.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: впереди, раньше
 
 -lexeme
@@ -954,7 +954,7 @@
  lex: вомӧн
  stem: вомӧн.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: поперёк, через
 
 -lexeme
@@ -1143,7 +1143,7 @@
  lex: вӧсна
  stem: вӧсна.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: из-за, за, для
 
 -lexeme
@@ -1325,14 +1325,14 @@
  lex: гӧгӧр
  stem: гӧгӧр.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: вокруг
 
 -lexeme
  lex: гӧгӧрбок
  stem: гӧгӧрбок.
  gramm: POST,rus
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: кругом
 
 -lexeme
@@ -1766,14 +1766,14 @@
  lex: думысь
  stem: думысь.
  gramm: POST,rus
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: по мнению
 
 -lexeme
  lex: думӧн
  stem: думӧн.
  gramm: POST,rus
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: по мнению
 
 -lexeme
@@ -1794,7 +1794,7 @@
  lex: дырйи
  stem: дырйи.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: во время
 
 -lexeme
@@ -2151,21 +2151,21 @@
  lex: кежлӧ
  stem: кежлӧ.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: ко времени, на время
 
 -lexeme
  lex: кежын
  stem: кежын.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: между
 
 -lexeme
  lex: кежӧ
  stem: кежӧ.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: ко времени, на время
 
 -lexeme
@@ -2648,7 +2648,7 @@
  lex: кындзи
  stem: кындзи.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: кроме
 
 -lexeme
@@ -3159,7 +3159,7 @@
  lex: моз
  stem: моз.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: как, подобно
 
 -lexeme
@@ -3257,7 +3257,7 @@
  lex: мысти
  stem: мысти.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: спустя, через
 
 -lexeme
@@ -3614,14 +3614,14 @@
  lex: ногысь
  stem: ногысь.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: по образу
 
 -lexeme
  lex: ногӧн
  stem: ногӧн.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: каким-то образом
 
 -lexeme
@@ -3684,7 +3684,7 @@
  lex: ньылыд
  stem: ньылыд.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: по одному направлению с
 
 -lexeme
@@ -4048,7 +4048,7 @@
  lex: понда
  stem: понда.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: из-за; ради
 
 -lexeme
@@ -4090,7 +4090,7 @@
  lex: пыдди
  stem: пыдди.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: вместо
 
 -lexeme
@@ -4125,14 +4125,14 @@
  lex: пыр
  stem: пыр.
  gramm: POST
- paradigm: Adverbials-final
+ paradigm: POST-poss
  trans_ru: сквозь
 
 -lexeme
  lex: пырысь
  stem: пырысь.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: с
 
 -lexeme
@@ -4258,7 +4258,7 @@
  lex: ради
  stem: ради.
  gramm: POST,rus
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: из-за; для, ради
 
 -lexeme
@@ -4391,7 +4391,7 @@
  lex: серти
  stem: серти.
  gramm: POST
- paradigm: Adverbials-final
+ paradigm: POST-poss
  trans_ru: по сравнению
 
 -lexeme
@@ -4496,7 +4496,7 @@
  lex: сорӧн
  stem: сорӧн.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: с добавлением
 
 -lexeme
@@ -4915,7 +4915,7 @@
  lex: туйӧ
  stem: туйӧ.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: вместо
 
 -lexeme
@@ -6091,7 +6091,7 @@
  lex: ӧприч
  stem: ӧприч.
  gramm: POST,rus
- paradigm: Clitics
+ paradigm: POST-poss
  trans_ru: кроме
 
 -lexeme

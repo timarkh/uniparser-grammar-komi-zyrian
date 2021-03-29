@@ -16896,7 +16896,7 @@
  lex: вочакыв
  stem: вочакыв.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: ответ
 
 -lexeme
@@ -29504,9 +29504,9 @@
 
 -lexeme
  lex: ен
- stem: ен.
+ stem: ен.|енм.
  gramm: N,supernat
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_cons
  trans_ru: бог
 
 -lexeme
@@ -41120,6 +41120,7 @@
  stem: кипод.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: рука; влияние
 
 -lexeme
