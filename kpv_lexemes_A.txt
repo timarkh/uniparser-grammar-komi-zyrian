@@ -40864,3 +40864,101 @@
  paradigm: Adj-consonant
  trans_ru: достаточный
 
+-lexeme
+ lex: быдлунъя
+ gramm: A
+ stem: быдлунъя.
+ paradigm: Adj-vowel
+ trans_ru: повседневный
+
+-lexeme
+ lex: небыдик
+ gramm: A,rus_afx
+ stem: небыдик.
+ paradigm: Adj-consonant
+ trans_ru: мягковатый
+
+-lexeme
+ lex: йӧзкост
+ gramm: A
+ stem: йӧзкост.
+ paradigm: Adj-consonant
+ trans_ru: народный
+
+-lexeme
+ lex: войнакадся
+ gramm: A,rus
+ stem: войнакадся.
+ paradigm: Adj-vowel
+ trans_ru: существующий во время войны
+
+-lexeme
+ lex: омӧлик
+ gramm: A,rus_afx
+ stem: омӧлик.
+ paradigm: Adj-consonant
+ trans_ru: худенький
+
+-lexeme
+ lex: дженьыдик
+ gramm: A,rus_afx
+ stem: дженьыдик.
+ paradigm: Adj-consonant
+ trans_ru: коротенький
+
+-lexeme
+ lex: крепыдик
+ gramm: A,rus
+ stem: крепыдик.
+ paradigm: Adj-consonant
+ trans_ru: крепенький
+
+-lexeme
+ lex: войнаӧдзса
+ gramm: A,rus
+ stem: войнаӧдзса.
+ paradigm: Adj-vowel
+ trans_ru: довоенный
+
+-lexeme
+ lex: коньӧрик
+ gramm: A,rus_afx
+ stem: коньӧрик.
+ paradigm: Adj-consonant
+ trans_ru: бедненький
+
+-lexeme
+ lex: завидькодь
+ gramm: A,rus
+ stem: завидькод.
+ paradigm: Adj-soft
+ trans_ru: завистливый
+
+-lexeme
+ lex: матысса
+ gramm: A
+ stem: матысса.
+ paradigm: Adj-vowel
+ trans_ru: близкий
+
+-lexeme
+ lex: перыд
+ gramm: A
+ stem: перыд.
+ paradigm: Adj-consonant
+ trans_ru: быстрый, торопливый, шустрый; надменный, высокомерный
+
+-lexeme
+ lex: уполномоченнӧй 
+ gramm: A,rus
+ stem: уполномоченнӧй.
+ paradigm: Adj-consonant
+ trans_ru: уполномоченный
+
+-lexeme
+ lex: азым
+ gramm: A
+ stem: азым.
+ paradigm: Adj-consonant
+ trans_ru: неразборчивый в еде, с хорошим аппетитом
+

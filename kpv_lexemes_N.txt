@@ -129685,3 +129685,319 @@
  stem: немеч.
  paradigm: Noun-num-consonant
  trans_ru: немец
+
+-lexeme
+ lex: литконсультант
+ gramm: N,rus,anim,hum
+ stem: литконсультант.
+ paradigm: Noun-num-consonant
+ trans_ru: литконсультант
+
+-lexeme
+ lex: сьӧдасьӧмин
+ gramm: N,nmlz_in
+ stem: сьӧдасьӧмин.
+ paradigm: Noun-num-consonant
+ trans_ru: почернение
+
+-lexeme
+ lex: тюрма
+ gramm: N,rus
+ stem: тюрма.
+ paradigm: Noun-num-vowel
+ trans_ru: тюрьма
+
+-lexeme
+ lex: збыльвыв
+ gramm: N
+ stem: збыльвыв.|збыльвыл.
+ paradigm: Noun-num-v_l
+ trans_ru: правда
+
+-lexeme
+ lex: предколхоза
+ gramm: N,rus,anim,hum
+ stem: предколхоза.
+ paradigm: Noun-num-vowel
+ trans_ru: предколхоза
+
+-lexeme
+ lex: меддонатор
+ gramm: N,nmlz_tor
+ stem: меддонатор.
+ paradigm: Noun-num-obl_j
+ trans_ru: самое дорогое
+
+-lexeme
+ lex: бобук
+ gramm: N,anim,hum
+ stem: бобук.
+ paradigm: Noun-num-consonant
+ trans_ru: милый
+
+-lexeme
+ lex: быдтысянтор
+ gramm: N,nmlz_tor
+ stem: быдтысянтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: воспитание
+
+-lexeme
+ lex: ӧбличье
+ gramm: N,rus
+ stem: ӧбличье.
+ paradigm: Noun-num-vowel
+ trans_ru: обличие
+
+-lexeme
+ lex: мужичок
+ gramm: N,rus,anim,hum
+ stem: мужичок.
+ paradigm: Noun-num-consonant
+ trans_ru: мужичок
+
+-lexeme
+ lex: нимкодясянтор
+ gramm: N,nmlz_tor
+ stem: нимкодясянтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: что-либо вызывающее радость
+
+-lexeme
+ lex: мупытш
+ gramm: N
+ stem: мупытш.|мупытшк.
+ paradigm: Noun-num-obl_cons
+ trans_ru: подземелье
+
+-lexeme
+ lex: муверкӧс
+ gramm: N
+ stem: муверкӧс.
+ paradigm: Noun-num-consonant
+ trans_ru: поверхность земли
+
+-lexeme
+ lex: взрывник
+ gramm: N,rus,anim,hum
+ stem: взрывник.
+ paradigm: Noun-num-consonant
+ trans_ru: взрывник
+
+-lexeme
+ lex: автоавария
+ gramm: N,rus
+ stem: автоавария.
+ paradigm: Noun-num-vowel
+ trans_ru: автоавария
+
+-lexeme
+ lex: мойдвыв
+ gramm: N
+ stem: мойдвыв.|мойдвыл.
+ paradigm: Noun-num-v_l
+ trans_ru: сказка
+
+-lexeme
+ lex: мойдкыв
+ gramm: N
+ stem: мойдкыв.
+ paradigm: Noun-num-obl_j
+ trans_ru: сказка
+
+-lexeme
+ lex: гортгӧгӧр
+ gramm: N
+ stem: гортгӧгӧр.
+ paradigm: Noun-num-consonant
+ trans_ru: пространство вокруг дома
+
+-lexeme
+ lex: сьӧмтор
+ gramm: N,nmlz_tor
+ stem: сьӧмтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: деньжата
+
+-lexeme
+ lex: ӧтитор
+ gramm: N,nmlz_tor
+ stem: ӧтитор.
+ paradigm: Noun-num-obl_j
+ trans_ru: одно
+
+-lexeme
+ lex: мӧдтор
+ gramm: N,nmlz_tor
+ stem: мӧдтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: другое
+
+-lexeme
+ lex: госпожа
+ gramm: N,rus,anim,hum
+ stem: госпожа.
+ paradigm: Noun-num-vowel
+ trans_ru: госпожа
+
+-lexeme
+ lex: мырддьӧмтор
+ gramm: N,nmlz_tor
+ stem: мырддьӧмтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: изъятие
+
+-lexeme
+ lex: лавӧшнича
+ gramm: N,rus,anim,hum
+ stem: лавӧшнича.
+ paradigm: Noun-num-vowel
+ trans_ru: лавочница
+
+-lexeme
+ lex: воксик
+ gramm: N,anim,hum
+ stem: воксик.
+ paradigm: Noun-num-consonant
+ trans_ru: братья
+
+-lexeme
+ lex: пыдыин
+ gramm: N,nmlz_in
+ stem: пыдыин.
+ paradigm: Noun-num-consonant
+ trans_ru: глубокое место
+
+-lexeme
+ lex: визув
+ gramm: N
+ stem: визув.|визул.
+ paradigm: Noun-num-v_l
+ trans_ru: течение
+
+-lexeme
+ lex: мӧдлапӧв
+ gramm: N
+ stem: мӧдлапӧв.|мӧдлапӧл.
+ paradigm: Noun-num-v_l
+ trans_ru: заречье
+
+-lexeme
+ lex: ватурун
+ gramm: N
+ stem: ватурун.
+ paradigm: Noun-num-consonant
+ trans_ru: водоросль
+
+-lexeme
+ lex: капусник
+ gramm: N,rus
+ stem: капусник.
+ paradigm: Noun-num-consonant
+ trans_ru: капустник
+
+-lexeme
+ lex: сывтыр
+ gramm: N
+ stem: сывтыр.
+ paradigm: Noun-num-obl_j
+ trans_ru: обхват; охапка, беремя
+
+-lexeme
+ lex: пастбище
+ gramm: N,rus
+ stem: пастбище.
+ paradigm: Noun-num-vowel
+ trans_ru: пастбище
+
+-lexeme
+ lex: пӧв
+ gramm: N
+ stem: пӧв.|пӧл.
+ paradigm: Noun-num-v_l
+ trans_ru: половина
+
+-lexeme
+ lex: артис
+ gramm: N,rus,hum,anim
+ stem: артис.
+ paradigm: Noun-num-consonant
+ trans_ru: артист
+
+-lexeme
+ lex: натшальник
+ gramm: N,rus,hum,anim
+ stem: натшальник.
+ paradigm: Noun-num-consonant
+ trans_ru: начальник
+
+-lexeme
+ lex: жонь
+ gramm: N,anim
+ stem: жо-он.
+ paradigm: Noun-num-soft
+ trans_ru: снегирь
+
+-lexeme
+ lex: сьӧрт
+ gramm: N
+ stem: сьӧрд.
+ paradigm: Noun-num-consonant
+ trans_ru: речная долина с густым еловым лесом
+
+-lexeme
+ lex: шемелат
+ gramm: N
+ stem: шемелат.
+ paradigm: Noun-num-consonant
+ trans_ru: шалость
+
+-lexeme
+ lex: пап
+ gramm: N,hum,anim,rus
+ stem: пап.
+ paradigm: Noun-num-consonant
+ trans_ru: папа
+
+-lexeme
+ lex: папа
+ gramm: N,hum,anim,rus
+ stem: папа.
+ paradigm: Noun-num-vowel
+ trans_ru: папа
+
+-lexeme
+ lex: пыд
+ gramm: N
+ stem: пыд.
+ paradigm: Noun-num-consonant
+ trans_ru: глубина
+
+-lexeme
+ lex: сиктпӧлӧн
+ gramm: N
+ stem: сиктпӧлӧн.
+ paradigm: Noun-num-consonant
+ trans_ru: пространство вдоль села
+
+-lexeme
+ lex: стен
+ gramm: N,rus
+ stem: стен.
+ paradigm: Noun-num-consonant
+ trans_ru: стена
+
+-lexeme
+ lex: живӧт
+ gramm: N,rus,missp
+ stem: жывӧт.
+ paradigm: Noun-num-consonant
+ trans_ru: имущество, домашний скарб
+
+-lexeme
+ lex: заседанньӧ
+ gramm: N,rus
+ stem: заседанньӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: заседание
+

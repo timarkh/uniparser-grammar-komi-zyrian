@@ -6380,3 +6380,137 @@
  stem: асногӧн.
  paradigm: Adverbials-final
  trans_ru: по-своему
+
+-lexeme
+ lex: тшапакодь
+ gramm: ADV
+ stem: тшапакодь.
+ paradigm: Adverbials-final
+ trans_ru: щеголевато
+
+-lexeme
+ lex: интереснӧ
+ gramm: ADV,rus
+ stem: интереснӧ.
+ paradigm: Adverbials-final
+ trans_ru: интересно
+
+-lexeme
+ lex: радпырысь
+ gramm: ADV,rus
+ stem: радпырысь.
+ paradigm: Adverbials-final
+ trans_ru: радостно
+
+-lexeme
+ lex: ичӧтдырйи
+ gramm: ADV
+ stem: ичӧтдырйи.
+ paradigm: Adverbials-final
+ trans_ru: в детстве
+
+-lexeme
+ lex: серамвыв
+ gramm: ADV
+ stem: серамвыв.
+ paradigm: Adverbials-final
+ trans_ru: на смех
+
+-lexeme
+ lex: медбӧрын
+ gramm: ADV
+ stem: медбӧрын.
+ paradigm: Adverbials-final
+ trans_ru: наконец
+
+-lexeme
+ lex: бон
+ gramm: ADV
+ stem: бон.
+ paradigm: Adverbials-final
+ trans_ru: очень сильно, в пух и прах
+
+-lexeme
+ lex: мыйлакӧ
+ gramm: ADV
+ stem: мыйлакӧ.
+ paradigm: Adverbials-final
+ trans_ru: почему-то
+
+-lexeme
+ lex: мукӧддырйи
+ gramm: ADV
+ stem: мукӧддырйи.
+ paradigm: Adverbials-final
+ trans_ru: иногда
+
+-lexeme
+ lex: вирскӧб
+ gramm: ADV
+ stem: вирскӧб.
+ paradigm: Adverbials-final
+ trans_ru: стремительно
+
+-lexeme
+ lex: эстчаньын
+ gramm: ADV
+ stem: эстчаньын.
+ paradigm: Adverbials-final
+ trans_ru: вот там, в том направлении
+
+-lexeme
+ lex: шурк-шарк
+ gramm: IMIT
+ stem: шурк-шарк.
+ paradigm: Clitics
+ trans_ru: торопливо
+
+-lexeme
+ lex: гузь
+ gramm: IMIT
+ stem: гузь.
+ paradigm: Clitics
+ trans_ru: о шуме падения сыпучих тел, массы воды
+
+-lexeme
+ lex: эк
+ gramm: INTRJ
+ stem: эк.
+ paradigm: Clitics
+ trans_ru: эх
+
+-lexeme
+ lex: вӧлӧмкӧ
+ gramm: PARENTH
+ stem: вӧлӧмкӧ.
+ paradigm: Clitics
+ trans_ru: оказывается
+
+-lexeme
+ lex: энлы
+ gramm: PART
+ stem: энлы.
+ paradigm: Clitics
+ trans_ru: погоди
+
+-lexeme
+ lex: пӧди
+ gramm: PART,rus
+ stem: пӧди.
+ paradigm: Clitics
+ trans_ru: поди
+
+-lexeme
+ lex: бласлӧ
+ gramm: PART,rus
+ stem: бласлӧ.
+ paradigm: Clitics
+ trans_ru: благослови
+
+-lexeme
+ lex: пӧлӧн
+ gramm: POST
+ stem: пӧлӧн.
+ paradigm: POST-poss
+ trans_ru: вдоль
+

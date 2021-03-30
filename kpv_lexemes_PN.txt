@@ -14839,6 +14839,13 @@
  trans_ru: Гайдар
 
 -lexeme
+ lex: Гайзер
+ stem: гайзер.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Гайзер
+
+-lexeme
  lex: Гайна
  stem: гайна.
  gramm: N,PN,topn
@@ -72950,4 +72957,193 @@
  stem: марьюшка.
  paradigm: Noun-num-vowel
  trans_ru: Марьюшка
+
+-lexeme
+ lex: Кебра
+ gramm: N,topn,PN
+ stem: кебра.
+ paradigm: Noun-num-vowel
+ trans_ru: Кебра
+
+-lexeme
+ lex: Куратово
+ gramm: N,topn,PN
+ stem: куратово.
+ paradigm: Noun-num-vowel
+ trans_ru: Куратово
+
+-lexeme
+ lex: Латышева
+ gramm: N,famn,PN
+ stem: латышева.
+ paradigm: Noun-num-vowel
+ trans_ru: Латышева
+
+-lexeme
+ lex: Сандрушка
+ gramm: N,persn,PN
+ stem: сандрушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Сандрушка
+
+-lexeme
+ lex: Таттян
+ gramm: N,persn,PN
+ stem: таттян.
+ paradigm: Noun-num-consonant
+ trans_ru: Татьяна
+
+-lexeme
+ lex: Пӧли
+ gramm: N,persn,PN
+ stem: пӧли.
+ paradigm: Noun-num-vowel
+ trans_ru: Поля
+
+-lexeme
+ lex: Ӧнтип
+ gramm: N,persn,PN
+ stem: ӧнтип.
+ paradigm: Noun-num-consonant
+ trans_ru: Антип
+
+-lexeme
+ lex: Ӧгаш
+ gramm: N,persn,PN
+ stem: ӧгаш.
+ paradigm: Noun-num-consonant
+ trans_ru: Агафья
+
+-lexeme
+ lex: Ёська
+ gramm: N,persn,PN
+ stem: ёська.
+ paradigm: Noun-num-vowel
+ trans_ru: Оська
+
+-lexeme
+ lex: Ӧльӧксан
+ gramm: N,persn,PN
+ stem: ӧльӧксан.
+ paradigm: Noun-num-consonant
+ trans_ru: Александр
+
+-lexeme
+ lex: Епим
+ gramm: N,persn,PN
+ stem: епим.
+ paradigm: Noun-num-consonant
+ trans_ru: Ефим
+
+-lexeme
+ lex: Виталь
+ gramm: N,persn,PN
+ stem: виталь.|виталл.
+ paradigm: Noun-num-CC'
+ trans_ru: Виталий
+
+-lexeme
+ lex: Педот
+ gramm: N,persn,PN
+ stem: педот.
+ paradigm: Noun-num-consonant
+ trans_ru: Федот
+
+-lexeme
+ lex: Ёгор
+ gramm: N,persn,PN
+ stem: ёгор.
+ paradigm: Noun-num-consonant
+ trans_ru: Егор
+
+-lexeme
+ lex: Егорша
+ gramm: N,persn,PN
+ stem: егорша.
+ paradigm: Noun-num-vowel
+ trans_ru: Егор
+
+-lexeme
+ lex: Юхнин
+ gramm: N,famn,PN
+ stem: юхнин.
+ paradigm: Noun-num-consonant
+ trans_ru: Юхнин
+
+-lexeme
+ lex: Лимерова
+ gramm: N,famn,PN
+ stem: лимерова.
+ paradigm: Noun-num-vowel
+ trans_ru: Лимерова
+
+-lexeme
+ lex: Ленту
+ gramm: N,PN,persn
+ stem: ленту.
+ paradigm: Noun-num-vowel
+ trans_ru: Елена
+
+-lexeme
+ lex: Мушкур
+ gramm: N,PN,persn
+ stem: мушкур.
+ paradigm: Noun-num-consonant
+ trans_ru: Мушкур
+
+-lexeme
+ lex: Пашка
+ gramm: N,PN,persn
+ stem: пашка.
+ paradigm: Noun-num-vowel
+ trans_ru: Пашка
+
+-lexeme
+ lex: Степлю
+ gramm: N,PN,persn
+ stem: степлю.
+ paradigm: Noun-num-vowel
+ trans_ru: Степан
+
+-lexeme
+ lex: Степко
+ gramm: N,PN,persn
+ stem: степко.
+ paradigm: Noun-num-vowel
+ trans_ru: Стёпка
+
+-lexeme
+ lex: Ваньчо
+ gramm: N,PN,persn
+ stem: ваньчо.
+ paradigm: Noun-num-vowel
+ trans_ru: Иван
+
+-lexeme
+ lex: Матрен
+ gramm: N,PN,persn
+ stem: матрен.
+ paradigm: Noun-num-consonant
+ trans_ru: Матрёна
+
+-lexeme
+ lex: Мальчиш
+ gramm: N,PN,persn
+ stem: мальчиш.
+ paradigm: Noun-num-consonant
+ trans_ru: Мальчиш
+
+-lexeme
+ lex: Прекрасная
+ gramm: N,PN,persn
+ stem: прекрасная.
+ paradigm: Noun-num-vowel
+ trans_ru: Прекрасная
+
+-lexeme
+ lex: Паладь
+ gramm: N,PN,persn
+ stem: паладь.|паладд.
+ paradigm: Noun-num-CC'
+ trans_ru: Пелагея
 

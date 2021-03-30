@@ -58741,3 +58741,234 @@
  paradigm: V-ny
  trans_ru: подставить ногу
 
+-lexeme
+ lex: сконйыштны
+ gramm: V,intr
+ stem: сконйышт.
+ paradigm: V-ny
+ trans_ru: подставить ногу
+
+-lexeme
+ lex: нырщикавны
+ gramm: V,intr
+ stem: нырщик.
+ paradigm: V-avny
+ trans_ru: идти во главе
+
+-lexeme
+ lex: манеритны
+ gramm: V,intr,rus
+ stem: манерит.
+ paradigm: V-ny
+ trans_ru: манерничать
+
+-lexeme
+ lex: шочаммыны
+ gramm: V,intr
+ stem: шочамм.
+ paradigm: V-yny
+ trans_ru: поредеть
+
+-lexeme
+ lex: малыштны
+ gramm: V,tr
+ stem: малышт.
+ paradigm: V-ny
+ trans_ru: пощупать
+
+-lexeme
+ lex: вирдыштны
+ gramm: V,intr
+ stem: вирдышт.
+ paradigm: V-ny
+ trans_ru: мелькнуть
+
+-lexeme
+ lex: гульзьыны
+ gramm: V,intr
+ stem: гульз.
+ paradigm: V-yny-soft
+ trans_ru: резвиться
+
+-lexeme
+ lex: крукыштны
+ gramm: V,rus,tr
+ stem: крукышт.
+ paradigm: V-ny
+ trans_ru: зацепить
+
+-lexeme
+ lex: сяльӧдчыны
+ gramm: V,intr
+ stem: сяльӧдч.
+ paradigm: V-yny
+ trans_ru: плескаться
+
+-lexeme
+ lex: лӧзӧдны
+ gramm: V,intr
+ stem: лӧзӧд.
+ paradigm: V-ny
+ trans_ru: синеть
+
+-lexeme
+ lex: лювдыны
+ gramm: V,intr
+ stem: лювд.
+ paradigm: V-yny
+ trans_ru: тянуться
+
+-lexeme
+ lex: тупкыны
+ gramm: V,tr
+ stem: тупй.
+ paradigm: V-yny
+ trans_ru: закрыть
+
+-lexeme
+ lex: йӧжгыльтчыны
+ gramm: V,intr
+ stem: йӧжгыльтч.
+ paradigm: V-yny
+ trans_ru: съёжиться; прислониться
+
+-lexeme
+ lex: сывйыштны
+ gramm: V,tr
+ stem: сывйышт.
+ paradigm: V-ny
+ trans_ru: обхватить
+
+-lexeme
+ lex: инмӧдчыны
+ gramm: V,intr
+ stem: инмӧдч.
+ paradigm: V-yny
+ trans_ru: коснуться
+
+-lexeme
+ lex: шеныштны
+ gramm: V,intr
+ stem: шенышт.
+ paradigm: V-ny
+ trans_ru: махнуть
+
+-lexeme
+ lex: шешӧдчыны
+ gramm: V,intr
+ stem: шешӧдч.
+ paradigm: V-yny
+ trans_ru: шепелявить
+
+-lexeme
+ lex: чутӧдны
+ gramm: V,tr
+ stem: чутӧд.
+ paradigm: V-ny
+ trans_ru: тыкать, колоть
+
+-lexeme
+ lex: зурӧдны
+ gramm: V,tr
+ stem: зурӧд.
+ paradigm: V-ny
+ trans_ru: тыкать; стукнуть
+
+-lexeme
+ lex: чушкыль-чошкылькерны
+ gramm: V,tr
+ stem: чушкыль-чошкылькер.
+ paradigm: V-ny
+ trans_ru: топорщить
+
+-lexeme
+ lex: ризӧбтыны
+ gramm: V,intr
+ stem: ризӧбт.
+ paradigm: V-yny
+ trans_ru: устремиться
+
+-lexeme
+ lex: муткыртны
+ gramm: V,intr
+ stem: муткырт.
+ paradigm: V-ny
+ trans_ru: бурлить
+
+-lexeme
+ lex: кыпӧдны
+ gramm: V,tr
+ stem: кыпӧд.
+ paradigm: V-ny
+ trans_ru: поднимать
+
+-lexeme
+ lex: пӧжаритны
+ gramm: V,rus,intr
+ stem: пӧжарит.
+ paradigm: V-ny
+ trans_ru: тушить пожар
+
+-lexeme
+ lex: вачкӧдны
+ gramm: V,tr
+ stem: вачкӧд.
+ paradigm: V-ny
+ trans_ru: хлестать
+
+-lexeme
+ lex: камӧдны
+ gramm: V,intr
+ stem: камӧд.
+ paradigm: V-ny
+ trans_ru: стучать
+
+-lexeme
+ lex: шковмунны
+ gramm: V,intr
+ stem: шковмун.
+ paradigm: V-ny
+ trans_ru: раздаться гулкому, раскатистому звуку
+
+-lexeme
+ lex: прӧпадитны
+ gramm: V,rus,intr
+ stem: прӧпадит.
+ paradigm: V-ny
+ trans_ru: пропадать
+
+-lexeme
+ lex: сыркъявны
+ gramm: V,intr
+ stem: сыркъ.
+ paradigm: V-yavny
+ trans_ru: рыдать, сотрясаться
+
+-lexeme
+ lex: певксьыны
+ gramm: V,intr
+ stem: певкс.
+ paradigm: V-yny-soft
+ trans_ru: биться, маяться, суетиться
+
+-lexeme
+ lex: окыштны
+ gramm: V,tr
+ stem: окышт.
+ paradigm: V-ny
+ trans_ru: поцеловать
+
+-lexeme
+ lex: кымынясьны
+ gramm: V,intr
+ stem: кымыняс.
+ paradigm: V-ny-soft
+ trans_ru: лечь, упасть ничком
+
+-lexeme
+ lex: голькйыны
+ gramm: V,intr
+ stem: голькй.
+ paradigm: V-yny
+ trans_ru: издавать звонкие звуки, с переливами
+
