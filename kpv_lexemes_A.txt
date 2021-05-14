@@ -40962,3 +40962,23 @@
  paradigm: Adj-consonant
  trans_ru: неразборчивый в еде, с хорошим аппетитом
 
+-lexeme
+ lex: томиник
+ gramm: A,rus_afx
+ stem: томиник.
+ paradigm: Adj-consonant
+ trans_ru: молоденький
+
+-lexeme
+ lex: клубдорса
+ gramm: A,rus
+ stem: клубдорса.
+ paradigm: Adj-vowel
+ trans_ru: находящийся около клуба
+
+-lexeme
+ lex: озыр
+ gramm: A
+ stem: о-озыр.
+ paradigm: Adj-consonant
+ trans_ru: богатый

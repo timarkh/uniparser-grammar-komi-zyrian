@@ -2549,3 +2549,24 @@
  paradigm: Adverbials-final
  trans_ru: некоторые, кое-кто
 
+-lexeme
+ lex: эстчаньын
+ gramm: ADVPRO
+ stem: эстчаньын.
+ paradigm: Adverbials-final
+ trans_ru: вон там
+
+-lexeme
+ lex: ӧткымын
+ gramm: PRO
+ stem: ӧткымын.
+ paradigm: Clitics
+ trans_ru: кое-кто; некоторые
+
+-lexeme
+ lex: ничего
+ gramm: PRO,missp,rus
+ stem: ничево.
+ paradigm: Clitics
+ trans_ru: ничего
+

@@ -58972,3 +58972,87 @@
  paradigm: V-yny
  trans_ru: издавать звонкие звуки, с переливами
 
+-lexeme
+ lex: сяввидзны
+ gramm: V,intr
+ stem: сяввидз.
+ paradigm: V-ny
+ trans_ru: развеваться
+
+-lexeme
+ lex: нуръясьны
+ gramm: V,intr
+ stem: нуръяс.
+ paradigm: V-ny-soft
+ trans_ru: поесть
+
+-lexeme
+ lex: висьтыштны
+ gramm: V,tr
+ stem: висьтышт.
+ paradigm: V-ny
+ trans_ru: сказать
+
+-lexeme
+ lex: вальвидзны
+ gramm: V,intr,rus
+ stem: вальвидз.
+ paradigm: V-ny
+ trans_ru: валяться
+
+-lexeme
+ lex: пушкырвидзны
+ gramm: V,intr
+ stem: пушкырвидз.
+ paradigm: V-ny
+ trans_ru: раскинуться
+
+-lexeme
+ lex: синмыштны
+ gramm: V,intr
+ stem: синмышт.
+ paradigm: V-ny
+ trans_ru: посмотреть
+
+-lexeme
+ lex: тильскнитны
+ gramm: V,intr
+ stem: тильскнит.
+ paradigm: V-ny
+ trans_ru: хихикнуть
+
+-lexeme
+ lex: гулкакывны
+ gramm: V,intr
+ stem: гулкакы.
+ paradigm: V-vny
+ trans_ru: колотиться
+
+-lexeme
+ lex: ышиктыны
+ gramm: V,intr
+ stem: ышикт.
+ paradigm: V-yny
+ trans_ru: пыхтеть
+
+-lexeme
+ lex: пӧжасьны
+ gramm: V,intr
+ stem: пӧжас.
+ paradigm: V-ny-soft
+ trans_ru: печь
+
+-lexeme
+ lex: зількнитны
+ gramm: V,intr
+ stem: зількнит.
+ paradigm: V-ny
+ trans_ru: звякнуть
+
+-lexeme
+ lex: стрӧгмыны
+ gramm: V,intr,rus
+ stem: стрӧгм.
+ paradigm: V-yny
+ trans_ru: становиться строгим
+

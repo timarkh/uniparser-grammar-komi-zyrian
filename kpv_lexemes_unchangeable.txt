@@ -6514,3 +6514,114 @@
  paradigm: POST-poss
  trans_ru: вдоль
 
+-lexeme
+ lex: скӧрысь
+ gramm: ADV
+ stem: скӧрысь.
+ paradigm: Adverbials-final
+ trans_ru: сердито
+
+-lexeme
+ lex: гусьӧникӧн
+ gramm: ADV,rus_afx
+ stem: гусьӧникӧн.
+ paradigm: Adverbials-final
+ trans_ru: тихонько
+
+-lexeme
+ lex: челядьдырйи
+ gramm: ADV
+ stem: челядьдырйи.
+ paradigm: Adverbials-final
+ trans_ru: в детстве
+
+-lexeme
+ lex: ньӧжйӧник
+ gramm: ADV,rus_afx
+ stem: ньӧжйӧник.
+ paradigm: Adverbials-final
+ trans_ru: тихонько
+
+-lexeme
+ lex: пыдынкодь
+ gramm: ADV
+ stem: пыдынкодь.
+ paradigm: Adverbials-final
+ trans_ru: довольно глубоко
+
+-lexeme
+ lex: уналатi
+ gramm: ADV
+ stem: уналатi.
+ paradigm: Adverbials-final
+ trans_ru: по многим местам
+
+-lexeme
+ lex: напару
+ gramm: ADV,rus
+ stem: напару.
+ paradigm: Adverbials-final
+ trans_ru: вдвоем; на пару
+
+-lexeme
+ lex: жебиникӧн
+ gramm: ADV
+ stem: жебиникӧн.
+ paradigm: Adverbials-final
+ trans_ru: неглубоко
+
+-lexeme
+ lex: окотапырысь
+ gramm: ADV,rus
+ stem: окотапырысь.
+ paradigm: Adverbials-final
+ trans_ru: охотно
+
+-lexeme
+ lex: шарк
+ gramm: IMIT
+ stem: шарк.
+ paradigm: Clitics
+ trans_ru: внезапно, быстро; с шумом
+
+-lexeme
+ lex: пыльк
+ gramm: IMIT
+ stem: пыльк.
+ paradigm: Clitics
+ trans_ru: внезапно
+
+-lexeme
+ lex: ак
+ gramm: INTRJ
+ stem: ак.
+ paradigm: Clitics
+ trans_ru: ах
+
+-lexeme
+ lex: тьпу
+ gramm: INTRJ,rus
+ stem: тьпу.
+ paradigm: Clitics
+ trans_ru: тьфу
+
+-lexeme
+ lex: аминь
+ gramm: INTRJ,rus
+ stem: аминь.
+ paradigm: Clitics
+ trans_ru: аминь
+
+-lexeme
+ lex: пӧдикӧ
+ gramm: PARENTH,rus
+ stem: пӧдикӧ.
+ paradigm: Clitics
+ trans_ru: должно быть
+
+-lexeme
+ lex: пӧди
+ gramm: PARENTH,rus
+ stem: пӧди.
+ paradigm: Clitics
+ trans_ru: поди; видимо

@@ -256,3 +256,17 @@
  gramm: NUM,ord
  paradigm: Adj-consonant
  trans_ru: второй
+
+-lexeme
+ lex: восьмой
+ gramm: NUM,ord,rus
+ stem: восьмо.
+ paradigm: Adj-j
+ trans_ru: восьмой
+
+-lexeme
+ lex: седьмой
+ gramm: NUM,ord,rus
+ stem: седьмо.
+ paradigm: Adj-j
+ trans_ru: седьмой

@@ -73147,3 +73147,87 @@
  paradigm: Noun-num-CC'
  trans_ru: Пелагея
 
+-lexeme
+ lex: Елюк
+ gramm: N,PN,persn
+ stem: елюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Елена; Елизавета
+
+-lexeme
+ lex: Кӧсьтук
+ gramm: N,PN,persn
+ stem: кӧсьтук.
+ paradigm: Noun-num-consonant
+ trans_ru: Константин
+
+-lexeme
+ lex: Тимӧ
+ gramm: N,persn,PN
+ stem: тимӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Тимофей
+
+-lexeme
+ lex: Митяй
+ gramm: N,persn,PN
+ stem: митя.
+ paradigm: Noun-num-j
+ trans_ru: Митяй
+
+-lexeme
+ lex: Спира
+ gramm: N,persn,PN
+ stem: спира.
+ paradigm: Noun-num-vowel
+ trans_ru: Спиридон
+
+-lexeme
+ lex: Сибир
+ gramm: N,PN,topn
+ stem: сибир.
+ paradigm: Noun-num-consonant
+ trans_ru: Сибирь
+
+-lexeme
+ lex: Палӧ
+ gramm: N,persn,PN
+ stem: палӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Павел; Пелагея; Прасковья
+
+-lexeme
+ lex: Кӧсьта
+ gramm: N,persn,PN
+ stem: кӧсьта.
+ paradigm: Noun-num-vowel
+ trans_ru: Константин
+
+-lexeme
+ lex: Тимопеюшко
+ gramm: N,persn,PN
+ stem: тимопеюшко.
+ paradigm: Noun-num-vowel
+ trans_ru: Тимофеюшка
+
+-lexeme
+ lex: Пашко
+ gramm: N,persn,PN
+ stem: пашко.
+ paradigm: Noun-num-vowel
+ trans_ru: Павел
+
+-lexeme
+ lex: Кость
+ gramm: N,persn,PN
+ stem: кост.
+ paradigm: Noun-num-soft
+ trans_ru: Кость
+
+-lexeme
+ lex: Лентук
+ gramm: N,persn,PN
+ stem: лентук.
+ paradigm: Noun-num-consonant
+ trans_ru: Елена
+

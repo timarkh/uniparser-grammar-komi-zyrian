@@ -130001,3 +130001,136 @@
  paradigm: Noun-num-vowel
  trans_ru: заседание
 
+-lexeme
+ lex: ӧшинюв
+ gramm: N
+ stem: ӧшинюв.
+ paradigm: Noun-num-consonant
+ trans_ru: двор
+
+-lexeme
+ lex: вӧрасног
+ gramm: N
+ stem: вӧрасног.
+ paradigm: Noun-num-consonant
+ trans_ru: походка
+
+-lexeme
+ lex: дедук
+ gramm: N,hum,anim,rus
+ stem: дедук.
+ paradigm: Noun-num-consonant
+ trans_ru: дедушка
+
+-lexeme
+ lex: вольпась
+ gramm: N
+ stem: вольпас.
+ paradigm: Noun-num-consonant
+ trans_ru: постель
+
+-lexeme
+ lex: пӧлӧз
+ gramm: N,rus
+ stem: пӧлӧз.
+ paradigm: Noun-num-consonant
+ trans_ru: полоз
+
+-lexeme
+ lex: пензія
+ gramm: N,rus
+ stem: пензія.
+ paradigm: Noun-num-vowel
+ trans_ru: пенсия
+
+-lexeme
+ lex: улич
+ gramm: N,rus
+ stem: улич.
+ paradigm: Noun-num-consonant
+ trans_ru: улица
+
+-lexeme
+ lex: телеантенна
+ gramm: N,rus
+ stem: телеантенна.
+ paradigm: Noun-num-vowel
+ trans_ru: телеантенна
+
+-lexeme
+ lex: сэтшӧмтор
+ gramm: N,nmlz_tor
+ stem: сэтшӧмтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: такое
+
+-lexeme
+ lex: сьмерт
+ gramm: N,rus
+ stem: сьмерт.
+ paradigm: Noun-num-consonant
+ trans_ru: смерть
+
+-lexeme
+ lex: страшнӧйтор
+ gramm: N,nmlz_tor,rus
+ stem: страшнӧйтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: что-либо страшное
+
+-lexeme
+ lex: скамьятор
+ gramm: N,nmlz_tor,rus
+ stem: скамьятор.
+ paradigm: Noun-num-obl_j
+ trans_ru: скамеечка
+
+-lexeme
+ lex: маслӧзавод
+ gramm: N,rus
+ stem: маслӧзавод.
+ paradigm: Noun-num-consonant
+ trans_ru: маслозавод
+
+-lexeme
+ lex: ФЗУ
+ gramm: N,abbr,rus
+ stem: фзу.
+ paradigm: Noun-num-consonant
+ trans_ru: ФЗУ (фабрично-заводское ученичество)
+
+-lexeme
+ lex: тпрутюк
+ gramm: N,anim,rus
+ stem: тпрутюк.
+ paradigm: Noun-num-consonant
+ trans_ru: телёнок
+
+-lexeme
+ lex: спектак
+ gramm: N,rus
+ stem: спектак.
+ paradigm: Noun-num-consonant
+ trans_ru: спектакль
+
+-lexeme
+ lex: милочка
+ gramm: N,anim,rus
+ stem: милочка.
+ paradigm: Noun-num-vowel
+ trans_ru: милочка
+
+-lexeme
+ lex: телятнича
+ gramm: N,hum,anim,rus
+ stem: телятнича.
+ paradigm: Noun-num-vowel
+ trans_ru: телятница
+
+-lexeme
+ lex: тӧрелка
+ gramm: N,rus
+ stem: тӧрелка.
+ paradigm: Noun-num-vowel
+ trans_ru: тарелка
+
