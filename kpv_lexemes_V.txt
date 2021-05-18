@@ -29574,6 +29574,13 @@
  trans_ru: не, нет
 
 -lexeme
+ lex: ог
+ stem: ог.
+ gramm: V,neg,prs,1
+ paradigm: Clitics
+ trans_ru: не, нет
+
+-lexeme
  lex: огйӧдлыны
  stem: огйӧдл.
  gramm: V
@@ -29605,6 +29612,13 @@
  lex: оз
  stem: оз.
  gramm: V,neg,fut,3
+ paradigm: Clitics
+ trans_ru: не, нет
+
+-lexeme
+ lex: оз
+ stem: оз.
+ gramm: V,neg,prs,3
  paradigm: Clitics
  trans_ru: не, нет
 
@@ -29857,6 +29871,13 @@
  lex: он
  stem: он.
  gramm: V,neg,fut,2
+ paradigm: Clitics
+ trans_ru: не, нет
+
+-lexeme
+ lex: он
+ stem: он.
+ gramm: V,neg,prs,2
  paradigm: Clitics
  trans_ru: не, нет
 
