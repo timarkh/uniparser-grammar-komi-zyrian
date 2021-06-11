@@ -2570,3 +2570,45 @@
  paradigm: Clitics
  trans_ru: ничего
 
+-lexeme
+ lex: тэа-меа
+ gramm: PRO,pers
+ stem: тэа-меа.
+ paradigm: Clitics
+ trans_ru: ты да я
+
+-lexeme
+ lex: чо
+ gramm: PRO,rus
+ stem: чо.
+ paradigm: Clitics
+ trans_ru: чего
+
+-lexeme
+ lex: мыйта
+ gramm: PRO
+ stem: мыйта.
+ paradigm: Clitics
+ trans_ru: сколько
+
+-lexeme
+ lex: эсымда
+ gramm: ADVPRO
+ stem: эсымда.
+ paradigm: Adverbials-final
+ trans_ru: вот столько
+
+-lexeme
+ lex: эстчаньсянь
+ gramm: ADVPRO
+ stem: эстчаньсянь.
+ paradigm: Adverbials-final
+ trans_ru: оттуда
+
+-lexeme
+ lex: сэтчаньын
+ gramm: ADVPRO
+ stem: сэтчаньын.
+ paradigm: Adverbials-final
+ trans_ru: там; в тех местах
+

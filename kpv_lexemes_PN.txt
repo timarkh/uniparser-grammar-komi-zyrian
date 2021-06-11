@@ -73231,3 +73231,221 @@
  paradigm: Noun-num-consonant
  trans_ru: Елена
 
+
+-lexeme
+ lex: Танечка
+ gramm: N,PN,persn
+ stem: танечка.
+ paradigm: Noun-num-vowel
+ trans_ru: Танечка
+
+-lexeme
+ lex: Паш
+ gramm: N,PN,persn
+ stem: паш.
+ paradigm: Noun-num-consonant
+ trans_ru: Паша
+
+-lexeme
+ lex: Ӧльӧксеевич
+ gramm: N,PN,patrn
+ stem: ӧльӧксеевич.
+ paradigm: Noun-num-consonant
+ trans_ru: Алексеевич
+
+-lexeme
+ lex: Ӧльӧксеич
+ gramm: N,PN,patrn
+ stem: ӧльӧксеич.
+ paradigm: Noun-num-consonant
+ trans_ru: Алексеевич
+
+-lexeme
+ lex: Спирушка
+ gramm: N,PN,persn
+ stem: спирушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Спиридон
+
+-lexeme
+ lex: Аля
+ gramm: N,PN,persn
+ stem: аля.
+ paradigm: Noun-num-vowel
+ trans_ru: Аля
+
+-lexeme
+ lex: Ельна
+ gramm: N,PN,persn
+ stem: ельна.
+ paradigm: Noun-num-vowel
+ trans_ru: Елена
+
+-lexeme
+ lex: Тимфеевна
+ gramm: N,PN,patrn
+ stem: тимфеевна.
+ paradigm: Noun-num-vowel
+ trans_ru: Тимофеевна
+
+-lexeme
+ lex: Рябинка
+ gramm: N,PN,persn
+ stem: рябинка.
+ paradigm: Noun-num-vowel
+ trans_ru: Рябинка
+
+-lexeme
+ lex: Милка
+ gramm: N,PN,persn
+ stem: милка.
+ paradigm: Noun-num-vowel
+ trans_ru: Милка
+
+-lexeme
+ lex: Демид
+ gramm: N,PN,persn
+ stem: демид.
+ paradigm: Noun-num-consonant
+ trans_ru: Демид
+
+-lexeme
+ lex: Иванушко
+ gramm: N,PN,persn
+ stem: иванушко.
+ paradigm: Noun-num-vowel
+ trans_ru: Иванушка
+
+-lexeme
+ lex: Трӧича
+ gramm: N,PN
+ stem: трӧича.
+ paradigm: Noun-num-vowel
+ trans_ru: Троица
+
+-lexeme
+ lex: сивко
+ gramm: N,persn,PN
+ stem: сивко.
+ paradigm: Noun-num-vowel
+ trans_ru: Сивка (кличка сивой лошади)
+
+-lexeme
+ lex: Катьӧ
+ gramm: N,persn,PN
+ stem: катьӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Катя
+
+-lexeme
+ lex: Гришко
+ gramm: N,persn,PN
+ stem: гришко.
+ paradigm: Noun-num-vowel
+ trans_ru: Григорий
+
+-lexeme
+ lex: Дарьюшка
+ gramm: N,persn,PN
+ stem: дарьюшка.
+ paradigm: Noun-num-vowel
+ trans_ru: Дарьюшка
+
+-lexeme
+ lex: Васьтоль
+ gramm: N,PN,persn
+ stem: васьтоль.|васьтолл.
+ paradigm: Noun-num-CC'
+ trans_ru: Васьтоль
+
+-lexeme
+ lex: Мишук
+ gramm: N,PN,persn
+ stem: мишук.
+ paradigm: Noun-num-consonant
+ trans_ru: Миша
+
+-lexeme
+ lex: Саньӧ
+ gramm: N,PN,persn
+ stem: саньӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Саня
+
+-lexeme
+ lex: Валюк
+ gramm: N,persn,PN
+ stem: валюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Валюк
+
+-lexeme
+ lex: Микол
+ gramm: N,persn,PN
+ stem: микол.
+ paradigm: Noun-num-consonant
+ trans_ru: Николай
+
+-lexeme
+ lex: Зинук
+ gramm: N,persn,PN
+ stem: зинук.
+ paradigm: Noun-num-consonant
+ trans_ru: Зинаида
+
+-lexeme
+ lex: Янко
+ gramm: N,persn,PN
+ stem: янко.
+ paradigm: Noun-num-vowel
+ trans_ru: Янка
+
+-lexeme
+ lex: Янушко
+ gramm: N,persn,PN
+ stem: янушко.
+ paradigm: Noun-num-vowel
+ trans_ru: Янушка
+
+-lexeme
+ lex: Дарьюш
+ gramm: N,persn,PN
+ stem: дарьюш.
+ paradigm: Noun-num-consonant
+ trans_ru: Дарья
+
+-lexeme
+ lex: Парась
+ gramm: N,persn,PN
+ stem: парас.
+ paradigm: Noun-num-soft
+ trans_ru: Прасковья
+
+-lexeme
+ lex: Митипер
+ gramm: N,persn,PN
+ stem: митипер.
+ paradigm: Noun-num-consonant
+ trans_ru: Дмитрий; Никифор
+
+-lexeme
+ lex: Насту
+ gramm: N,persn,PN
+ stem: насту.
+ paradigm: Noun-num-vowel
+ trans_ru: Настя
+
+-lexeme
+ lex: Ӧсип
+ gramm: N,persn,PN
+ stem: ӧсип.
+ paradigm: Noun-num-consonant
+ trans_ru: Осип
+
+-lexeme
+ lex: Настук
+ gramm: N,persn,PN
+ stem: настук.
+ paradigm: Noun-num-consonant
+ trans_ru: Настя
+

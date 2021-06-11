@@ -270,3 +270,10 @@
  stem: седьмо.
  paradigm: Adj-j
  trans_ru: седьмой
+
+-lexeme
+ lex: третьӧй
+ gramm: NUM,ord,rus
+ stem: третьӧ.
+ paradigm: Adj-j
+ trans_ru: третий

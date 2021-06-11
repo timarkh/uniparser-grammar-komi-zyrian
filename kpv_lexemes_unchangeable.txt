@@ -6625,3 +6625,311 @@
  stem: пӧди.
  paradigm: Clitics
  trans_ru: поди; видимо
+-lexeme
+ lex: прамӧя
+ gramm: ADV,rus
+ stem: прамӧя.
+ paradigm: Adverbials-final
+ trans_ru: по-настоящему
+
+-lexeme
+ lex: лабутнӧя
+ gramm: ADV,rus
+ stem: лабутнӧя.
+ paradigm: Adverbials-final
+ trans_ru: серьёзно; неторопливо
+
+-lexeme
+ lex: экономнӧ
+ gramm: ADV,rus
+ stem: экономнӧ.
+ paradigm: Adverbials-final
+ trans_ru: экономно
+
+-lexeme
+ lex: прӧтиву
+ gramm: ADV,rus
+ stem: прӧтиву.
+ paradigm: Adverbials-final
+ trans_ru: против
+
+-lexeme
+ lex: эстчаньӧ
+ gramm: ADV
+ stem: эстчаньӧ.
+ paradigm: Adverbials-final
+ trans_ru: туда; в том направлении
+
+-lexeme
+ lex: мӧдлаӧ
+ gramm: ADV
+ stem: мӧдлаӧ.
+ paradigm: Adverbials-final
+ trans_ru: на другое место
+
+-lexeme
+ lex: научнӧя
+ gramm: ADV,rus
+ stem: научнӧя.
+ paradigm: Adverbials-final
+ trans_ru: научно
+
+-lexeme
+ lex: пӧпуттьӧ
+ gramm: ADV,rus
+ stem: пӧпуттьӧ.
+ paradigm: Adverbials-final
+ trans_ru: попутно
+
+-lexeme
+ lex: сразу
+ gramm: ADV,rus
+ stem: сразу.
+ paradigm: Adverbials-final
+ trans_ru: сразу
+
+-lexeme
+ lex: ӧтпырйысьӧн
+ gramm: ADV
+ stem: ӧтпырйысьӧн.
+ paradigm: Adverbials-final
+ trans_ru: однажды
+
+-lexeme
+ lex: правильнӧ
+ gramm: ADV,rus
+ stem: правильнӧ.
+ paradigm: Adverbials-final
+ trans_ru: правильно
+
+-lexeme
+ lex: дыркодь
+ gramm: ADV
+ stem: дыркодь.
+ paradigm: Adverbials-final
+ trans_ru: довольно долго
+
+-lexeme
+ lex: долыдпырысь
+ gramm: ADV
+ stem: долыдпырысь.
+ paradigm: Adverbials-final
+ trans_ru: радостно
+
+-lexeme
+ lex: мыйдыра
+ gramm: ADV
+ stem: мыйдыра.
+ paradigm: Adverbials-final
+ trans_ru: как долго
+
+-lexeme
+ lex: тӧнлун
+ gramm: ADV
+ stem: тӧнлун.
+ paradigm: Adverbials-final
+ trans_ru: вчера
+
+-lexeme
+ lex: лёкногӧн
+ gramm: ADV
+ stem: лёкногӧн.
+ paradigm: Adverbials-final
+ trans_ru: грубо
+
+-lexeme
+ lex: ежли
+ gramm: CONJ,rus
+ stem: ежли.
+ paradigm: Clitics
+ trans_ru: ежели
+
+-lexeme
+ lex: но
+ gramm: CONJ,rus
+ stem: но.
+ paradigm: Clitics
+ trans_ru: но
+
+-lexeme
+ lex: да
+ gramm: CONJ,rus
+ stem: да.
+ paradigm: Clitics
+ trans_ru: да
+
+-lexeme
+ lex: мед
+ gramm: CONJ
+ stem: мед.
+ paradigm: Clitics
+ trans_ru: чтобы
+
+-lexeme
+ lex: зым
+ gramm: IMIT
+ stem: зым.
+ paradigm: Clitics
+ trans_ru: бах; грох
+
+-lexeme
+ lex: няв
+ gramm: IMIT
+ stem: няв.
+ paradigm: Clitics
+ trans_ru: мяу
+
+-lexeme
+ lex: шывк
+ gramm: IMIT
+ stem: шывк.
+ paradigm: Clitics
+ trans_ru: шывк
+
+-lexeme
+ lex: жбольк-жбольк
+ gramm: IMIT
+ stem: жбольк-жбольк.
+ paradigm: Clitics
+ trans_ru: буль-буль
+
+-lexeme
+ lex: цоп-цоп
+ gramm: IMIT
+ stem: цоп-цоп.
+ paradigm: Clitics
+ trans_ru: цоп-цоп
+
+-lexeme
+ lex: шурк
+ gramm: IMIT
+ stem: шурк.
+ paradigm: Clitics
+ trans_ru: вмиг
+
+-lexeme
+ lex: шняп
+ gramm: IMIT
+ stem: шняп.
+ paradigm: Clitics
+ trans_ru: шлёп, хлоп
+
+-lexeme
+ lex: уп
+ gramm: INTRJ
+ stem: уп.
+ paradigm: Clitics
+ trans_ru: уф
+
+-lexeme
+ lex: алё
+ gramm: INTRJ,rus
+ stem: алё.
+ paradigm: Clitics
+ trans_ru: алё
+
+-lexeme
+ lex: господи
+ gramm: INTRJ,rus
+ stem: господи.
+ paradigm: Clitics
+ trans_ru: господи
+
+-lexeme
+ lex: тьфу
+ gramm: INTRJ,rus
+ stem: тьфу.
+ paradigm: Clitics
+ trans_ru: тьфу
+
+-lexeme
+ lex: ихи
+ gramm: INTRJ
+ stem: ихи-и.
+ paradigm: Clitics
+ trans_ru: ихи
+
+-lexeme
+ lex: ихи
+ gramm: INTRJ
+ stem: и-хи-хи.
+ paradigm: Clitics
+ trans_ru: ихи
+
+-lexeme
+ lex: ува-ава
+ gramm: INTRJ
+ stem: ува-ава.
+ paradigm: Clitics
+ trans_ru: шум, гомон, гвалт
+
+-lexeme
+ lex: фу
+ gramm: INTRJ
+ stem: фу.
+ paradigm: Clitics
+ trans_ru: фу
+
+-lexeme
+ lex: ок
+ gramm: INTRJ
+ stem: ок-к.
+ paradigm: Clitics
+ trans_ru: ох
+
+-lexeme
+ lex: пассибӧ
+ gramm: INTRJ,rus
+ stem: пассибӧ.
+ paradigm: Clitics
+ trans_ru: спасибо
+
+-lexeme
+ lex: чурки-буди
+ gramm: PARENTH
+ stem: чурки-буди.
+ paradigm: Clitics
+ trans_ru: слава богу
+
+-lexeme
+ lex: дак
+ gramm: PART,rus
+ stem: дак.
+ paradigm: Clitics
+ trans_ru: дак
+
+-lexeme
+ lex: эськӧ
+ gramm: PART
+ stem: эськӧн.
+ paradigm: Clitics
+ trans_ru: бы; же
+
+-lexeme
+ lex: вӧд
+ gramm: PART,rus
+ stem: вӧд.
+ paradigm: Clitics
+ trans_ru: ведь
+
+-lexeme
+ lex: мед
+ gramm: PART
+ stem: м-е-ед.
+ paradigm: Clitics
+ trans_ru: пусть
+
+-lexeme
+ lex: давай
+ gramm: PART,rus
+ stem: давай.
+ paradigm: Clitics
+ trans_ru: давай
+
+-lexeme
+ lex: мыся
+ gramm: PART
+ stem: мыся.
+ paradigm: Clitics
+ trans_ru: мол
+

@@ -59077,3 +59077,241 @@
  paradigm: V-yny
  trans_ru: становиться строгим
 
+-lexeme
+ lex: тэрмышны
+ gramm: V,tr
+ stem: тэрмыш.
+ paradigm: V-ny
+ trans_ru: поторопить
+
+-lexeme
+ lex: тэчны
+ gramm: V,tr
+ stem: тэ-э-ч.
+ paradigm: V-ny
+ trans_ru: класть, складывать
+
+-lexeme
+ lex: вӧтлыны
+ gramm: V,tr
+ stem: вӧтл.
+ paradigm: V-yny
+ trans_ru: гнать
+
+-lexeme
+ lex: пӧльыштны
+ gramm: V,intr
+ stem: пӧльышт.
+ paradigm: V-ny
+ trans_ru: дунуть
+
+-lexeme
+ lex: довккерны
+ gramm: V,intr
+ stem: довккер.
+ paradigm: V-ny
+ trans_ru: пошатнуться
+
+-lexeme
+ lex: визӧбтыны
+ gramm: V,intr
+ stem: визӧбт.
+ paradigm: V-yny
+ trans_ru: пробежать; промелькнуть
+
+-lexeme
+ lex: ковмыны
+ gramm: V,intr
+ stem: ковм.
+ paradigm: V-yny
+ trans_ru: понадобиться
+
+-lexeme
+ lex: курыштны
+ gramm: V,tr
+ stem: курышт.
+ paradigm: V-ny
+ trans_ru: сгребать; сгрести
+
+-lexeme
+ lex: вильшасьны
+ gramm: V,intr
+ stem: вильшас.
+ paradigm: V-ny-soft
+ trans_ru: шалить; дразниться; докучать
+
+-lexeme
+ lex: чикырвидзны
+ gramm: V,intr
+ stem: чикырвидз.
+ paradigm: V-ny
+ trans_ru: съёжиться; сжаться
+
+-lexeme
+ lex: тювӧдны
+ gramm: V,tr
+ stem: тювӧд.
+ paradigm: V-ny
+ trans_ru: спускать; опускать
+
+-lexeme
+ lex: бушйыны
+ gramm: V,tr
+ stem: бушй.
+ paradigm: V-yny
+ trans_ru: разрыть; раскидать; раскопать
+
+-lexeme
+ lex: крукышсьыны
+ gramm: V,rus,intr
+ stem: крукышс.
+ paradigm: V-yny-soft
+ trans_ru: взяться под руки
+
+-lexeme
+ lex: зуыштны
+ gramm: V,tr
+ stem: зуышт.
+ paradigm: V-ny
+ trans_ru: ударить; почесать (лён)
+
+-lexeme
+ lex: гӧлӧситны
+ gramm: V,rus,intr
+ stem: гӧлӧсит.
+ paradigm: V-ny
+ trans_ru: голосить
+
+-lexeme
+ lex: теребитны
+ gramm: V,rus,tr
+ stem: теребит.
+ paradigm: V-ny
+ trans_ru: теребить
+
+-lexeme
+ lex: поминитны
+ gramm: V,rus,tr
+ stem: поминит.
+ paradigm: V-ny
+ trans_ru: помянуть
+
+-lexeme
+ lex: нуӧдны
+ gramm: V,tr
+ stem: нуӧд.
+ paradigm: V-ny
+ trans_ru: вести
+
+-lexeme
+ lex: гычасьны
+ gramm: V,intr
+ stem: гычас.
+ paradigm: V-ny-soft
+ trans_ru: качаться
+
+-lexeme
+ lex: пыдзыртны
+ gramm: V,tr
+ stem: пыдзырт.
+ paradigm: V-ny
+ trans_ru: выжать
+
+-lexeme
+ lex: ковмыны
+ gramm: V,intr
+ stem: ковм.
+ paradigm: V-yny
+ trans_ru: понадобиться
+
+-lexeme
+ lex: удзавны
+ gramm: V,intr
+ stem: удз.
+ paradigm: V-avny
+ trans_ru: быть обделённым
+
+-lexeme
+ lex: начальникавны
+ gramm: V,rus,intr
+ stem: начальник.
+ paradigm: V-avny
+ trans_ru: вести себя как начальник
+
+-lexeme
+ lex: полицавны
+ gramm: V,rus,intr
+ stem: полиц.
+ paradigm: V-avny
+ trans_ru: вести себя как полицейский
+
+-lexeme
+ lex: люкыштны
+ gramm: V,tr
+ stem: люкышт.
+ paradigm: V-ny
+ trans_ru: боднуть
+
+-lexeme
+ lex: дзирдыны
+ gramm: V,intr
+ stem: дзирд.
+ paradigm: V-yny
+ trans_ru: накалиться
+
+-lexeme
+ lex: нюжйӧдлыны
+ gramm: V,tr
+ stem: нюжйӧдл.
+ paradigm: V-yny
+ trans_ru: растягивать
+
+-lexeme
+ lex: тшыгйӧдны
+ gramm: V,tr
+ stem: тшыгйӧд.
+ paradigm: V-ny
+ trans_ru: морить голодом
+
+-lexeme
+ lex: мальӧдны
+ gramm: V,tr
+ stem: мальӧд.
+ paradigm: V-ny
+ trans_ru: гладить; приручать
+
+-lexeme
+ lex: гарыштны
+ gramm: V,tr
+ stem: гарышт.
+ paradigm: V-ny
+ trans_ru: упомянуть, намекнуть
+
+-lexeme
+ lex: тушмылявны
+ gramm: V,tr
+ stem: тушмыл.
+ paradigm: V-yavny
+ trans_ru: таскать
+
+-lexeme
+ lex: арыштны
+ gramm: V,tr
+ stem: арышт.
+ paradigm: V-ny
+ trans_ru: захватить; присвоить
+
+-lexeme
+ lex: грекӧвӧйтны
+ gramm: V,tr,rus
+ stem: грекӧвӧйт.
+ paradigm: V-ny
+ trans_ru: надоедать; злить
+
+-lexeme
+ lex: шыӧдны
+ gramm: V,tr
+ stem: шыӧд.
+ paradigm: V-ny
+ trans_ru: сообщить
+
