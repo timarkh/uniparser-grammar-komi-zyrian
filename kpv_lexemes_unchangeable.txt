@@ -3605,7 +3605,7 @@
 
 -lexeme
  lex: но
- stem: но.
+ stem: но.//но-о.
  gramm: PART,rus
  paradigm: Adverbials-final
  trans_ru: ну
@@ -6932,4 +6932,151 @@
  stem: мыся.
  paradigm: Clitics
  trans_ru: мол
+
+-lexeme
+ lex: паныд
+ gramm: POST
+ stem: паныд.
+ paradigm: Clitics
+ trans_ru: навстречу
+
+-lexeme
+ lex: о
+ gramm: INTRJ
+ stem: о.
+ paradigm: Clitics
+ trans_ru: о
+
+-lexeme
+ lex: ох
+ gramm: INTRJ
+ stem: ох.
+ paradigm: Clitics
+ trans_ru: ох
+
+-lexeme
+ lex: у-у
+ gramm: INTRJ
+ stem: у-у.
+ paradigm: Clitics
+ trans_ru: у-у
+
+-lexeme
+ lex: кот
+ gramm: INTRJ
+ stem: кот.
+ paradigm: Clitics
+ trans_ru: ко-ко
+
+-lexeme
+ lex: кыш
+ gramm: INTRJ
+ stem: кыш.
+ paradigm: Clitics
+ trans_ru: кыш
+
+-lexeme
+ lex: а-а
+ gramm: INTRJ
+ stem: а-а.
+ paradigm: Clitics
+ trans_ru: а-а
+
+-lexeme
+ lex: котш-котш
+ gramm: IMIT
+ stem: котш-котш.
+ paradigm: Clitics
+ trans_ru: тук-тук
+
+-lexeme
+ lex: гур
+ gramm: IMIT
+ stem: гур.
+ paradigm: Clitics
+ trans_ru: подражание громкому тарахтению, скрипу
+
+-lexeme
+ lex: кот-ко-ко
+ gramm: IMIT
+ stem: кот-ко-ко.
+ paradigm: Clitics
+ trans_ru: ко-ко
+
+-lexeme
+ lex: ко-ко
+ gramm: IMIT
+ stem: ко-ко.
+ paradigm: Clitics
+ trans_ru: ко-ко
+
+-lexeme
+ lex: кот
+ gramm: IMIT
+ stem: кот.
+ paradigm: Clitics
+ trans_ru: кот
+
+-lexeme
+ lex: мый
+ gramm: CONJ
+ stem: мый.
+ paradigm: Clitics
+ trans_ru: что
+
+-lexeme
+ lex: лёкгоршӧн
+ gramm: ADV
+ stem: лёкгоршӧн.
+ paradigm: Adverbials-final
+ trans_ru: истошно
+
+-lexeme
+ lex: нывдырйи
+ gramm: ADV
+ stem: нывдырйи.
+ paradigm: Adverbials-final
+ trans_ru: в девичестве
+
+-lexeme
+ lex: загреки
+ gramm: ADV,rus
+ stem: загреки.
+ paradigm: Adverbials-final
+ trans_ru: очень; слишком
+
+-lexeme
+ lex: ырс
+ gramm: ADV
+ stem: ырс.
+ paradigm: Adverbials-final
+ trans_ru: резко; вдруг
+
+-lexeme
+ lex: серамвылӧ
+ gramm: ADV
+ stem: серамвылӧ.
+ paradigm: Adverbials-final
+ trans_ru: на смех
+
+-lexeme
+ lex: друг
+ gramm: ADV,rus
+ stem: друг.
+ paradigm: Adverbials-final
+ trans_ru: вдруг
+
+-lexeme
+ lex: этша
+ gramm: ADV
+ stem: этша.
+ paradigm: Adverbials-final
+ trans_ru: мало; немного
+
+-lexeme
+ lex: этша-этш
+ gramm: ADV
+ stem: этша-этш.
+ paradigm: Adverbials-final
+ trans_ru: в какой-то мере; немного
 

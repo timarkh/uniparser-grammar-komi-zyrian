@@ -18628,9 +18628,9 @@
 -lexeme
  lex: кольны
  stem: кол.
- gramm: V,tr,intr
+ gramm: V,intr
  paradigm: V-ny-soft
- trans_ru: отстать
+ trans_ru: остаться; отстать
 
 -lexeme
  lex: кольпавны
@@ -20574,9 +20574,9 @@
 -lexeme
  lex: кутны
  stem: кут.
- gramm: V
+ gramm: V,tr
  paradigm: V-ny
- trans_ru: поймать
+ trans_ru: поймать; начать
 
 -lexeme
  lex: куттьыны
@@ -23458,9 +23458,9 @@
 -lexeme
  lex: лыйны
  stem: лый.
- gramm: V,tr,intr
+ gramm: V,tr
  paradigm: V-ny
- trans_ru: бросить
+ trans_ru: бросить; стрелять
 
 -lexeme
  lex: лыкны
@@ -23698,7 +23698,7 @@
  stem: лэпт.
  gramm: V,tr
  paradigm: V-yny
- trans_ru: выдержать
+ trans_ru: поднять; выдержать
 
 -lexeme
  lex: лэчкасьны
@@ -59314,4 +59314,138 @@
  stem: шыӧд.
  paradigm: V-ny
  trans_ru: сообщить
+
+-lexeme
+ lex: сортовитны
+ gramm: V,rus,intr
+ stem: сортовит.
+ paradigm: V-ny
+ trans_ru: работать на заготовке сортового леса
+
+-lexeme
+ lex: поркйӧдны
+ gramm: V,intr
+ stem: поркйӧд.
+ paradigm: V-ny
+ trans_ru: вздуться
+
+-lexeme
+ lex: гыньыктыны
+ gramm: V,tr
+ stem: гыньыкт.
+ paradigm: V-yny
+ trans_ru: проглотить
+
+-lexeme
+ lex: отсыштны
+ gramm: V,tr
+ stem: отсышт.
+ paradigm: V-ny
+ trans_ru: помочь
+
+-lexeme
+ lex: нюжкйыны
+ gramm: V,tr
+ stem: нюжкй.
+ paradigm: V-yny
+ trans_ru: растягивать; протягивать
+
+-lexeme
+ lex: жбутнитны
+ gramm: V,tr
+ stem: жбутнит.
+ paradigm: V-ny
+ trans_ru: ударить с шумом
+
+-lexeme
+ lex: тапйӧдны
+ gramm: V,tr
+ stem: тапйӧд.
+ paradigm: V-ny
+ trans_ru: шлёпать
+
+-lexeme
+ lex: гулскыны
+ gramm: V,tr
+ stem: гулск.
+ paradigm: V-yny
+ trans_ru: ударить; засунуть
+
+-lexeme
+ lex: дузгыны
+ gramm: V,tr
+ stem: дузг.
+ paradigm: V-yny
+ trans_ru: хлебать
+
+-lexeme
+ lex: шылькйыны
+ gramm: V,tr
+ stem: шылькй.
+ paradigm: V-yny
+ trans_ru: делать гладким
+
+-lexeme
+ lex: вольсыштны
+ gramm: V,tr
+ stem: вольсышт.
+ paradigm: V-ny
+ trans_ru: побить; скосить
+
+-lexeme
+ lex: госсьыны
+ gramm: V,intr
+ stem: госс.
+ paradigm: V-yny-soft
+ trans_ru: баловаться
+
+-lexeme
+ lex: лапӧдны
+ gramm: V,tr
+ stem: лапӧд.
+ paradigm: V-ny
+ trans_ru: хлопать
+
+-lexeme
+ lex: паськысьны
+ gramm: V,intr
+ stem: паськыс.
+ paradigm: V-ny-soft
+ trans_ru: упасть плашмя; распластаться
+
+-lexeme
+ lex: шелзьӧдны
+ gramm: V,intr
+ stem: шелзьӧд.
+ paradigm: V-ny
+ trans_ru: трусить
+
+-lexeme
+ lex: вачӧдны
+ gramm: V,tr
+ stem: вачӧд.
+ paradigm: V-ny
+ trans_ru: парить, хлестать веником
+
+-lexeme
+ lex: чур-чермунны
+ gramm: V,intr
+ stem: чур-чермун.
+ paradigm: V-ny
+ trans_ru: вздрогнуть
+
+-lexeme
+ lex: видзӧдны
+ gramm: V,intr
+ stem: видзӧд.
+ paradigm: V-ny
+ trans_ru: смотреть
+
+-lexeme
+ lex: удитны
+ gramm: V,tr
+ stem: удит.
+ paradigm: V-ny
+ trans_ru: успеть
+
 

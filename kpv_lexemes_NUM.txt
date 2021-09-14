@@ -277,3 +277,18 @@
  stem: третьӧ.
  paradigm: Adj-j
  trans_ru: третий
+
+-lexeme
+ lex: второй
+ gramm: NUM,ord,rus
+ stem: второй.
+ paradigm: Adj-j
+ trans_ru: второй
+
+-lexeme
+ lex: десятӧй
+ gramm: NUM,ord,rus
+ stem: десятӧй.
+ paradigm: Adj-j
+ trans_ru: десятый
+

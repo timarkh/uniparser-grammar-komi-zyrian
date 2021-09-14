@@ -73449,3 +73449,143 @@
  paradigm: Noun-num-consonant
  trans_ru: Настя
 
+-lexeme
+ lex: Ӧсько
+ gramm: N,persn,PN
+ stem: ӧсько.
+ paradigm: Noun-num-vowel
+ trans_ru: Иосиф
+
+-lexeme
+ lex: Степӧ
+ gramm: N,persn,PN
+ stem: степӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Степан
+
+-lexeme
+ lex: Прошка
+ gramm: N,persn,PN
+ stem: прошка.
+ paradigm: Noun-num-vowel
+ trans_ru: Прошка
+
+-lexeme
+ lex: Петьӧ
+ gramm: N,persn,PN
+ stem: петьӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Петя
+
+-lexeme
+ lex: Ӧгапьюшка
+ gramm: N,persn,PN
+ stem: ӧгапьюшка.
+ paradigm: Noun-num-vowel
+ trans_ru: Агафьюшка
+
+-lexeme
+ lex: Василльовна
+ gramm: N,patrn,PN
+ stem: василльовна.
+ paradigm: Noun-num-vowel
+ trans_ru: Васильевна
+
+-lexeme
+ lex: Елен
+ gramm: N,persn,PN
+ stem: елен.
+ paradigm: Noun-num-consonant
+ trans_ru: Елена
+
+-lexeme
+ lex: Наталь
+ gramm: N,persn,PN
+ stem: наталь.|наталл.
+ paradigm: Noun-num-CC'
+ trans_ru: Наталья
+
+-lexeme
+ lex: Агнюша
+ gramm: N,persn,PN
+ stem: агнюша.
+ paradigm: Noun-num-vowel
+ trans_ru: Агния
+
+-lexeme
+ lex: Ядвига
+ gramm: N,persn,PN
+ stem: ядвига.
+ paradigm: Noun-num-vowel
+ trans_ru: Ядвига
+
+-lexeme
+ lex: Юзеф
+ gramm: N,persn,PN
+ stem: юзеф.
+ paradigm: Noun-num-consonant
+ trans_ru: Юзеф
+
+-lexeme
+ lex: Гайдн
+ gramm: N,famn,PN
+ stem: гайдн.
+ paradigm: Noun-num-consonant
+ trans_ru: Гайдн
+
+-lexeme
+ lex: Наталка
+ gramm: N,persn,PN
+ stem: наталка.
+ paradigm: Noun-num-vowel
+ trans_ru: Наталка
+
+-lexeme
+ lex: Ёгорей
+ gramm: N,persn,PN
+ stem: ёгоре.
+ paradigm: Noun-num-j
+ trans_ru: Егор
+
+-lexeme
+ lex: Йӧлгинь
+ gramm: N,persn,PN
+ stem: йӧлгин.
+ paradigm: Noun-num-soft
+ trans_ru: Евгений
+
+-lexeme
+ lex: Гришук
+ gramm: N,persn,PN
+ stem: гришук.
+ paradigm: Noun-num-consonant
+ trans_ru: Гриша
+
+-lexeme
+ lex: Ӧкся
+ gramm: N,persn,PN
+ stem: ӧкся.
+ paradigm: Noun-num-vowel
+ trans_ru: Аксинья; Ксения
+
+-lexeme
+ lex: Сюрань
+ gramm: N,persn,PN
+ stem: сюран.
+ paradigm: Noun-num-soft
+ trans_ru: Рогуля (кличка коровы)
+
+-lexeme
+ lex: Кавка
+ gramm: N,persn,PN
+ stem: кавка.
+ paradigm: Noun-num-vowel
+ trans_ru: Кавка
+
+-lexeme
+ lex: Хая
+ gramm: N,persn,PN
+ stem: хая.
+ paradigm: Noun-num-vowel
+ trans_ru: Хая
+

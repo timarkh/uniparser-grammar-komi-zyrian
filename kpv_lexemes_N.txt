@@ -130610,3 +130610,269 @@
  paradigm: Noun-num-vowel
  trans_ru: голубушка
 
+-lexeme
+ lex: сортӧвӧй
+ gramm: N,rus
+ stem: сортӧвӧ.
+ paradigm: Noun-num-j
+ trans_ru: сортовой лес
+
+-lexeme
+ lex: тӧчитчанін
+ gramm: N,nmlz_in,rus
+ stem: тӧчитчанін.
+ paradigm: Noun-num-consonant
+ trans_ru: точильная мастерская
+
+-lexeme
+ lex: живӧтина
+ gramm: N,anim,rus
+ stem: живӧтина.
+ paradigm: Noun-num-vowel
+ trans_ru: животное; скот
+
+-lexeme
+ lex: секретарша
+ gramm: N,hum,anim,rus
+ stem: секретарша.
+ paradigm: Noun-num-vowel
+ trans_ru: секретарша
+
+-lexeme
+ lex: секретар
+ gramm: N,hum,anim,rus
+ stem: секретар.
+ paradigm: Noun-num-consonant
+ trans_ru: секретарь
+
+-lexeme
+ lex: вомдор
+ gramm: N,body
+ stem: вомдор.
+ paradigm: Noun-num-consonant
+ trans_ru: губа
+
+-lexeme
+ lex: поповна
+ gramm: N,hum,anim,rus
+ stem: поповна.
+ paradigm: Noun-num-vowel
+ trans_ru: поповна
+
+-lexeme
+ lex: плотка
+ gramm: N,anim,rus
+ stem: плотка.
+ paradigm: Noun-num-vowel
+ trans_ru: плотка
+
+-lexeme
+ lex: матушка
+ gramm: N,hum,anim,rus
+ stem: матушка.
+ paradigm: Noun-num-vowel
+ trans_ru: матушка; свекровь
+
+-lexeme
+ lex: дзузу
+ gramm: N
+ stem: дзузу.
+ paradigm: Noun-num-vowel
+ trans_ru: коптилка
+
+-lexeme
+ lex: дубеч
+ gramm: N,rus
+ stem: дубеч.
+ paradigm: Noun-num-consonant
+ trans_ru: молотило
+
+-lexeme
+ lex: идтор
+ gramm: N
+ stem: идтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: ячмень
+
+-lexeme
+ lex: ходик
+ gramm: N,rus
+ stem: ходик.
+ paradigm: Noun-num-consonant
+ trans_ru: ходики
+
+-lexeme
+ lex: эм
+ gramm: N
+ stem: эм.
+ paradigm: Noun-num-consonant
+ trans_ru: наличие
+
+-lexeme
+ lex: госпоставка
+ gramm: N,rus
+ stem: госпоставка.
+ paradigm: Noun-num-vowel
+ trans_ru: госпоставка
+
+-lexeme
+ lex: рематиз
+ gramm: N,rus
+ stem: рематиз.
+ paradigm: Noun-num-consonant
+ trans_ru: ревматизм
+
+-lexeme
+ lex: гуськуль
+ gramm: N,anim,hum
+ stem: гуськуль.|гуськулл.
+ paradigm: Noun-num-CC'
+ trans_ru: вор
+
+-lexeme
+ lex: бубу
+ gramm: N,supernat
+ stem: бубу.
+ paradigm: Noun-num-vowel
+ trans_ru: бука
+
+-lexeme
+ lex: гӧлен
+ gramm: N,rus
+ stem: гӧлен.
+ paradigm: Noun-num-consonant
+ trans_ru: голенище
+
+-lexeme
+ lex: асылки
+ gramm: N
+ stem: асылки.
+ paradigm: Noun-num-vowel
+ trans_ru: завтра
+
+-lexeme
+ lex: киняув
+ gramm: N,body
+ stem: киняув.|киняул.
+ paradigm: Noun-num-v_l
+ trans_ru: подмышки
+
+-lexeme
+ lex: полтавка
+ gramm: N,rus,anim,hum
+ stem: полтавка.
+ paradigm: Noun-num-vowel
+ trans_ru: полтавка
+
+-lexeme
+ lex: пошта
+ gramm: N,rus
+ stem: пошта.
+ paradigm: Noun-num-vowel
+ trans_ru: почта
+
+-lexeme
+ lex: именича
+ gramm: N,rus,anim,hum
+ stem: именича.
+ paradigm: Noun-num-vowel
+ trans_ru: именинница
+
+-lexeme
+ lex: тупли
+ gramm: N,rus
+ stem: тупли.
+ paradigm: Noun-num-vowel
+ trans_ru: туфли
+
+-lexeme
+ lex: туманносьт
+ gramm: N,rus
+ stem: туманносьт.
+ paradigm: Noun-num-consonant
+ trans_ru: туманность
+
+-lexeme
+ lex: асъявыв
+ gramm: N
+ stem: асъявыв.|асъявыл.
+ paradigm: Noun-num-v_l
+ trans_ru: время под утро
+
+-lexeme
+ lex: борона
+ gramm: N,rus
+ stem: борона.
+ paradigm: Noun-num-vowel
+ trans_ru: борона
+
+-lexeme
+ lex: польӧ
+ gramm: N,anim
+ stem: польӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: поросёнок
+
+-lexeme
+ lex: райземотдел
+ gramm: N,rus
+ stem: райземотдел.
+ paradigm: Noun-num-consonant
+ trans_ru: райземотдел
+
+-lexeme
+ lex: адгорш
+ gramm: N
+ stem: адгорш.
+ paradigm: Noun-num-consonant
+ trans_ru: ненасытное горло; прорва
+
+-lexeme
+ lex: завертка
+ gramm: N,rus
+ stem: завертка.
+ paradigm: Noun-num-vowel
+ trans_ru: завёртка
+
+-lexeme
+ lex: медтехникум
+ gramm: N,rus
+ stem: медтехникум.
+ paradigm: Noun-num-consonant
+ trans_ru: медтехникум
+
+-lexeme
+ lex: смуглянка
+ gramm: N,rus,anim,hum
+ stem: смуглянка.
+ paradigm: Noun-num-vowel
+ trans_ru: смуглянка
+
+-lexeme
+ lex: титимера
+ gramm: N,rus,supernat
+ stem: титимера.
+ paradigm: Noun-num-vowel
+ trans_ru: кикимора
+
+-lexeme
+ lex: печаль
+ gramm: N,rus
+ stem: печаль.|печалл.
+ paradigm: Noun-num-CC'
+ trans_ru: печаль
+
+-lexeme
+ lex: пызандор
+ gramm: N
+ stem: пызандор.
+ paradigm: Noun-num-consonant
+ trans_ru: пространство около стола
+
+-lexeme
+ lex: кодкӧлун
+ gramm: N
+ stem: кодкӧлун.
+ paradigm: Noun-num-consonant
+ trans_ru: недавнее время
+

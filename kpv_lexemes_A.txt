@@ -41116,3 +41116,59 @@
  paradigm: Adj-j
  trans_ru: пудовый
 
+-lexeme
+ lex: чӧліник
+ gramm: A,rus_afx
+ stem: .чӧліник.
+ paradigm: Adj-consonant
+ trans_ru: тихонький
+
+-lexeme
+ lex: кельыдгӧрд
+ gramm: A
+ stem: .кельыдгӧрд.
+ paradigm: Adj-consonant
+ trans_ru: светло-красный; розовый
+
+-lexeme
+ lex: жугылиник
+ gramm: A,rus_afx
+ stem: .жугылиник.
+ paradigm: Adj-consonant
+ trans_ru: печальненький
+
+-lexeme
+ lex: туркменскӧй
+ gramm: A,rus
+ stem: .туркменскӧ.
+ paradigm: Adj-j
+ trans_ru: туркменский
+
+-lexeme
+ lex: тшыг
+ gramm: A
+ stem: .тшыг.
+ paradigm: Adj-consonant
+ trans_ru: голодный
+
+-lexeme
+ lex: рад
+ gramm: A,rus
+ stem: .рад.
+ paradigm: Adj-consonant
+ trans_ru: рад; радостный
+
+-lexeme
+ lex: веж
+ gramm: A
+ stem: .веж.
+ paradigm: Adj-consonant
+ trans_ru: зеленый
+
+-lexeme
+ lex: сёр
+ gramm: A
+ stem: .сёр.
+ paradigm: Adj-consonant
+ trans_ru: поздний
+

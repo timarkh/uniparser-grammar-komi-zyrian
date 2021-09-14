@@ -2612,3 +2612,23 @@
  paradigm: Adverbials-final
  trans_ru: там; в тех местах
 
+-lexeme
+ lex: эсыті
+ gramm: ADVPRO
+ stem: эсыті.
+ paradigm: Adverbials-final
+ trans_ru: вот там
+
+-lexeme
+ lex: эстӧні
+ gramm: ADVPRO
+ stem: эстӧні.
+ paradigm: Adverbials-final
+ trans_ru: там; вон там
+
+-lexeme
+ lex: сымында
+ gramm: ADVPRO
+ stem: сымында.
+ paradigm: Adverbials-final
+ trans_ru: столько
