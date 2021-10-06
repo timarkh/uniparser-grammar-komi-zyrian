@@ -33166,9 +33166,9 @@
 
 -lexeme
  lex: пуксьыны
- stem: пуксь.
+ stem: пукс.
  gramm: V,delim
- paradigm: V-yny
+ paradigm: V-yny-soft
  trans_ru: сесть
 
 -lexeme
@@ -44674,9 +44674,9 @@
 
 -lexeme
  lex: усьны
- stem: усь.
+ stem: ус.
  gramm: V
- paradigm: V-ny
+ paradigm: V-ny-soft
  trans_ru: упасть
 
 -lexeme
@@ -51976,9 +51976,9 @@
 -lexeme
  lex: ызӧбтыны
  stem: ызӧбт.
- gramm: V
+ gramm: V,intr
  paradigm: V-yny
- trans_ru: 
+ trans_ru: разразиться, хлынуть
 
 -lexeme
  lex: ызӧдчыны
@@ -59448,4 +59448,59 @@
  paradigm: V-ny
  trans_ru: успеть
 
+-lexeme
+ lex: вежӧдны
+ gramm: V,intr
+ stem: вежӧд.
+ paradigm: V-ny
+ trans_ru: зеленеть
+
+-lexeme
+ lex: гӧрдӧдны
+ gramm: V,intr
+ stem: гӧрдӧд.
+ paradigm: V-ny
+ trans_ru: покраснеть
+
+-lexeme
+ lex: едждӧдны
+ gramm: V,intr
+ stem: едждӧд.
+ paradigm: V-ny
+ trans_ru: побелеть
+
+-lexeme
+ lex: гильксьыны
+ gramm: V,intr
+ stem: гилькс.
+ paradigm: V-yny-soft
+ trans_ru: баловаться; хихикать
+
+-lexeme
+ lex: пинявны
+ gramm: V,tr
+ stem: пин.
+ paradigm: V-yavny
+ trans_ru: насечь; ругать
+
+-lexeme
+ lex: веськавны
+ gramm: V,intr
+ stem: веськ.
+ paradigm: V-avny
+ trans_ru: разогнуться; попасть
+
+-lexeme
+ lex: пыркмунны
+ gramm: V,intr
+ stem: пыркмун.
+ paradigm: V-ny
+ trans_ru: дрогнуть
+
+-lexeme
+ lex: гӧйгыны
+ gramm: V,intr
+ stem: гӧйг.
+ paradigm: V-yny
+ trans_ru: скатиться
 

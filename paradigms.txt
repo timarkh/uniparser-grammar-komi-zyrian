@@ -11,11 +11,11 @@
  -flex: .кӧ
   gramm: indef
   gloss: INDEF
-  regex-stem: ^(коді?|кутшӧм|мый?|кымын(ысь)?|кыдзи?|кӧн|кысь|кысянь|кытчӧ|кытысь|кытчӧдз|кыті?|кор)[.<>]*$
+  regex-stem: ^(коді?|кутшӧм|мый?|мыйта|кымын(ысь)?|кыдзи?|кӧн|кысь|кысянь|кытчӧ|кытысь|кытчӧдз|кыті?|кор)[.<>]*$
  -flex: .сюрӧ
   gramm: indef
   gloss: INDEF
-  regex-stem: ^(коді?|кутшӧм|мый?|кымын(ысь)?|кыдзи?|кӧн|кысь|кысянь|кытчӧ|кытысь|кытчӧдз|кыті?|кор)[.<>]*$
+  regex-stem: ^(коді?|кутшӧм|мый?|мыйта|кымын(ысь)?|кыдзи?|кӧн|кысь|кысянь|кытчӧ|кытысь|кытчӧдз|кыті?|кор)[.<>]*$
 
 -paradigm: Adverbials-final
  -flex: .
@@ -712,6 +712,14 @@
   gramm: pl
   gloss: PL
   paradigm: Noun-caseposs
+ -flex: .я<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: .[й]тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
 
 
 -paradigm: Noun-nom

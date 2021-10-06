@@ -21,7 +21,7 @@ def collect_lemmata(dirName):
             f = open(os.path.join(dirName, fname), 'r', encoding='utf-8-sig')
             lemmata += f.read() + '\n'
             f.close()
-        elif fname.endswith('.txt') and fname.startswith('kpv_lexrules_'):
+        elif fname.endswith('.txt') and fname.startswith('kpv_lexrules'):
             f = open(os.path.join(dirName, fname), 'r', encoding='utf-8-sig')
             lexrules += f.read() + '\n'
             f.close()

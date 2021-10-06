@@ -3454,11 +3454,18 @@
  stem: ӧньӧ.
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
- trans_ru: Андрей
+ trans_ru: Ӧньӧ (Андрей)
 
 -lexeme
  lex: Андрей
  stem: андре.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Андрей
+
+-lexeme
+ lex: Ӧндрей
+ stem: ӧндре.
  gramm: N,PN,persn
  paradigm: Noun-num-j
  trans_ru: Андрей
@@ -73589,3 +73596,51 @@
  paradigm: Noun-num-vowel
  trans_ru: Хая
 
+-lexeme
+ lex: Мишарин
+ gramm: N,PN,famn
+ stem: мишарин.
+ paradigm: Noun-num-consonant
+ trans_ru: Мишарин
+
+-lexeme
+ lex: Айювинскӧй
+ gramm: N,PN,topn
+ stem: айювинскӧ.
+ paradigm: Noun-num-j
+ trans_ru: Айювинский
+
+-lexeme
+ lex: Вань
+ gramm: N,PN,persn
+ stem: ван.
+ paradigm: Noun-num-soft
+ trans_ru: Ваня
+
+-lexeme
+ lex: Пома
+ gramm: N,PN,persn
+ stem: пома.
+ paradigm: Noun-num-vowel
+ trans_ru: Фома
+
+-lexeme
+ lex: Митреич
+ gramm: N,patrn,PN
+ stem: митреич.
+ paradigm: Noun-num-consonant
+ trans_ru: Митреич
+
+-lexeme
+ lex: Товпеко
+ gramm: N,PN,famn
+ stem: товпеко.
+ paradigm: Noun-num-vowel
+ trans_ru: Товпеко
+
+-lexeme
+ lex: Чихалов
+ gramm: N,PN,famn
+ stem: чихалов.
+ paradigm: Noun-num-consonant
+ trans_ru: Чихалов

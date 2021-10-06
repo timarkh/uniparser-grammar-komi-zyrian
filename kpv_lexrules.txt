@@ -1,0 +1,58 @@
+﻿-lex_rule
+ -search
+  lex: йыв
+  gramm: N.*,el.*
+ -add
+  lex2: йылысь
+  trans_ru2: об, обо
+
+-lex_rule
+ -search
+  lex: сай
+  gramm: N.*,loc.*
+  gloss: STEM-LOC.*
+ -add
+  lex2: сайын
+  trans_ru2: тому назад
+
+-lex_rule
+ -search
+  lex: бӧр
+  gramm: N.*,loc.*
+ -add
+  lex2: бӧрын
+  trans_ru2: после
+
+-lex_rule
+ -search
+  lex: лыд
+  gramm: N.*,el.*
+ -add
+  lex2: лыдысь
+  trans_ru2: из
+
+-lex_rule
+ -search
+  lex: дор
+  gramm: N.*,el.*
+ -add
+  lex2: дорысь
+  trans_ru2: по сравнению с
+
+-lex_rule
+ -search
+  lex: петны
+  gramm: V,.*
+  gloss: STEM-CVB.MON
+ -add
+  lex2: петмӧн
+  trans_ru2: до появления чего-л.
+
+-lex_rule
+ -search
+  lex: шыавны
+  gramm: V,.*
+  gloss: STEM-PASS.*
+ -add
+  lex2: шыасьны
+  trans_ru2: отозваться

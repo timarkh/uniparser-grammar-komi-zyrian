@@ -1,13 +1,13 @@
 ﻿-lexeme
  lex: миллиард
- stem: миллиард.
+ stem: миллиард.//млрд.
  gramm: NUM,rus
  paradigm: NUM-consonant
  trans_ru: миллиард
 
 -lexeme
  lex: миллион
- stem: миллион.
+ stem: миллион.//млн.
  gramm: NUM,rus
  paradigm: NUM-consonant
  trans_ru: миллион
@@ -291,4 +291,32 @@
  stem: десятӧй.
  paradigm: Adj-j
  trans_ru: десятый
+
+-lexeme
+ lex: девятӧй
+ gramm: NUM,rus,ord
+ stem: девятӧй.
+ paradigm: Clitics
+ trans_ru: девятый
+
+-lexeme
+ lex: пять
+ gramm: NUM,rus
+ stem: пять.
+ paradigm: Clitics
+ trans_ru: пять
+
+-lexeme
+ lex: шесть
+ gramm: NUM,rus
+ stem: шесть.
+ paradigm: Clitics
+ trans_ru: шесть
+
+-lexeme
+ lex: седьмӧй
+ gramm: NUM,rus,ord
+ stem: седьмӧй.
+ paradigm: Clitics
+ trans_ru: седьмой
 

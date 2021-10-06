@@ -6989,7 +6989,7 @@
  stem: .джуджыд.
  gramm: A
  paradigm: Adj-consonant
- trans_ru: высокий
+ trans_ru: высокий; глубокий
 
 -lexeme
  lex: джынъя
@@ -41163,7 +41163,7 @@
  gramm: A
  stem: .веж.
  paradigm: Adj-consonant
- trans_ru: зеленый
+ trans_ru: зелёный; жёлтый
 
 -lexeme
  lex: сёр
@@ -41171,4 +41171,53 @@
  stem: .сёр.
  paradigm: Adj-consonant
  trans_ru: поздний
+
+-lexeme
+ lex: агрегатнӧй
+ gramm: A,rus
+ stem: .агрегатнӧ.
+ paradigm: Adj-j
+ trans_ru: агрегатный
+
+-lexeme
+ lex: чӧлӧй
+ gramm: A,rus
+ stem: .чӧлӧ.
+ paradigm: Adj-j
+ trans_ru: целый
+
+-lexeme
+ lex: Ухтинскӧй
+ gramm: A,rus
+ stem: .ухтинскӧ.
+ paradigm: Adj-j
+ trans_ru: Ухтинский
+
+-lexeme
+ lex: водз
+ gramm: A
+ stem: .водз.
+ paradigm: Adj-consonant
+ trans_ru: передний
+
+-lexeme
+ lex: гӧрдоват
+ gramm: A,rus_afx
+ stem: .гӧрдоват.
+ paradigm: Adj-consonant
+ trans_ru: красноватый
+
+-lexeme
+ lex: посторонньӧй
+ gramm: A,rus
+ stem: .посторонньӧ.
+ paradigm: Adj-j
+ trans_ru: посторонний
+
+-lexeme
+ lex: ладнӧй
+ gramm: A,rus
+ stem: .ладнӧ.
+ paradigm: Adj-j
+ trans_ru: ладный
 

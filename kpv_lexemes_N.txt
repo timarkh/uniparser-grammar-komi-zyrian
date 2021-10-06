@@ -47137,6 +47137,13 @@
  trans_ru: короб из луба
 
 -lexeme
+ lex: сьӧмкуд
+ stem: сьӧмкуд.
+ gramm: N
+ paradigm: Noun-num-obl_j
+ trans_ru: бюджет
+
+-lexeme
  lex: кудель
  stem: кудел.
  gramm: N,rus
@@ -48388,6 +48395,13 @@
  gramm: N,nmlz_tor
  paradigm: Noun-num-consonant
  trans_ru: горечь
+
+-lexeme
+ lex: мукӧдтор
+ stem: мукӧдтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-consonant
+ trans_ru: другое
 
 -lexeme
  lex: курыньга
@@ -61660,6 +61674,13 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: земля
+
+-lexeme
+ lex: дінму
+ stem: дінму.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: край (регион)
 
 -lexeme
  lex: му-видз
@@ -79782,7 +79803,7 @@
  stem: пос.|поск.
  gramm: N
  paradigm: Noun-num-obl_cons
- trans_ru: лестница
+ trans_ru: мост; лестница; пол
 
 -lexeme
  lex: посводз
@@ -83217,6 +83238,13 @@
 -lexeme
  lex: процент
  stem: процент.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: процент
+
+-lexeme
+ lex: прӧчент
+ stem: прӧчент.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: процент
@@ -130875,4 +130903,116 @@
  stem: кодкӧлун.
  paradigm: Noun-num-consonant
  trans_ru: недавнее время
+
+-lexeme
+ lex: пӧсь
+ gramm: N
+ stem: пӧс.
+ paradigm: Noun-num-soft
+ trans_ru: пот
+
+-lexeme
+ lex: выработка
+ gramm: N,rus
+ stem: выработка.
+ paradigm: Noun-num-vowel
+ trans_ru: выработка
+
+-lexeme
+ lex: велӧданатор
+ gramm: N,nmlz_tor
+ stem: велӧданатор.
+ paradigm: Noun-num-obl_j
+ trans_ru: то, что нужно выучить
+
+-lexeme
+ lex: лешачика
+ gramm: N,supernat,rus
+ stem: лешачика.
+ paradigm: Noun-num-vowel
+ trans_ru: лешачиха
+
+-lexeme
+ lex: корреспондентка
+ gramm: N,anim,hum,rus
+ stem: корреспондентка.
+ paradigm: Noun-num-vowel
+ trans_ru: корреспондентка
+
+-lexeme
+ lex: зырымсюр
+ gramm: N,anim,hum
+ stem: зырымсюр.
+ paradigm: Noun-num-consonant
+ trans_ru: сопляк
+
+-lexeme
+ lex: учком
+ gramm: N,abbr,rus
+ stem: учком.
+ paradigm: Noun-num-consonant
+ trans_ru: учком (учебный комитет)
+
+-lexeme
+ lex: сортовитанін
+ gramm: N,rus,nmlz_in
+ stem: сортовитанін.
+ paradigm: Noun-num-consonant
+ trans_ru: место заготовки сортового леса
+
+-lexeme
+ lex: весаланін
+ gramm: N,nmlz_in
+ stem: весаланін.
+ paradigm: Noun-num-consonant
+ trans_ru: сооружение
+
+-lexeme
+ lex: агрономша
+ gramm: N,anim,hum,rus
+ stem: агрономша.
+ paradigm: Noun-num-vowel
+ trans_ru: агрономша
+
+-lexeme
+ lex: лошадка
+ gramm: N,anim,rus
+ stem: лошадка.
+ paradigm: Noun-num-vowel
+ trans_ru: лошадка
+
+-lexeme
+ lex: кекӧнь
+ gramm: N,body
+ stem: кекӧн.
+ paradigm: Noun-num-soft
+ trans_ru: ручка; ручки
+
+-lexeme
+ lex: директорша
+ gramm: N,anim,hum,rus
+ stem: директорша.
+ paradigm: Noun-num-vowel
+ trans_ru: директорша
+
+-lexeme
+ lex: самодеятельносьт
+ gramm: N,rus
+ stem: самодеятельносьт.
+ paradigm: Noun-num-consonant
+ trans_ru: самодеятельность
+
+-lexeme
+ lex: председательша
+ gramm: N,anim,hum,rus
+ stem: председательша.
+ paradigm: Noun-num-vowel
+ trans_ru: председательша
+
+-lexeme
+ lex: бухгалтерша
+ gramm: N,anim,hum,rus
+ stem: бухгалтерша.
+ paradigm: Noun-num-vowel
+ trans_ru: бухгалтерша
 

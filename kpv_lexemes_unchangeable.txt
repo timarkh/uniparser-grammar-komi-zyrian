@@ -5003,13 +5003,6 @@
  trans_ru: из-за голода
 
 -lexeme
- lex: тшӧтш
- stem: тшӧтш.
- gramm: ADV
- paradigm: Adverbials-final
- trans_ru: вместе
-
--lexeme
  lex: тыдалӧ
  stem: тыдалӧ.
  gramm: PARENTH
@@ -7079,4 +7072,95 @@
  stem: этша-этш.
  paradigm: Adverbials-final
  trans_ru: в какой-то мере; немного
+
+-lexeme
+ lex: бӧртинас
+ gramm: ADV
+ stem: бӧртинас.
+ paradigm: Adverbials-final
+ trans_ru: после
+
+-lexeme
+ lex: тшӧтш
+ gramm: ADV
+ stem: тшӧтш.
+ paradigm: Adverbials-final
+ trans_ru: тоже; вместе
+
+-lexeme
+ lex: отлично
+ gramm: ADV,rus
+ stem: отлично.
+ paradigm: Adverbials-final
+ trans_ru: отлично
+
+-lexeme
+ lex: мырдысьӧн
+ gramm: ADV
+ stem: мырдысьӧн.
+ paradigm: Adverbials-final
+ trans_ru: насильно
+
+-lexeme
+ lex: шуам
+ gramm: PARENTH
+ stem: шуам.
+ paradigm: Clitics
+ trans_ru: скажем
+
+-lexeme
+ lex: кӧнкӧ
+ gramm: PARENTH
+ stem: кӧнкӧ.
+ paradigm: Clitics
+ trans_ru: вероятно
+
+-lexeme
+ lex: и
+ gramm: PART,rus
+ stem: и.
+ paradigm: Clitics
+ trans_ru: и
+
+-lexeme
+ lex: кӧ
+ gramm: PART
+ stem: кӧ.
+ paradigm: Clitics
+ trans_ru: видимо
+
+-lexeme
+ lex: но
+ gramm: PART
+ stem: но-о.
+ paradigm: Clitics
+ trans_ru: ну
+
+-lexeme
+ lex: пасьта
+ gramm: POST
+ stem: пасьта.
+ paradigm: Clitics
+ trans_ru: шириной со что-либо
+
+-lexeme
+ lex: кузя
+ gramm: POST
+ stem: кузя.
+ paradigm: Clitics
+ trans_ru: по
+
+-lexeme
+ lex: яндзим
+ gramm: PREDIC
+ stem: яндзим.
+ paradigm: Clitics
+ trans_ru: стыдно
+
+-lexeme
+ lex: социально
+ gramm: ADV,rus
+ stem: социально.
+ paradigm: Clitics
+ trans_ru: социально
 

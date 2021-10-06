@@ -2561,7 +2561,7 @@
  gramm: PRO
  stem: ӧткымын.
  paradigm: Clitics
- trans_ru: кое-кто; некоторые
+ trans_ru: кое-кто; некоторые; кое-какие
 
 -lexeme
  lex: ничего
@@ -2586,7 +2586,7 @@
 
 -lexeme
  lex: мыйта
- gramm: PRO
+ gramm: ADVPRO
  stem: мыйта.
  paradigm: Clitics
  trans_ru: сколько
@@ -2632,3 +2632,4 @@
  stem: сымында.
  paradigm: Adverbials-final
  trans_ru: столько
+
