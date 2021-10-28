@@ -56,3 +56,12 @@
  -add
   lex2: шыасьны
   trans_ru2: отозваться
+
+-lex_rule
+ -search
+  lex: гӧтравны
+  gramm: V,.*
+  gloss: STEM-PASS.*
+ -add
+  lex2: гӧтрасьны
+  trans_ru2: жениться

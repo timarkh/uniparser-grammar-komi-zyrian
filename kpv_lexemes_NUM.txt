@@ -28,7 +28,7 @@
 
 -lexeme
  lex: ӧти
- stem: ӧти.//1.//1-.
+ stem: ӧти.//ӧт.//1.//1-.
  gramm: NUM
  paradigm: NUM-vowel
  trans_ru: один
@@ -319,4 +319,11 @@
  stem: седьмӧй.
  paradigm: Clitics
  trans_ru: седьмой
+
+-lexeme
+ lex: восьмӧй
+ gramm: NUM,ord,rus
+ stem: восьмӧй.
+ paradigm: Clitics
+ trans_ru: восьмой
 

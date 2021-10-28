@@ -73644,3 +73644,38 @@
  stem: чихалов.
  paradigm: Noun-num-consonant
  trans_ru: Чихалов
+
+-lexeme
+ lex: Езус
+ gramm: N,PN,persn
+ stem: езус.
+ paradigm: Noun-num-consonant
+ trans_ru: Иисус
+
+-lexeme
+ lex: Епрось
+ gramm: N,persn,PN
+ stem: епрос.
+ paradigm: Noun-num-soft
+ trans_ru: Ефросинья
+
+-lexeme
+ lex: Иванушка
+ gramm: N,persn,PN
+ stem: иванушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Иванушка
+
+-lexeme
+ lex: Антиповна
+ gramm: N,patrn,PN
+ stem: антиповна.
+ paradigm: Noun-num-vowel
+ trans_ru: Антиповна
+
+-lexeme
+ lex: Липницкий
+ gramm: N,PN,famn
+ stem: липницки.
+ paradigm: Noun-num-j
+ trans_ru: Липницкий

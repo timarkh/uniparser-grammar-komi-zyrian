@@ -2633,3 +2633,30 @@
  paradigm: Adverbials-final
  trans_ru: столько
 
+-lexeme
+ lex: татӧн
+ gramm: ADVPRO
+ stem: татӧн.
+ paradigm: Adverbials-final
+ trans_ru: здесь
+
+-lexeme
+ lex: эсся
+ gramm: ADVPRO
+ stem: эсся.
+ paradigm: Adverbials-final
+ trans_ru: затем
+
+-lexeme
+ lex: сідзсӧ
+ gramm: ADVPRO
+ stem: сідзсӧ.
+ paradigm: Adverbials-final
+ trans_ru: так, так-то
+
+-lexeme
+ lex: этійӧ
+ gramm: PRO
+ stem: этійӧ.
+ paradigm: Clitics
+ trans_ru: этот, вот этот

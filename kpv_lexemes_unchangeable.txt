@@ -7164,3 +7164,128 @@
  paradigm: Clitics
  trans_ru: социально
 
+-lexeme
+ lex: мукӧддырйиыс
+ gramm: ADV
+ stem: мукӧддырйиыс.
+ paradigm: Adverbials-final
+ trans_ru: иногда
+
+-lexeme
+ lex: бӧртинас
+ gramm: ADV
+ stem: бӧртинас.
+ paradigm: Adverbials-final
+ trans_ru: впоследствии
+
+-lexeme
+ lex: мыйтакӧ
+ gramm: ADV
+ stem: мыйтакӧ.
+ paradigm: Adverbials-final
+ trans_ru: отчасти
+
+-lexeme
+ lex: мӧдлаысь
+ gramm: ADV
+ stem: мӧдлаысь.
+ paradigm: Adverbials-final
+ trans_ru: из другого места
+
+-lexeme
+ lex: тшынйыв
+ gramm: ADV
+ stem: тшынйыв.
+ paradigm: Adverbials-final
+ trans_ru: в никуда
+
+-lexeme
+ lex: важӧн
+ gramm: ADV
+ stem: важӧн.
+ paradigm: Adverbials-final
+ trans_ru: давно, в старину
+
+-lexeme
+ lex: н-но
+ gramm: INTRJ
+ stem: н-но.
+ paradigm: Clitics
+ trans_ru: н-но
+
+-lexeme
+ lex: уй
+ gramm: INTRJ
+ stem: уй.
+ paradigm: Clitics
+ trans_ru: ух
+
+-lexeme
+ lex: ха-ха-ха
+ gramm: INTRJ,rus
+ stem: ха-ха-ха.
+ paradigm: Clitics
+ trans_ru: ха-ха-ха
+
+-lexeme
+ lex: ура
+ gramm: INTRJ,rus
+ stem: ур-ра.
+ paradigm: Clitics
+ trans_ru: ура
+
+-lexeme
+ lex: то
+ gramm: CONJ,rus
+ stem: то.
+ paradigm: Clitics
+ trans_ru: то
+
+-lexeme
+ lex: чем
+ gramm: CONJ,rus
+ stem: чем.
+ paradigm: Clitics
+ trans_ru: чем
+
+-lexeme
+ lex: чуп
+ gramm: IMIT
+ stem: чуп.
+ paradigm: Clitics
+ trans_ru: чмок
+
+-lexeme
+ lex: рач
+ gramm: IMIT
+ stem: рач.
+ paradigm: Clitics
+ trans_ru: звукоподражание треску
+
+-lexeme
+ lex: вач
+ gramm: IMIT
+ stem: вач.
+ paradigm: Clitics
+ trans_ru: с треском
+
+-lexeme
+ lex: значит
+ gramm: PARENTH,rus
+ stem: значит.
+ paradigm: Clitics
+ trans_ru: значит
+
+-lexeme
+ lex: пӧжалуй
+ gramm: PARENTH
+ stem: пӧжалуй.
+ paradigm: Clitics
+ trans_ru: пожалуй
+
+-lexeme
+ lex: й
+ gramm: PART
+ stem: й.
+ paradigm: Clitics
+ trans_ru: и

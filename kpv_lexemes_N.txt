@@ -131016,3 +131016,171 @@
  paradigm: Noun-num-vowel
  trans_ru: бухгалтерша
 
+-lexeme
+ lex: судта
+ gramm: N
+ stem: судта.
+ paradigm: Noun-num-vowel
+ trans_ru: этаж
+
+-lexeme
+ lex: жар
+ gramm: N,rus
+ stem: жар.
+ paradigm: Noun-num-consonant
+ trans_ru: жар; жара
+
+-lexeme
+ lex: грязь
+ gramm: N,rus
+ stem: гряз.
+ paradigm: Noun-num-soft
+ trans_ru: грязь
+
+-lexeme
+ lex: гразь
+ gramm: N,rus
+ stem: граз.
+ paradigm: Noun-num-soft
+ trans_ru: грязь
+
+-lexeme
+ lex: пӧварика
+ gramm: N,anim,rus,hum
+ stem: пӧварика.
+ paradigm: Noun-num-vowel
+ trans_ru: повариха
+
+-lexeme
+ lex: лункосмӧс
+ gramm: N,time_meas
+ stem: лункосмӧс.
+ paradigm: Noun-num-consonant
+ trans_ru: время через день
+
+-lexeme
+ lex: детин
+ gramm: N,anim,rus,hum
+ stem: детин.
+ paradigm: Noun-num-consonant
+ trans_ru: парень
+
+-lexeme
+ lex: кокӧнь
+ gramm: N,body
+ stem: кокӧн.
+ paradigm: Noun-num-soft
+ trans_ru: ножка; ножки
+
+-lexeme
+ lex: дульва
+ gramm: N
+ stem: дульва.
+ paradigm: Noun-num-vowel
+ trans_ru: слюна (обильная)
+
+-lexeme
+ lex: нянь
+ gramm: N
+ stem: ня-а-н.
+ paradigm: Noun-num-soft
+ trans_ru: хлеб
+
+-lexeme
+ lex: котраланін
+ gramm: N,nmlz_in
+ stem: котраланін.
+ paradigm: Noun-num-consonant
+ trans_ru: место, где бегают
+
+-lexeme
+ lex: скаредина
+ gramm: N,anim,rus,hum
+ stem: скаредина.
+ paradigm: Noun-num-vowel
+ trans_ru: скаредина
+
+-lexeme
+ lex: лукавство
+ gramm: N,rus
+ stem: лукавство.
+ paradigm: Noun-num-vowel
+ trans_ru: лукавство
+
+-lexeme
+ lex: ладинеч
+ gramm: N,anim,rus,hum
+ stem: ладинеч.
+ paradigm: Noun-num-consonant
+ trans_ru: младенец
+
+-lexeme
+ lex: кӧв
+ gramm: N
+ stem: кӧл.
+ paradigm: Noun-num-consonant
+ trans_ru: веревка
+
+-lexeme
+ lex: тӧварыш
+ gramm: N,anim,rus,hum
+ stem: тӧварыш.
+ paradigm: Noun-num-consonant
+ trans_ru: товарищ
+
+-lexeme
+ lex: тьӧтушка
+ gramm: N,anim,rus,hum
+ stem: тьӧтушка.
+ paradigm: Noun-num-vowel
+ trans_ru: тётушка
+
+-lexeme
+ lex: другсикас
+ gramm: N,anim,rus,hum
+ stem: другсикас.
+ paradigm: Noun-num-consonant
+ trans_ru: сотоварищи
+
+-lexeme
+ lex: полӧкалӧ
+ gramm: N
+ stem: полӧкалӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: чучело
+
+-lexeme
+ lex: тшынйыв
+ gramm: N
+ stem: тшынйыв.|тшынйыл.
+ paradigm: Noun-num-v_l
+ trans_ru: пепел
+
+-lexeme
+ lex: энергохимустановка
+ gramm: N,rus
+ stem: энергохимустановка.
+ paradigm: Noun-num-vowel
+ trans_ru: энергохимустановка
+
+-lexeme
+ lex: грейдер
+ gramm: N,rus,transport
+ stem: грейдер.
+ paradigm: Noun-num-consonant
+ trans_ru: грейдер
+
+-lexeme
+ lex: слесар
+ gramm: N,rus,anim,hum
+ stem: слесар.
+ paradigm: Noun-num-consonant
+ trans_ru: слесарь
+
+-lexeme
+ lex: бур
+ gramm: N
+ stem: бур.
+ paradigm: Noun-num-consonant
+ trans_ru: добро, благо
+

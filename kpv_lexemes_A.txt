@@ -41221,3 +41221,108 @@
  paradigm: Adj-j
  trans_ru: ладный
 
+-lexeme
+ lex: куш
+ gramm: A
+ stem: .куш.
+ paradigm: Adj-consonant
+ trans_ru: голый
+
+-lexeme
+ lex: код
+ gramm: A
+ stem: .код.
+ paradigm: Adj-consonant
+ trans_ru: пьяный
+
+-lexeme
+ lex: шоныд
+ gramm: A
+ stem: .шоныд.
+ paradigm: Adj-consonant
+ trans_ru: тёплый
+
+-lexeme
+ lex: збойиник
+ gramm: A,rus
+ stem: .збойиник.
+ paradigm: Adj-consonant
+ trans_ru: бойкий
+
+-lexeme
+ lex: раминик
+ gramm: A,rus_afx
+ stem: .раминик.
+ paradigm: Adj-consonant
+ trans_ru: спокойненький
+
+-lexeme
+ lex: посньыдик
+ gramm: A,rus_afx
+ stem: .посньыдик.
+ paradigm: Adj-consonant
+ trans_ru: мелкий
+
+-lexeme
+ lex: обчественнӧй
+ gramm: A,rus
+ stem: .обчественнӧ.
+ paradigm: Adj-j
+ trans_ru: общественный
+
+-lexeme
+ lex: безгрешнӧй
+ gramm: A,rus
+ stem: .безгрешнӧ.
+ paradigm: Adj-j
+ trans_ru: безгрешный
+
+-lexeme
+ lex: боска
+ gramm: A,rus
+ stem: .боска.
+ paradigm: Adj-vowel
+ trans_ru: божеская
+
+-lexeme
+ lex: гуранӧсь
+ gramm: A,oblin
+ stem: .гуранӧс.
+ paradigm: Adj-soft
+ trans_ru: ухабистый
+
+-lexeme
+ lex: ыджыдкодь
+ gramm: A
+ stem: .ыджыдкод.
+ paradigm: Adj-soft
+ trans_ru: большеватый
+
+-lexeme
+ lex: содтӧд
+ gramm: A
+ stem: .содтӧд.
+ paradigm: Adj-consonant
+ trans_ru: дополнительный
+
+-lexeme
+ lex: омӧль
+ gramm: A,oblin
+ stem: .омӧл.
+ paradigm: Adj-soft
+ trans_ru: плохой
+
+-lexeme
+ lex: дыр
+ gramm: A
+ stem: .дыр.
+ paradigm: Adj-consonant
+ trans_ru: долгий
+
+-lexeme
+ lex: лежневӧй
+ gramm: A,rus
+ stem: .лежневӧ.
+ paradigm: Adj-j
+ trans_ru: лежневый
+

@@ -13243,13 +13243,6 @@
  trans_ru: отделять и сметать полову, мякину
 
 -lexeme
- lex: жуглавны
- stem: жугл.
- gramm: V
- paradigm: V-avny
- trans_ru: 
-
--lexeme
  lex: жуглыны
  stem: жугл.
  gramm: V
@@ -31592,7 +31585,7 @@
 -lexeme
  lex: писькӧдны
  stem: писькӧд.
- gramm: V
+ gramm: V,tr
  paradigm: V-ny
  trans_ru: сверлить
 
@@ -40533,13 +40526,6 @@
  stem: торйӧдчы.
  gramm: V,delim
  paradigm: V-vny
- trans_ru: 
-
--lexeme
- lex: торкавны
- stem: торк.
- gramm: V
- paradigm: V-avny
  trans_ru: 
 
 -lexeme
@@ -59503,4 +59489,102 @@
  stem: гӧйг.
  paradigm: V-yny
  trans_ru: скатиться
+
+-lexeme
+ lex: лолыштны
+ gramm: V,intr
+ stem: лолышт.
+ paradigm: V-ny
+ trans_ru: вдохнуть
+
+-lexeme
+ lex: видлыны
+ gramm: V,tr
+ stem: видл.
+ paradigm: V-yny
+ trans_ru: пробовать; осмотреть
+
+-lexeme
+ lex: тетьӧдны
+ gramm: V,tr
+ stem: тетьӧд.
+ paradigm: V-ny
+ trans_ru: смешить, баловать
+
+-lexeme
+ lex: шняпйӧдлыны
+ gramm: V,tr
+ stem: шняпйӧдл.
+ paradigm: V-yny
+ trans_ru: шлёпать
+
+-lexeme
+ lex: эшкысьны
+ gramm: V,intr
+ stem: эшкыс.
+ paradigm: V-ny-soft
+ trans_ru: зиять
+
+-lexeme
+ lex: нурбылявны
+ gramm: V,tr
+ stem: нурбыл.
+ paradigm: V-yavny
+ trans_ru: лепетать
+
+-lexeme
+ lex: гыӧрзьыны
+ gramm: V,intr
+ stem: гыӧрз.
+ paradigm: V-yny-soft
+ trans_ru: заиндеветь
+
+-lexeme
+ lex: тыдыштны
+ gramm: V,intr
+ stem: тыдышт.
+ paradigm: V-ny
+ trans_ru: виднеться
+
+-lexeme
+ lex: дзивкйӧдлыны
+ gramm: V,intr
+ stem: дзивкйӧдл.
+ paradigm: V-yny
+ trans_ru: свистеть
+
+-lexeme
+ lex: висьны
+ gramm: V,intr
+ stem: вис.
+ paradigm: V-ny-soft
+ trans_ru: болеть
+
+-lexeme
+ lex: сувтлыны
+ gramm: V,intr
+ stem: сувтл.
+ paradigm: V-yny
+ trans_ru: остановиться
+
+-lexeme
+ lex: писькӧдны
+ gramm: V,tr
+ stem: писькӧд.
+ paradigm: V-ny
+ trans_ru: провести
+
+-lexeme
+ lex: жуглавны
+ gramm: V,tr
+ stem: жугл.
+ paradigm: V-avny
+ trans_ru: разбить
+
+-lexeme
+ lex: торкавны
+ gramm: V,tr
+ stem: торк.
+ paradigm: V-avny
+ trans_ru: нарушать, сбивать
 
