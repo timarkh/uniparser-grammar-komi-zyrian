@@ -73679,3 +73679,10 @@
  stem: липницки.
  paradigm: Noun-num-j
  trans_ru: Липницкий
+
+-lexeme
+ lex: Балыбина
+ stem: балыбина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Балыбина

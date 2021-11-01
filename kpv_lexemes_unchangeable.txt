@@ -5242,9 +5242,9 @@
 
 -lexeme
  lex: уна
- stem: унджык.
- gramm: ADV,comp
- paradigm: Adverbials-final
+ stem: ун.
+ gramm: ADV
+ paradigm: Adverbials-final-comp
  trans_ru: много
 
 -lexeme

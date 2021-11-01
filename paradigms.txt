@@ -23,6 +23,12 @@
  -flex: .джык
   gramm: comp
   gloss: COMP
+ -flex: .джык|ӧн
+  gramm: comp,ins
+  gloss: COMP|INS
+ -flex: .джык|ӧн|ыс
+  gramm: comp,ins,3sg
+  gloss: COMP|INS|3SG
  -flex: .ӧсь
   gramm: pl
   gloss: PL.PRED
@@ -33,6 +39,19 @@
   gramm: comp,pl
   gloss: COMP|PL.PRED
 
+-paradigm: Adverbials-final-comp
+ -flex: .джык
+  gramm: comp
+  gloss: COMP
+ -flex: .джык|ӧн
+  gramm: comp,ins
+  gloss: COMP|INS
+ -flex: .джык|ӧн|ыс
+  gramm: comp,ins,3sg
+  gloss: COMP|INS|3SG
+ -flex: .джык|ӧсь
+  gramm: comp,pl
+  gloss: COMP|PL.PRED
 
 -paradigm: NUM-consonant
  -flex: .<.>
@@ -300,7 +319,7 @@
   paradigm: Noun-caseposs_consonant
  -flex: <1>.<.>
   gramm: sg
-  paradigm: Noun-caseposs_vowel  
+  paradigm: Noun-caseposs_vowel
  -flex: <0>.ъяс<.>
   gramm: pl
   gloss: PL
@@ -326,6 +345,44 @@
   gloss: NEG.ATTR
   paradigm: Adj-consonant
  -flex: <0>.са<.>
+  gramm: attr,attr_loc
+  gloss: ATTR
+  paradigm: Adj-vowel
+
+
+-paradigm: Noun-num-obl_soft
+ -flex: <0>.[ь]<.>
+  gramm: sg
+  paradigm: Noun-nom
+  paradigm: Noun-caseposs_consonant
+ -flex: <1>.<.>
+  gramm: sg
+  paradigm: Noun-caseposs_vowel
+ -flex: <0>.[ь]яс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-caseposs
+ -flex: <0>.[ь]яс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
+ -flex: <0>.[ь]яс|са<.>
+  gramm: pl,attr,attr_loc
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
+ -flex: <0>.[ь]яс|тӧм<.>
+  gramm: pl,neg_attr
+  gloss: PL|NEG.ATTR
+  paradigm: Adj-consonant
+ -flex: <1>.а<.>//<0>.я<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: <0>.[ь]тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
+ -flex: <0>.[ь]са<.>
   gramm: attr,attr_loc
   gloss: ATTR
   paradigm: Adj-vowel
@@ -502,6 +559,40 @@
 
 
 
+
+
+-paradigm: Adj-comp-sfx
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-caseposs_consonant
+  paradigm: Noun-caseposs_vowel_a
+  paradigm: Noun-caseposs_vowel_ə
+ -flex: .ӧсь<.>
+  gramm: pl
+  gloss: PL.PRED
+  paradigm: Clitics
+ -flex: .ъяс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-caseposs
+ -flex: .а<.>
+  gramm: attr,attr_a
+  gloss: ATTR
+  paradigm: Adj-vowel
+ -flex: .тӧм<.>
+  gramm: neg_attr
+  gloss: NEG.ATTR
+  paradigm: Adj-consonant
+ -flex: .ъяс|а<.>
+  gramm: pl,attr,attr_a
+  gloss: PL|ATTR
+  paradigm: Adj-vowel
+ -flex: .ъяс|тӧм<.>
+  gramm: pl,neg_attr
+  gloss: PL|NEG.ATTR
+  paradigm: Adj-consonant
+
+
 -paradigm: Adj-consonant
  -flex: .<.>
   gramm: 
@@ -515,19 +606,9 @@
   gramm: sg
   paradigm: Noun-caseposs
  -flex: .джык<.>
-  gramm: sg,comp
+  gramm: comp
   gloss: COMP
-  paradigm: Noun-caseposs_consonant
-  paradigm: Noun-caseposs_vowel_a
-  paradigm: Noun-caseposs_vowel_ə
- -flex: .джык|а<.>
-  gramm: sg,comp,attr,attr_a
-  gloss: COMP|ATTR
-  paradigm: Adj-vowel
- -flex: .джык|ӧсь<.>
-  gramm: pl,comp
-  gloss: COMP|PL.PRED
-  paradigm: Clitics
+  paradigm: Adj-comp-sfx
  -flex: .ӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -564,19 +645,9 @@
   gramm: sg
   paradigm: Noun-caseposs
  -flex: .джык<.>
-  gramm: sg,comp
+  gramm: comp
   gloss: COMP
-  paradigm: Noun-caseposs_consonant
-  paradigm: Noun-caseposs_vowel_a
-  paradigm: Noun-caseposs_vowel_ə
- -flex: .джык|а<.>
-  gramm: sg,comp,attr,attr_a
-  gloss: COMP|ATTR
-  paradigm: Adj-vowel
- -flex: .джык|ӧсь<.>
-  gramm: pl,comp
-  gloss: COMP|PL.PRED
-  paradigm: Clitics
+  paradigm: Adj-comp-sfx
  -flex: .ӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -614,19 +685,9 @@
   gramm: sg
   paradigm: Noun-caseposs_vowel_ja
  -flex: .[ь]джык<.>
-  gramm: sg,comp
+  gramm: comp
   gloss: COMP
-  paradigm: Noun-caseposs_consonant
-  paradigm: Noun-caseposs_vowel_a
-  paradigm: Noun-caseposs_vowel_ə
- -flex: .[ь]джык|а<.>
-  gramm: sg,comp,attr,attr_a
-  gloss: COMP|ATTR
-  paradigm: Adj-vowel
- -flex: .[ь]джык|ӧсь<.>
-  gramm: pl,comp
-  gloss: COMP|PL.PRED
-  paradigm: Clitics
+  paradigm: Adj-comp-sfx
  -flex: .[ь]ӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -657,15 +718,9 @@
   gramm: sg
   paradigm: Noun-caseposs_vowel_ja
  -flex: .ьджык<.>
-  gramm: sg,comp
+  gramm: comp
   gloss: COMP
-  paradigm: Noun-caseposs_consonant
-  paradigm: Noun-caseposs_vowel_a
-  paradigm: Noun-caseposs_vowel_ə
- -flex: .ьджык|ӧсь<.>
-  gramm: pl,comp
-  gloss: COMP|PL.PRED
-  paradigm: Clitics
+  paradigm: Adj-comp-sfx
  -flex: .ьӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -695,15 +750,9 @@
   gramm: sg
   paradigm: Noun-caseposs_vowel_ja
  -flex: .[й]джык<.>
-  gramm: sg,comp
+  gramm: comp
   gloss: COMP
-  paradigm: Noun-caseposs_consonant
-  paradigm: Noun-caseposs_vowel_a
-  paradigm: Noun-caseposs_vowel_ə
- -flex: .[й]джык|ӧсь<.>
-  gramm: pl,comp
-  gloss: COMP|PL.PRED
-  paradigm: Clitics
+  paradigm: Adj-comp-sfx
  -flex: .[й]ӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -1809,6 +1858,12 @@
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
+ -flex: .сь|лыв|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .ч|ыв<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
@@ -1831,6 +1886,12 @@
  -flex: .лыв|л<.>
   gramm: delim
   gloss: DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .в|лыв|л<.>
+  gramm: delim
+  gloss: DELIM|DELIM|DELIM
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
@@ -2074,6 +2135,12 @@
  -flex: .сь|л<.>
   gramm: pass,pass_ysj,delim
   gloss: PASS|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .сь|лыв|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM|DELIM
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
@@ -2329,6 +2396,12 @@
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
+ -flex: .[а]сь|лыв|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .[а]ссьы|в<.>//.[ав]ссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
@@ -2581,6 +2654,12 @@
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
+ -flex: .[я]сь|лыв|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .[я]ссьы|в<.>//.[яв]ссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
@@ -2829,6 +2908,12 @@
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
+ -flex: .ысь|лыв|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .ыссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
@@ -2854,6 +2939,12 @@
  -flex: .ыв|л<.>
   gramm: delim
   gloss: DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .ыв|лыв|л<.>
+  gramm: delim
+  gloss: DELIM|DELIM|DELIM
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
@@ -3062,6 +3153,12 @@
  -flex: .[ь]сь|л<.>
   gramm: pass,delim
   gloss: PASS|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .[ь]сь|лыв|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM|DELIM
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
@@ -3302,6 +3399,12 @@
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
+ -flex: .[ь]ысь|лыв|л<.>
+  gramm: pass,pass_ysj,delim
+  gloss: PASS|DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
  -flex: .[ь]ыссьы|в<.>
   gramm: pass,pass_sjy,delim
   gloss: PASS|DELIM
@@ -3327,6 +3430,12 @@
  -flex: .[ь]ыв|л<.>
   gramm: delim
   gloss: DELIM|DELIM
+  paradigm: V-finite
+  paradigm: V-inf-yny
+  paradigm: V-ptcp-cvb-yny
+ -flex: .[ь]ыв|лыв|л<.>
+  gramm: delim
+  gloss: DELIM|DELIM|DELIM
   paradigm: V-finite
   paradigm: V-inf-yny
   paradigm: V-ptcp-cvb-yny
@@ -3617,6 +3726,9 @@
   gloss: IMP.2PL
  -flex: .<.>
   gramm: neg,sg
+ -flex: .мӧй<.>
+  gramm: neg,1,pl
+  gloss: NEG.1PL
  -flex: .ӧй<.>
   gramm: neg,1,pl
   gloss: NEG.12PL
@@ -3644,6 +3756,9 @@
  -flex: .ы<.>
   gramm: neg,sg
   gloss: NEG.SG
+ -flex: .ымӧй<.>
+  gramm: neg,1,pl
+  gloss: NEG.1PL
  -flex: .ӧй<.>
   gramm: neg,1,pl
   gloss: NEG.12PL
@@ -3669,6 +3784,9 @@
   gloss: IMP.2PL
  -flex: .[ь]<.>
   gramm: neg,sg
+ -flex: .[ь]ымӧй<.>
+  gramm: neg,1,pl
+  gloss: NEG.1PL
  -flex: .[ь]ӧй<.>
   gramm: neg,1,pl
   gloss: NEG.12PL
@@ -3696,6 +3814,9 @@
  -flex: .[ь]ы<.>
   gramm: neg,sg
   gloss: NEG.SG
+ -flex: .[ь]ымӧй<.>
+  gramm: neg,1,pl
+  gloss: NEG.1PL
  -flex: .[ь]ӧй<.>
   gramm: neg,1,pl
   gloss: NEG.12PL
@@ -3722,6 +3843,9 @@
   gloss: IMP.2PL
  -flex: .ь<.>
   gramm: neg,sg
+ -flex: .ьымӧй<.>
+  gramm: neg,1,pl
+  gloss: NEG.1PL
  -flex: .ьӧй<.>
   gramm: neg,1,pl
   gloss: NEG.12PL
@@ -3749,6 +3873,9 @@
  -flex: .ьы<.>
   gramm: neg,sg
   gloss: NEG.SG
+ -flex: .ьымӧй<.>
+  gramm: neg,1,pl
+  gloss: NEG.1PL
  -flex: .ьӧй<.>
   gramm: neg,1,pl
   gloss: NEG.12PL

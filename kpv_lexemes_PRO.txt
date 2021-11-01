@@ -1381,7 +1381,7 @@
 
 -lexeme
  lex: ас
- stem: асланым.//асланымлы.//аслынымлы.
+ stem: асланым.//аслыным.//асланымлы.//аслынымлы.
  gramm: PRO,refl,1,pl,dat
  paradigm: Clitics
  trans_ru: сам, свой
@@ -2560,7 +2560,7 @@
  lex: ӧткымын
  gramm: PRO
  stem: ӧткымын.
- paradigm: Clitics
+ paradigm: Noun-num-consonant
  trans_ru: кое-кто; некоторые; кое-какие
 
 -lexeme

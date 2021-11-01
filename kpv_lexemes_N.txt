@@ -45626,9 +45626,9 @@
 
 -lexeme
  lex: кось
- stem: кось.|коськ.
+ stem: кос.|коськ.
  gramm: N
- paradigm: Noun-num-obl_cons
+ paradigm: Noun-num-obl_soft
  trans_ru: бой
 
 -lexeme
@@ -90783,9 +90783,9 @@
 
 -lexeme
  lex: рысь
- stem: рысь.|рыськ.
+ stem: рыс.|рыськ.
  gramm: N
- paradigm: Noun-num-obl_cons
+ paradigm: Noun-num-obl_soft
  trans_ru: творог
 
 -lexeme
@@ -95138,9 +95138,9 @@
 
 -lexeme
  lex: сись
- stem: сись.|сиськ.
+ stem: сис.|сиськ.
  gramm: N
- paradigm: Noun-num-obl_cons
+ paradigm: Noun-num-obl_soft
  trans_ru: свеча
 
 -lexeme
@@ -108802,9 +108802,9 @@
 
 -lexeme
  lex: тэсь
- stem: тэсь.|тэськ.
+ stem: тэс.|тэськ.
  gramm: N
- paradigm: Noun-num-obl_cons
+ paradigm: Noun-num-obl_soft
  trans_ru: толокно
 
 -lexeme
@@ -116110,9 +116110,9 @@
 
 -lexeme
  lex: чань
- stem: чань.|чаньм.
+ stem: чан.|чаньм.
  gramm: N,anim
- paradigm: Noun-num-obl_cons
+ paradigm: Noun-num-obl_soft
  trans_ru: жеребёнок
 
 -lexeme
