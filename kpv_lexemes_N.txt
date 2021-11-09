@@ -131184,3 +131184,143 @@
  paradigm: Noun-num-consonant
  trans_ru: добро, благо
 
+-lexeme
+ lex: кыдз
+ gramm: N
+ stem: кыдз.|кыдд.
+ paradigm: Noun-num-ddz
+ trans_ru: береза
+
+-lexeme
+ lex: лунъюгыд
+ gramm: N
+ stem: лунъюгыд.
+ paradigm: Noun-num-consonant
+ trans_ru: дневной свет
+
+-lexeme
+ lex: ӧттор-мӧдтор
+ gramm: N
+ stem: ӧттор-мӧдтор.
+ paradigm: Noun-num-consonant
+ trans_ru: то да сё
+
+-lexeme
+ lex: дядечка
+ gramm: N,hum,rus,anim
+ stem: дядечка.
+ paradigm: Noun-num-vowel
+ trans_ru: дядечка
+
+-lexeme
+ lex: кыкнантор
+ gramm: N,nmlz_tor
+ stem: кыкнантор.
+ paradigm: Noun-num-obl_j
+ trans_ru: оба
+
+-lexeme
+ lex: йӧй
+ gramm: N,anim,hum
+ stem: йӧ.
+ paradigm: Noun-num-j
+ trans_ru: дурак
+
+-lexeme
+ lex: мути
+ gramm: N,supernat
+ stem: мути.
+ paradigm: Noun-num-vowel
+ trans_ru: дух-соблазнитель, бес
+
+-lexeme
+ lex: асладор
+ gramm: N
+ stem: асладор.
+ paradigm: Noun-num-consonant
+ trans_ru: своя сторона, родная сторона
+
+-lexeme
+ lex: гутор
+ gramm: N
+ stem: гутор.
+ paradigm: Noun-num-obl_j
+ trans_ru: ямка, небольшое углубление
+
+-lexeme
+ lex: октябр
+ gramm: N,time_meas,rus
+ stem: октябр.
+ paradigm: Noun-num-consonant
+ trans_ru: октябрь
+
+-lexeme
+ lex: КАПП
+ gramm: N,abbr
+ stem: капп.//капп-.
+ paradigm: Noun-num-consonant
+ trans_ru: коми ассоциация пролетарских писателей
+
+-lexeme
+ lex: губерня
+ gramm: N,rus
+ stem: губерня.
+ paradigm: Noun-num-vowel
+ trans_ru: губерния
+
+-lexeme
+ lex: ортсы
+ gramm: N
+ stem: ортсы.
+ paradigm: Noun-num-vowel
+ trans_ru: внешность, наружность
+
+-lexeme
+ lex: вӧр-ва
+ gramm: N
+ stem: вӧр-ва.
+ paradigm: Noun-num-vowel
+ trans_ru: природа
+
+-lexeme
+ lex: панысь
+ gramm: N,hum,anim
+ stem: паныс.
+ paradigm: Noun-num-soft
+ trans_ru: основатель
+
+-lexeme
+ lex: пӧлӧс
+ gramm: N
+ stem: пӧлӧс.
+ paradigm: Noun-num-consonant
+ trans_ru: род, сорт, вид
+
+-lexeme
+ lex: нардом
+ gramm: N,rus
+ stem: нардом.
+ paradigm: Noun-num-consonant
+ trans_ru: нардом (народный дом)
+
+-lexeme
+ lex: гу
+ gramm: N
+ stem: гу.
+ paradigm: Noun-num-vowel
+ trans_ru: могила
+
+-lexeme
+ lex: быдтас
+ gramm: N
+ stem: быдтас.
+ paradigm: Noun-num-consonant
+ trans_ru: росток, всходы
+
+-lexeme
+ lex: кажитчантор
+ gramm: N,rus,nmlz_tor
+ stem: кажитчантор.
+ paradigm: Noun-num-consonant
+ trans_ru: предпочтение; то, что нравится
+

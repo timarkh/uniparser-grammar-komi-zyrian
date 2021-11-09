@@ -41326,3 +41326,149 @@
  paradigm: Adj-j
  trans_ru: лежневый
 
+-lexeme
+ lex: инженерно-техническӧй
+ gramm: A,rus
+ stem: .инженерно-техническӧ.
+ paradigm: Adj-j
+ trans_ru: инженерно-технический
+
+-lexeme
+ lex: технико-экономическӧй
+ gramm: A,rus
+ stem: .технико-экономическӧ.
+ paradigm: Adj-j
+ trans_ru: технико-экономический
+
+-lexeme
+ lex: оборотнӧй
+ gramm: A,rus
+ stem: .оборотнӧ.
+ paradigm: Adj-j
+ trans_ru: оборотный
+
+-lexeme
+ lex: планово-убыточнӧй
+ gramm: A,rus
+ stem: .планово-убыточнӧ.
+ paradigm: Adj-j
+ trans_ru: планово-убыточный
+
+-lexeme
+ lex: ыджыдкодь
+ gramm: A
+ stem: .ыджыдкод.
+ paradigm: Adj-soft
+ trans_ru: довольно большой
+
+-lexeme
+ lex: югыдвеж
+ gramm: A
+ stem: .югыдвеж.
+ paradigm: Adj-consonant
+ trans_ru: светло-желтый
+
+-lexeme
+ lex: горш
+ gramm: A
+ stem: .горш.
+ paradigm: Adj-consonant
+ trans_ru: жадный
+
+-lexeme
+ lex: кызіник
+ gramm: A,rus_afx
+ stem: .кызіник.
+ paradigm: Adj-consonant
+ trans_ru: кругленький, толстенький
+
+-lexeme
+ lex: шочиник
+ gramm: A,rus_afx
+ stem: .шочиник.
+ paradigm: Adj-consonant
+ trans_ru: реденький
+
+-lexeme
+ lex: посньыдик
+ gramm: A,rus_afx
+ stem: .посньыдик.
+ paradigm: Adj-consonant
+ trans_ru: маленький, мелкий
+
+-lexeme
+ lex: паськыдкодь
+ gramm: A
+ stem: .паськыдкод.
+ paradigm: Adj-soft
+ trans_ru: довольно широкий
+
+-lexeme
+ lex: нэриник
+ gramm: A,rus_afx
+ stem: .нэриник.
+ paradigm: Adj-consonant
+ trans_ru: хилый, слабенький
+
+-lexeme
+ lex: аскиа
+ gramm: A
+ stem: .аския.
+ paradigm: Adj-vowel
+ trans_ru: завтрашний, будущий
+
+-lexeme
+ lex: нэмджынся
+ gramm: A
+ stem: .нэмджынся.
+ paradigm: Adj-vowel
+ trans_ru: полувековой
+
+-lexeme
+ lex: революциябӧрса
+ gramm: A,rus
+ stem: .революциябӧрса.
+ paradigm: Adj-vowel
+ trans_ru: послереволюционный
+
+-lexeme
+ lex: дон
+ gramm: A
+ stem: .дон.
+ paradigm: Adj-consonant
+ trans_ru: калёный, раскалённый
+
+-lexeme
+ lex: губернятӧм
+ gramm: A,rus
+ stem: .губернятӧм.
+ paradigm: Adj-consonant
+ trans_ru: без губернии
+
+-lexeme
+ lex: революцияӧдзса
+ gramm: A,rus
+ stem: .революцияӧдзса.
+ paradigm: Adj-vowel
+ trans_ru: дореволюционный
+
+-lexeme
+ lex: мӧдкодь
+ gramm: A
+ stem: .мӧдкод.
+ paradigm: Adj-soft
+ trans_ru: иной, другой, не такой
+
+-lexeme
+ lex: векньыдик
+ gramm: A,rus_afx
+ stem: .векньыдик.
+ paradigm: Noun-num-consonant
+ trans_ru: узенький
+
+-lexeme
+ lex: туйбокса
+ gramm: A
+ stem: .туйбокса.
+ paradigm: Adj-vowel
+ trans_ru: придорожный

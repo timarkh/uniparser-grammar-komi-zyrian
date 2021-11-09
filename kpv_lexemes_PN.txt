@@ -73686,3 +73686,88 @@
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Балыбина
+
+-lexeme
+ lex: Ия
+ gramm: N,PN,persn
+ stem: ия.
+ paradigm: Noun-num-vowel
+ trans_ru: Ия
+
+-lexeme
+ lex: Таисья
+ gramm: N,PN,persn
+ stem: таисья.
+ paradigm: Noun-num-vowel
+ trans_ru: Таисья
+
+-lexeme
+ lex: Наседкина
+ gramm: N,famn,PN
+ stem: наседкина.
+ paradigm: Noun-num-vowel
+ trans_ru: Наседкина
+
+-lexeme
+ lex: Немзер
+ gramm: N,famn,PN
+ stem: немзер.
+ paradigm: Noun-num-consonant
+ trans_ru: Немзер
+
+-lexeme
+ lex: Виттор
+ gramm: N,PN,persn
+ stem: виттор.
+ paradigm: Noun-num-consonant
+ trans_ru: Виттор (Виктор)
+
+-lexeme
+ lex: Луча
+ gramm: N,persn,PN
+ stem: луча.
+ paradigm: Noun-num-vowel
+ trans_ru: Луча (Лука)
+
+-lexeme
+ lex: Тиюк
+ gramm: N,persn,PN
+ stem: тиюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Тиюк (Татьяна)
+
+-lexeme
+ lex: Тутуруту
+ gramm: N,persn,PN
+ stem: тутуруту.
+ paradigm: Noun-num-vowel
+ trans_ru: Тутуруту
+
+-lexeme
+ lex: Семӧ
+ gramm: N,persn,PN
+ stem: семӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Семён
+
+-lexeme
+ lex: Чисталёв
+ gramm: N,famn,PN
+ stem: чисталёв.
+ paradigm: Noun-num-consonant
+ trans_ru: Чисталёв
+
+-lexeme
+ lex: Надеев
+ gramm: N,famn,PN
+ stem: надеев.
+ paradigm: Noun-num-consonant
+ trans_ru: Надеев
+
+-lexeme
+ lex: Трипан
+ gramm: N,persn,PN
+ stem: трипан.
+ paradigm: Noun-num-consonant
+ trans_ru: Трипан (Трифон)
+

@@ -11084,7 +11084,7 @@
  stem: дойд.
  gramm: V
  paradigm: V-ny
- trans_ru: ушибить
+ trans_ru: ушибить, ранить
 
 -lexeme
  lex: доймавны
@@ -19925,7 +19925,7 @@
  stem: ку.
  gramm: V
  paradigm: V-vny
- trans_ru: умирать
+ trans_ru: умереть
 
 -lexeme
  lex: кувны-овны
@@ -59558,7 +59558,7 @@
  gramm: V,intr
  stem: вис.
  paradigm: V-ny-soft
- trans_ru: болеть
+ trans_ru: болеть; сильно беспокоиться
 
 -lexeme
  lex: сувтлыны
@@ -59587,4 +59587,25 @@
  stem: торк.
  paradigm: V-avny
  trans_ru: нарушать, сбивать
+
+-lexeme
+ lex: фанеруйтны
+ gramm: V,missp,tr,rus
+ stem: фанируйт.
+ paradigm: V-ny
+ trans_ru: фанеровать
+
+-lexeme
+ lex: тшытшны
+ gramm: V,tr
+ stem: тшытш.
+ paradigm: V-ny
+ trans_ru: резать на части, рубить, изрубить
+
+-lexeme
+ lex: петкӧдлыны
+ gramm: V,tr
+ stem: петкӧдл.
+ paradigm: V-yny
+ trans_ru: показывать
 

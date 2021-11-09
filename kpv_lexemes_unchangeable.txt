@@ -6435,7 +6435,7 @@
  gramm: ADV
  stem: мукӧддырйи.
  paradigm: Adverbials-final
- trans_ru: иногда
+ trans_ru: иногда, временами
 
 -lexeme
  lex: вирскӧб
@@ -7289,3 +7289,143 @@
  stem: й.
  paradigm: Clitics
  trans_ru: и
+-lexeme
+ lex: гӧгӧрбоксянь
+ gramm: ADV
+ stem: гӧгӧрбоксянь.
+ paradigm: Adverbials-final
+ trans_ru: всесторонне
+
+-lexeme
+ lex: тӧдчымӧн
+ gramm: ADV
+ stem: тӧдчымӧн.
+ paradigm: Adverbials-final
+ trans_ru: заметно
+
+-lexeme
+ lex: чӧскыдпырысь
+ gramm: ADV
+ stem: чӧскыдпырысь.
+ paradigm: Adverbials-final
+ trans_ru: с аппетитом
+
+-lexeme
+ lex: унакодь
+ gramm: ADV
+ stem: унакодь.
+ paradigm: Adverbials-final
+ trans_ru: довольно много
+
+-lexeme
+ lex: ньӧжйӧникӧн
+ gramm: ADV,rus_afx
+ stem: ньӧжйӧникӧн.
+ paradigm: Adverbials-final
+ trans_ru: мало-помалу, полегоньку, довольно медленно
+
+-lexeme
+ lex: ӧтпырысьӧн
+ gramm: ADV
+ stem: ӧтпырысьӧн.
+ paradigm: Adverbials-final
+ trans_ru: одновременно, разом, за один раз
+
+-lexeme
+ lex: век
+ gramm: ADV
+ stem: век.
+ paradigm: Adverbials-final
+ trans_ru: всегда; всё
+
+-lexeme
+ lex: водзӧ
+ gramm: ADV
+ stem: водзӧ.
+ paradigm: Adverbials-final
+ trans_ru: вперед, дальше; в дальнейшем
+
+-lexeme
+ lex: корсюрӧ
+ gramm: ADV
+ stem: корсюрӧ.
+ paradigm: Adverbials-final
+ trans_ru: иногда, кое-когда; временами
+
+-lexeme
+ lex: другысь
+ gramm: ADV,rus
+ stem: другысь.
+ paradigm: Adverbials-final
+ trans_ru: сразу, вдруг
+
+-lexeme
+ lex: бӧр
+ gramm: ADV
+ stem: бӧр.
+ paradigm: Adverbials-final
+ trans_ru: снова, обратно, опять
+
+-lexeme
+ lex: чӧла
+ gramm: ADV
+ stem: чӧла.
+ paradigm: Adverbials-final
+ trans_ru: молча, тихо
+
+-lexeme
+ lex: чӧв
+ gramm: ADV
+ stem: чӧв.
+ paradigm: Adverbials-final
+ trans_ru: тихо, спокойно, молча
+
+-lexeme
+ lex: чӧжӧн
+ gramm: POST
+ stem: чӧжӧн.
+ paradigm: Clitics
+ trans_ru: за какое-либо время
+
+-lexeme
+ lex: пиысь
+ gramm: POST
+ stem: пиысь.
+ paradigm: Clitics
+ trans_ru: из
+
+-lexeme
+ lex: обязан
+ gramm: PREDIC,rus
+ stem: обязан.
+ paradigm: Clitics
+ trans_ru: обязан
+
+-lexeme
+ lex: лӧсьыд
+ gramm: PREDIC
+ stem: лӧсьыд.
+ paradigm: Clitics
+ trans_ru: удобно, хорошо, приятно
+
+-lexeme
+ lex: ӧти-кӧ
+ gramm: PARENTH
+ stem: ӧти-кӧ.
+ paradigm: Clitics
+ trans_ru: во-первых
+
+-lexeme
+ lex: видзӧдтӧ
+ gramm: PARENTH
+ stem: видзӧдтӧ.
+ paradigm: Clitics
+ trans_ru: подумаешь
+
+-lexeme
+ lex: хы
+ gramm: INTRJ
+ stem: хы.
+ paradigm: Clitics
+ trans_ru: ха
+
