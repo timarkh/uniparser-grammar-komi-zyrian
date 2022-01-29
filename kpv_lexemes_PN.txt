@@ -73771,3 +73771,16 @@
  paradigm: Noun-num-consonant
  trans_ru: Трипан (Трифон)
 
+-lexeme
+ lex: Усть-Ухтинскӧй
+ gramm: A,topn,PN
+ stem: усть-ухтинскӧ.
+ paradigm: Adj-j
+ trans_ru: Усть-Ухтинский
+
+-lexeme
+ lex: Бисертскӧй
+ gramm: A,topn,PN
+ stem: бисертскӧ.
+ paradigm: Adj-j
+ trans_ru: Бисертский

@@ -131324,3 +131324,80 @@
  paradigm: Noun-num-consonant
  trans_ru: предпочтение; то, что нравится
 
+-lexeme
+ lex: НОТ
+ gramm: N,rus,abbr
+ stem: нот.
+ paradigm: Noun-num-consonant
+ trans_ru: НОТ
+
+-lexeme
+ lex: гожӧмбыд
+ gramm: N,time_meas
+ stem: гожӧмбыд.
+ paradigm: Noun-num-consonant
+ trans_ru: всё лето
+
+-lexeme
+ lex: БКС
+ gramm: N,rus,abbr
+ stem: бкс.
+ paradigm: Noun-num-consonant
+ trans_ru: БКС
+
+-lexeme
+ lex: ККУ
+ gramm: N,rus,abbr
+ stem: кку.
+ paradigm: Noun-num-consonant
+ trans_ru: ККУ
+
+-lexeme
+ lex: лучковка
+ gramm: N,rus
+ stem: лучковка.
+ paradigm: Noun-num-vowel
+ trans_ru: лучковка
+
+-lexeme
+ lex: пӧли-мамук
+ gramm: N,anim,hum
+ stem: пӧли-мамук.
+ paradigm: Noun-num-consonant
+ trans_ru: бабушка
+
+-lexeme
+ lex: пӧжлӧмтор
+ gramm: N,nmlz_tor
+ stem: пӧжлӧмтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: что-либо насиженное
+
+-lexeme
+ lex: збыль
+ gramm: N,rus
+ stem: збыль.|збылл.
+ paradigm: Noun-num-CC'
+ trans_ru: правда
+
+-lexeme
+ lex: сортимент
+ gramm: N,rus
+ stem: сортимент.
+ paradigm: Noun-num-consonant
+ trans_ru: сортимент
+
+-lexeme
+ lex: пӧв
+ gramm: N
+ stem: пӧв.
+ paradigm: Noun-num-obl_j
+ trans_ru: доска
+
+-lexeme
+ lex: кронштейн
+ gramm: N,rus
+ stem: кронштейн.
+ paradigm: Noun-num-consonant
+ trans_ru: кронштейн
+

@@ -609,6 +609,18 @@
   gramm: comp
   gloss: COMP
   paradigm: Adj-comp-sfx
+ -flex: .код<.>
+  gramm: deg
+  gloss: DEG
+  paradigm: Ptcp-soft
+ -flex: .кодь|джык<.>
+  gramm: deg,comp
+  gloss: DEG|COMP
+  paradigm: Adj-comp-sfx
+ -flex: .джык|код<.>
+  gramm: deg,comp
+  gloss: COMP|DEG
+  paradigm: Ptcp-soft
  -flex: .ӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -648,6 +660,18 @@
   gramm: comp
   gloss: COMP
   paradigm: Adj-comp-sfx
+ -flex: .код<.>
+  gramm: deg
+  gloss: DEG
+  paradigm: Ptcp-soft
+ -flex: .кодь|джык<.>
+  gramm: deg,comp
+  gloss: DEG|COMP
+  paradigm: Adj-comp-sfx
+ -flex: .джык|код<.>
+  gramm: deg,comp
+  gloss: COMP|DEG
+  paradigm: Ptcp-soft
  -flex: .ӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -688,6 +712,18 @@
   gramm: comp
   gloss: COMP
   paradigm: Adj-comp-sfx
+ -flex: .[ь]код<.>
+  gramm: deg
+  gloss: DEG
+  paradigm: Ptcp-soft
+ -flex: .[ь]кодь|джык<.>
+  gramm: deg,comp
+  gloss: DEG|COMP
+  paradigm: Adj-comp-sfx
+ -flex: .[ь]джык|код<.>
+  gramm: deg,comp
+  gloss: COMP|DEG
+  paradigm: Ptcp-soft
  -flex: .[ь]ӧсь<.>
   gramm: pl
   gloss: PL.PRED
@@ -753,6 +789,18 @@
   gramm: comp
   gloss: COMP
   paradigm: Adj-comp-sfx
+ -flex: .[й]код<.>
+  gramm: deg
+  gloss: DEG
+  paradigm: Ptcp-soft
+ -flex: .[й]кодь|джык<.>
+  gramm: deg,comp
+  gloss: DEG|COMP
+  paradigm: Adj-comp-sfx
+ -flex: .[й]джык|код<.>
+  gramm: deg,comp
+  gloss: COMP|DEG
+  paradigm: Ptcp-soft
  -flex: .[й]ӧсь<.>
   gramm: pl
   gloss: PL.PRED

@@ -59609,3 +59609,45 @@
  paradigm: V-yny
  trans_ru: показывать
 
+-lexeme
+ lex: видзӧдлыны
+ gramm: V,intr
+ stem: видзӧдл.
+ paradigm: V-yny
+ trans_ru: посмотреть
+
+-lexeme
+ lex: автоматизируйтны
+ gramm: V,rus,intr
+ stem: автоматизируйт.
+ paradigm: V-ny
+ trans_ru: автоматизировать
+
+-lexeme
+ lex: лӧсьӧдны
+ gramm: V,tr
+ stem: лӧсьӧд.
+ paradigm: V-ny
+ trans_ru: приготовить
+
+-lexeme
+ lex: нӧбӧдны
+ gramm: V,tr
+ stem: нӧбӧд.
+ paradigm: V-ny
+ trans_ru: нести
+
+-lexeme
+ lex: тойыштны
+ gramm: V,tr
+ stem: тойышт.
+ paradigm: V-ny
+ trans_ru: толкнуть
+
+-lexeme
+ lex: ӧвтыштчыны
+ gramm: V,intr
+ stem: ӧвтыштч.
+ paradigm: V-yny
+ trans_ru: обмахнуться
+
