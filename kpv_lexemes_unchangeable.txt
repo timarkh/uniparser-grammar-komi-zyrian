@@ -7429,3 +7429,74 @@
  paradigm: Clitics
  trans_ru: ха
 
+-lexeme
+ lex: орчча
+ gramm: ADV
+ stem: орчча.
+ paradigm: Adverbials-final
+ trans_ru: рядом
+
+-lexeme
+ lex: торъя
+ gramm: ADV
+ stem: торъя.
+ paradigm: Adverbials-final
+ trans_ru: особенно
+
+-lexeme
+ lex: прӧстимӧ
+ gramm: ADV,rus
+ stem: прӧстимӧ.
+ paradigm: Adverbials-final
+ trans_ru: простимо
+
+-lexeme
+ lex: водз
+ gramm: ADV
+ stem: водз.
+ paradigm: Adverbials-final
+ trans_ru: рано
+
+-lexeme
+ lex: меся
+ gramm: PART
+ stem: меся.
+ paradigm: Clitics
+ trans_ru: мол
+
+-lexeme
+ lex: час
+ gramm: PART,rus
+ stem: час.
+ paradigm: Clitics
+ trans_ru: погоди
+
+-lexeme
+ lex: бара-й
+ gramm: PART
+ stem: бара-й.
+ paradigm: Clitics
+ trans_ru: небось
+
+-lexeme
+ lex: туп-топ
+ gramm: IMIT
+ stem: туп-топ.
+ paradigm: Clitics
+ trans_ru: чуть-чуть, кое-как
+
+-lexeme
+ lex: шув
+ gramm: IMIT
+ stem: шув.
+ paradigm: Clitics
+ trans_ru: с шумом
+
+-lexeme
+ lex: нокӧ
+ gramm: INTRJ,rus
+ stem: нокӧ.
+ paradigm: Clitics
+ trans_ru: ну-ка
+
+

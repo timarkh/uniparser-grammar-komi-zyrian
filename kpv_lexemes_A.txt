@@ -41472,3 +41472,32 @@
  stem: .туйбокса.
  paradigm: Adj-vowel
  trans_ru: придорожный
+
+-lexeme
+ lex: гежӧдіник
+ gramm: A,rus_afx
+ stem: .гежӧдіник.
+ paradigm: Adj-consonant
+ trans_ru: реденький
+
+-lexeme
+ lex: мудз
+ gramm: A
+ stem: .мудз.
+ paradigm: Adj-consonant
+ trans_ru: усталый
+
+-lexeme
+ lex: чӧв
+ gramm: A,missp
+ stem: .чӧ-ӧл.
+ paradigm: Adj-consonant
+ trans_ru: тихий
+
+-lexeme
+ lex: дзор
+ gramm: A
+ stem: .дзор.
+ paradigm: Adj-consonant
+ trans_ru: седой
+

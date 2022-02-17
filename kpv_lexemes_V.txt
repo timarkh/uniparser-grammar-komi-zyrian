@@ -59609,3 +59609,24 @@
  paradigm: V-yny
  trans_ru: показывать
 
+-lexeme
+ lex: ушумгайтны
+ gramm: V,tr
+ stem: ушумгайт.
+ paradigm: V-ny
+ trans_ru: выбросить
+
+-lexeme
+ lex: зятӧдны
+ gramm: V,tr
+ stem: зятӧд.
+ paradigm: V-ny
+ trans_ru: встряхнуть
+
+-lexeme
+ lex: вальгысьны
+ gramm: V,intr
+ stem: вальгыс.
+ paradigm: V-ny-soft
+ trans_ru: рушиться
+

@@ -39066,6 +39066,13 @@
  trans_ru: Мизгулин
 
 -lexeme
+ lex: Мирон
+ stem: мирон.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Мирон
+
+-lexeme
  lex: Мика
  stem: мика.
  gramm: N,PN,persn
@@ -73770,4 +73777,18 @@
  stem: трипан.
  paradigm: Noun-num-consonant
  trans_ru: Трипан (Трифон)
+
+-lexeme
+ lex: Настуся
+ gramm: N,persn,PN
+ stem: настуся.
+ paradigm: Noun-num-vowel
+ trans_ru: Настюша
+
+-lexeme
+ lex: Опонась
+ gramm: N,persn,PN
+ stem: опонас.
+ paradigm: Noun-num-soft
+ trans_ru: Опонась (Афанасия)
 

@@ -2660,3 +2660,17 @@
  stem: этійӧ.
  paradigm: Clitics
  trans_ru: этот, вот этот
+
+-lexeme
+ lex: сё
+ gramm: PRO,rus
+ stem: сё.
+ paradigm: Clitics
+ trans_ru: всё
+
+-lexeme
+ lex: быдӧн
+ gramm: PRO
+ stem: быдӧн.
+ paradigm: Noun-num-consonant
+ trans_ru: все

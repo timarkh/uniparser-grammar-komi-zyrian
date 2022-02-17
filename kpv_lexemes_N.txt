@@ -131324,3 +131324,66 @@
  paradigm: Noun-num-consonant
  trans_ru: предпочтение; то, что нравится
 
+-lexeme
+ lex: скӧр
+ gramm: N
+ stem: скӧр.
+ paradigm: Noun-num-consonant
+ trans_ru: злость, гнев
+
+-lexeme
+ lex: нетшканін
+ gramm: N,nmlz_in
+ stem: нетшканін.
+ paradigm: Noun-num-consonant
+ trans_ru: место, где что-л. дёргают
+
+-lexeme
+ lex: коланін
+ gramm: N,nmlz_in
+ stem: коланін.
+ paradigm: Noun-num-consonant
+ trans_ru: что-л. нужное
+
+-lexeme
+ lex: полӧкала
+ gramm: N,supernat
+ stem: полӧкала.
+ paradigm: Noun-num-vowel
+ trans_ru: пугало
+
+-lexeme
+ lex: пинясянін
+ gramm: N,nmlz_in
+ stem: пинясянін.
+ paradigm: Noun-num-consonant
+ trans_ru: место, где ругаются
+
+-lexeme
+ lex: энкеведэ
+ gramm: N,rus,abbr
+ stem: энкеведэ.
+ paradigm: Noun-num-vowel
+ trans_ru: НКВД
+
+-lexeme
+ lex: суд
+ gramm: N,rus,missp
+ stem: су-уд.
+ paradigm: Noun-num-consonant
+ trans_ru: суд
+
+-lexeme
+ lex: кӧбунь
+ gramm: N,rus,anim
+ stem: кӧбун.
+ paradigm: Noun-num-soft
+ trans_ru: кобылка
+
+-lexeme
+ lex: туйтор
+ gramm: N
+ stem: туйтор.
+ paradigm: Noun-num-consonant
+ trans_ru: дорожка
+
