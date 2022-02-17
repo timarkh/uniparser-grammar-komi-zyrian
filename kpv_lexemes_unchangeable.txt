@@ -4392,7 +4392,7 @@
  stem: серти.
  gramm: POST
  paradigm: POST-poss
- trans_ru: по сравнению
+ trans_ru: по; по сравнению
 
 -lexeme
  lex: сизимысь

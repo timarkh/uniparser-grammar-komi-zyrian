@@ -23096,7 +23096,7 @@
  stem: ло.
  gramm: V
  paradigm: V-ny
- trans_ru: быть, стать
+ trans_ru: быть, стать, прийтись
 
 -lexeme
  lex: лопатитны
@@ -30621,7 +30621,7 @@
  stem: пан.
  gramm: V
  paradigm: V-ny
- trans_ru: сновать
+ trans_ru: начать; сновать
 
 -lexeme
  lex: пановтны
@@ -36186,7 +36186,7 @@
  stem: садьм.
  gramm: V,intr
  paradigm: V-yny
- trans_ru: очнуться
+ trans_ru: проснуться, очнуться
 
 -lexeme
  lex: садьсявны
