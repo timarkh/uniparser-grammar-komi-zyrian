@@ -41474,6 +41474,49 @@
  trans_ru: придорожный
 
 -lexeme
+ lex: бензомоторнӧй
+ gramm: A,rus
+ stem: бензомоторнӧ.
+ paradigm: Adj-j
+ trans_ru: бензомоторный
+
+-lexeme
+ lex: шӧр
+ gramm: A
+ stem: шӧр.
+ paradigm: Adj-consonant
+ trans_ru: главный
+
+-lexeme
+ lex: консольно-козловӧй
+ gramm: A,rus
+ stem: консольно-козловӧ.
+ paradigm: Adj-j
+ trans_ru: консольно-козловый
+
+-lexeme
+ lex: улыс
+ gramm: A
+ stem: улыс.
+ paradigm: Adj-consonant
+ trans_ru: нижний
+
+-lexeme
+ lex: cчётно-вычислительнӧй
+ gramm: A,rus
+ stem: cчётно-вычислительнӧ.
+ paradigm: Adj-j
+ trans_ru: cчётно-вычислительный
+
+-lexeme
+ lex: полуавтоматическӧй
+ gramm: A,rus
+ stem: полуавтоматическӧ.
+ paradigm: Adj-j
+ trans_ru: полуавтоматический
+
+
+-lexeme
  lex: гежӧдіник
  gramm: A,rus_afx
  stem: .гежӧдіник.

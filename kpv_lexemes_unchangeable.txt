@@ -7430,6 +7430,47 @@
  trans_ru: ха
 
 -lexeme
+ lex: мед
+ gramm: PART
+ stem: ме-ед.
+ paradigm: Clitics
+ trans_ru: пусть
+
+-lexeme
+ lex: да
+ gramm: PART,rus
+ stem: да-а.
+ paradigm: Clitics
+ trans_ru: да
+
+-lexeme
+ lex: на
+ gramm: PART,rus
+ stem: на.
+ paradigm: Clitics
+ trans_ru: на
+
+-lexeme
+ lex: ӧтторъя
+ gramm: ADV
+ stem: ӧтторъя.
+ paradigm: Adverbials-final
+ trans_ru: постоянно
+
+-lexeme
+ lex: бара
+ gramm: ADV
+ stem: бара.
+ paradigm: Adverbials-final
+ trans_ru: снова
+
+-lexeme
+ lex: прӧста
+ gramm: ADV,rus
+ stem: прӧста.
+ paradigm: Adverbials-final
+ trans_ru: даром
+-lexeme
  lex: орчча
  gramm: ADV
  stem: орчча.
