@@ -22809,7 +22809,7 @@
  stem: .пӧс.
  gramm: A
  paradigm: Adj-soft
- trans_ru: жаркий
+ trans_ru: горячий, жаркий
 
 -lexeme
  lex: пӧськодь
@@ -41543,4 +41543,32 @@
  stem: .дзор.
  paradigm: Adj-consonant
  trans_ru: седой
+
+-lexeme
+ lex: бӧръя
+ gramm: A
+ stem: .бӧръя.
+ paradigm: Adj-vowel
+ trans_ru: задний; последний
+
+-lexeme
+ lex: воча
+ gramm: A
+ stem: .воча.
+ paradigm: Adj-vowel
+ trans_ru: противоположный
+
+-lexeme
+ lex: ӧнтая
+ gramm: A
+ stem: .ӧнтая.
+ paradigm: Adj-vowel
+ trans_ru: недавний
+
+-lexeme
+ lex: мӧд
+ gramm: A
+ stem: .мӧд.
+ paradigm: Adj-consonant
+ trans_ru: другой
 

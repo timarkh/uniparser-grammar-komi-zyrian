@@ -2341,7 +2341,7 @@
  stem: букс.
  gramm: V
  paradigm: V-yny
- trans_ru: свистеть
+ trans_ru: свистеть, гудеть
 
 -lexeme
  lex: букшасьны
@@ -19008,7 +19008,7 @@
  stem: кор.
  gramm: V,tr,intr
  paradigm: V-ny
- trans_ru: окликнуть
+ trans_ru: просить; окликнуть
 
 -lexeme
  lex: корны-вотны
@@ -20566,10 +20566,17 @@
 
 -lexeme
  lex: кутны
- stem: кут.
  gramm: V,tr
+ stem: кут.
  paradigm: V-ny
- trans_ru: поймать; начать
+ trans_ru: поймать; держать
+
+-lexeme
+ lex: кутны
+ gramm: V,intr
+ stem: кут.
+ paradigm: V-ny
+ trans_ru: начать
 
 -lexeme
  lex: куттьыны
@@ -23383,7 +23390,7 @@
  stem: лыдд.
  gramm: V
  paradigm: V-yny-soft
- trans_ru: читать
+ trans_ru: читать; считать
 
 -lexeme
  lex: лыддявны
@@ -26386,7 +26393,7 @@
  stem: мынт.
  gramm: V
  paradigm: V-avny
- trans_ru: от мынтыны I
+ trans_ru: освобождать, отцеплять
 
 -lexeme
  lex: мынтыны
@@ -26394,6 +26401,13 @@
  gramm: V
  paradigm: V-yny
  trans_ru: освободить
+
+-lexeme
+ lex: мынтыны
+ stem: мынт.
+ gramm: V
+ paradigm: V-yny
+ trans_ru: платить
 
 -lexeme
  lex: мырддьыны
@@ -30824,7 +30838,7 @@
  stem: паськ.
  gramm: V
  paradigm: V-avny
- trans_ru: распространяться; плодиться
+ trans_ru: распространяться; расширяться
 
 -lexeme
  lex: пасьмунны
@@ -31294,6 +31308,13 @@
  gramm: V
  paradigm: V-ny
  trans_ru: есть глаза (о дыме)
+
+-lexeme
+ lex: песовтны
+ stem: песовт.
+ gramm: V
+ paradigm: V-ny
+ trans_ru: вывернуть
 
 -lexeme
  lex: пессьыны
@@ -37999,7 +38020,7 @@
  stem: сувт.
  gramm: V
  paradigm: V-ny
- trans_ru: встать
+ trans_ru: встать; перестать
 
 -lexeme
  lex: сувтовкерны
@@ -45384,7 +45405,7 @@
  stem: чашк.
  gramm: V
  paradigm: V-avny
- trans_ru: расщепиться
+ trans_ru: расщепиться; расшириться
 
 -lexeme
  lex: чашкыльтны
@@ -51558,7 +51579,7 @@
  stem: шыр.
  gramm: V
  paradigm: V-ny
- trans_ru: рубить
+ trans_ru: стричь; рубить
 
 -lexeme
  lex: шырсйыны
@@ -59671,4 +59692,137 @@
  stem: вальгыс.
  paradigm: V-ny-soft
  trans_ru: рушиться
+
+-lexeme
+ lex: гольмунны
+ gramm: V,intr
+ stem: гольмун.
+ paradigm: V-ny
+ trans_ru: рассыпаться
+
+-lexeme
+ lex: шырны
+ gramm: V,tr
+ stem: шыр.
+ paradigm: V-ny
+ trans_ru: стричь; рубить
+
+-lexeme
+ lex: гургыны
+ gramm: V,tr
+ stem: гург.
+ paradigm: V-yny
+ trans_ru: тащить
+
+-lexeme
+ lex: кутчысьны
+ gramm: V,intr
+ stem: кутчыс.
+ paradigm: V-ny-soft
+ trans_ru: держаться; браться
+
+-lexeme
+ lex: семьитчыны
+ gramm: V,rus,intr
+ stem: семьитч.
+ paradigm: V-yny
+ trans_ru: обзавестись семьей
+
+-lexeme
+ lex: эштыны
+ gramm: V,intr
+ stem: эшт.
+ paradigm: V-yny
+ trans_ru: успевать
+
+-lexeme
+ lex: нӧшйыны
+ gramm: V,tr
+ stem: нӧшй.
+ paradigm: V-yny
+ trans_ru: тащить
+
+-lexeme
+ lex: тшӧтӧводавны
+ gramm: V,intr,rus
+ stem: тшӧтӧвод.
+ paradigm: V-avny
+ trans_ru: работать счетоводом
+
+-lexeme
+ lex: пуавны
+ gramm: V,tr
+ stem: пу.
+ paradigm: V-avny
+ trans_ru: насаживать
+
+-lexeme
+ lex: гымйыны
+ gramm: V,tr
+ stem: гымй.
+ paradigm: V-yny
+ trans_ru: дробить
+
+-lexeme
+ lex: ыльмунны
+ gramm: V,intr
+ stem: ыльмун.
+ paradigm: V-ny
+ trans_ru: хлынуть
+
+-lexeme
+ lex: пӧминитны
+ gramm: V,tr,rus
+ stem: пӧминит.
+ paradigm: V-ny
+ trans_ru: помянуть
+
+-lexeme
+ lex: тунеядствуйтны
+ gramm: V,intr,rus
+ stem: тунеядствуйт.
+ paradigm: V-ny
+ trans_ru: тунеядствовать
+
+-lexeme
+ lex: казьтыны
+ gramm: V,tr
+ stem: казьт.
+ paradigm: V-yny
+ trans_ru: помянуть
+
+-lexeme
+ lex: сяркнитны
+ gramm: V,intr
+ stem: сяркнит.
+ paradigm: V-ny
+ trans_ru: быстро прочесть; блеснуть
+
+-lexeme
+ lex: чашкавны
+ gramm: V,intr
+ stem: чашк.
+ paradigm: V-avny
+ trans_ru: расщепиться; расшириться
+
+-lexeme
+ lex: чашвидзны
+ gramm: V,intr
+ stem: чашвидз.
+ paradigm: V-ny
+ trans_ru: быть широко раскрытым
+
+-lexeme
+ lex: нюжӧдны
+ gramm: V,tr
+ stem: нюжӧд.
+ paradigm: V-ny
+ trans_ru: протянуть
+
+-lexeme
+ lex: тӧдчыны
+ gramm: V,intr
+ stem: тӧдч.
+ paradigm: V-yny
+ trans_ru: быть заметным
 

@@ -7541,3 +7541,87 @@
  trans_ru: ну-ка
 
 
+-lexeme
+ lex: бӧрас
+ gramm: ADV
+ stem: бӧрас.
+ paradigm: Adverbials-final
+ trans_ru: после
+
+-lexeme
+ lex: бӧр
+ gramm: POST
+ stem: бӧр.
+ paradigm: Adverbials-final
+ trans_ru: после
+
+-lexeme
+ lex: бӧр
+ gramm: ADV
+ stem: бӧр.
+ paradigm: Adverbials-final
+ trans_ru: обратно; снова
+
+-lexeme
+ lex: быдлаті
+ gramm: ADV
+ stem: быдлаті.
+ paradigm: Adverbials-final
+ trans_ru: повсюду
+
+-lexeme
+ lex: томдырйи
+ gramm: ADV
+ stem: томдырйи.
+ paradigm: Adverbials-final
+ trans_ru: в молодости
+
+-lexeme
+ lex: первойсӧ
+ gramm: ADV,rus
+ stem: первойсӧ.
+ paradigm: Adverbials-final
+ trans_ru: вначале
+
+-lexeme
+ lex: коркӧ
+ gramm: ADV
+ stem: коркӧ.
+ paradigm: Adverbials-final
+ trans_ru: когда-то; когда-нибудь
+
+-lexeme
+ lex: первой
+ gramm: ADV,rus
+ stem: первой.
+ paradigm: Adverbials-final
+ trans_ru: сначала
+
+-lexeme
+ lex: пока
+ gramm: CONJ,rus
+ stem: пока.
+ paradigm: Clitics
+ trans_ru: пока
+
+-lexeme
+ lex: жӧ
+ gramm: CONJ,rus
+ stem: жӧ.
+ paradigm: Clitics
+ trans_ru: тоже
+
+-lexeme
+ lex: тю
+ gramm: INTRJ,rus
+ stem: тю.
+ paradigm: Clitics
+ trans_ru: тю
+
+-lexeme
+ lex: чӧв
+ gramm: INTRJ
+ stem: чӧв.
+ paradigm: Clitics
+ trans_ru: что ты
+

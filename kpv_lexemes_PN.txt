@@ -73805,3 +73805,59 @@
  paradigm: Noun-num-soft
  trans_ru: Опонась (Афанасия)
 
+-lexeme
+ lex: Виталь
+ gramm: N,PN,persn
+ stem: виталь.|виталл.
+ paradigm: Noun-num-CC'
+ trans_ru: Виталий
+
+-lexeme
+ lex: Боренька
+ gramm: N,PN,persn
+ stem: боренька.
+ paradigm: Noun-num-vowel
+ trans_ru: Боренька
+
+-lexeme
+ lex: Катенька
+ gramm: N,PN,persn
+ stem: катенька.
+ paradigm: Noun-num-vowel
+ trans_ru: Катенька
+
+-lexeme
+ lex: Виталюшка
+ gramm: N,PN,persn
+ stem: виталюшка.
+ paradigm: Noun-num-vowel
+ trans_ru: Виталюшка
+
+-lexeme
+ lex: Педӧсь
+ gramm: N,PN,persn
+ stem: педӧс.
+ paradigm: Noun-num-soft
+ trans_ru: Педось (Федосья)
+
+-lexeme
+ lex: Карпӧ
+ gramm: N,PN,persn
+ stem: карпӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Карп
+
+-lexeme
+ lex: Кӧртъю
+ gramm: N,PN,topn
+ stem: кӧртъю.
+ paradigm: Noun-num-vowel
+ trans_ru: Кэртъю
+
+-lexeme
+ lex: Марьюк
+ gramm: N,PN,persn
+ stem: марьюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Машенька
+

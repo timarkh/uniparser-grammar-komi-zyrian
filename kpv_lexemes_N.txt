@@ -3398,7 +3398,7 @@
  stem: ар.
  gramm: N,time_meas
  paradigm: Noun-num-consonant
- trans_ru: осень
+ trans_ru: осень; год
 
 -lexeme
  lex: араб
@@ -8161,14 +8161,14 @@
  stem: бок.
  gramm: N,body,rus,rel_n
  paradigm: Noun-num-consonant
- trans_ru: бок; место сбоку
+ trans_ru: бок; сторона
 
 -lexeme
  lex: боки
  stem: боки.
  gramm: N,body,rus,rel_n
  paradigm: Noun-num-vowel
- trans_ru: бок; место сбоку
+ trans_ru: бок; сторона
 
 -lexeme
  lex: бокал
@@ -8487,7 +8487,7 @@
 
 -lexeme
  lex: бор-машина
- stem: бор-машина.
+ stem: бор-машина.//бормашина.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: бор-машина
@@ -8503,6 +8503,7 @@
  lex: борд
  stem: борд.
  gramm: N,body
+ paradigm: Noun-num-consonant
  paradigm: Noun-num-obl_j
  trans_ru: крыло, крылья
 
@@ -66251,7 +66252,7 @@
  stem: ныв.|ныл.
  gramm: N,anim,hum
  paradigm: Noun-num-v_l
- trans_ru: девочка
+ trans_ru: дочь; девочка
 
 -lexeme
  lex: ныв-зон
@@ -86376,6 +86377,7 @@
  stem: раб.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: барда, гуща от сусла
 
 -lexeme
@@ -106677,7 +106679,7 @@
  stem: ту.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: дорога
+ trans_ru: дорога; след
 
 -lexeme
  lex: туйвеж
@@ -108637,14 +108639,14 @@
  stem: тыш.|тышк.
  gramm: N
  paradigm: Noun-num-obl_cons
- trans_ru: бой
+ trans_ru: тыльная сторона
 
 -lexeme
  lex: тыш
  stem: тыш.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: тыльная сторона
+ trans_ru: бой
 
 -lexeme
  lex: тышин
@@ -109268,6 +109270,13 @@
  gramm: N,time_meas
  paradigm: Noun-num-v_l
  trans_ru: зима
+
+-lexeme
+ lex: тӧв
+ gramm: N
+ stem: тӧв.|тӧл.
+ paradigm: Noun-num-v_l
+ trans_ru: ветер
 
 -lexeme
  lex: тӧвар
@@ -131463,4 +131472,116 @@
  stem: туйтор.
  paradigm: Noun-num-consonant
  trans_ru: дорожка
+
+-lexeme
+ lex: рӧбӧта
+ gramm: N,rus
+ stem: рӧбӧта.
+ paradigm: Noun-num-vowel
+ trans_ru: работа
+
+-lexeme
+ lex: сюянін
+ gramm: N,nmlz_in
+ stem: сюянін.
+ paradigm: Noun-num-consonant
+ trans_ru: жилье
+
+-lexeme
+ lex: кӧвдумтор
+ gramm: N
+ stem: кӧвдумтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: колобок
+
+-lexeme
+ lex: турунтор
+ gramm: N
+ stem: турунтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: сенцо
+
+-lexeme
+ lex: пельшерича
+ gramm: N,anim,rus,hum
+ stem: пельшерича.
+ paradigm: Noun-num-vowel
+ trans_ru: фельдшерица
+
+-lexeme
+ lex: кухнятор
+ gramm: N,rus
+ stem: кухнятор.
+ paradigm: Noun-num-obl_j
+ trans_ru: кухонька
+
+-lexeme
+ lex: шӧлк
+ gramm: N,rus
+ stem: шӧлк.
+ paradigm: Noun-num-consonant
+ trans_ru: шёлк
+
+-lexeme
+ lex: мизеннӧй
+ gramm: N,anim,rus,hum
+ stem: мизеннӧ.
+ paradigm: Noun-num-j
+ trans_ru: самый младший ребенок в семье
+
+-lexeme
+ lex: пуантор
+ gramm: N,nmlz_tor
+ stem: пуантор.
+ paradigm: Noun-num-obl_j
+ trans_ru: то, что надо сварить
+
+-lexeme
+ lex: кулачок
+ gramm: N,body,rus
+ stem: кулачок.
+ paradigm: Noun-num-consonant
+ trans_ru: кулачок
+
+-lexeme
+ lex: кокень
+ gramm: N,body
+ stem: кокен.
+ paradigm: Noun-num-soft
+ trans_ru: ножка
+
+-lexeme
+ lex: питор
+ gramm: N,anim,hum
+ stem: питор.
+ paradigm: Noun-num-obl_j
+ trans_ru: сынок
+
+-lexeme
+ lex: чой
+ gramm: N
+ stem: чо.
+ paradigm: Noun-num-j
+ trans_ru: гора
+
+-lexeme
+ lex: ислаланін
+ gramm: N,nmlz_in
+ stem: ислаланін.
+ paradigm: Noun-num-consonant
+ trans_ru: место для катания
+
+-lexeme
+ lex: сулема
+ gramm: N,rus
+ stem: сулема.
+ paradigm: Noun-num-vowel
+ trans_ru: сулема
+
+-lexeme
+ lex: нюмсер
+ gramm: N
+ stem: нюмсер.
+ paradigm: Noun-num-consonant
+ trans_ru: улыбка
 
