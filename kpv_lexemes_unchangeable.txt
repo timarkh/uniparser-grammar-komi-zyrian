@@ -7625,3 +7625,107 @@
  paradigm: Clitics
  trans_ru: что ты
 
+-lexeme
+ lex: другӧн
+ gramm: ADV,rus
+ stem: другӧн.
+ paradigm: Adverbials-final
+ trans_ru: сразу
+
+-lexeme
+ lex: пӧперег
+ gramm: ADV,rus
+ stem: пӧперег.
+ paradigm: Adverbials-final
+ trans_ru: поперёк
+
+-lexeme
+ lex: дзолядырйи
+ gramm: ADV
+ stem: дзолядырйи.
+ paradigm: Adverbials-final
+ trans_ru: в детстве
+
+-lexeme
+ lex: тюв
+ gramm: IMIT
+ stem: тюв.
+ paradigm: Clitics
+ trans_ru: шмыг
+
+-lexeme
+ lex: брызь
+ gramm: IMIT
+ stem: брызь.
+ paradigm: Clitics
+ trans_ru: бух
+
+-lexeme
+ lex: тюп
+ gramm: IMIT
+ stem: тюп.
+ paradigm: Clitics
+ trans_ru: кап
+
+-lexeme
+ lex: тёп
+ gramm: IMIT
+ stem: тёп.
+ paradigm: Clitics
+ trans_ru: кап
+
+-lexeme
+ lex: тшолк
+ gramm: IMIT
+ stem: тшолк.
+ paradigm: Clitics
+ trans_ru: тук
+
+-lexeme
+ lex: здоров
+ gramm: INTRJ,rus
+ stem: здоров.
+ paradigm: Clitics
+ trans_ru: здорово
+
+-lexeme
+ lex: у
+ gramm: INTRJ
+ stem: у.
+ paradigm: Clitics
+ trans_ru: у
+
+-lexeme
+ lex: ой
+ gramm: INTRJ
+ stem: йой.
+ paradigm: Clitics
+ trans_ru: ой
+
+-lexeme
+ lex: вӧкремешнӧ
+ gramm: INTRJ,rus
+ stem: вӧкремешнӧ.
+ paradigm: Clitics
+ trans_ru: пропади пропадом
+
+-lexeme
+ lex: либӧсь
+ gramm: PART
+ stem: либӧсь.
+ paradigm: Clitics
+ trans_ru: в таком случае
+
+-lexeme
+ lex: весигтӧ
+ gramm: PART
+ stem: весигтӧ.
+ paradigm: Clitics
+ trans_ru: даже
+
+-lexeme
+ lex: могысьӧн
+ gramm: POST
+ stem: могысьӧн.
+ paradigm: Clitics
+ trans_ru: ради

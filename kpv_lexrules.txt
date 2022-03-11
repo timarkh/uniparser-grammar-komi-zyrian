@@ -17,6 +17,15 @@
 
 -lex_rule
  -search
+  lex: сай
+  gramm: N.*,ill.*
+  gloss: STEM-ILL.*
+ -add
+  lex2: сайӧ
+  trans_ru2: свыше
+
+-lex_rule
+ -search
   lex: бӧр
   gramm: N.*,loc.*
  -add

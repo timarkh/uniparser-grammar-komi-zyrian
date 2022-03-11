@@ -41572,3 +41572,79 @@
  paradigm: Adj-consonant
  trans_ru: другой
 
+-lexeme
+ lex: косӧдіник
+ gramm: A
+ stem: .косӧдіник.
+ paradigm: Adj-consonant
+ trans_ru: худощавый
+
+-lexeme
+ lex: литрӧвӧй
+ gramm: A,rus
+ stem: .литрӧвӧ.
+ paradigm: Adj-j
+ trans_ru: литровый
+
+-lexeme
+ lex: сверхсрочнӧй
+ gramm: A,rus
+ stem: .сверхсрочнӧ.
+ paradigm: Adj-j
+ trans_ru: сверхсрочный
+
+-lexeme
+ lex: рытъя
+ gramm: A
+ stem: .рытъя.
+ paradigm: Adj-vowel
+ trans_ru: вечерний
+
+-lexeme
+ lex: вӧсньыдик
+ gramm: A
+ stem: .вӧсньыдик.
+ paradigm: Adj-consonant
+ trans_ru: тоненький
+
+-lexeme
+ lex: злыдниа
+ gramm: A,attr,rus,attr_a
+ stem: .злыдниа.
+ paradigm: Adj-vowel
+ trans_ru: несчастный
+
+-lexeme
+ lex: шурыдик
+ gramm: A
+ stem: .шурыдик.
+ paradigm: Adj-consonant
+ trans_ru: шустренький
+
+-lexeme
+ lex: корреспондентскӧй
+ gramm: A,rus
+ stem: .корреспондентскӧ.
+ paradigm: Adj-j
+ trans_ru: корреспондентский
+
+-lexeme
+ lex: ӧтув
+ gramm: A
+ stem: .ӧтув.
+ paradigm: Adj-consonant
+ trans_ru: общий
+
+-lexeme
+ lex: гӧлиник
+ gramm: A
+ stem: .гӧлиник.
+ paradigm: Adj-consonant
+ trans_ru: бедный
+
+-lexeme
+ lex: уна
+ stem: .уна.
+ gramm: ADV
+ paradigm: Adverbials-final
+ trans_ru: многие, много

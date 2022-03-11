@@ -73861,3 +73861,255 @@
  paradigm: Noun-num-consonant
  trans_ru: Машенька
 
+-lexeme
+ lex: Епимушко
+ gramm: N,PN,persn
+ stem: епимушко.
+ paradigm: Noun-num-vowel
+ trans_ru: Ефимушка
+
+-lexeme
+ lex: Стёпук
+ gramm: N,PN,persn
+ stem: стёпук.
+ paradigm: Noun-num-consonant
+ trans_ru: Стёпушка
+
+-lexeme
+ lex: Роза
+ gramm: N,PN,persn
+ stem: роза.
+ paradigm: Noun-num-vowel
+ trans_ru: Роза
+
+-lexeme
+ lex: Боря
+ gramm: N,PN,persn
+ stem: боря.
+ paradigm: Noun-num-vowel
+ trans_ru: Боря
+
+-lexeme
+ lex: Вичкодор
+ gramm: N,PN,topn
+ stem: вичкодор.
+ paradigm: Noun-num-consonant
+ trans_ru: Вичкодор
+
+-lexeme
+ lex: Петыргрезд
+ gramm: N,PN,topn
+ stem: петыргрезд.
+ paradigm: Noun-num-consonant
+ trans_ru: Петыргрезд
+
+-lexeme
+ lex: Льӧва
+ gramm: N,PN,persn
+ stem: льӧва.
+ paradigm: Noun-num-vowel
+ trans_ru: Лёва
+
+-lexeme
+ lex: Онтон
+ gramm: N,PN,persn
+ stem: онтон.
+ paradigm: Noun-num-consonant
+ trans_ru: Антон
+
+-lexeme
+ lex: Павла
+ gramm: N,PN,persn
+ stem: павла.
+ paradigm: Noun-num-vowel
+ trans_ru: Павла
+
+-lexeme
+ lex: Малюк
+ gramm: N,PN,persn
+ stem: малюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Маленька
+
+-lexeme
+ lex: Карп
+ gramm: N,PN,persn
+ stem: карп.
+ paradigm: Noun-num-consonant
+ trans_ru: Карп
+
+-lexeme
+ lex: Карпуша
+ gramm: N,PN,persn
+ stem: карпуша.
+ paradigm: Noun-num-vowel
+ trans_ru: Карпуша
+
+-lexeme
+ lex: Карпуш
+ gramm: N,PN,persn
+ stem: карпуш.
+ paradigm: Noun-num-consonant
+ trans_ru: Карпуша
+
+-lexeme
+ lex: Гурган
+ gramm: N,PN,topn
+ stem: гурган.
+ paradigm: Noun-num-consonant
+ trans_ru: Гурган
+
+-lexeme
+ lex: Паля
+ gramm: N,PN,persn
+ stem: паля.
+ paradigm: Noun-num-vowel
+ trans_ru: Паля
+
+-lexeme
+ lex: Кирӧ
+ gramm: N,PN,persn
+ stem: кирӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Кирилл, Кирьян
+
+-lexeme
+ lex: Гришӧ
+ gramm: N,PN,persn
+ stem: гришӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Гриша
+
+-lexeme
+ lex: Тям
+ gramm: N,PN,topn
+ stem: тям.
+ paradigm: Noun-num-consonant
+ trans_ru: Тям
+
+-lexeme
+ lex: Чомъёль
+ gramm: N,PN,topn
+ stem: чомъёль.|чомъёлл.
+ paradigm: Noun-num-CC'
+ trans_ru: Чомъёль
+
+-lexeme
+ lex: Македон
+ gramm: N,PN,persn
+ stem: македон.
+ paradigm: Noun-num-consonant
+ trans_ru: Македон
+
+-lexeme
+ lex: Погост
+ gramm: N,PN,topn
+ stem: погост.
+ paradigm: Noun-num-consonant
+ trans_ru: Погост
+
+-lexeme
+ lex: Лыюров
+ gramm: N,PN,famn
+ stem: лыюров.
+ paradigm: Noun-num-consonant
+ trans_ru: Лыюров
+
+-lexeme
+ lex: Петрунёв
+ gramm: N,PN,famn
+ stem: петрунёв.
+ paradigm: Noun-num-consonant
+ trans_ru: Петрунёв
+
+-lexeme
+ lex: Ларев
+ gramm: N,PN,famn
+ stem: ларев.
+ paradigm: Noun-num-consonant
+ trans_ru: Ларев
+
+-lexeme
+ lex: Туркин
+ gramm: N,PN,famn
+ stem: туркин.
+ paradigm: Noun-num-consonant
+ trans_ru: Туркин
+
+-lexeme
+ lex: Корней
+ gramm: N,PN,persn
+ stem: корне.
+ paradigm: Noun-num-j
+ trans_ru: Корней
+
+-lexeme
+ lex: Тикӧ
+ gramm: N,PN,persn
+ stem: тикӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Тихон
+
+-lexeme
+ lex: Кама
+ gramm: N,PN,topn
+ stem: кама.
+ paradigm: Noun-num-vowel
+ trans_ru: Кама
+
+-lexeme
+ lex: Яраш
+ gramm: N,PN,persn
+ stem: яраш.
+ paradigm: Noun-num-consonant
+ trans_ru: Герасим, Ярослав
+
+-lexeme
+ lex: Кыйва
+ gramm: N,PN,persn
+ stem: кыйва.
+ paradigm: Noun-num-vowel
+ trans_ru: Кыйва
+
+-lexeme
+ lex: Микайлӧ
+ gramm: N,PN,persn
+ stem: микайлӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Михаил
+
+-lexeme
+ lex: Турӧб
+ gramm: N,PN,persn
+ stem: турӧб.
+ paradigm: Noun-num-consonant
+ trans_ru: Турэб
+
+-lexeme
+ lex: Нявий
+ gramm: N,PN,persn
+ stem: няви.
+ paradigm: Noun-num-j
+ trans_ru: Нявий
+
+-lexeme
+ lex: Чангыр
+ gramm: N,PN,persn
+ stem: чангыр.
+ paradigm: Noun-num-consonant
+ trans_ru: Чангыр
+
+-lexeme
+ lex: Ивӧ
+ gramm: N,PN,persn
+ stem: ивӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Иван
+
+-lexeme
+ lex: Ирьянко
+ gramm: N,PN,persn
+ stem: ирьянко.
+ paradigm: Noun-num-vowel
+ trans_ru: Ирьянко
+

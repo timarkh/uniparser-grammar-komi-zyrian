@@ -4693,7 +4693,7 @@
  stem: видз.
  gramm: V
  paradigm: V-ny
- trans_ru: беречь
+ trans_ru: беречь; тратить
 
 -lexeme
  lex: видзтыны
@@ -21340,6 +21340,13 @@
  gramm: V
  paradigm: V-avny
  trans_ru: укорять
+
+-lexeme
+ lex: кыскавны
+ stem: кыск.
+ gramm: V
+ paradigm: V-avny
+ trans_ru: тащить
 
 -lexeme
  lex: кыскыны
@@ -59825,4 +59832,130 @@
  stem: тӧдч.
  paradigm: V-yny
  trans_ru: быть заметным
+
+-lexeme
+ lex: тольӧдчыны
+ gramm: V,intr
+ stem: тольӧдч.
+ paradigm: V-yny
+ trans_ru: лепетать
+
+-lexeme
+ lex: лёкӧдны
+ gramm: V,tr
+ stem: лёкӧд.
+ paradigm: V-ny
+ trans_ru: считать плохим
+
+-lexeme
+ lex: сволочавны
+ gramm: V,tr,rus
+ stem: сволоч.
+ paradigm: V-avny
+ trans_ru: называть сволочью
+
+-lexeme
+ lex: упнитны
+ gramm: V,intr
+ stem: упнит.
+ paradigm: V-ny
+ trans_ru: выдохнуть
+
+-lexeme
+ lex: лӧсьӧдлыны
+ gramm: V,tr
+ stem: лӧсьӧдл.
+ paradigm: V-yny
+ trans_ru: выдумывать
+
+-lexeme
+ lex: урӧстыны
+ gramm: V,tr
+ stem: урӧст.
+ paradigm: V-yny
+ trans_ru: испортить
+
+-lexeme
+ lex: идравны
+ gramm: V,tr
+ stem: идр.
+ paradigm: V-avny
+ trans_ru: прибрать; обрядить; убрать (урожай)
+
+-lexeme
+ lex: вангӧдны
+ gramm: V,tr
+ stem: вангӧд.
+ paradigm: V-ny
+ trans_ru: распахнуть
+
+-lexeme
+ lex: школакывны
+ gramm: V,intr
+ stem: школакы.
+ paradigm: V-vny
+ trans_ru: гулко стучать
+
+-lexeme
+ lex: юравны
+ gramm: V,intr
+ stem: юр.
+ paradigm: V-avny
+ trans_ru: слышаться
+
+-lexeme
+ lex: нӧбавны
+ gramm: V,tr
+ stem: нӧб.
+ paradigm: V-avny
+ trans_ru: навьючить на себя
+
+-lexeme
+ lex: дзебны
+ gramm: V,intr
+ stem: дзеб.
+ paradigm: V-ny
+ trans_ru: прятать; хоронить
+
+-lexeme
+ lex: дінйыны
+ gramm: V,tr
+ stem: дінй.
+ paradigm: V-yny
+ trans_ru: обогнать
+
+-lexeme
+ lex: жучнитны
+ gramm: V,intr
+ stem: жучнит.
+ paradigm: V-ny
+ trans_ru: свистнуть
+
+-lexeme
+ lex: веськӧдлыны
+ gramm: V,intr
+ stem: веськӧдл.
+ paradigm: V-yny
+ trans_ru: управлять
+
+-lexeme
+ lex: шливгыны
+ gramm: V,intr
+ stem: шливг.
+ paradigm: V-yny
+ trans_ru: течь
+
+-lexeme
+ lex: потькыны
+ gramm: V,intr
+ stem: потьк.
+ paradigm: V-yny
+ trans_ru: капать
+
+-lexeme
+ lex: кӧвъявны
+ gramm: V,tr
+ stem: кӧвъ.
+ paradigm: V-yavny
+ trans_ru: подхватить
 
