@@ -3962,6 +3962,17 @@
   gramm: cvb.gen
   gloss: CVB.GEN|INS
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .іг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .іг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .иг<.>
   gramm: cvb.gen
   gloss: CVB.GEN
@@ -3973,24 +3984,48 @@
   gloss: CVB.GEN|INS
   regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
   paradigm: Adverbials-final
- -flex: .иг|тыр<.>
+  paradigm: Ptcp-poss-y
+ -flex: .иг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|тыр<.>//.иг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
   regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
   paradigm: Adverbials-final
- -flex: .іг|тыр<.>
+ -flex: .іг|тыр<.>//.іг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
+  paradigm: Adverbials-final
+ -flex: .иг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
+  regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
+  paradigm: Adverbials-final
+ -flex: .іг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
   paradigm: Adverbials-final
  -flex: .иг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .іг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .ӧмӧн<.>
   gramm: cvb.sim
   gloss: CVB.SIM
@@ -4037,6 +4072,17 @@
   gramm: cvb.gen
   gloss: CVB.GEN|INS
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .іг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .іг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .иг<.>
   gramm: cvb.gen
   gloss: CVB.GEN
@@ -4048,24 +4094,48 @@
   gloss: CVB.GEN|INS
   regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
   paradigm: Adverbials-final
- -flex: .иг|тыр<.>
+  paradigm: Ptcp-poss-y
+ -flex: .иг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|тыр<.>//.иг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
   regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
   paradigm: Adverbials-final
- -flex: .іг|тыр<.>
+ -flex: .іг|тыр<.>//.іг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
+  paradigm: Adverbials-final
+ -flex: .иг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
+  regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
+  paradigm: Adverbials-final
+ -flex: .іг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
   paradigm: Adverbials-final
  -flex: .иг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   regex-prev: .*([абвгеёжийікмоӧпруфхцчшщъыьэюя]|дз)[<>.]*$
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .іг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .ӧмӧн<.>
   gramm: cvb.sim
   gloss: CVB.SIM
@@ -4112,14 +4182,30 @@
   gramm: cvb.gen
   gloss: CVB.GEN|INS
   paradigm: Adverbials-final
- -flex: .иг|тыр<.>
+  paradigm: Ptcp-poss-y
+ -flex: .иг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|тыр<.>//.иг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
+  paradigm: Adverbials-final
+ -flex: .иг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
   paradigm: Adverbials-final
  -flex: .иг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .[ь]ӧмӧн<.>
   gramm: cvb.sim
   gloss: CVB.SIM
@@ -4166,14 +4252,30 @@
   gramm: cvb.gen
   gloss: CVB.GEN|INS
   paradigm: Adverbials-final
- -flex: .иг|тыр<.>
+  paradigm: Ptcp-poss-y
+ -flex: .иг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|тыр<.>//.иг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
+  paradigm: Adverbials-final
+ -flex: .иг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
   paradigm: Adverbials-final
  -flex: .иг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .[ь]ӧмӧн<.>
   gramm: cvb.sim
   gloss: CVB.SIM
@@ -4220,14 +4322,30 @@
   gramm: cvb.gen
   gloss: CVB.GEN|INS
   paradigm: Adverbials-final
- -flex: .иг|тыр<.>
+  paradigm: Ptcp-poss-y
+ -flex: .иг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|тыр<.>//.иг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
+  paradigm: Adverbials-final
+ -flex: .иг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
   paradigm: Adverbials-final
  -flex: .иг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .ьӧмӧн<.>
   gramm: cvb.sim
   gloss: CVB.SIM
@@ -4274,14 +4392,30 @@
   gramm: cvb.gen
   gloss: CVB.GEN|INS
   paradigm: Adverbials-final
- -flex: .иг|тыр<.>
+  paradigm: Ptcp-poss-y
+ -flex: .иг|кості<.>
+  gramm: cvb.dur
+  gloss: CVB.GEN|DUR
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|чӧж<.>
+  gramm: cvb.delim
+  gloss: CVB.GEN|DELIM
+  paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
+ -flex: .иг|тыр<.>//.иг|тырйи<.>
   gramm: cvb.accp
   gloss: CVB.GEN|ACCP
+  paradigm: Adverbials-final
+ -flex: .иг|кежлӧ<.>
+  gramm: cvb.purp
+  gloss: CVB.GEN|PURP
   paradigm: Adverbials-final
  -flex: .иг|моз<.>
   gramm: cvb.sim
   gloss: CVB.GEN|SIM
   paradigm: Adverbials-final
+  paradigm: Ptcp-poss-y
  -flex: .ьӧмӧн<.>
   gramm: cvb.sim
   gloss: CVB.SIM

@@ -74113,3 +74113,73 @@
  paradigm: Noun-num-vowel
  trans_ru: Ирьянко
 
+-lexeme
+ lex: Ёридз
+ gramm: N,PN,topn
+ stem: ёридз.|ёридд.
+ paradigm: Noun-num-ddz
+ trans_ru: Ёридз
+
+-lexeme
+ lex: Вӧсьӧ
+ gramm: N,persn,PN
+ stem: вӧсьӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Вэся
+
+-lexeme
+ lex: Зук
+ gramm: N,PN,persn
+ stem: зук.
+ paradigm: Noun-num-consonant
+ trans_ru: Зук
+
+-lexeme
+ lex: Як
+ gramm: N,PN,persn
+ stem: як.
+ paradigm: Noun-num-consonant
+ trans_ru: Яков
+
+-lexeme
+ lex: Паляйка
+ gramm: N,PN,persn
+ stem: паляйка.
+ paradigm: Noun-num-vowel
+ trans_ru: Паляйка
+
+-lexeme
+ lex: Меляйка
+ gramm: N,PN,persn
+ stem: меляйка.
+ paradigm: Noun-num-vowel
+ trans_ru: Меляйка
+
+-lexeme
+ lex: Гор
+ gramm: N,persn,PN
+ stem: гор.
+ paradigm: Noun-num-consonant
+ trans_ru: Гор
+
+-lexeme
+ lex: Мӧскуа
+ gramm: N,PN,topn
+ stem: мӧскуа.
+ paradigm: Noun-num-vowel
+ trans_ru: Москва
+
+-lexeme
+ lex: Асыка
+ gramm: N,PN,persn
+ stem: асыка.
+ paradigm: Noun-num-vowel
+ trans_ru: Асыка
+
+-lexeme
+ lex: Микал
+ gramm: N,PN,persn
+ stem: микал.
+ paradigm: Noun-num-consonant
+ trans_ru: Михаил
+

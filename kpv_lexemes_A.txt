@@ -41645,6 +41645,35 @@
 -lexeme
  lex: уна
  stem: .уна.
- gramm: ADV
- paradigm: Adverbials-final
+ gramm: A
+ paradigm: Adj-vowel
  trans_ru: многие, много
+
+-lexeme
+ lex: асшӧр
+ gramm: A
+ stem: .асшӧр.
+ paradigm: Adj-consonant
+ trans_ru: самостоятельный
+
+-lexeme
+ lex: ньӧж
+ gramm: A
+ stem: .ньӧж.
+ paradigm: Adj-consonant
+ trans_ru: медлительный
+
+-lexeme
+ lex: чож
+ gramm: A
+ stem: .чож.
+ paradigm: Adj-consonant
+ trans_ru: быстрый
+
+-lexeme
+ lex: лючки
+ gramm: A
+ stem: .лючки.
+ paradigm: Adj-vowel
+ trans_ru: хороший
+

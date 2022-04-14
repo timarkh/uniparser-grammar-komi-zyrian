@@ -7729,3 +7729,67 @@
  stem: могысьӧн.
  paradigm: Clitics
  trans_ru: ради
+
+-lexeme
+ lex: явӧ
+ gramm: ADV,rus
+ stem: явӧ.
+ paradigm: Adverbials-final
+ trans_ru: явно
+
+-lexeme
+ lex: джӧм
+ gramm: ADV
+ stem: джӧм.
+ paradigm: Adverbials-final
+ trans_ru: внезапно
+
+-lexeme
+ lex: паныд
+ gramm: ADV
+ stem: паныд.
+ paradigm: Adverbials-final
+ trans_ru: наперекор
+
+-lexeme
+ lex: чожа
+ gramm: ADV
+ stem: чожа.
+ paradigm: Adverbials-final
+ trans_ru: быстро
+
+-lexeme
+ lex: водзвыв
+ gramm: ADV
+ stem: водзвыв.
+ paradigm: Adverbials-final
+ trans_ru: заранее
+
+-lexeme
+ lex: булс
+ gramm: IMIT
+ stem: булс.
+ paradigm: Clitics
+ trans_ru: шлёп
+
+-lexeme
+ lex: болс
+ gramm: IMIT
+ stem: болс.
+ paradigm: Clitics
+ trans_ru: шлёп
+
+-lexeme
+ lex: та
+ gramm: INTRJ
+ stem: та.
+ paradigm: Clitics
+ trans_ru: та
+
+-lexeme
+ lex: ерӧмакань
+ gramm: INTRJ
+ stem: ерӧмакань.
+ paradigm: Clitics
+ trans_ru: ёлки-палки
+

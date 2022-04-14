@@ -59959,3 +59959,66 @@
  paradigm: V-yavny
  trans_ru: подхватить
 
+-lexeme
+ lex: тшӧктыны
+ gramm: V,intr
+ stem: тшӧкт.
+ paradigm: V-yny
+ trans_ru: велеть; просить; разрешать
+
+-lexeme
+ lex: шнипыртны
+ gramm: V,intr
+ stem: шнипырт.
+ paradigm: V-ny
+ trans_ru: спать
+
+-lexeme
+ lex: чеччыштны
+ gramm: V,intr
+ stem: чеччышт.
+ paradigm: V-ny
+ trans_ru: прыгнуть
+
+-lexeme
+ lex: довъявны
+ gramm: V,intr
+ stem: довъ.
+ paradigm: V-yavny
+ trans_ru: болтаться
+
+-lexeme
+ lex: косӧдны
+ gramm: V,tr
+ stem: косӧд.
+ paradigm: V-ny
+ trans_ru: обтереть, обсушить
+
+-lexeme
+ lex: джива-джавакывны
+ gramm: V,intr
+ stem: джива-джавакы.
+ paradigm: V-vny
+ trans_ru: щебетать
+
+-lexeme
+ lex: мӧдны
+ gramm: V,intr
+ stem: мӧд.
+ paradigm: V-ny
+ trans_ru: начать
+
+-lexeme
+ lex: зилякывны
+ gramm: V,intr
+ stem: зилякы.
+ paradigm: V-vny
+ trans_ru: звенеть, бряцать
+
+-lexeme
+ lex: тур-бармунны
+ gramm: V,intr
+ stem: тур-бармун.
+ paradigm: V-ny
+ trans_ru: поругаться
+

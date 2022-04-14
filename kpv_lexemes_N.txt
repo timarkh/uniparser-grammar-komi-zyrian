@@ -79653,6 +79653,13 @@
  trans_ru: собака
 
 -lexeme
+ lex: пон
+ stem: пон.
+ gramm: N,anim
+ paradigm: Noun-num-obl_j
+ trans_ru: собака
+
+-lexeme
  lex: понбаз
  stem: понбаз.
  gramm: N
@@ -110610,10 +110617,10 @@
 
 -lexeme
  lex: ув
- stem: ув.|ул.
+ stem: ув.
  gramm: N
- paradigm: Noun-num-v_l
- trans_ru: место под елью; ветка, сук
+ paradigm: Noun-num-obl_j
+ trans_ru: ветка, сук
 
 -lexeme
  lex: ув
@@ -132732,4 +132739,179 @@
  stem: татаро.
  paradigm: Noun-num-vowel
  trans_ru: татары
+
+-lexeme
+ lex: орда
+ gramm: N,rus
+ stem: орда.
+ paradigm: Noun-num-vowel
+ trans_ru: орда
+
+-lexeme
+ lex: Войпӧль
+ gramm: N,supernat
+ stem: войпӧль.|войпӧлл.
+ paradigm: Noun-num-CC'
+ trans_ru: Бог северного ветра
+
+-lexeme
+ lex: кывлӧмтор
+ gramm: N,nmlz_tor
+ stem: кывлӧмтор.
+ paradigm: Noun-num-consonant
+ trans_ru: что-либо услышанное
+
+-lexeme
+ lex: мокой
+ gramm: N,supernat
+ stem: моко.
+ paradigm: Noun-num-j
+ trans_ru: черт
+
+-lexeme
+ lex: торъялун
+ gramm: N,nmlz_lun
+ stem: торъялун.
+ paradigm: Noun-num-consonant
+ trans_ru: особенность
+
+-lexeme
+ lex: сёрнивизь
+ gramm: N
+ stem: сёрнивиз.
+ paradigm: Noun-num-soft
+ trans_ru: ход разговора
+
+-lexeme
+ lex: буба
+ gramm: N,supernat
+ stem: буба.
+ paradigm: Noun-num-vowel
+ trans_ru: злой дух
+
+-lexeme
+ lex: кевмысянін
+ gramm: N,nmlz_in
+ stem: кевмысянін.
+ paradigm: Noun-num-consonant
+ trans_ru: молельня
+
+-lexeme
+ lex: зыбучаин
+ gramm: N,nmlz_in,rus
+ stem: зыбучаин.
+ paradigm: Noun-num-consonant
+ trans_ru: трясина
+
+-lexeme
+ lex: полӧмлун
+ gramm: N,nmlz_lun
+ stem: полӧмлун.
+ paradigm: Noun-num-consonant
+ trans_ru: страх
+
+-lexeme
+ lex: зыбучин
+ gramm: N,nmlz_in,rus
+ stem: зыбучин.
+ paradigm: Noun-num-consonant
+ trans_ru: трясина
+
+-lexeme
+ lex: кӧр
+ gramm: N
+ stem: кӧр.
+ paradigm: Noun-num-consonant
+ trans_ru: вкус, запах
+
+-lexeme
+ lex: повзьӧмлун
+ gramm: N,nmlz_lun
+ stem: повзьӧмлун.
+ paradigm: Noun-num-consonant
+ trans_ru: испуг
+
+-lexeme
+ lex: шать
+ gramm: N
+ stem: шат.
+ paradigm: Noun-num-soft
+ trans_ru: хворостина
+
+-lexeme
+ lex: моль
+ gramm: N
+ stem: моль.|молл.
+ paradigm: Noun-num-CC'
+ trans_ru: пуговица, бусина
+
+-lexeme
+ lex: тойис
+ gramm: N
+ stem: тойис.
+ paradigm: Noun-num-consonant
+ trans_ru: туес
+
+-lexeme
+ lex: сорлас
+ gramm: N
+ stem: сорлас.
+ paradigm: Noun-num-consonant
+ trans_ru: смесь
+
+-lexeme
+ lex: дзу
+ gramm: N
+ stem: дзу.
+ paradigm: Noun-num-vowel
+ trans_ru: островок в лесу с обилием чего-либо
+
+-lexeme
+ lex: енъюгыд
+ gramm: N
+ stem: енъюгыд.
+ paradigm: Noun-num-consonant
+ trans_ru: мир
+
+-lexeme
+ lex: чир
+ gramm: N
+ stem: чир.
+ paradigm: Noun-num-obl_j
+ trans_ru: мельчайшая частица
+
+-lexeme
+ lex: зырымбедь
+ gramm: N
+ stem: зырымбедь.|зырымбедд.
+ paradigm: Noun-num-CC'
+ trans_ru: сопляк
+
+-lexeme
+ lex: сир
+ gramm: N,anim
+ stem: сир.
+ paradigm: Noun-num-consonant
+ trans_ru: щука
+
+-lexeme
+ lex: Васа
+ gramm: N,supernat
+ stem: васа.
+ paradigm: Noun-num-vowel
+ trans_ru: водяной
+
+-lexeme
+ lex: вый
+ gramm: N
+ stem: вы.
+ paradigm: Noun-num-j
+ trans_ru: какое-либо место, состояние
+
+-lexeme
+ lex: нелючки
+ gramm: N,rus_afx
+ stem: нелючки.
+ paradigm: Noun-num-vowel
+ trans_ru: неполадка; беда
 
