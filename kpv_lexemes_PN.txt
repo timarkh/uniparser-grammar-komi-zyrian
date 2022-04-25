@@ -57161,6 +57161,13 @@
  trans_ru: Старовойтов
 
 -lexeme
+ lex: Сирвойтов
+ stem: сирвойтов.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Сирвойтов
+
+-lexeme
  lex: Стародумов
  stem: стародумов.
  gramm: N,PN,famn
@@ -74182,4 +74189,67 @@
  stem: микал.
  paradigm: Noun-num-consonant
  trans_ru: Михаил
+
+-lexeme
+ lex: Урай-Пауль
+ gramm: N,PN,topn
+ stem: урай-пауль.|урай-паулл.
+ paradigm: Noun-num-CC'
+ trans_ru: Урай-Пауль
+
+-lexeme
+ lex: Ермак
+ gramm: N,PN,persn
+ stem: ермак.
+ paradigm: Noun-num-consonant
+ trans_ru: Ермак
+
+-lexeme
+ lex: Питирим
+ gramm: N,PN,persn
+ stem: питирим.
+ paradigm: Noun-num-consonant
+ trans_ru: Питирим
+
+-lexeme
+ lex: Бурай
+ gramm: N,PN,persn
+ stem: бура.
+ paradigm: Noun-num-j
+ trans_ru: Бурай
+
+-lexeme
+ lex: Юмшан
+ gramm: N,PN,persn
+ stem: юмшан.
+ paradigm: Noun-num-consonant
+ trans_ru: Юмшан
+
+-lexeme
+ lex: Пелым
+ gramm: N,PN,topn
+ stem: пелым.
+ paradigm: Noun-num-consonant
+ trans_ru: Пелым
+
+-lexeme
+ lex: Княжича
+ gramm: N,topn,PN
+ stem: княжича.
+ paradigm: Noun-num-vowel
+ trans_ru: Княжпогост
+
+-lexeme
+ lex: Юрань
+ gramm: N,persn,PN
+ stem: юран.
+ paradigm: Noun-num-soft
+ trans_ru: Юрань
+
+-lexeme
+ lex: Игорёк
+ gramm: N,PN,persn
+ stem: игорёк.
+ paradigm: Noun-num-consonant
+ trans_ru: Игорёк
 

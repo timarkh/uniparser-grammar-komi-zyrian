@@ -106,16 +106,16 @@
 -lexeme
  lex: аддзавны
  stem: аддз.
- gramm: V
+ gramm: V,tr
  paradigm: V-avny
  trans_ru: находить
 
 -lexeme
  lex: аддзыны
  stem: аддз.
- gramm: V
+ gramm: V,tr
  paradigm: V-yny
- trans_ru: видеть
+ trans_ru: видеть; найти
 
 -lexeme
  lex: аджны
@@ -17713,7 +17713,7 @@
  stem: китшй.//китшъ.
  gramm: V
  paradigm: V-yny
- trans_ru: шутить
+ trans_ru: хихикать
 
 -lexeme
  lex: китшкыны
@@ -60021,4 +60021,130 @@
  stem: тур-бармун.
  paradigm: V-ny
  trans_ru: поругаться
+
+-lexeme
+ lex: гурӧбтыны
+ gramm: V,intr
+ stem: гурӧбт.
+ paradigm: V-yny
+ trans_ru: заурчать
+
+-lexeme
+ lex: путкыравны
+ gramm: V,intr
+ stem: путкыр.
+ paradigm: V-avny
+ trans_ru: клубиться
+
+-lexeme
+ lex: гур-гаркерны
+ gramm: V,tr
+ stem: гур-гаркер.
+ paradigm: V-ny
+ trans_ru: помешать чем-либо, потыкать
+
+-lexeme
+ lex: йӧнмыны
+ gramm: V,intr
+ stem: йӧнм.
+ paradigm: V-yny
+ trans_ru: зарасти осотом
+
+-lexeme
+ lex: чиршӧдлыны
+ gramm: V,tr
+ stem: чиршӧдл.
+ paradigm: V-yny
+ trans_ru: одёргивать
+
+-lexeme
+ lex: чирыштны
+ gramm: V,tr
+ stem: чирышт.
+ paradigm: V-ny
+ trans_ru: одернуть
+
+-lexeme
+ lex: юргыны
+ gramm: V,intr
+ stem: юрг.
+ paradigm: V-yny
+ trans_ru: звучать
+
+-lexeme
+ lex: рыжӧймыны
+ gramm: V,intr,rus
+ stem: рыжӧйм.
+ paradigm: V-yny
+ trans_ru: стать рыжим
+
+-lexeme
+ lex: жервидзны
+ gramm: V,intr
+ stem: жервидз.
+ paradigm: V-ny
+ trans_ru: быть оскаленным
+
+-lexeme
+ lex: янӧдны
+ gramm: V,tr
+ stem: янӧд.
+ paradigm: V-ny
+ trans_ru: стыдить
+
+-lexeme
+ lex: лэдзны
+ gramm: V,tr
+ stem: лэдз.
+ paradigm: V-ny
+ trans_ru: опустить
+
+-lexeme
+ lex: пыркнитны
+ gramm: V,tr
+ stem: пыркнит.
+ paradigm: V-ny
+ trans_ru: встряхнуть
+
+-lexeme
+ lex: вармунны
+ gramm: V,intr
+ stem: вармун.
+ paradigm: V-ny
+ trans_ru: развалиться
+
+-lexeme
+ lex: ышӧдны
+ gramm: V,tr
+ stem: ышӧд.
+ paradigm: V-ny
+ trans_ru: воодушевить
+
+-lexeme
+ lex: шпыньвидзны
+ gramm: V,intr
+ stem: шпыньвидз.
+ paradigm: V-ny
+ trans_ru: улыбаться
+
+-lexeme
+ lex: учительницавны
+ gramm: V,intr,rus
+ stem: учительниц.
+ paradigm: V-avny
+ trans_ru: работать учительницей
+
+-lexeme
+ lex: чупкыны
+ gramm: V,tr
+ stem: чупк.
+ paradigm: V-yny
+ trans_ru: причмокивать
+
+-lexeme
+ lex: думыштны
+ gramm: V,tr,rus
+ stem: думышт.
+ paradigm: V-ny
+ trans_ru: вообразить
 

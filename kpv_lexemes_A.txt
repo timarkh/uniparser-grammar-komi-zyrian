@@ -41677,3 +41677,66 @@
  paradigm: Adj-vowel
  trans_ru: хороший
 
+-lexeme
+ lex: гӧрӧдӧсь
+ gramm: A,oblin
+ stem: .гӧрӧдӧс.
+ paradigm: Adj-soft
+ trans_ru: с узлами
+
+-lexeme
+ lex: ньылыд
+ gramm: A
+ stem: .ньылыд.
+ paradigm: Adj-consonant
+ trans_ru: попутный; согласный
+
+-lexeme
+ lex: шог
+ gramm: A
+ stem: .шог.
+ paradigm: Adj-consonant
+ trans_ru: грустный
+
+-lexeme
+ lex: мудериник
+ gramm: A
+ stem: .мудериник.
+ paradigm: Adj-consonant
+ trans_ru: хитренький
+
+-lexeme
+ lex: визув
+ gramm: A
+ stem: .визув.
+ paradigm: Adj-consonant
+ trans_ru: быстрый; игривый
+
+-lexeme
+ lex: ылі
+ gramm: A
+ stem: .ылі.
+ paradigm: Adj-vowel
+ trans_ru: дальний
+
+-lexeme
+ lex: пушкыр
+ gramm: A
+ stem: .пушкыр.
+ paradigm: Adj-consonant
+ trans_ru: пушистый
+
+-lexeme
+ lex: едронӧй
+ gramm: A,rus
+ stem: .едронӧ.
+ paradigm: Adj-j
+ trans_ru: ядрёный
+
+-lexeme
+ lex: дӧвӧль
+ gramm: A,rus
+ stem: .дӧвӧл.
+ paradigm: Adj-soft
+ trans_ru: довольный
+

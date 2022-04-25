@@ -2658,7 +2658,7 @@
  lex: этійӧ
  gramm: PRO
  stem: этійӧ.
- paradigm: Clitics
+ paradigm: Noun-num-vowel
  trans_ru: этот, вот этот
 
 -lexeme

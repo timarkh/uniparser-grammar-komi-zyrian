@@ -327,3 +327,9 @@
  paradigm: Clitics
  trans_ru: восьмой
 
+-lexeme
+ lex: ӧтчыд
+ gramm: NUM
+ stem: ӧтчыд.
+ paradigm: NUM-consonant
+ trans_ru: раз

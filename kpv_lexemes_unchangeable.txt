@@ -2894,7 +2894,7 @@
  stem: лючки.
  gramm: ADV
  paradigm: Adverbials-final
- trans_ru: аккуратно
+ trans_ru: благополучно; аккуратно
 
 -lexeme
  lex: лючки-ладнӧ
@@ -6749,7 +6749,21 @@
  gramm: CONJ,rus
  stem: да.
  paradigm: Clitics
- trans_ru: да
+ trans_ru: и; но
+
+-lexeme
+ lex: да
+ gramm: CONJ
+ stem: да.
+ paradigm: Clitics
+ trans_ru: потому что
+
+-lexeme
+ lex: да
+ gramm: CONJ
+ stem: да.
+ paradigm: Clitics
+ trans_ru: когда
 
 -lexeme
  lex: мед
@@ -7792,4 +7806,111 @@
  stem: ерӧмакань.
  paradigm: Clitics
  trans_ru: ёлки-палки
+
+-lexeme
+ lex: пырмунігмоз
+ gramm: ADV
+ stem: пырмунігмоз.
+ paradigm: Adverbials-final
+ trans_ru: бегло
+
+-lexeme
+ lex: ӧтмоза
+ gramm: ADV
+ stem: ӧтмоза.
+ paradigm: Adverbials-final
+ trans_ru: одинаково
+
+-lexeme
+ lex: мыетшкӧ
+ gramm: ADV
+ stem: мыетшкӧ.
+ paradigm: Adverbials-final
+ trans_ru: сколько-нибудь
+
+-lexeme
+ lex: прӧста
+ gramm: ADV,rus
+ stem: прӧста.
+ paradigm: Adverbials-final
+ trans_ru: просто
+
+-lexeme
+ lex: гӧгӧр
+ gramm: ADV
+ stem: гӧгӧр.
+ paradigm: Adverbials-final
+ trans_ru: кругом
+
+-lexeme
+ lex: сійӧн
+ gramm: CONJ
+ stem: сійӧн.
+ paradigm: Clitics
+ trans_ru: поэтому
+
+-lexeme
+ lex: шӧть
+ gramm: INTRJ
+ stem: шӧть.
+ paradigm: Clitics
+ trans_ru: брысь
+
+-lexeme
+ lex: тинь
+ gramm: INTRJ
+ stem: тинь.
+ paradigm: Clitics
+ trans_ru: тинь
+
+-lexeme
+ lex: тон
+ gramm: INTRJ
+ stem: тон.
+ paradigm: Clitics
+ trans_ru: тон
+
+-lexeme
+ lex: энлӧй
+ gramm: PART
+ stem: энлӧй.
+ paradigm: Clitics
+ trans_ru: погодите
+
+-lexeme
+ lex: от
+ gramm: PART,rus
+ stem: от.
+ paradigm: Clitics
+ trans_ru: вот
+
+-lexeme
+ lex: ув
+ gramm: IMIT
+ stem: ув.
+ paradigm: Clitics
+ trans_ru: гав
+
+-lexeme
+ lex: кильк
+ gramm: IMIT
+ stem: кильк.
+ paradigm: Clitics
+ trans_ru: хи
+
+-lexeme
+ lex: кежлас
+ gramm: POST
+ stem: кежлас.
+ paradigm: Clitics
+ trans_ru: ко времени, на время
+
+-lexeme
+ lex: буди
+ gramm: PARENTH,rus
+ stem: буди.
+ paradigm: Clitics
+ trans_ru: видно
+
+
 

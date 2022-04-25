@@ -422,7 +422,7 @@
  lex: абутӧмтор
  stem: абутӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: нечто несуществующее
 
 -lexeme
@@ -1514,7 +1514,7 @@
  lex: аддзывтӧмтор
  stem: аддзывтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: невиданное
 
 -lexeme
@@ -1549,7 +1549,7 @@
  lex: аддзытӧмтор
  stem: аддзытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-то невидимое
 
 -lexeme
@@ -4181,7 +4181,7 @@
  lex: аслыспӧлӧстор
  stem: аслыспӧлӧстор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо оригинальное
 
 -lexeme
@@ -5848,6 +5848,7 @@
  stem: бандзиб.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: щека, щёки
 
 -lexeme
@@ -8370,7 +8371,7 @@
  lex: больгантор
  stem: больгантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет для болтовни
 
 -lexeme
@@ -9757,7 +9758,7 @@
  lex: бурджыктор
  stem: бурджыктор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: нечто лучшее
 
 -lexeme
@@ -9792,7 +9793,7 @@
  lex: бурдӧдчантор
  stem: бурдӧдчантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: целебное средство
 
 -lexeme
@@ -10030,7 +10031,7 @@
  lex: буртор
  stem: буртор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо хорошее
 
 -lexeme
@@ -10373,7 +10374,7 @@
  lex: быдлунъятор
  stem: быдлунъятор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо повседневное
 
 -lexeme
@@ -10394,7 +10395,7 @@
  lex: быдмантор
  stem: быдмантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: растение
 
 -lexeme
@@ -10478,7 +10479,7 @@
  lex: быдтор
  stem: быдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: всё
 
 -lexeme
@@ -10632,7 +10633,7 @@
  lex: бырӧмтор
  stem: бырӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: утрата
 
 -lexeme
@@ -10926,7 +10927,7 @@
  lex: бӧрдантор
  stem: бӧрдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: повод для плача
 
 -lexeme
@@ -11038,7 +11039,7 @@
  lex: бӧръянтор
  stem: бӧръянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-то для выбора
 
 -lexeme
@@ -11241,7 +11242,7 @@
  lex: важсятор
  stem: важсятор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-л. старинное
 
 -lexeme
@@ -11332,7 +11333,7 @@
  lex: вайӧмтор
  stem: вайӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: привоз
 
 -lexeme
@@ -12277,7 +12278,7 @@
  lex: вежантор
  stem: вежантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет обмена
 
 -lexeme
@@ -12319,7 +12320,7 @@
  lex: вежатор
  stem: вежатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: святое, святыня
 
 -lexeme
@@ -12368,7 +12369,7 @@
  lex: вежласянтор
  stem: вежласянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предметы обмена
 
 -lexeme
@@ -12431,7 +12432,7 @@
  lex: вежсянтор
  stem: вежсянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: смена одежды, смена белья
 
 -lexeme
@@ -13243,7 +13244,7 @@
  lex: вермантор
  stem: вермантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо посильное
 
 -lexeme
@@ -13299,7 +13300,7 @@
  lex: вермытӧмтор
  stem: вермытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-л. непосильное
 
 -lexeme
@@ -13614,7 +13615,7 @@
  lex: веськӧдчантор
  stem: веськӧдчантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: опохмел
 
 -lexeme
@@ -14111,7 +14112,7 @@
  lex: видантор
  stem: видантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет осуждения
 
 -lexeme
@@ -14384,7 +14385,7 @@
  lex: видзӧдантор
  stem: видзӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: зрелище
 
 -lexeme
@@ -14594,7 +14595,7 @@
  lex: вийӧдӧмтор
  stem: вийӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: отгон
 
 -lexeme
@@ -14972,7 +14973,7 @@
  lex: висьталантор
  stem: висьталантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: сообщение
 
 -lexeme
@@ -15084,14 +15085,14 @@
  lex: виччысьтӧмтор
  stem: виччысьтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: неожиданность
 
 -lexeme
  lex: виччысянтор
  stem: виччысянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: ожидаемое
 
 -lexeme
@@ -15315,7 +15316,7 @@
  lex: воантор
  stem: воантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: время прихода
 
 -lexeme
@@ -16281,7 +16282,7 @@
  lex: вольсасянтор
  stem: вольсасянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: подстилочный материал
 
 -lexeme
@@ -16603,7 +16604,7 @@
  lex: ворссьылӧмтор
  stem: ворссьылӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: отыгрыш
 
 -lexeme
@@ -17009,7 +17010,7 @@
  lex: вошӧмтор
  stem: вошӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: потеря
 
 -lexeme
@@ -17219,7 +17220,7 @@
  lex: вуджантор
  stem: вуджантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: средство переправы
 
 -lexeme
@@ -17275,7 +17276,7 @@
  lex: вуджӧдӧмтор
  stem: вуджӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: пережитое
 
 -lexeme
@@ -17500,14 +17501,14 @@
  lex: вундӧмтор
  stem: вундӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: вырез, вырезка
 
 -lexeme
  lex: вунлытӧмтор
  stem: вунлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо незабываемое
 
 -lexeme
@@ -17521,7 +17522,7 @@
  lex: вунӧдӧмтор
  stem: вунӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо забытое
 
 -lexeme
@@ -17962,7 +17963,7 @@
  lex: выльтор
  stem: выльтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: новость
 
 -lexeme
@@ -18032,7 +18033,7 @@
  lex: вынсьӧдантор
  stem: вынсьӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: удобрение
 
 -lexeme
@@ -18333,7 +18334,7 @@
  lex: вӧдитантор
  stem: вӧдитантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: посадка
 
 -lexeme
@@ -18389,7 +18390,7 @@
  lex: вӧзйӧмтор
  stem: вӧзйӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предложение
 
 -lexeme
@@ -18438,7 +18439,7 @@
  lex: вӧйпантор
  stem: вӧйпантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет опорочения
 
 -lexeme
@@ -18977,7 +18978,7 @@
  lex: вӧччантор
  stem: вӧччантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: наряд
 
 -lexeme
@@ -18998,7 +18999,7 @@
  lex: вӧчӧмтор
  stem: вӧчӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: изделие
 
 -lexeme
@@ -19166,7 +19167,7 @@
  lex: гажатор
  stem: гажатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо приятное
 
 -lexeme
@@ -19194,7 +19195,7 @@
  lex: гажтӧмтор
  stem: гажтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо скучное, неприятное
 
 -lexeme
@@ -20573,7 +20574,7 @@
  lex: гижантор
  stem: гижантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет письма
 
 -lexeme
@@ -21875,7 +21876,7 @@
  lex: госатор
  stem: госатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо жирное
 
 -lexeme
@@ -23205,7 +23206,7 @@
  lex: гусялӧмтор
  stem: гусялӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: краденое
 
 -lexeme
@@ -23226,7 +23227,7 @@
  lex: гусятор
  stem: гусятор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: тайна, секрет
 
 -lexeme
@@ -23543,7 +23544,7 @@
  lex: гырысьтор
  stem: гырысьтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо большое
 
 -lexeme
@@ -23683,7 +23684,7 @@
  lex: гӧгӧрвоанатор
  stem: гӧгӧрвоанатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо понятное
 
 -lexeme
@@ -23704,7 +23705,7 @@
  lex: гӧгӧрвотӧмтор
  stem: гӧгӧрвотӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: непонятное
 
 -lexeme
@@ -23998,7 +23999,7 @@
  lex: гӧрдитчантор
  stem: гӧрдитчантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: гордость
 
 -lexeme
@@ -25811,7 +25812,7 @@
  lex: джуджыдтор
  stem: джуджыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: возвышение
 
 -lexeme
@@ -26238,7 +26239,7 @@
  lex: дзолятор
  stem: дзолятор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо маленькое
 
 -lexeme
@@ -26700,7 +26701,7 @@
  lex: дивитантор
  stem: дивитантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо предосудительное
 
 -lexeme
@@ -27680,7 +27681,7 @@
  lex: долыдтор
  stem: долыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо радостное
 
 -lexeme
@@ -27778,7 +27779,7 @@
  lex: донатор
  stem: донатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо дорогое
 
 -lexeme
@@ -27855,7 +27856,7 @@
  lex: донтӧмтор
  stem: донтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо дешёвое
 
 -lexeme
@@ -27967,7 +27968,7 @@
  lex: дорйысянтор
  stem: дорйысянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: средства защиты
 
 -lexeme
@@ -29283,7 +29284,7 @@
  lex: дӧзмӧдантор
  stem: дӧзмӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо обидное
 
 -lexeme
@@ -29353,7 +29354,7 @@
  lex: дӧмастор
  stem: дӧмастор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: заплатка
 
 -lexeme
@@ -32468,7 +32469,7 @@
  lex: збыльмытӧмтор
  stem: збыльмытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: утопия
 
 -lexeme
@@ -32482,7 +32483,7 @@
  lex: збыльтор
  stem: збыльтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: правда, действительность
 
 -lexeme
@@ -33455,7 +33456,7 @@
  lex: зымвидзантор
  stem: зымвидзантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: громада
 
 -lexeme
@@ -36199,7 +36200,7 @@
  lex: ичӧттор
  stem: ичӧттор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: малость
 
 -lexeme
@@ -36367,7 +36368,7 @@
  lex: йирантор
  stem: йирантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: сердечные переживания
 
 -lexeme
@@ -36724,7 +36725,7 @@
  lex: йӧзӧдлытӧмтор
  stem: йӧзӧдлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо неопубликованное
 
 -lexeme
@@ -36738,7 +36739,7 @@
  lex: йӧзӧдӧмтор
  stem: йӧзӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: публикация
 
 -lexeme
@@ -36773,7 +36774,7 @@
  lex: йӧктантор
  stem: йӧктантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: танец
 
 -lexeme
@@ -36794,7 +36795,7 @@
  lex: йӧктӧдантор
  stem: йӧктӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: плясовая
 
 -lexeme
@@ -37032,7 +37033,7 @@
  lex: кабалатор
  stem: кабалатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: клочок бумаги
 
 -lexeme
@@ -37494,7 +37495,7 @@
  lex: казьтылантор
  stem: казьтылантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: воспоминание
 
 -lexeme
@@ -40581,7 +40582,7 @@
  lex: керӧмтор
  stem: керӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: изделие
 
 -lexeme
@@ -40791,7 +40792,7 @@
  lex: кизьӧртор
  stem: кизьӧртор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо жидкое
 
 -lexeme
@@ -42430,7 +42431,7 @@
  lex: ковтӧмтор
  stem: ковтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: ненужное
 
 -lexeme
@@ -42451,7 +42452,7 @@
  lex: коддзӧдантор
  stem: коддзӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: алкогольный напиток
 
 -lexeme
@@ -42619,7 +42620,7 @@
  lex: кодрасянтор
  stem: кодрасянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: поминальная еда
 
 -lexeme
@@ -42766,7 +42767,7 @@
  lex: козьналӧмтор
  stem: козьналӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо дарёное
 
 -lexeme
@@ -43144,7 +43145,7 @@
  lex: коланатор
  stem: коланатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо необходимое
 
 -lexeme
@@ -43158,7 +43159,7 @@
  lex: колантор
  stem: колантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо необходимое
 
 -lexeme
@@ -43704,7 +43705,7 @@
  lex: колястор
  stem: колястор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: остаток
 
 -lexeme
@@ -45573,14 +45574,14 @@
  lex: корсьӧмтор
  stem: корсьӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: находка, открытие
 
 -lexeme
  lex: корсянтор
  stem: корсянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: искомый
 
 -lexeme
@@ -45671,7 +45672,7 @@
  lex: корӧмтор
  stem: корӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: заказ
 
 -lexeme
@@ -47113,7 +47114,7 @@
  lex: крукасянтор
  stem: крукасянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: придирка
 
 -lexeme
@@ -48667,14 +48668,14 @@
  lex: курыдтор
  stem: курыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: горечь
 
 -lexeme
  lex: мукӧдтор
  stem: мукӧдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: другое
 
 -lexeme
@@ -49311,14 +49312,14 @@
  lex: кывлытӧмтор
  stem: кывлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо неслыханное
 
 -lexeme
  lex: кывлӧм-аддзылӧмтор
  stem: кывлӧм-аддзылӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо услышанное и увиденное
 
 -lexeme
@@ -49353,7 +49354,7 @@
  lex: кывсянтор
  stem: кывсянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: достопримечательность
 
 -lexeme
@@ -49640,7 +49641,7 @@
  lex: кыйӧмтор
  stem: кыйӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: добыча
 
 -lexeme
@@ -49857,7 +49858,7 @@
  lex: кыпыдтор
  stem: кыпыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо радостное
 
 -lexeme
@@ -50375,7 +50376,7 @@
  lex: кыӧмтор
  stem: кыӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: связанная вещь
 
 -lexeme
@@ -50592,7 +50593,7 @@
  lex: кӧдзыдтор
  stem: кӧдзыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо холодное
 
 -lexeme
@@ -50613,7 +50614,7 @@
  lex: кӧдзӧдантор
  stem: кӧдзӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-л. предназначенное для охлаждения
 
 -lexeme
@@ -51202,6 +51203,7 @@
  stem: кӧр.
  gramm: N,anim
  paradigm: Noun-num-obl_j
+ paradigm: Noun-num-consonant
  trans_ru: олень
 
 -lexeme
@@ -51607,7 +51609,7 @@
  lex: кӧтасянтор
  stem: кӧтасянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: вещества, способные поглощать влагу
 
 -lexeme
@@ -52160,7 +52162,7 @@
  lex: лакыштантор
  stem: лакыштантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: жидкость, зачерпываемая языком
 
 -lexeme
@@ -54099,7 +54101,7 @@
  lex: лоантор
  stem: лоантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: будущее
 
 -lexeme
@@ -55163,7 +55165,7 @@
  lex: лыддянтор
  stem: лыддянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо для чтения
 
 -lexeme
@@ -55254,7 +55256,7 @@
  lex: лыйсянтор
  stem: лыйсянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: огневое средство
 
 -lexeme
@@ -55646,7 +55648,7 @@
  lex: лэдзантор
  stem: лэдзантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо предназначенное для издания
 
 -lexeme
@@ -55674,7 +55676,7 @@
  lex: лэдзӧмтор
  stem: лэдзӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: изданное произведение печати
 
 -lexeme
@@ -56381,7 +56383,7 @@
  lex: лёктор
  stem: лёктор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: плохое
 
 -lexeme
@@ -56836,21 +56838,21 @@
  lex: лӧсьыдтор
  stem: лӧсьыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: хорошее
 
 -lexeme
  lex: лӧсьыдтӧмтор
  stem: лӧсьыдтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: нехорошее
 
 -lexeme
  lex: лӧсьыдысь-лӧсьыдтор
  stem: лӧсьыдысь-лӧсьыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо прекрасное
 
 -lexeme
@@ -56871,7 +56873,7 @@
  lex: лӧсьӧдлӧмтор
  stem: лӧсьӧдлӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: выдумка
 
 -lexeme
@@ -56899,7 +56901,7 @@
  lex: лӧсьӧдӧмтор
  stem: лӧсьӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: приобретение
 
 -lexeme
@@ -56913,14 +56915,14 @@
  lex: лӧсявтӧмтор
  stem: лӧсявтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: неподходящее
 
 -lexeme
  lex: лӧсялантор
  stem: лӧсялантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: подходящее
 
 -lexeme
@@ -57607,7 +57609,7 @@
  stem: мамӧ.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: моя мама
+ trans_ru: мама
 
 -lexeme
  lex: манак
@@ -57732,7 +57734,7 @@
  lex: манитчантор
  stem: манитчантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: любимое занятие
 
 -lexeme
@@ -58537,7 +58539,7 @@
  lex: матысатор
  stem: матысатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: близкое
 
 -lexeme
@@ -58880,14 +58882,14 @@
  lex: медбуртор
  stem: медбуртор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое лучшее
 
 -lexeme
  lex: медбӧръятор
  stem: медбӧръятор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: последнее
 
 -lexeme
@@ -58901,14 +58903,14 @@
  lex: меддонатор
  stem: меддонатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое дорогое
 
 -lexeme
  lex: меддонтӧмтор
  stem: меддонтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое дешёвое
 
 -lexeme
@@ -58971,7 +58973,7 @@
  lex: медколанатор
  stem: медколанатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое нужное
 
 -lexeme
@@ -58999,14 +59001,14 @@
  lex: медлёктор
  stem: медлёктор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое плохое
 
 -lexeme
  lex: медмусатор
  stem: медмусатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое любимое
 
 -lexeme
@@ -59076,14 +59078,14 @@
  lex: медсьӧкыдтор
  stem: медсьӧкыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое тяжёлое
 
 -lexeme
  lex: медтӧдчанатор
  stem: медтӧдчанатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое заметное
 
 -lexeme
@@ -59104,7 +59106,7 @@
  lex: медчӧскыдтор
  stem: медчӧскыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: самое вкусное
 
 -lexeme
@@ -59209,7 +59211,7 @@
  lex: мездысянтор
  stem: мездысянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: средство освобождения
 
 -lexeme
@@ -60609,7 +60611,7 @@
  lex: мисьтӧмтор
  stem: мисьтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: нехорошее
 
 -lexeme
@@ -60686,7 +60688,7 @@
  lex: мичатор
  stem: мичатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо красивое
 
 -lexeme
@@ -60700,21 +60702,21 @@
  lex: мичмӧдантор
  stem: мичмӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: украшение
 
 -lexeme
  lex: мичмӧдчан-баситчантор
  stem: мичмӧдчан-баситчантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: косметика
 
 -lexeme
  lex: мичмӧдчантор
  stem: мичмӧдчантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: украшение
 
 -lexeme
@@ -60861,7 +60863,7 @@
  lex: могмӧдантор
  stem: могмӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо выполнимое
 
 -lexeme
@@ -62492,7 +62494,7 @@
  lex: мусатор
  stem: мусатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: милое
 
 -lexeme
@@ -62583,7 +62585,7 @@
  lex: мустӧмтор
  stem: мустӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо неприятное
 
 -lexeme
@@ -62772,7 +62774,7 @@
  lex: мыджсянтор
  stem: мыджсянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: опора
 
 -lexeme
@@ -62821,7 +62823,7 @@
  lex: мыждантор
  stem: мыждантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: объект обвинения
 
 -lexeme
@@ -63304,7 +63306,7 @@
  lex: мӧвпалантор
  stem: мӧвпалантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет для размышлений
 
 -lexeme
@@ -63402,7 +63404,7 @@
  lex: мӧрччанатор
  stem: мӧрччанатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-то внушительное
 
 -lexeme
@@ -65082,7 +65084,7 @@
  lex: небыдтор
  stem: небыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо мягкое
 
 -lexeme
@@ -65460,7 +65462,7 @@
  lex: нелючкитор
  stem: нелючкитор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: ненормальность
 
 -lexeme
@@ -65908,7 +65910,7 @@
  lex: нималантор
  stem: нималантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: достопримечательность
 
 -lexeme
@@ -65943,7 +65945,7 @@
  lex: нимкодьтор
  stem: нимкодьтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: приятное
 
 -lexeme
@@ -66104,7 +66106,7 @@
  lex: новлантор
  stem: новлантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предназначенное для ношения на себе
 
 -lexeme
@@ -66587,14 +66589,14 @@
  lex: нуртор
  stem: нуртор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: пропитание
 
 -lexeme
  lex: нуръясянтор
  stem: нуръясянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: еда
 
 -lexeme
@@ -67420,7 +67422,7 @@
  lex: няклялантор
  stem: няклялантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: жевательная резинка
 
 -lexeme
@@ -67833,7 +67835,7 @@
  lex: нӧйтантор
  stem: нӧйтантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: объект избиения
 
 -lexeme
@@ -69513,7 +69515,7 @@
  lex: омӧльтор
  stem: омӧльтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: плохое
 
 -lexeme
@@ -71214,7 +71216,7 @@
  lex: ошйысянтор
  stem: ошйысянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет хвастовства
 
 -lexeme
@@ -71228,7 +71230,7 @@
  lex: ошкантор
  stem: ошкантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет похвалы
 
 -lexeme
@@ -72229,7 +72231,7 @@
  lex: паныдасьлытӧмтор
  stem: паныдасьлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: фантастика
 
 -lexeme
@@ -72264,7 +72266,7 @@
  lex: панялантор
  stem: панялантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: жидкая пища
 
 -lexeme
@@ -73300,7 +73302,7 @@
  lex: пасьталантор
  stem: пасьталантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо из одежды
 
 -lexeme
@@ -73895,7 +73897,7 @@
  lex: пежтор
  stem: пежтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: скверна
 
 -lexeme
@@ -75470,7 +75472,7 @@
  lex: петантор
  stem: петантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: выделение
 
 -lexeme
@@ -75533,7 +75535,7 @@
  lex: петкӧдлантор
  stem: петкӧдлантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: зрелище
 
 -lexeme
@@ -78718,7 +78720,7 @@
  lex: позьтӧмтор
  stem: позьтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: невозможное
 
 -lexeme
@@ -78739,7 +78741,7 @@
  lex: позянатор
  stem: позянатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: нечто возможное
 
 -lexeme
@@ -80412,7 +80414,7 @@
  lex: поснитор
  stem: поснитор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: мелочь
 
 -lexeme
@@ -84640,7 +84642,7 @@
  lex: пуктантор
  stem: пуктантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: подлежащее посадке, высадке
 
 -lexeme
@@ -85424,7 +85426,7 @@
  lex: пыксянтор
  stem: пыксянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: опора
 
 -lexeme
@@ -86257,7 +86259,7 @@
  lex: пӧжалӧмтор
  stem: пӧжалӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: выпечка
 
 -lexeme
@@ -86789,7 +86791,7 @@
  lex: пӧсьтор
  stem: пӧсьтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо горячее
 
 -lexeme
@@ -92369,7 +92371,7 @@
  lex: сайӧдантор
  stem: сайӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: завеса
 
 -lexeme
@@ -94582,7 +94584,7 @@
  lex: сералантор
  stem: сералантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет насмешек
 
 -lexeme
@@ -94757,7 +94759,7 @@
  lex: серпасалантор
  stem: серпасалантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет зарисовки
 
 -lexeme
@@ -94792,7 +94794,7 @@
  lex: серпастор
  stem: серпастор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: зарисовка
 
 -lexeme
@@ -97522,7 +97524,7 @@
  lex: содтӧдтор
  stem: содтӧдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: прибавка
 
 -lexeme
@@ -97704,7 +97706,7 @@
  lex: солатор
  stem: солатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо солёное
 
 -lexeme
@@ -98194,7 +98196,7 @@
  lex: сотчантор
  stem: сотчантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: легковоспламеняющийся предмет
 
 -lexeme
@@ -99426,7 +99428,7 @@
  lex: статиттӧмтор
  stem: статиттӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: неподходящее
 
 -lexeme
@@ -101603,7 +101605,7 @@
  lex: сылатор
  stem: сылатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо жирное
 
 -lexeme
@@ -102009,7 +102011,7 @@
  lex: сьӧдтор
  stem: сьӧдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо чёрное
 
 -lexeme
@@ -102100,7 +102102,7 @@
  lex: сьӧкыдтор
  stem: сьӧкыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: тяжесть
 
 -lexeme
@@ -102310,7 +102312,7 @@
  lex: сэтшӧм-татшӧмтор
  stem: сэтшӧм-татшӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: такое-сякое
 
 -lexeme
@@ -102807,7 +102809,7 @@
  lex: сёрнитантор
  stem: сёрнитантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет разговора
 
 -lexeme
@@ -102856,7 +102858,7 @@
  lex: сётор
  stem: сётор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: всячина
 
 -lexeme
@@ -102891,7 +102893,7 @@
  lex: сёянтор
  stem: сёянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: еда
 
 -lexeme
@@ -102940,7 +102942,7 @@
  lex: сісьмӧмтор
  stem: сісьмӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: гнильё
 
 -lexeme
@@ -103577,7 +103579,7 @@
  lex: такӧдантор
  stem: такӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо успокоительное
 
 -lexeme
@@ -105229,7 +105231,7 @@
  lex: тешкодьтор
  stem: тешкодьтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: нечто смешное
 
 -lexeme
@@ -107567,7 +107569,7 @@
  lex: туйтӧмтор
  stem: туйтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо негодное
 
 -lexeme
@@ -108100,7 +108102,7 @@
  stem: турун.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: трава
+ trans_ru: трава, сено
 
 -lexeme
  lex: турун-идзас
@@ -108393,7 +108395,7 @@
  lex: туянатор
  stem: туянатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо полезное
 
 -lexeme
@@ -109184,7 +109186,7 @@
  lex: тыдавтӧмтор
  stem: тыдавтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо невидимое
 
 -lexeme
@@ -109198,7 +109200,7 @@
  lex: тыдалантор
  stem: тыдалантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: зрелище; что-либо видимое
 
 -lexeme
@@ -109324,7 +109326,7 @@
  lex: тыралантор
  stem: тыралантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: начинка
 
 -lexeme
@@ -109380,7 +109382,7 @@
  lex: тырмытӧмтор
  stem: тырмытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо недостающее
 
 -lexeme
@@ -110171,28 +110173,28 @@
  lex: тӧдантор
  stem: тӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо знакомое, известное
 
 -lexeme
  lex: тӧдлытӧмтор
  stem: тӧдлытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: неожиданность
 
 -lexeme
  lex: тӧдлӧмтор
  stem: тӧдлӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо пережитое
 
 -lexeme
  lex: тӧдмавтӧмтор
  stem: тӧдмавтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: тайна
 
 -lexeme
@@ -110213,7 +110215,7 @@
  lex: тӧдмалӧмтор
  stem: тӧдмалӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: справка
 
 -lexeme
@@ -110255,7 +110257,7 @@
  lex: тӧдсатор
  stem: тӧдсатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: знакомое, известное
 
 -lexeme
@@ -110283,14 +110285,14 @@
  lex: тӧдтӧмтор
  stem: тӧдтӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: незнакомое
 
 -lexeme
  lex: тӧдчанатор
  stem: тӧдчанатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо заметное
 
 -lexeme
@@ -112439,7 +112441,7 @@
  lex: урчитӧмтор
  stem: урчитӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: акт
 
 -lexeme
@@ -118949,7 +118951,7 @@
  lex: чишкасьӧмтор
  stem: чишкасьӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: паленина
 
 -lexeme
@@ -119166,7 +119168,7 @@
  lex: чорыдтор
  stem: чорыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо твёрдое
 
 -lexeme
@@ -119509,7 +119511,7 @@
  lex: чуймӧдантор
  stem: чуймӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо удивительное
 
 -lexeme
@@ -119656,7 +119658,7 @@
  lex: чукӧрмӧмтор
  stem: чукӧрмӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: какой-либо сбор
 
 -lexeme
@@ -120279,7 +120281,7 @@
  lex: чӧжсьӧмтор
  stem: чӧжсьӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: накопление
 
 -lexeme
@@ -120405,14 +120407,14 @@
  lex: чӧскыдтор
  stem: чӧскыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо вкусное
 
 -lexeme
  lex: чӧскӧдантор
  stem: чӧскӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: приправа
 
 -lexeme
@@ -120426,7 +120428,7 @@
  lex: чӧсмасянтор
  stem: чӧсмасянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: лакомство
 
 -lexeme
@@ -120818,7 +120820,7 @@
  lex: шаньтор
  stem: шаньтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо хорошее
 
 -lexeme
@@ -121259,7 +121261,7 @@
  lex: шедӧдӧмтор
  stem: шедӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: достижение
 
 -lexeme
@@ -121322,14 +121324,14 @@
  lex: шемӧсмӧдантор
  stem: шемӧсмӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо удивительное
 
 -lexeme
  lex: шензянтор
  stem: шензянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо вызывающее удивление
 
 -lexeme
@@ -122043,7 +122045,7 @@
  lex: шогалантор
  stem: шогалантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: горе
 
 -lexeme
@@ -122064,7 +122066,7 @@
  lex: шогманатор
  stem: шогманатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо стоящее
 
 -lexeme
@@ -122078,7 +122080,7 @@
  lex: шогмантор
  stem: шогмантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо стоящее
 
 -lexeme
@@ -122092,7 +122094,7 @@
  lex: шогмытӧмтор
  stem: шогмытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо негодное
 
 -lexeme
@@ -122274,7 +122276,7 @@
  lex: шоматор
  stem: шоматор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо кислое
 
 -lexeme
@@ -122470,7 +122472,7 @@
  lex: шоныдтор
  stem: шоныдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо тёплое
 
 -lexeme
@@ -123394,7 +123396,7 @@
  lex: шуштӧмтор
  stem: шуштӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-то мрачное
 
 -lexeme
@@ -123416,7 +123418,7 @@
  stem: шы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: звук речи
+ trans_ru: звук
 
 -lexeme
  lex: шыаланног
@@ -123429,7 +123431,7 @@
  lex: шыбитантор
  stem: шыбитантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: негодная вещь
 
 -lexeme
@@ -123681,7 +123683,7 @@
  lex: шыр
  stem: шыр.
  gramm: N,anim
- paradigm: Noun-num-obl_j
+ paradigm: Noun-num-consonant
  trans_ru: мышь
 
 -lexeme
@@ -124213,7 +124215,7 @@
  lex: ыджыдтор
  stem: ыджыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо большое
 
 -lexeme
@@ -124514,7 +124516,7 @@
  lex: ыстантор
  stem: ыстантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: отправление
 
 -lexeme
@@ -124640,7 +124642,7 @@
  lex: ыштӧдантор
  stem: ыштӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо соблазнительное
 
 -lexeme
@@ -125725,7 +125727,7 @@
  lex: элясянтор
  stem: элясянтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: причина недовольства
 
 -lexeme
@@ -125823,7 +125825,7 @@
  lex: эмтор
  stem: эмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: быль
 
 -lexeme
@@ -126306,7 +126308,7 @@
  lex: эсканатор
  stem: эсканатор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо правдивое
 
 -lexeme
@@ -126369,7 +126371,7 @@
  lex: эскытӧмтор
  stem: эскытӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо невероятное
 
 -lexeme
@@ -126383,7 +126385,7 @@
  lex: эскӧдантор
  stem: эскӧдантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо убедительное
 
 -lexeme
@@ -126922,7 +126924,7 @@
  lex: юалантор
  stem: юалантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: предмет, о котором спрашивают
 
 -lexeme
@@ -127041,7 +127043,7 @@
  lex: югъялантор
  stem: югъялантор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-то блестящее
 
 -lexeme
@@ -127076,7 +127078,7 @@
  lex: югыдтор
  stem: югыдтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо светлое
 
 -lexeme
@@ -127307,7 +127309,7 @@
  lex: юмовтор
  stem: юмовтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: сладости
 
 -lexeme
@@ -128077,7 +128079,7 @@
  lex: ягтор
  stem: ягтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: небольшой сосновый лес
 
 -lexeme
@@ -128951,7 +128953,7 @@
  lex: ёсьтор
  stem: ёсьтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: что-либо острое
 
 -lexeme
@@ -129588,7 +129590,7 @@
  lex: ӧткодьтор
  stem: ӧткодьтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: общее
 
 -lexeme
@@ -130574,7 +130576,7 @@
  lex: велӧдӧмтор
  stem: велӧдӧмтор.
  gramm: N,nmlz_tor
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: пройденное
 
 -lexeme
@@ -132915,3 +132917,233 @@
  paradigm: Noun-num-vowel
  trans_ru: неполадка; беда
 
+-lexeme
+ lex: ёрдкыв
+ gramm: N
+ stem: ёрдкыв.|ёрдкыл.
+ paradigm: Noun-num-v_l
+ trans_ru: клятва
+
+-lexeme
+ lex: вис
+ gramm: N
+ stem: вис.
+ paradigm: Noun-num-consonant
+ trans_ru: жертва
+
+-lexeme
+ lex: шуйгавыв
+ gramm: N
+ stem: шуйгавыв.|шуйгавыл.
+ paradigm: Noun-num-v_l
+ trans_ru: левая сторона
+
+-lexeme
+ lex: войкытш
+ gramm: N
+ stem: войкытш.
+ paradigm: Noun-num-consonant
+ trans_ru: Северный полярный круг
+
+-lexeme
+ lex: ан
+ gramm: N
+ stem: ан.
+ paradigm: Noun-num-consonant
+ trans_ru: ан (буква древнепермского алфавита)
+
+-lexeme
+ lex: бур
+ gramm: N
+ stem: бур.
+ paradigm: Noun-num-consonant
+ trans_ru: бур (буква древнепермского алфавита)
+
+-lexeme
+ lex: катыдладор
+ gramm: N
+ stem: катыдладор.
+ paradigm: Noun-num-consonant
+ trans_ru: место вверх по течению
+
+-lexeme
+ lex: саяланін
+ gramm: N,nmlz_in
+ stem: саяланін.
+ paradigm: Noun-num-consonant
+ trans_ru: место, куда кто-то (что-то) заходит
+
+-lexeme
+ lex: мышладор
+ gramm: N
+ stem: мышладор.
+ paradigm: Noun-num-consonant
+ trans_ru: тыльная сторона
+
+-lexeme
+ lex: вичкоберд
+ gramm: N
+ stem: вичкоберд.
+ paradigm: Noun-num-consonant
+ trans_ru: место возле церкви
+
+-lexeme
+ lex: юбок
+ gramm: N
+ stem: юбок.
+ paradigm: Noun-num-consonant
+ trans_ru: берег
+
+-lexeme
+ lex: пӧвст
+ gramm: N
+ stem: пӧвст.
+ paradigm: Noun-num-consonant
+ trans_ru: слой
+
+-lexeme
+ lex: кокув
+ gramm: N
+ stem: кокув.|кокул.
+ paradigm: Noun-num-v_l
+ trans_ru: подножье
+
+-lexeme
+ lex: паскалльӧ
+ gramm: N,rus
+ stem: паскалльӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: лад
+
+-lexeme
+ lex: кеж
+ gramm: N
+ stem: кеж.
+ paradigm: Noun-num-consonant
+ trans_ru: наличие
+
+-lexeme
+ lex: пас
+ gramm: N
+ stem: пас.
+ paradigm: Noun-num-consonant
+ trans_ru: знак
+
+-lexeme
+ lex: моз
+ gramm: N,time_meas
+ stem: моз.
+ paradigm: Noun-num-obl_j
+ trans_ru: август
+
+-lexeme
+ lex: инька
+ gramm: N,hum,anim
+ stem: инька.
+ paradigm: Noun-num-vowel
+ trans_ru: тётя
+
+-lexeme
+ lex: ай
+ gramm: N,hum,anim
+ stem: а.
+ paradigm: Noun-num-j
+ trans_ru: отец
+
+-lexeme
+ lex: мӧдлун
+ gramm: N,time_meas
+ stem: мӧдлун.
+ paradigm: Noun-num-consonant
+ trans_ru: послезавтра
+
+-lexeme
+ lex: сюмӧдтор
+ gramm: N
+ stem: сюмӧдтор.
+ paradigm: Noun-num-consonant
+ trans_ru: кусок бересты
+
+-lexeme
+ lex: тшытштор
+ gramm: N
+ stem: тшытштор.
+ paradigm: Noun-num-consonant
+ trans_ru: кусочек
+
+-lexeme
+ lex: тшынтор
+ gramm: N
+ stem: тшынтор.
+ paradigm: Noun-num-consonant
+ trans_ru: дымок
+
+-lexeme
+ lex: лӧсьыд
+ gramm: N
+ stem: лӧсьыд.
+ paradigm: Noun-num-consonant
+ trans_ru: благодать
+
+-lexeme
+ lex: вом
+ gramm: N
+ stem: вом.
+ paradigm: Noun-num-consonant
+ trans_ru: устье
+
+-lexeme
+ lex: нюмъёвтас
+ gramm: N
+ stem: нюмъёвтас.
+ paradigm: Noun-num-consonant
+ trans_ru: улыбка
+
+-lexeme
+ lex: петкӧданін
+ gramm: N,nmlz_in
+ stem: петкӧданін.
+ paradigm: Noun-num-consonant
+ trans_ru: место, куда выносят что-либо
+
+-lexeme
+ lex: весаланін
+ gramm: N,nmlz_in
+ stem: весаланін.
+ paradigm: Noun-num-consonant
+ trans_ru: место, где очищают что-либо
+
+-lexeme
+ lex: кыскаланін
+ gramm: N,nmlz_in
+ stem: кыскаланін.
+ paradigm: Noun-num-consonant
+ trans_ru: место, где перевозят что-либо
+
+-lexeme
+ lex: патерант
+ gramm: N,rus,hum,anim
+ stem: патерант.
+ paradigm: Noun-num-consonant
+ trans_ru: квартирант
+
+-lexeme
+ lex: пемыд
+ gramm: N
+ stem: пемыд.
+ paradigm: Noun-num-consonant
+ trans_ru: темнота
+
+-lexeme
+ lex: кофейня
+ gramm: N,rus
+ stem: кофейня.
+ paradigm: Noun-num-vowel
+ trans_ru: кофейня
+
+-lexeme
+ lex: татшӧмтор
+ stem: татшӧмтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: такое
