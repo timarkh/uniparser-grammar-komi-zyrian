@@ -21113,8 +21113,8 @@
 -lexeme
  lex: кыны
  gramm: V,tr
- stem: к.
- paradigm: V-yny
+ stem: кы.
+ paradigm: V-ny
  trans_ru: ткать, плести, вязать
 
 -lexeme

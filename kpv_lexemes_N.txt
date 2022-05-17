@@ -1792,7 +1792,7 @@
 
 -lexeme
  lex: ай-мам
- stem: ай-мам.
+ stem: ай-мам.//аймам.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: родители
@@ -11180,7 +11180,7 @@
  stem: важдыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: старина, отдалённое прошлое
+ trans_ru: старина, история
 
 -lexeme
  lex: важенка
@@ -71193,8 +71193,8 @@
  trans_ru: реброплодник уральский
 
 -lexeme
- lex: ошибка
- stem: ошибка.
+ lex: ӧшибка
+ stem: ӧшибка.//ошибка.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: ошибка
@@ -75481,7 +75481,7 @@
  stem: петас.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: всходы
+ trans_ru: всходы; выпуск
 
 -lexeme
  lex: петель
@@ -81044,6 +81044,13 @@
 -lexeme
  lex: правление
  stem: правление.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: правление
+
+-lexeme
+ lex: правленньӧ
+ stem: правленньӧ.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: правление
@@ -133310,3 +133317,814 @@
  paradigm: Noun-num-vowel
  trans_ru: мальчик
 
+-lexeme
+ lex: тӧвшӧр
+ stem: тӧвшӧр.
+ gramm: N,time_meas
+ paradigm: Noun-num-consonant
+ trans_ru: январь
+
+-lexeme
+ lex: выльпыртӧм
+ gramm: N
+ stem: выльпыртӧм.
+ paradigm: Noun-num-consonant
+ trans_ru: нововведение
+
+-lexeme
+ lex: ӧтмунӧм
+ gramm: N
+ stem: ӧтмунӧм.
+ paradigm: Noun-num-consonant
+ trans_ru: движение
+
+-lexeme
+ lex: оланподув
+ gramm: N
+ stem: оланподув.|оланподул.
+ paradigm: Noun-num-v_l
+ trans_ru: закон жизни
+
+-lexeme
+ lex: аварийщик
+ stem: аварийщик.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: аварийщик
+
+-lexeme
+ lex: авиабилет
+ stem: авиабилет.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: авиабилет
+
+-lexeme
+ lex: авиайитӧд
+ stem: авиайитӧд.
+ gramm: N,rus_afx
+ paradigm: Noun-num-consonant
+ trans_ru: авиастроение
+
+-lexeme
+ lex: авиамаршрут
+ stem: авиамаршрут.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: авиамаршрут
+
+-lexeme
+ lex: авиаперелёт
+ stem: авиаперелёт.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: авиаперелёт
+
+-lexeme
+ lex: авиаприбор
+ stem: авиаприбор.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: авиаприбор
+
+-lexeme
+ lex: авиарейс
+ stem: авиарейс.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: авиарейс
+
+-lexeme
+ lex: авиасалон
+ stem: авиасалон.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: авиасалон
+
+-lexeme
+ lex: австро-венгр
+ stem: австро-венгр.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: австро-венгр
+
+-lexeme
+ lex: автогазозаправщик
+ stem: автогазозаправщик.
+ gramm: N,transport,rus
+ paradigm: Noun-num-consonant
+ trans_ru: автогазозаправщик
+
+-lexeme
+ lex: автомотрис
+ stem: автомотрис.
+ gramm: N,transport,rus
+ paradigm: Noun-num-consonant
+ trans_ru: автомотриса
+
+-lexeme
+ lex: автоперевозчик
+ stem: автоперевозчик.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: автоперевозчик
+
+-lexeme
+ lex: аддзывлытӧмтор
+ stem: аддзывлытӧмтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: невиданное, невидаль
+
+-lexeme
+ lex: аддзывлӧмтор
+ stem: аддзывлӧмтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: невиданное, невидаль
+
+-lexeme
+ lex: аддзылӧмтор
+ stem: аддзылӧмтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: невиданное, невидаль
+
+-lexeme
+ lex: алкотестер
+ stem: алкотестер.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: алкотестер
+
+-lexeme
+ lex: Алтынбаев
+ stem: алтынбаев.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Алтынбаев
+
+-lexeme
+ lex: америкос
+ stem: америкос.//америкосс.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: америкос
+
+-lexeme
+ lex: англо-американец
+ stem: англо-американец.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: англо-американец
+
+-lexeme
+ lex: анестезиолог-реаниматолог
+ stem: анестезиолог-реаниматолог.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: анестезиолог-реаниматолог
+
+-lexeme
+ lex: Антикрист
+ stem: антикрист.
+ gramm: Nsr
+ paradigm: Noun-num-consonant
+ trans_ru: Антихрист
+
+-lexeme
+ lex: Анхин
+ stem: анхин.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Анхин
+
+-lexeme
+ lex: Анюк
+ stem: анюк.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Анюк
+
+-lexeme
+ lex: арбыд
+ stem: арбыд.
+ gramm: N,time_meas
+ paradigm: Noun-num-consonant
+ trans_ru: вся осень
+
+-lexeme
+ lex: арлыдӧм
+ stem: арлыдӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: -летие
+
+-lexeme
+ lex: арт-шӧрин
+ stem: арт-шӧрин.
+ gramm: N,nmlz_in,rus
+ paradigm: Noun-num-consonant
+ trans_ru: арт-центр
+
+-lexeme
+ lex: артмӧдантор
+ stem: артмӧдантор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: ингредиент
+
+-lexeme
+ lex: артмӧмтор
+ stem: артмӧмтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: случившееся
+
+-lexeme
+ lex: археолог
+ stem: архолог.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: археолог
+
+-lexeme
+ lex: аръявыв
+ stem: аръявыв.|аръявыл.
+ gramm: N,time_meas
+ paradigm: Noun-num-consonant
+ trans_ru: конец лета, под осень
+
+-lexeme
+ lex: асвеськӧдлӧм
+ stem: асвеськӧдлӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: самоуправление
+
+-lexeme
+ lex: асъюралӧм
+ stem: асъюралӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: самоуправление
+
+-lexeme
+ lex: аскоддьӧм
+ stem: аскоддьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: 
+
+-lexeme
+ lex: аскотыр
+ stem: аскотыр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: семья
+
+-lexeme
+ lex: асъянур
+ stem: асъянур.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: завтрак
+
+-lexeme
+ lex: аудиогижӧд
+ stem: аудиогижӧд.
+ gramm: N,rus_afx
+ paradigm: Noun-num-consonant
+ trans_ru: аудиозапись
+
+-lexeme
+ lex: аудиодокумент
+ stem: аудиодокумент.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: аудиодокумент
+
+-lexeme
+ lex: аудитор
+ stem: аудитор.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: аудитор
+
+-lexeme
+ lex: аутсайдер
+ stem: аутсайдер.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: аутсайдер
+
+-lexeme
+ lex: Ахмедов
+ stem: ахмедов.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Ахмедов
+
+-lexeme
+ lex: аэропор
+ stem: аэропор.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: аэропорт
+
+-lexeme
+ lex: баддяин
+ stem: баддяин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: ивняк
+
+-lexeme
+ lex: базилик
+ stem: базилик.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: базилик
+
+-lexeme
+ lex: байд
+ stem: байд.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ива
+
+-lexeme
+ lex: бакенбард
+ stem: бакенбард.
+ gramm: N,body,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бакенбард
+
+-lexeme
+ lex: Балканъяс
+ stem: балкан.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Балканы
+
+-lexeme
+ lex: Бандельман
+ stem: бандельман.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Бандельман
+
+-lexeme
+ lex: бандерлог
+ stem: бандерлог.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бандерлог
+
+-lexeme
+ lex: баситчантор
+ stem: баситчантор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: украшение
+
+-lexeme
+ lex: басурман
+ stem: басурман.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: басурманин
+
+-lexeme
+ lex: башнёр
+ stem: башнёр.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: башнёр (танкист-стрелок в башне танка)
+
+-lexeme
+ lex: бейдж
+ stem: бейдж.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бейдж
+
+-lexeme
+ lex: белоказак
+ stem: белоказак.
+ gramm: N,rush
+ paradigm: Noun-num-consonant
+ trans_ru: белоказак
+
+-lexeme
+ lex: белополяк
+ stem: белополяк.
+ gramm: N,rush
+ paradigm: Noun-num-consonant
+ trans_ru: белополяк
+
+-lexeme
+ lex: Белоштык
+ stem: белоштык.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Белоштык
+
+-lexeme
+ lex: бергалантор
+ stem: бергалантор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: кручение
+
+-lexeme
+ lex: берег
+ stem: берег.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: берег
+
+-lexeme
+ lex: бибилиотекар
+ stem: бибилиотекар.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бибилиотекарь
+
+-lexeme
+ lex: библиорыт
+ stem: библиорыт.
+ gramm: N,rus_afx
+ paradigm: Noun-num-consonant
+ trans_ru: библиовечер
+
+-lexeme
+ lex: бизнес-андел
+ stem: бизнес-андел.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бизнес-ангел
+
+-lexeme
+ lex: бизнес-гигант
+ stem: бизнес-гигант.
+ gramm: N,rush
+ paradigm: Noun-num-consonant
+ trans_ru: бизнес-гигант
+
+-lexeme
+ lex: бизнес-партнёр
+ stem: бизнес-партнёр.
+ gramm: N,rush
+ paradigm: Noun-num-consonant
+ trans_ru: бизнес-партнёр
+
+-lexeme
+ lex: бизнес-проект
+ stem: бизнес-проект.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бизнес-проект
+
+-lexeme
+ lex: оланпастэчас
+ stem: оланпастэчас.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: законодательство
+
+-lexeme
+ lex: бизнес-ӧткотыр
+ stem: бизнес-ӧткотыр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бизнес-содружество
+
+-lexeme
+ lex: ӧткотыр
+ stem: ӧткотыр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: содружество, общество
+
+-lexeme
+ lex: Бикмедов
+ stem: бикмедов.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Бикмедов
+
+-lexeme
+ lex: биоресурс
+ stem: биоресурс.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: биоресурс
+
+-lexeme
+ lex: Битнер
+ stem: битнер.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Битнер
+
+-lexeme
+ lex: бланок
+ stem: бланок.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бланк
+
+-lexeme
+ lex: блатник
+ stem: блатник.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: блатник
+
+-lexeme
+ lex: блок-пост
+ stem: блок-пост.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: блокпост
+
+-lexeme
+ lex: болгар
+ stem: болгар.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: болгарин
+
+-lexeme
+ lex: Болотов
+ stem: болотов.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Болотов
+
+-lexeme
+ lex: бомбандировщик
+ stem: бомбандировщик.
+ gramm: N,transport,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бомбардировщик
+
+-lexeme
+ lex: борйысьӧм
+ stem: борйысьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выборы
+
+-lexeme
+ lex: бортмеханик
+ stem: бортмеханик.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бортмеханик
+
+-lexeme
+ lex: босс
+ stem: босс.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: босс
+
+-lexeme
+ lex: босьтантор
+ stem: босьтантор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: то, что нужно взять
+
+-lexeme
+ lex: босьтӧмин
+ stem: босьтӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: завоевания
+
+-lexeme
+ lex: босьтӧмтор
+ stem: босьтӧмтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: взятое, захваченное
+
+-lexeme
+ lex: босяк
+ stem: босяк.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: босяк
+
+-lexeme
+ lex: брош
+ stem: брош.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: брошь
+
+-lexeme
+ lex: Брыляков
+ stem: брыляков.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Брыляков
+
+-lexeme
+ lex: Булавкин
+ stem: булавкин.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Булавкин
+
+-lexeme
+ lex: бумагатор
+ stem: бумагатор.
+ gramm: N,nmlz_tor,rus
+ paradigm: Noun-num-obl_j
+ trans_ru: бумажка
+
+-lexeme
+ lex: бунт
+ stem: бунт.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бунт
+
+-lexeme
+ lex: бунтар
+ stem: бунтар.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бунтарь
+
+-lexeme
+ lex: бурдӧдантор
+ stem: бурдӧдантор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: лекарство
+
+-lexeme
+ lex: буровик
+ stem: буровик.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: буровик
+
+-lexeme
+ lex: бустор
+ stem: бустор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: пылинка
+
+-lexeme
+ lex: бусурман
+ stem: бусурман.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: басурманин
+
+-lexeme
+ lex: быдтӧмтор
+ stem: быдтӧмтор.
+ gramm: N,nmlz_tor
+ paradigm: Noun-num-obl_j
+ trans_ru: выращенное
+
+-lexeme
+ lex: бырӧдалӧмин
+ stem: бырӧдалӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: 
+
+-lexeme
+ lex: бӧньдюг
+ stem: бӧньдюг.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: клевер
+
+-lexeme
+ lex: бӧрйысиг
+ stem: бӧрйысиг.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: 
+
+-lexeme
+ lex: бӧрйысьӧм
+ stem: бӧрйысьӧм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выборы
+
+-lexeme
+ lex: вагон-ресторан
+ stem: вагон-ресторан.
+ gramm: N,transport,rus
+ paradigm: Noun-num-consonant
+ trans_ru: вагон-ресторан
+
+-lexeme
+ lex: Ванин
+ stem: ванин.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Ванин
+
+-lexeme
+ lex: варгеймер
+ stem: варгеймер.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: варгеймер
+
+-lexeme
+ lex: варччанін
+ stem: варччанін.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: бассейн
+
+-lexeme
+ lex: ватлалӧмин
+ stem: ватлалӧмин.
+ gramm: N,nmlz_in
+ paradigm: Noun-num-consonant
+ trans_ru: 
+
+-lexeme
+ lex: вахтовик
+ stem: вахтовик.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: вахтовик
+
+-lexeme
+ lex: вачег
+ stem: вачег.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: вачега (рукавица)
+
+-lexeme
+ lex: веган
+ stem: веган.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: веган
+
+-lexeme
+ lex: ӧтуввез-опрос
+ stem: ӧтуввез-опрос.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ӧтуввез-опрос
+
+-lexeme
+ lex: ӧтуввез-портал
+ stem: ӧтуввез-портал.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: интернет-портал
+
+-lexeme
+ lex: ӧтуввез-провайдер
+ stem: ӧтуввез-провайдер.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: интернет-провайдер
+
+-lexeme
+ lex: ӧтуввез-ресурс
+ stem: ӧтуввез-ресурс.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: интернет-ресурс
+
+-lexeme
+ lex: ӧтуввез-сайт
+ stem: ӧтуввез-сайт.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: интернет-сайт
+
+-lexeme
+ lex: ӧтуввез-сервис
+ stem: ӧтуввез-сервис.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: интернет-сервис
+
+-lexeme
+ lex: ӧчеред
+ stem: ӧчеред.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: очередь

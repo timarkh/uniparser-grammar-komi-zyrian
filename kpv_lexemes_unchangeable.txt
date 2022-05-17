@@ -21,7 +21,7 @@
 
 -lexeme
  lex: абу
- stem: абу.
+ stem: абу.//абы.
  gramm: PART,neg
  paradigm: Adverbials-final
  trans_ru: не 
@@ -3591,7 +3591,7 @@
 
 -lexeme
  lex: нин
- stem: нин.
+ stem: нин.//нін.
  gramm: PART
  paradigm: Adverbials-final
  trans_ru: уже
