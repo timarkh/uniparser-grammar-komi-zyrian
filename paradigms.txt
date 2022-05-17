@@ -3784,7 +3784,7 @@
   gramm: neg,2,pl
   gloss: NEG.12PL
  -flex: .ны<.>
-  gramm: neg,2,pl
+  gramm: neg,3,pl
   gloss: NEG.3PL
  paradigm: Clitics
 
@@ -3814,7 +3814,7 @@
   gramm: neg,2,pl
   gloss: NEG.12PL
  -flex: .ыны<.>
-  gramm: neg,2,pl
+  gramm: neg,3,pl
   gloss: NEG.3PL
  paradigm: Clitics
 
@@ -3842,7 +3842,7 @@
   gramm: neg,2,pl
   gloss: NEG.12PL
  -flex: .[ь]ны<.>
-  gramm: neg,2,pl
+  gramm: neg,3,pl
   gloss: NEG.3PL
  paradigm: Clitics
 
@@ -3872,7 +3872,7 @@
   gramm: neg,2,pl
   gloss: NEG.12PL
  -flex: .[ь]ыны<.>
-  gramm: neg,2,pl
+  gramm: neg,3,pl
   gloss: NEG.3PL
  paradigm: Clitics
 
@@ -3901,7 +3901,7 @@
   gramm: neg,2,pl
   gloss: NEG.12PL
  -flex: .ьны<.>
-  gramm: neg,2,pl
+  gramm: neg,3,pl
   gloss: NEG.3PL
  paradigm: Clitics
 
@@ -3931,7 +3931,7 @@
   gramm: neg,2,pl
   gloss: NEG.12PL
  -flex: .ьыны<.>
-  gramm: neg,2,pl
+  gramm: neg,3,pl
   gloss: NEG.3PL
  paradigm: Clitics
 

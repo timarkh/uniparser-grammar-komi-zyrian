@@ -7912,5 +7912,73 @@
  paradigm: Clitics
  trans_ru: видно
 
+-lexeme
+ lex: ӧтчыдысь
+ gramm: ADV
+ stem: ӧтчыдысь.
+ paradigm: Adverbials-final
+ trans_ru: однажды
 
+-lexeme
+ lex: тілльӧн-толльӧн
+ gramm: ADV
+ stem: тілльӧн-толльӧн.
+ paradigm: Adverbials-final
+ trans_ru: беспорядочно
+
+-lexeme
+ lex: неокотапырысь
+ gramm: ADV,rus
+ stem: неокотапырысь.
+ paradigm: Adverbials-final
+ trans_ru: неохотно
+
+-lexeme
+ lex: шогпырысь
+ gramm: ADV
+ stem: шогпырысь.
+ paradigm: Adverbials-final
+ trans_ru: грустно
+
+-lexeme
+ lex: восьсӧн
+ gramm: ADV
+ stem: восьсӧн.
+ paradigm: Adverbials-final
+ trans_ru: открыто
+
+-lexeme
+ lex: гир-гир
+ gramm: IMIT
+ stem: гир-гир.
+ paradigm: Clitics
+ trans_ru: подражание громкому раскатистому смеху
+
+-lexeme
+ lex: бут-бат
+ gramm: IMIT
+ stem: бут-бат.
+ paradigm: Clitics
+ trans_ru: бух-бух
+
+-lexeme
+ lex: бырс
+ gramm: IMIT
+ stem: бырс.
+ paradigm: Clitics
+ trans_ru: вдруг
+
+-lexeme
+ lex: хе-хе
+ gramm: INTRJ
+ stem: хе-хе.
+ paradigm: Clitics
+ trans_ru: хе-хе
+
+-lexeme
+ lex: мӧдарӧ
+ gramm: PARENTH
+ stem: мӧдарӧ.
+ paradigm: Clitics
+ trans_ru: наоборот
 

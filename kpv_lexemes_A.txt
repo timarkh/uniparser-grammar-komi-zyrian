@@ -41198,7 +41198,7 @@
  gramm: A
  stem: .водз.
  paradigm: Adj-consonant
- trans_ru: передний
+ trans_ru: передний, ранний
 
 -lexeme
  lex: гӧрдоват
@@ -41739,4 +41739,53 @@
  stem: .дӧвӧл.
  paradigm: Adj-soft
  trans_ru: довольный
+
+-lexeme
+ lex: шӧр
+ gramm: A
+ stem: .шӧр.
+ paradigm: Adj-consonant
+ trans_ru: средний
+
+-lexeme
+ lex: ыркыд
+ gramm: A
+ stem: .ыркыд.
+ paradigm: Adj-consonant
+ trans_ru: прохладный
+
+-lexeme
+ lex: саран
+ gramm: A
+ stem: .саран.
+ paradigm: Adj-consonant
+ trans_ru: зырянский
+
+-lexeme
+ lex: сёйӧсь
+ gramm: A,oblin
+ stem: .сёйӧс.
+ paradigm: Adj-soft
+ trans_ru: запачканный глиной
+
+-lexeme
+ lex: сьӧклӧс
+ gramm: A
+ stem: .сьӧклӧс.
+ paradigm: Adj-consonant
+ trans_ru: грузоподъёмный
+
+-lexeme
+ lex: енэжвывса
+ gramm: A
+ stem: .енэжвывса.
+ paradigm: Adj-vowel
+ trans_ru: небесный
+
+-lexeme
+ lex: гудыр-гадыр
+ gramm: A
+ stem: .гудыр-гадыр.
+ paradigm: Adj-consonant
+ trans_ru: беспорядочный
 

@@ -11770,7 +11770,7 @@
  stem: думышт.
  gramm: V,tr,intr
  paradigm: V-ny
- trans_ru: 
+ trans_ru: подумать
 
 -lexeme
  lex: дундыны
@@ -21112,10 +21112,10 @@
 
 -lexeme
  lex: кыны
- stem: кы.
- gramm: V
- paradigm: V-ny
- trans_ru: ткать
+ gramm: V,tr
+ stem: к.
+ paradigm: V-yny
+ trans_ru: ткать, плести, вязать
 
 -lexeme
  lex: кыньгыны
@@ -38804,7 +38804,7 @@
  stem: сюм.
  gramm: V
  paradigm: V-avny
- trans_ru: есть
+ trans_ru: проголодаться (о желудке)
 
 -lexeme
  lex: сюмӧдавны
@@ -60147,4 +60147,102 @@
  stem: думышт.
  paradigm: V-ny
  trans_ru: вообразить
+
+-lexeme
+ lex: кыйӧдны
+ gramm: V,tr
+ stem: кыйӧд.
+ paradigm: V-ny
+ trans_ru: выслеживать
+
+-lexeme
+ lex: тапнитны
+ gramm: V,tr
+ stem: тапнит.
+ paradigm: V-ny
+ trans_ru: хлопнуть
+
+-lexeme
+ lex: вуджӧдны
+ gramm: V,tr
+ stem: вуджӧд.
+ paradigm: V-ny
+ trans_ru: перевести
+
+-lexeme
+ lex: пӧртмавны
+ gramm: V,intr
+ stem: пӧртм.
+ paradigm: V-avny
+ trans_ru: переливаться
+
+-lexeme
+ lex: горӧдны
+ gramm: V,intr
+ stem: горӧд.
+ paradigm: V-ny
+ trans_ru: крикнуть
+
+-lexeme
+ lex: люньгыны
+ gramm: V,intr
+ stem: люньг.
+ paradigm: V-yny
+ trans_ru: тихо плыть
+
+-lexeme
+ lex: пуркӧшитны
+ gramm: V,tr
+ stem: пуркӧшит.
+ paradigm: V-ny
+ trans_ru: сильно избить
+
+-lexeme
+ lex: ававны
+ gramm: V,intr
+ stem: ав.
+ paradigm: V-avny
+ trans_ru: орать
+
+-lexeme
+ lex: сьӧктӧдны
+ gramm: V,tr
+ stem: сьӧктӧд.
+ paradigm: V-ny
+ trans_ru: сделать более тяжёлым
+
+-lexeme
+ lex: нангыны
+ gramm: V,intr
+ stem: нанг.
+ paradigm: V-yny
+ trans_ru: гнусавить
+
+-lexeme
+ lex: шевъявны
+ gramm: V,intr
+ stem: шевъ.
+ paradigm: V-yavny
+ trans_ru: колыхаться
+
+-lexeme
+ lex: зальзьыны
+ gramm: V,intr
+ stem: зальз.
+ paradigm: V-yny-soft
+ trans_ru: переливаться
+
+-lexeme
+ lex: тшӧтшӧдны
+ gramm: V,tr
+ stem: тшӧтшӧд.
+ paradigm: V-ny
+ trans_ru: обрезать
+
+-lexeme
+ lex: варччыны
+ gramm: V,intr
+ stem: варчч.
+ paradigm: V-yny
+ trans_ru: плавать
 

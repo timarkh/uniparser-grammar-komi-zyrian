@@ -74253,3 +74253,164 @@
  paradigm: Noun-num-consonant
  trans_ru: Игорёк
 
+-lexeme
+ lex: Сяринь
+ gramm: N,PN,persn
+ stem: сярин.
+ paradigm: Noun-num-soft
+ trans_ru: Сяринь
+
+-lexeme
+ lex: Мате
+ gramm: N,PN,persn
+ stem: мате.
+ paradigm: Noun-num-vowel
+ trans_ru: Мате
+
+-lexeme
+ lex: Чердін
+ gramm: N,PN,topn
+ stem: чердін.
+ paradigm: Noun-num-consonant
+ trans_ru: Чердынь
+
+-lexeme
+ lex: Эгатей
+ gramm: N,PN,persn
+ stem: эгате.
+ paradigm: Noun-num-j
+ trans_ru: Эгатей
+
+-lexeme
+ lex: Ешнек
+ gramm: N,PN,persn
+ stem: ешнек.
+ paradigm: Noun-num-consonant
+ trans_ru: Ешнек
+
+-lexeme
+ lex: Лули
+ gramm: N,persn,PN
+ stem: лули.
+ paradigm: Noun-num-vowel
+ trans_ru: Лули
+
+-lexeme
+ lex: Изкар
+ gramm: N,topn,PN
+ stem: изкар.
+ paradigm: Noun-num-consonant
+ trans_ru: Искор
+
+-lexeme
+ lex: Арси
+ gramm: N,persn,PN
+ stem: арси.
+ paradigm: Noun-num-vowel
+ trans_ru: Арси
+
+-lexeme
+ lex: Тура
+ gramm: N,PN,topn
+ stem: тура.
+ paradigm: Noun-num-vowel
+ trans_ru: Тура
+
+-lexeme
+ lex: Тобол
+ gramm: N,PN,topn
+ stem: тобол.
+ paradigm: Noun-num-consonant
+ trans_ru: Тобол
+
+-lexeme
+ lex: Иртыш
+ gramm: N,PN,topn
+ stem: иртыш.
+ paradigm: Noun-num-consonant
+ trans_ru: Иртыш
+
+-lexeme
+ lex: Конда
+ gramm: N,PN,topn
+ stem: конда.
+ paradigm: Noun-num-vowel
+ trans_ru: Конда
+
+-lexeme
+ lex: Сосьва
+ gramm: N,PN,topn
+ stem: сосьва.
+ paradigm: Noun-num-vowel
+ trans_ru: Сосьва
+
+-lexeme
+ lex: Печера
+ gramm: N,PN,topn
+ stem: печера.
+ paradigm: Noun-num-vowel
+ trans_ru: Печора
+
+-lexeme
+ lex: Урай
+ gramm: N,PN,topn
+ stem: ура.
+ paradigm: Noun-num-j
+ trans_ru: Урай
+
+-lexeme
+ lex: Иуси
+ gramm: N,PN,persn
+ stem: иуси.
+ paradigm: Noun-num-vowel
+ trans_ru: Иуси
+
+-lexeme
+ lex: Анемгур
+ gramm: N,PN,persn
+ stem: анемгур.
+ paradigm: Noun-num-consonant
+ trans_ru: Анемгур
+
+-lexeme
+ lex: Агай
+ gramm: N,PN,persn
+ stem: ага.
+ paradigm: Noun-num-j
+ trans_ru: Агай
+
+-lexeme
+ lex: Айурт
+ gramm: N,PN,persn
+ stem: айурт.
+ paradigm: Noun-num-consonant
+ trans_ru: Айурт
+
+-lexeme
+ lex: Чимги-Тура
+ gramm: N,PN,topn
+ stem: чимги-тура.
+ paradigm: Noun-num-vowel
+ trans_ru: Чимги-Тура
+
+-lexeme
+ lex: Сибыр
+ gramm: N,PN,topn
+ stem: сибыр.
+ paradigm: Noun-num-consonant
+ trans_ru: Сибирь
+
+-lexeme
+ lex: Тавда
+ gramm: N,PN,topn
+ stem: тавда.
+ paradigm: Noun-num-vowel
+ trans_ru: Тавда
+
+-lexeme
+ lex: Атай
+ gramm: N,PN,persn
+ stem: ата.
+ paradigm: Noun-num-j
+ trans_ru: Атай
+

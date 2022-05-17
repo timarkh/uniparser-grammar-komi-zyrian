@@ -1812,13 +1812,6 @@
  trans_ru: айва
 
 -lexeme
- lex: айка
- stem: айка.
- gramm: N,anim,hum
- paradigm: Noun-num-vowel
- trans_ru: свёкор
-
--lexeme
  lex: айкаа-моня
  stem: айкаа-моня.
  gramm: N,anim,hum
@@ -15654,13 +15647,6 @@
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: военрук
-
--lexeme
- lex: вож
- stem: вож.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: оглобля
 
 -lexeme
  lex: вожак
@@ -60850,7 +60836,7 @@
  stem: мог.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: дело
+ trans_ru: цель; дело
 
 -lexeme
  lex: могильник
@@ -67122,6 +67108,7 @@
  stem: ньӧввуж.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-obl_j
  trans_ru: лук (оружие)
 
 -lexeme
@@ -73048,9 +73035,9 @@
 
 -lexeme
  lex: пас
- stem: пас.|паск.
+ stem: пас.
  gramm: N
- paradigm: Noun-num-obl_cons
+ paradigm: Noun-num-consonant
  trans_ru: цель, мишень
 
 -lexeme
@@ -86008,7 +85995,7 @@
  stem: пӧвст.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: прядь
+ trans_ru: слой
 
 -lexeme
  lex: пӧвст
@@ -133147,3 +133134,179 @@
  gramm: N,nmlz_tor
  paradigm: Noun-num-obl_j
  trans_ru: такое
+
+-lexeme
+ lex: вер
+ gramm: N,hum,anim
+ stem: вер.
+ paradigm: Noun-num-consonant
+ trans_ru: раб
+
+-lexeme
+ lex: коскытш
+ gramm: N
+ stem: коскытш.
+ paradigm: Noun-num-consonant
+ trans_ru: пояс, ремень
+
+-lexeme
+ lex: мань-кол
+ gramm: N
+ stem: мань-кол.
+ paradigm: Noun-num-consonant
+ trans_ru: полуземлянка
+
+-lexeme
+ lex: човаль
+ gramm: N
+ stem: човаль.|човалл.
+ paradigm: Noun-num-CC'
+ trans_ru: каменка
+
+-lexeme
+ lex: Торум
+ gramm: N,supernat
+ stem: торум.
+ paradigm: Noun-num-consonant
+ trans_ru: Торум
+
+-lexeme
+ lex: Най
+ gramm: N,supernat
+ stem: на.
+ paradigm: Noun-num-j
+ trans_ru: (Сорни) Най
+
+-lexeme
+ lex: Сорни
+ gramm: N,supernat
+ stem: сорни.
+ paradigm: Noun-num-vowel
+ trans_ru: Сорни (Най)
+
+-lexeme
+ lex: раб
+ gramm: N,hum,anim,rus
+ stem: раб.
+ paradigm: Noun-num-consonant
+ trans_ru: раб
+
+-lexeme
+ lex: кум
+ gramm: N,hum,anim
+ stem: кум.
+ paradigm: Noun-num-consonant
+ trans_ru: человек
+
+-lexeme
+ lex: айка
+ gramm: N,hum,anim
+ stem: айка.
+ paradigm: Noun-num-vowel
+ trans_ru: свёкор; мужчина
+
+-lexeme
+ lex: енув
+ gramm: N
+ stem: енув.|енул.
+ paradigm: Noun-num-v_l
+ trans_ru: поднебесье
+
+-lexeme
+ lex: ӧдзӧсдор
+ gramm: N
+ stem: ӧдзӧсдор.
+ paradigm: Noun-num-consonant
+ trans_ru: место возле двери
+
+-lexeme
+ lex: пасан
+ gramm: N
+ stem: пасан.
+ paradigm: Noun-num-consonant
+ trans_ru: стол
+
+-lexeme
+ lex: хон
+ gramm: N,transport
+ stem: хон.
+ paradigm: Noun-num-consonant
+ trans_ru: лодка
+
+-lexeme
+ lex: ёрн-кол
+ gramm: N
+ stem: ёрн-кол.
+ paradigm: Noun-num-consonant
+ trans_ru: чум
+
+-lexeme
+ lex: манчи
+ gramm: N,anim,hum
+ stem: манчи.
+ paradigm: Noun-num-vowel
+ trans_ru: манси
+
+-lexeme
+ lex: чомтор
+ gramm: N,nmlz_tor
+ stem: чомтор.
+ paradigm: Noun-num-consonant
+ trans_ru: небольшой шалаш
+
+-lexeme
+ lex: нюлӧс
+ gramm: N
+ stem: нюлӧс.
+ paradigm: Noun-num-consonant
+ trans_ru: колчан
+
+-lexeme
+ lex: вож
+ gramm: N
+ stem: вож.
+ paradigm: Noun-num-obl_j
+ trans_ru: ответвление; оглобля
+
+-lexeme
+ lex: пӧвтор
+ gramm: N,nmlz_tor
+ stem: пӧвтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: дощечка
+
+-lexeme
+ lex: изтор
+ gramm: N,nmlz_tor
+ stem: изтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: камешек
+
+-lexeme
+ lex: кӧч
+ gramm: N,time_meas
+ stem: кӧч.
+ paradigm: Noun-num-consonant
+ trans_ru: сентябрь
+
+-lexeme
+ lex: улус
+ gramm: N,rus
+ stem: улус.
+ paradigm: Noun-num-consonant
+ trans_ru: улус
+
+-lexeme
+ lex: мирза
+ gramm: N,anim,hum,rus
+ stem: мирза.
+ paradigm: Noun-num-vowel
+ trans_ru: мирза
+
+-lexeme
+ lex: зоночка
+ gramm: N,hum,rus_afx,anim
+ stem: зоночка.
+ paradigm: Noun-num-vowel
+ trans_ru: мальчик
+
