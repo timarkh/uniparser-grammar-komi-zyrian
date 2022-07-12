@@ -4063,7 +4063,7 @@
  stem: .воддза.
  gramm: A
  paradigm: Adj-vowel
- trans_ru: передний
+ trans_ru: передний; прежний
 
 -lexeme
  lex: водзвывса
@@ -41788,4 +41788,158 @@
  stem: .гудыр-гадыр.
  paradigm: Adj-consonant
  trans_ru: беспорядочный
+
+-lexeme
+ lex: ёсь
+ gramm: A
+ stem: .ёс.
+ paradigm: Adj-soft
+ trans_ru: острый
+
+-lexeme
+ lex: муг
+ gramm: A
+ stem: .муг.
+ paradigm: Adj-consonant
+ trans_ru: смуглый
+
+-lexeme
+ lex: дзоляник
+ gramm: A
+ stem: .дзоляник.
+ paradigm: Adj-consonant
+ trans_ru: маленький
+
+-lexeme
+ lex: дзоляник
+ gramm: A,rus_afx
+ stem: .дзоляник.
+ paradigm: Adj-consonant
+ trans_ru: маленький
+
+-lexeme
+ lex: меліник
+ gramm: A,rus_afx
+ stem: .меліник.
+ paradigm: Adj-consonant
+ trans_ru: нежный
+
+-lexeme
+ lex: лӧсьыдіник
+ gramm: A,rus_afx
+ stem: .лӧсьыдіник.
+ paradigm: Adj-consonant
+ trans_ru: хорошенький
+
+-lexeme
+ lex: тепрӧс
+ gramm: A
+ stem: .тепрӧс.
+ paradigm: Adj-consonant
+ trans_ru: крутой
+
+-lexeme
+ lex: первой
+ gramm: A,rus
+ stem: .перво.
+ paradigm: Adj-j
+ trans_ru: первый
+
+-lexeme
+ lex: буриник
+ gramm: A,rus_afx
+ stem: .буриник.
+ paradigm: Adj-consonant
+ trans_ru: хорошенький
+
+-lexeme
+ lex: долыд
+ gramm: A
+ stem: .долыд.
+ paradigm: Adj-consonant
+ trans_ru: радостный
+
+-lexeme
+ lex: кромӧвӧй
+ gramm: A,rus
+ stem: .кромӧвӧ.
+ paradigm: Adj-j
+ trans_ru: хромовый
+
+-lexeme
+ lex: пашкыр
+ gramm: A
+ stem: .пашкыр.
+ paradigm: Adj-consonant
+ trans_ru: пушистый; раскидистый
+
+-lexeme
+ lex: везучӧй
+ gramm: A,rus
+ stem: .везучӧ.
+ paradigm: Adj-j
+ trans_ru: везучий
+
+-lexeme
+ lex: важиник
+ gramm: A,rus_afx
+ stem: .важиник.
+ paradigm: Adj-consonant
+ trans_ru: старенький
+
+-lexeme
+ lex: вирӧсь
+ gramm: A,oblin
+ stem: .вирӧс.
+ paradigm: Adj-soft
+ trans_ru: кровавый
+
+-lexeme
+ lex: буйнӧй
+ gramm: A,rus
+ stem: .буйнӧ.
+ paradigm: Adj-j
+ trans_ru: буйный
+
+-lexeme
+ lex: югыдгӧрд
+ gramm: A
+ stem: .югыдгӧрд.
+ paradigm: Adj-consonant
+ trans_ru: ярко-красный
+
+-lexeme
+ lex: сьӧдоват
+ gramm: A,rus_afx
+ stem: .сьӧдоват.
+ paradigm: Adj-consonant
+ trans_ru: черноватый
+
+-lexeme
+ lex: чирыш
+ gramm: A
+ stem: .чирыш.
+ paradigm: Adj-consonant
+ trans_ru: уязвимый
+
+-lexeme
+ lex: вийӧриник
+ gramm: A,rus_afx
+ stem: .вийӧриник.
+ paradigm: Adj-consonant
+ trans_ru: слабенький
+
+-lexeme
+ lex: гӧгрӧсіник
+ gramm: A,rus_afx
+ stem: .гӧгрӧсіник.
+ paradigm: Adj-consonant
+ trans_ru: круглый
+
+-lexeme
+ lex: лыӧсь
+ gramm: A,oblin
+ stem: .лыӧс.
+ paradigm: Adj-soft
+ trans_ru: костлявый
 

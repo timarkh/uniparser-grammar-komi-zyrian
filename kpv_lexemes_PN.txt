@@ -74414,3 +74414,234 @@
  paradigm: Noun-num-j
  trans_ru: Атай
 
+-lexeme
+ lex: Али-мирза
+ gramm: N,persn,PN
+ stem: али-мирза.
+ paradigm: Noun-num-vowel
+ trans_ru: Али-мирза
+
+-lexeme
+ lex: Менгли-Гирей
+ gramm: N,persn,PN
+ stem: менгли-гире.
+ paradigm: Noun-num-j
+ trans_ru: Менгли-Гирей
+
+-lexeme
+ lex: Нелидов
+ gramm: N,famn,PN
+ stem: нелидов.
+ paradigm: Noun-num-consonant
+ trans_ru: Нелидов
+
+-lexeme
+ lex: Али
+ gramm: N,persn,PN
+ stem: али.
+ paradigm: Noun-num-vowel
+ trans_ru: Али
+
+-lexeme
+ lex: Осман
+ gramm: N,persn,PN
+ stem: осман.
+ paradigm: Noun-num-consonant
+ trans_ru: Осман
+
+-lexeme
+ lex: Миня
+ gramm: N,persn,PN
+ stem: миня.
+ paradigm: Noun-num-vowel
+ trans_ru: Миня
+
+-lexeme
+ lex: Игнаш
+ gramm: N,persn,PN
+ stem: игнаш.
+ paradigm: Noun-num-consonant
+ trans_ru: Игнаш
+
+-lexeme
+ lex: Переяславль
+ gramm: N,topn,PN
+ stem: переяславль.|переяславлл.
+ paradigm: Noun-num-CC'
+ trans_ru: Переяславль
+
+-lexeme
+ lex: Троице-Сергиев
+ gramm: N,PN,topn
+ stem: троице-сергиев.
+ paradigm: Noun-num-consonant
+ trans_ru: Троице-Сергиев
+
+-lexeme
+ lex: Топан-Колюр
+ gramm: N,PN,persn
+ stem: топан-колюр.
+ paradigm: Noun-num-consonant
+ trans_ru: Топан-Колюр
+
+-lexeme
+ lex: Савей
+ gramm: N,PN,persn
+ stem: саве.
+ paradigm: Noun-num-j
+ trans_ru: Савей
+
+-lexeme
+ lex: Мишӧ
+ gramm: N,persn,PN
+ stem: мишӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Миша
+
+-lexeme
+ lex: Сыктыл
+ gramm: N,topn,PN
+ stem: сыктыл.
+ paradigm: Noun-num-consonant
+ trans_ru: Сысола
+
+-lexeme
+ lex: Куприяновскӧй
+ gramm: A,PN
+ stem: .куприяновскӧ.
+ paradigm: Adj-j
+ trans_ru: Куприяновский
+
+-lexeme
+ lex: Ладожскӧй
+ gramm: A,PN,topn
+ stem: .ладожскӧ.
+ paradigm: Adj-j
+ trans_ru: Ладожское
+
+-lexeme
+ lex: Васенька
+ gramm: N,PN,persn
+ stem: васенька.
+ paradigm: Noun-num-vowel
+ trans_ru: Васенька
+
+-lexeme
+ lex: Раюк
+ gramm: N,PN,persn
+ stem: раюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Раечка
+
+-lexeme
+ lex: Юрочка
+ gramm: N,PN,persn
+ stem: юрочка.
+ paradigm: Noun-num-vowel
+ trans_ru: Юрочка
+
+-lexeme
+ lex: Манепа
+ gramm: N,persn,PN
+ stem: манепа.
+ paradigm: Noun-num-vowel
+ trans_ru: Манефа
+
+-lexeme
+ lex: Марпа
+ gramm: N,persn,PN
+ stem: марпа.
+ paradigm: Noun-num-vowel
+ trans_ru: Марпа
+
+-lexeme
+ lex: Василь
+ gramm: N,persn,PN
+ stem: василь.|василл.
+ paradigm: Noun-num-CC'
+ trans_ru: Василий
+
+-lexeme
+ lex: Аннушка
+ gramm: N,persn,PN
+ stem: аннушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Аннушка
+
+-lexeme
+ lex: Княжпогост
+ gramm: N,topn,PN
+ stem: княжпогост.
+ paradigm: Noun-num-consonant
+ trans_ru: Княжпогост
+
+-lexeme
+ lex: Юрко
+ gramm: N,persn,PN
+ stem: юрко.
+ paradigm: Noun-num-vowel
+ trans_ru: Юрко
+
+-lexeme
+ lex: Огинский
+ gramm: N,famn,PN
+ stem: огински.
+ paradigm: Noun-num-j
+ trans_ru: Огинский
+
+-lexeme
+ lex: Питя
+ gramm: N,persn,PN
+ stem: питя.
+ paradigm: Noun-num-vowel
+ trans_ru: Питя
+
+-lexeme
+ lex: Радочка
+ gramm: N,persn,PN
+ stem: радочка.
+ paradigm: Noun-num-vowel
+ trans_ru: Радочка
+
+-lexeme
+ lex: Розочка
+ gramm: N,persn,PN
+ stem: розочка.
+ paradigm: Noun-num-vowel
+ trans_ru: Розочка
+
+-lexeme
+ lex: Райда
+ gramm: N,persn,PN
+ stem: райда.
+ paradigm: Noun-num-vowel
+ trans_ru: Райда
+
+-lexeme
+ lex: Розка
+ gramm: N,persn,PN
+ stem: розка.
+ paradigm: Noun-num-vowel
+ trans_ru: Розка
+
+-lexeme
+ lex: Пещора
+ gramm: N,topn,PN
+ stem: пещора.
+ paradigm: Noun-num-vowel
+ trans_ru: Печора
+
+-lexeme
+ lex: Печора
+ gramm: N,topn,PN
+ stem: печора.
+ paradigm: Noun-num-vowel
+ trans_ru: Печора
+
+-lexeme
+ lex: Радуль
+ gramm: N,persn,PN
+ stem: радуль.|радулл.
+ paradigm: Noun-num-CC'
+ trans_ru: Радуль
+

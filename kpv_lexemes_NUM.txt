@@ -238,21 +238,21 @@
 
 -lexeme
  lex: первой
- stem: перво.
+ stem: .перво.
  gramm: NUM,ord,rus
  paradigm: Adj-j
  trans_ru: первый
 
 -lexeme
  lex: медводдза
- stem: медводдза.
+ stem: .медводдза.
  gramm: NUM,ord
  paradigm: Adj-vowel
  trans_ru: первый
 
 -lexeme
  lex: мӧд
- stem: мӧд.
+ stem: .мӧд.
  gramm: NUM,ord
  paradigm: Adj-consonant
  trans_ru: второй
@@ -260,42 +260,42 @@
 -lexeme
  lex: восьмой
  gramm: NUM,ord,rus
- stem: восьмо.
+ stem: .восьмо.
  paradigm: Adj-j
  trans_ru: восьмой
 
 -lexeme
  lex: седьмой
  gramm: NUM,ord,rus
- stem: седьмо.
+ stem: .седьмо.
  paradigm: Adj-j
  trans_ru: седьмой
 
 -lexeme
  lex: третьӧй
  gramm: NUM,ord,rus
- stem: третьӧ.
+ stem: .третьӧ.
  paradigm: Adj-j
  trans_ru: третий
 
 -lexeme
  lex: второй
  gramm: NUM,ord,rus
- stem: второй.
+ stem: .второй.
  paradigm: Adj-j
  trans_ru: второй
 
 -lexeme
  lex: десятӧй
  gramm: NUM,ord,rus
- stem: десятӧй.
+ stem: .десятӧй.
  paradigm: Adj-j
  trans_ru: десятый
 
 -lexeme
  lex: девятӧй
  gramm: NUM,rus,ord
- stem: девятӧй.
+ stem: .девятӧй.
  paradigm: Clitics
  trans_ru: девятый
 
@@ -316,14 +316,14 @@
 -lexeme
  lex: седьмӧй
  gramm: NUM,rus,ord
- stem: седьмӧй.
+ stem: .седьмӧй.
  paradigm: Clitics
  trans_ru: седьмой
 
 -lexeme
  lex: восьмӧй
  gramm: NUM,ord,rus
- stem: восьмӧй.
+ stem: .восьмӧй.
  paradigm: Clitics
  trans_ru: восьмой
 

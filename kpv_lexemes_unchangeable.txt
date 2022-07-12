@@ -4692,7 +4692,7 @@
  stem: тай.
  gramm: PART
  paradigm: Adverbials-final
- trans_ru: оказывается
+ trans_ru: оказывается; всё же; же; ведь
 
 -lexeme
  lex: тайкӧ
@@ -7981,4 +7981,194 @@
  stem: мӧдарӧ.
  paradigm: Clitics
  trans_ru: наоборот
+
+-lexeme
+ lex: да
+ gramm: CONJ
+ stem: да.
+ paradigm: Clitics
+ trans_ru: хотя
+
+-lexeme
+ lex: ой-я
+ gramm: INTRJ
+ stem: ой-я.
+ paradigm: Clitics
+ trans_ru: ой
+
+-lexeme
+ lex: загреки
+ gramm: PARENTH,rus
+ stem: загреки.
+ paradigm: Clitics
+ trans_ru: беда
+
+-lexeme
+ lex: вӧлӧм
+ gramm: PARENTH
+ stem: вӧлӧм.
+ paradigm: Clitics
+ trans_ru: оказывается
+
+-lexeme
+ lex: тюр
+ gramm: IMIT
+ stem: тюр.
+ paradigm: Clitics
+ trans_ru: юрк
+
+-lexeme
+ lex: тёв
+ gramm: IMIT
+ stem: тёв.
+ paradigm: Clitics
+ trans_ru: тёв
+
+-lexeme
+ lex: кук
+ gramm: IMIT
+ stem: кук.
+ paradigm: Clitics
+ trans_ru: кук
+
+-lexeme
+ lex: ку
+ gramm: IMIT
+ stem: ку.
+ paradigm: Clitics
+ trans_ru: ку
+
+-lexeme
+ lex: дзинь
+ gramm: IMIT
+ stem: дзинь.
+ paradigm: Clitics
+ trans_ru: дзинь
+
+-lexeme
+ lex: вайӧ
+ gramm: PART
+ stem: вайӧ.
+ paradigm: Clitics
+ trans_ru: давайте
+
+-lexeme
+ lex: буди
+ gramm: PART,rus
+ stem: буди.
+ paradigm: Clitics
+ trans_ru: должно быть
+
+-lexeme
+ lex: кузяла
+ gramm: POST
+ stem: кузяла.
+ paradigm: Clitics
+ trans_ru: по
+
+-lexeme
+ lex: кымын
+ gramm: POST
+ stem: кымын.
+ paradigm: Clitics
+ trans_ru: примерно
+
+-lexeme
+ lex: сэккості
+ gramm: ADV
+ stem: сэккості.
+ paradigm: Adverbials-final
+ trans_ru: тем временем
+
+-lexeme
+ lex: добровольнӧ
+ gramm: ADV,rus
+ stem: добровольнӧ.
+ paradigm: Adverbials-final
+ trans_ru: добровольно
+
+-lexeme
+ lex: шог
+ gramm: ADV
+ stem: шог.
+ paradigm: Adverbials-final
+ trans_ru: грустно
+
+-lexeme
+ lex: мышвыв
+ gramm: ADV
+ stem: мышвыв.
+ paradigm: Adverbials-final
+ trans_ru: назад
+
+-lexeme
+ lex: лёкысь
+ gramm: ADV
+ stem: лёкысь.
+ paradigm: Adverbials-final
+ trans_ru: сильно
+
+-lexeme
+ lex: назло
+ gramm: ADV,rus
+ stem: назло.
+ paradigm: Adverbials-final
+ trans_ru: назло
+
+-lexeme
+ lex: турки-тарки
+ gramm: ADV
+ stem: турки-тарки.
+ paradigm: Adverbials-final
+ trans_ru: с грохотом; кубарем
+
+-lexeme
+ lex: наздоровйӧ
+ gramm: ADV,rus
+ stem: наздоровйӧ.
+ paradigm: Adverbials-final
+ trans_ru: на здоровье
+
+-lexeme
+ lex: делӧ
+ gramm: ADV,rus
+ stem: делӧ.
+ paradigm: Adverbials-final
+ trans_ru: трудно
+
+-lexeme
+ lex: ырӧбӧн
+ gramm: ADV
+ stem: ырӧбӧн.
+ paradigm: Adverbials-final
+ trans_ru: навзрыд
+
+-lexeme
+ lex: ньӧжйӧндзи
+ gramm: ADV
+ stem: ньӧжйӧндзи.
+ paradigm: Adverbials-final
+ trans_ru: тихонько
+
+-lexeme
+ lex: бурпӧт
+ gramm: ADV
+ stem: бурпӧт.
+ paradigm: Adverbials-final
+ trans_ru: вдоволь
+
+-lexeme
+ lex: дышиникпырысь
+ gramm: ADV
+ stem: дышиникпырысь.
+ paradigm: Adverbials-final
+ trans_ru: с неохотой
+
+-lexeme
+ lex: путкыль
+ gramm: ADV
+ stem: путкыль.
+ paradigm: Adverbials-final
+ trans_ru: вверх дном
+
 

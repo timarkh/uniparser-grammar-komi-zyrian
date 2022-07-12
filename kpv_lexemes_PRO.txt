@@ -1841,77 +1841,77 @@
 
 -lexeme
  lex: мыйсяма
- stem: мыйсяма.
+ stem: .мыйсяма.
  gramm: APRO
  paradigm: Adj-vowel
  trans_ru: какой
 
 -lexeme
  lex: кутшӧм
- stem: кутшӧм.
+ stem: .кутшӧм.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: какой
 
 -lexeme
  lex: некутшӧм
- stem: некутшӧм.
+ stem: .некутшӧм.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: никакой
 
 -lexeme
  lex: кымынӧд
- stem: кымынӧд.
+ stem: .кымынӧд.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: какой
 
 -lexeme
  lex: некымынӧд
- stem: некымынӧд.
+ stem: .некымынӧд.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: никакой
 
 -lexeme
  lex: татшӧм
- stem: татшӧм.
+ stem: .татшӧм.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: такой
 
 -lexeme
  lex: сэтшӧм
- stem: сэтшӧм.
+ stem: .сэтшӧм.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: такой
 
 -lexeme
  lex: этатшӧм
- stem: этатшӧм.
+ stem: .этатшӧм.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: вот такой
 
 -lexeme
  lex: эстшӧм
- stem: эстшӧм.
+ stem: .эстшӧм.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: вот такой
 
 -lexeme
  lex: став
- stem: став.
+ stem: .став.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: весь
 
 -lexeme
  lex: быд
- stem: быд.
+ stem: .быд.
  gramm: APRO
  paradigm: Adj-consonant
  trans_ru: каждый
@@ -2674,3 +2674,11 @@
  stem: быдӧн.
  paradigm: Noun-num-consonant
  trans_ru: все
+
+-lexeme
+ lex: кутшӧмъя
+ gramm: APRO
+ stem: .кутшӧмъя.
+ paradigm: Adj-vowel
+ trans_ru: какой
+
