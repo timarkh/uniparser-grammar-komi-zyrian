@@ -60722,3 +60722,24 @@
  paradigm: V-ny
  trans_ru: лепить
 
+-lexeme
+ lex: лювавны
+ gramm: V,intr
+ stem: люв.
+ paradigm: V-avny
+ trans_ru: вытянуться
+
+-lexeme
+ lex: тривкйысьны
+ gramm: V,intr
+ stem: тривкйыс.
+ paradigm: V-ny-soft
+ trans_ru: скакать
+
+-lexeme
+ lex: гӧлчитны
+ gramm: V,intr
+ stem: гӧлчит.
+ paradigm: V-ny
+ trans_ru: зубоскалить
+

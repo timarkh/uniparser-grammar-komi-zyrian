@@ -74645,3 +74645,17 @@
  paradigm: Noun-num-CC'
  trans_ru: Радуль
 
+-lexeme
+ lex: Пикон
+ gramm: N,PN,persn
+ stem: пикон.
+ paradigm: Noun-num-consonant
+ trans_ru: Тихон
+
+-lexeme
+ lex: Мелехин
+ gramm: N,PN,famn
+ stem: мелехин.
+ paradigm: Noun-num-consonant
+ trans_ru: Мелехин
+

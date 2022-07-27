@@ -134482,3 +134482,38 @@
  paradigm: Noun-num-obl_j
  trans_ru: сваренная еда
 
+-lexeme
+ lex: зимӧгор
+ gramm: N,rus,hum,anim
+ stem: зимӧгор.
+ paradigm: Noun-num-consonant
+ trans_ru: зимогор
+
+-lexeme
+ lex: комплекция
+ gramm: N,rus
+ stem: комплекция.
+ paradigm: Noun-num-vowel
+ trans_ru: комплекция
+
+-lexeme
+ lex: кӧлӧкӧльнича
+ gramm: N,rus
+ stem: кӧлӧкӧльнича.
+ paradigm: Noun-num-vowel
+ trans_ru: колокольня
+
+-lexeme
+ lex: нига
+ gramm: N,rus
+ stem: нига.
+ paradigm: Noun-num-vowel
+ trans_ru: книга
+
+-lexeme
+ lex: ӧслӧпан
+ gramm: N,hum,anim,rus
+ stem: ӧслӧпан.
+ paradigm: Noun-num-consonant
+ trans_ru: верзила
+

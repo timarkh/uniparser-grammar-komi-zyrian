@@ -41943,3 +41943,9 @@
  paradigm: Adj-soft
  trans_ru: костлявый
 
+-lexeme
+ lex: вертляв
+ gramm: A,rus
+ stem: .вертляв.
+ paradigm: Adj-consonant
+ trans_ru: вертлявый

@@ -8171,4 +8171,38 @@
  paradigm: Adverbials-final
  trans_ru: вверх дном
 
+-lexeme
+ lex: ӧтпырйӧ
+ gramm: ADV
+ stem: ӧтпырйӧ.
+ paradigm: Adverbials-final
+ trans_ru: одновременно
+
+-lexeme
+ lex: паныдӧн
+ gramm: ADV
+ stem: паныдӧн.
+ paradigm: Adverbials-final
+ trans_ru: напротив
+
+-lexeme
+ lex: на-на-най
+ gramm: INTRJ
+ stem: на-на-най.
+ paradigm: Clitics
+ trans_ru: на-на-най
+
+-lexeme
+ lex: э-э
+ gramm: INTRJ
+ stem: э-э.
+ paradigm: Clitics
+ trans_ru: э-э
+
+-lexeme
+ lex: шпач
+ gramm: IMIT
+ stem: шпач.
+ paradigm: Clitics
+ trans_ru: бах
 
