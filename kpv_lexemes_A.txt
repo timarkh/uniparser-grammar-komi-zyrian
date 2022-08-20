@@ -41949,3 +41949,151 @@
  stem: .вертляв.
  paradigm: Adj-consonant
  trans_ru: вертлявый
+
+-lexeme
+ lex: шольыд
+ gramm: A
+ stem: .шольыд.
+ paradigm: Adj-consonant
+ trans_ru: крупный
+
+-lexeme
+ lex: крутладор
+ gramm: A,rus
+ stem: .крутладор.
+ paradigm: Adj-consonant
+ trans_ru: крутой
+
+-lexeme
+ lex: асшӧръя
+ gramm: A
+ stem: .асшӧръя.
+ paradigm: Adj-vowel
+ trans_ru: частный
+
+-lexeme
+ lex: кизьӧриник
+ gramm: A,rus_afx
+ stem: .кизьӧриник.
+ paradigm: Adj-consonant
+ trans_ru: жиденький
+
+-lexeme
+ lex: вятскӧй
+ gramm: A,rus
+ stem: .вятскӧ.
+ paradigm: Adj-j
+ trans_ru: вятский
+
+-lexeme
+ lex: каля
+ gramm: A
+ stem: .каля.
+ paradigm: Adj-vowel
+ trans_ru: бедный промысловым зверем
+
+-lexeme
+ lex: клетчатӧй
+ gramm: A,rus
+ stem: .клетчатӧ.
+ paradigm: Adj-j
+ trans_ru: клетчатый
+
+-lexeme
+ lex: сыла
+ gramm: A
+ stem: .сыла.
+ paradigm: Adj-vowel
+ trans_ru: жирный
+
+-lexeme
+ lex: некрещенӧй
+ gramm: A,rus
+ stem: .некрещенӧ.
+ paradigm: Adj-j
+ trans_ru: некрещеный
+
+-lexeme
+ lex: ласкӧв
+ gramm: A,rus
+ stem: .ласкӧв.
+ paradigm: Adj-consonant
+ trans_ru: ласковый
+
+-lexeme
+ lex: гӧгрӧсіник
+ gramm: A,rus_afx
+ stem: .гӧгрӧсіник.
+ paradigm: Adj-consonant
+ trans_ru: кругленький
+
+-lexeme
+ lex: нечестнӧй
+ gramm: A,rus
+ stem: .нечестнӧ.
+ paradigm: Adj-j
+ trans_ru: нечестный
+
+-lexeme
+ lex: вӧлӧстнӧй
+ gramm: A,rus
+ stem: .вӧлӧстнӧ.
+ paradigm: Adj-j
+ trans_ru: волостной
+
+-lexeme
+ lex: подворнӧй
+ gramm: A,rus
+ stem: .подворнӧ.
+ paradigm: Adj-j
+ trans_ru: подворный
+
+-lexeme
+ lex: тувсовъя
+ gramm: A
+ stem: .тувсовъя.
+ paradigm: Adj-vowel
+ trans_ru: весенний
+
+-lexeme
+ lex: зэва
+ gramm: A
+ stem: .зэва.
+ paradigm: Adj-vowel
+ trans_ru: обильный
+
+-lexeme
+ lex: гажтӧминик
+ gramm: A,rus_afx
+ stem: .гажтӧминик.
+ paradigm: Adj-consonant
+ trans_ru: грустный
+
+-lexeme
+ lex: дик
+ gramm: A,rus
+ stem: .дик.
+ paradigm: Adj-consonant
+ trans_ru: дикий
+
+-lexeme
+ lex: печатнӧй
+ gramm: A,rus
+ stem: .печатнӧ.
+ paradigm: Adj-j
+ trans_ru: печатный
+
+-lexeme
+ lex: рытыв
+ gramm: A
+ stem: .рытыв.
+ paradigm: Adj-consonant
+ trans_ru: западный
+
+-lexeme
+ lex: пеж
+ gramm: A
+ stem: .пеж.
+ paradigm: Adj-consonant
+ trans_ru: поганый
+

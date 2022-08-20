@@ -134517,3 +134517,325 @@
  paradigm: Noun-num-consonant
  trans_ru: верзила
 
+-lexeme
+ lex: сыв
+ gramm: N
+ stem: сыв.
+ paradigm: Noun-num-obl_j
+ trans_ru: обхват
+
+-lexeme
+ lex: енкӧла
+ gramm: N
+ stem: енкӧла.
+ paradigm: Noun-num-vowel
+ trans_ru: космос
+
+-lexeme
+ lex: зрелосьт
+ gramm: N,rus
+ stem: зрелост.
+ paradigm: Noun-num-soft
+ trans_ru: зрелость
+
+-lexeme
+ lex: зрелосьт
+ gramm: N,rus
+ stem: зрелосьт.
+ paradigm: Noun-num-consonant
+ trans_ru: зрелость
+
+-lexeme
+ lex: ӧтметка
+ gramm: N,rus
+ stem: ӧтметка.
+ paradigm: Noun-num-vowel
+ trans_ru: отметка
+
+-lexeme
+ lex: татара
+ gramm: N,hum,anim
+ stem: татара.
+ paradigm: Noun-num-vowel
+ trans_ru: татары
+
+-lexeme
+ lex: чуваш
+ gramm: N,anim,hum
+ stem: чуваш.
+ paradigm: Noun-num-consonant
+ trans_ru: чуваш
+
+-lexeme
+ lex: чудовище
+ gramm: N,rus,supernat
+ stem: чудовище.
+ paradigm: Noun-num-vowel
+ trans_ru: чудовище
+
+-lexeme
+ lex: праслӧ
+ gramm: N,rus
+ stem: праслӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: звено изгороди
+
+-lexeme
+ lex: кужӧмлун
+ gramm: N,nmlz_lun
+ stem: кужӧмлун.
+ paradigm: Noun-num-consonant
+ trans_ru: умение
+
+-lexeme
+ lex: лӧвушка
+ gramm: N,rus
+ stem: лӧвушка.
+ paradigm: Noun-num-vowel
+ trans_ru: ловушка
+
+-lexeme
+ lex: пӧлпунта
+ gramm: N,rus
+ stem: пӧлпунта.
+ paradigm: Noun-num-vowel
+ trans_ru: полфунта
+
+-lexeme
+ lex: семерик
+ gramm: N,rus
+ stem: семерик.
+ paradigm: Noun-num-consonant
+ trans_ru: семерик
+
+-lexeme
+ lex: вожаланін
+ gramm: N,nmlz_in
+ stem: вожаланін.
+ paradigm: Noun-num-consonant
+ trans_ru: разветвление
+
+-lexeme
+ lex: синтор
+ gramm: N,nmlz_tor
+ stem: синтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: глазок
+
+-lexeme
+ lex: визинчи
+ gramm: N,hum,anim
+ stem: визинчи.
+ paradigm: Noun-num-vowel
+ trans_ru: жители Визинги
+
+-lexeme
+ lex: поёлчи
+ gramm: N,hum,anim
+ stem: поёлчи.
+ paradigm: Noun-num-vowel
+ trans_ru: жители Пыёлдино
+
+-lexeme
+ lex: мортан
+ gramm: N,hum,anim
+ stem: мортан.
+ paradigm: Noun-num-consonant
+ trans_ru: человек
+
+-lexeme
+ lex: парикод
+ gramm: N,rus,transport
+ stem: парикод.
+ paradigm: Noun-num-consonant
+ trans_ru: пароход
+
+-lexeme
+ lex: пӧлпуда
+ gramm: N,rus
+ stem: пӧлпуда.
+ paradigm: Noun-num-vowel
+ trans_ru: полпуда
+
+-lexeme
+ lex: шабуршой
+ gramm: N
+ stem: шабуршо.
+ paradigm: Noun-num-j
+ trans_ru: ветхий шабур
+
+-lexeme
+ lex: тайӧтор
+ gramm: N,nmlz_tor
+ stem: тайӧтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: это самое
+
+-lexeme
+ lex: перебор
+ gramm: N,rus
+ stem: перебор.
+ paradigm: Noun-num-consonant
+ trans_ru: перебор
+
+-lexeme
+ lex: колип
+ gramm: N,anim
+ stem: колип.
+ paradigm: Noun-num-consonant
+ trans_ru: соловей
+
+-lexeme
+ lex: дармоед
+ gramm: N,hum,anim,rus
+ stem: дармоед.
+ paradigm: Noun-num-consonant
+ trans_ru: дармоед
+
+-lexeme
+ lex: туйдор
+ gramm: N
+ stem: туйдор.
+ paradigm: Noun-num-consonant
+ trans_ru: место у дороги
+
+-lexeme
+ lex: муяскост
+ gramm: N
+ stem: муяскост.
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток между полями
+
+-lexeme
+ lex: метровка
+ gramm: N,rus
+ stem: метровка.
+ paradigm: Noun-num-vowel
+ trans_ru: метровка
+
+-lexeme
+ lex: карта
+ gramm: N,rus
+ stem: карта.
+ paradigm: Noun-num-vowel
+ trans_ru: карта
+
+-lexeme
+ lex: путник
+ gramm: N,rus,anim,hum
+ stem: путник.
+ paradigm: Noun-num-consonant
+ trans_ru: путник
+
+-lexeme
+ lex: тусь
+ gramm: N
+ stem: тус.
+ paradigm: Noun-num-soft
+ trans_ru: ягода
+
+-lexeme
+ lex: чӧдъяин
+ gramm: N,nmlz_in
+ stem: чӧдъяин.
+ paradigm: Noun-num-consonant
+ trans_ru: черничник
+
+-lexeme
+ lex: помасянін
+ gramm: N,nmlz_in
+ stem: помасянін.
+ paradigm: Noun-num-consonant
+ trans_ru: конец
+
+-lexeme
+ lex: мукыль
+ gramm: N
+ stem: мукыль.|мукылл.
+ paradigm: Noun-num-CC'
+ trans_ru: изгиб
+
+-lexeme
+ lex: тшуп
+ gramm: N,body
+ stem: тшуп.
+ paradigm: Noun-num-consonant
+ trans_ru: загривок
+
+-lexeme
+ lex: дзебӧмтор
+ gramm: N,nmlz_tor
+ stem: дзебӧмтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: что-либо спрятанное
+
+-lexeme
+ lex: музгыльтчӧмин
+ gramm: N,nmlz_in
+ stem: музгыльтчӧмин.
+ paradigm: Noun-num-consonant
+ trans_ru: место вывиха
+
+-lexeme
+ lex: сераку
+ gramm: N
+ stem: сераку.
+ paradigm: Noun-num-vowel
+ trans_ru: письмо
+
+-lexeme
+ lex: сантиметровка
+ gramm: N,rus
+ stem: сантиметровка.
+ paradigm: Noun-num-vowel
+ trans_ru: сантиметровка
+
+-lexeme
+ lex: пажун
+ gramm: N
+ stem: пажун.
+ paradigm: Noun-num-consonant
+ trans_ru: обед
+
+-lexeme
+ lex: вундыштӧмин
+ gramm: N,nmlz_in
+ stem: вундыштӧмин.
+ paradigm: Noun-num-consonant
+ trans_ru: место пореза
+
+-lexeme
+ lex: гижӧдтор
+ gramm: N,nmlz_tor
+ stem: гижӧдтор.
+ paradigm: Noun-num-obl_j
+ trans_ru: записка
+
+-lexeme
+ lex: вужляув
+ gramm: N
+ stem: вужляув.|вужляул.
+ paradigm: Noun-num-v_l
+ trans_ru: место под корягой
+
+-lexeme
+ lex: шуӧмаин
+ gramm: N,nmlz_in
+ stem: шуӧмаин.
+ paradigm: Noun-num-consonant
+ trans_ru: обозначенное место
+
+-lexeme
+ lex: стенберд
+ gramm: N,rus
+ stem: стенберд.
+ paradigm: Noun-num-consonant
+ trans_ru: место возле стены
+
+-lexeme
+ lex: лавка
+ gramm: N,rus
+ stem: лавка.
+ paradigm: Noun-num-vowel
+ trans_ru: магазин
+

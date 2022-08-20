@@ -8206,3 +8206,206 @@
  paradigm: Clitics
  trans_ru: бах
 
+-lexeme
+ lex: дыгыдпырысь
+ gramm: ADV
+ stem: дыгыдпырысь.
+ paradigm: Adverbials-final
+ trans_ru: лениво
+
+-lexeme
+ lex: хорошо
+ gramm: ADV,rus
+ stem: хорошо.
+ paradigm: Adverbials-final
+ trans_ru: хорошо
+
+-lexeme
+ lex: тырмымӧн
+ gramm: ADV
+ stem: тырмымӧн.
+ paradigm: Adverbials-final
+ trans_ru: достаточно
+
+-lexeme
+ lex: ӧтарӧ
+ gramm: ADV
+ stem: ӧтарӧ.
+ paradigm: Adverbials-final
+ trans_ru: беспрерывно
+
+-lexeme
+ lex: ичӧтысянь
+ gramm: ADV
+ stem: ичӧтысянь.
+ paradigm: Adverbials-final
+ trans_ru: с детства
+
+-lexeme
+ lex: гусьӧник
+ gramm: ADV,rus_afx
+ stem: гусьӧник.
+ paradigm: Adverbials-final
+ trans_ru: тихонько
+
+-lexeme
+ lex: ӧтчыдысьӧн
+ gramm: ADV
+ stem: ӧтчыдысьӧн.
+ paradigm: Adverbials-final
+ trans_ru: за раз
+
+-lexeme
+ lex: дӧзмӧмпырысь
+ gramm: ADV
+ stem: дӧзмӧмпырысь.
+ paradigm: Adverbials-final
+ trans_ru: раздраженно
+
+-lexeme
+ lex: дышпырысь
+ gramm: ADV
+ stem: дышпырысь.
+ paradigm: Adverbials-final
+ trans_ru: неохотно
+
+-lexeme
+ lex: бурпырысь
+ gramm: ADV
+ stem: бурпырысь.
+ paradigm: Adverbials-final
+ trans_ru: по-доброму
+
+-lexeme
+ lex: брун
+ gramm: IMIT
+ stem: брун.
+ paradigm: Clitics
+ trans_ru: бух
+
+-lexeme
+ lex: рутш
+ gramm: IMIT
+ stem: рутш.
+ paradigm: Clitics
+ trans_ru: хрусь
+
+-lexeme
+ lex: ратш
+ gramm: IMIT
+ stem: ратш.
+ paradigm: Clitics
+ trans_ru: хрясь
+
+-lexeme
+ lex: цоп
+ gramm: INTRJ
+ stem: цоп.
+ paradigm: Clitics
+ trans_ru: цоп
+
+-lexeme
+ lex: цип
+ gramm: INTRJ
+ stem: цип.
+ paradigm: Clitics
+ trans_ru: цып
+
+-lexeme
+ lex: курли
+ gramm: INTRJ
+ stem: курли.
+ paradigm: Clitics
+ trans_ru: курли
+
+-lexeme
+ lex: кур
+ gramm: INTRJ
+ stem: кур.
+ paradigm: Clitics
+ trans_ru: кур
+
+-lexeme
+ lex: ус
+ gramm: INTRJ
+ stem: ус.
+ paradigm: Clitics
+ trans_ru: ус
+
+-lexeme
+ lex: ту
+ gramm: INTRJ
+ stem: ту.
+ paradigm: Clitics
+ trans_ru: ату
+
+-lexeme
+ lex: хм
+ gramm: INTRJ
+ stem: хм.
+ paradigm: Clitics
+ trans_ru: хм
+
+-lexeme
+ lex: пуф
+ gramm: INTRJ
+ stem: пуф.
+ paradigm: Clitics
+ trans_ru: пуф
+
+-lexeme
+ lex: хо
+ gramm: INTRJ
+ stem: хо.
+ paradigm: Clitics
+ trans_ru: хо
+
+-lexeme
+ lex: охо
+ gramm: INTRJ
+ stem: охо.
+ paradigm: Clitics
+ trans_ru: охо
+
+-lexeme
+ lex: ай
+ gramm: INTRJ
+ stem: ай.
+ paradigm: Clitics
+ trans_ru: ай
+
+-lexeme
+ lex: ха
+ gramm: INTRJ
+ stem: ха.
+ paradigm: Clitics
+ trans_ru: ха
+
+-lexeme
+ lex: аха
+ gramm: INTRJ
+ stem: аха.//а-ха.
+ paradigm: Clitics
+ trans_ru: аха
+
+-lexeme
+ lex: колӧк
+ gramm: PARENTH
+ stem: колӧк.
+ paradigm: Clitics
+ trans_ru: возможно
+
+-lexeme
+ lex: инӧсь
+ gramm: PART
+ stem: инӧсь.
+ paradigm: Clitics
+ trans_ru: в таком случае
+
+-lexeme
+ lex: радиысь
+ gramm: POST,rus
+ stem: радиысь.
+ paradigm: Clitics
+ trans_ru: ради
+
