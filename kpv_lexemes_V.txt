@@ -53040,7 +53040,7 @@
 -lexeme
  lex: эштыны
  stem: эшт.
- gramm: V
+ gramm: V,intr
  paradigm: V-yny
  trans_ru: кончиться
 
