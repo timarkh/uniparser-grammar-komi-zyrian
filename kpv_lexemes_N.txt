@@ -14299,6 +14299,13 @@
 
 -lexeme
  lex: видз
+ stem: видз.|видд.
+ gramm: N
+ paradigm: Noun-num-ddz
+ trans_ru: луг
+
+-lexeme
+ lex: видз
  stem: видз.
  gramm: N
  paradigm: Noun-num-consonant
@@ -45878,6 +45885,13 @@
  gramm: N
  paradigm: Noun-num-obl_soft
  trans_ru: бой
+
+-lexeme
+ lex: кось
+ stem: кос.|коськ.
+ gramm: N
+ paradigm: Noun-num-obl_soft
+ trans_ru: речной порог
 
 -lexeme
  lex: коськӧм
@@ -134838,4 +134852,172 @@
  stem: лавка.
  paradigm: Noun-num-vowel
  trans_ru: магазин
+
+-lexeme
+ lex: йӧлатурун
+ gramm: N
+ stem: йӧлатурун.
+ paradigm: Noun-num-consonant
+ trans_ru: одуванчик
+
+-lexeme
+ lex: дебаркадер
+ gramm: N,rus
+ stem: дебаркадер.
+ paradigm: Noun-num-consonant
+ trans_ru: дебаркадер
+
+-lexeme
+ lex: пароходство
+ gramm: N,rus
+ stem: пароходство.
+ paradigm: Noun-num-vowel
+ trans_ru: пароходство
+
+-lexeme
+ lex: пинькост
+ gramm: N
+ stem: пинькост.
+ paradigm: Noun-num-consonant
+ trans_ru: промежек
+
+-lexeme
+ lex: украинеч
+ gramm: N,anim,hum,rus
+ stem: украинеч.
+ paradigm: Noun-num-consonant
+ trans_ru: украинец
+
+-lexeme
+ lex: лэб
+ gramm: N
+ stem: лэб.
+ paradigm: Noun-num-obl_j
+ trans_ru: козырёк
+
+-lexeme
+ lex: фронтӧвик
+ gramm: N,anim,hum,rus
+ stem: фронтӧвик.
+ paradigm: Noun-num-consonant
+ trans_ru: фронтовик
+
+-lexeme
+ lex: туйпом
+ gramm: N
+ stem: туйпом.
+ paradigm: Noun-num-consonant
+ trans_ru: след
+
+-lexeme
+ lex: тюпень
+ gramm: N,rus
+ stem: тюпен.
+ paradigm: Noun-num-soft
+ trans_ru: туфли
+
+-lexeme
+ lex: видзантор
+ gramm: N,nmlz_tor
+ stem: видзантор.
+ paradigm: Noun-num-obl_j
+ trans_ru: содержимый скот
+
+-lexeme
+ lex: вӧратор
+ gramm: N,nmlz_tor
+ stem: вӧратор.
+ paradigm: Noun-num-obl_j
+ trans_ru: небольшое вымя
+
+-lexeme
+ lex: пуаин
+ gramm: N,nmlz_in
+ stem: пуаин.
+ paradigm: Noun-num-consonant
+ trans_ru: место, где растут деревья
+
+-lexeme
+ lex: райбольнича
+ gramm: N,rus
+ stem: райбольнича.
+ paradigm: Noun-num-vowel
+ trans_ru: райбольница
+
+-lexeme
+ lex: гӧнаин
+ gramm: N,nmlz_in
+ stem: гӧнаин.
+ paradigm: Noun-num-consonant
+ trans_ru: место, где растет шерсть
+
+-lexeme
+ lex: моль
+ gramm: N,rus
+ stem: моль.|молл.
+ paradigm: Noun-num-CC'
+ trans_ru: лес, сплавляемый по реке брёвнами
+
+-lexeme
+ lex: сӧтанапызь
+ gramm: N
+ stem: сӧтанапыз.
+ paradigm: Noun-num-soft
+ trans_ru: дьявол
+
+-lexeme
+ lex: кӧрӧванка
+ gramm: N,rus
+ stem: кӧрӧванка.
+ paradigm: Noun-num-vowel
+ trans_ru: караван
+
+-lexeme
+ lex: мегӧ
+ gramm: N,anim
+ stem: мегӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: барашек
+
+-lexeme
+ lex: шамыр
+ gramm: N
+ stem: шамыр.
+ paradigm: Noun-num-consonant
+ trans_ru: пожатие; горсть
+
+-lexeme
+ lex: цар
+ gramm: N,rus,hum,anim
+ stem: цар.
+ paradigm: Noun-num-consonant
+ trans_ru: царь
+
+-lexeme
+ lex: пед
+ gramm: N,rus
+ stem: пед.
+ paradigm: Noun-num-consonant
+ trans_ru: пединститут, педколледж
+
+-lexeme
+ lex: ютш
+ gramm: N
+ stem: ютш.
+ paradigm: Noun-num-consonant
+ trans_ru: топляк
+
+-lexeme
+ lex: рытгорув
+ gramm: N,time_meas
+ stem: рытгорув.|рытгорул.
+ paradigm: Noun-num-v_l
+ trans_ru: под вечер
+
+-lexeme
+ lex: кавказеч
+ gramm: N,hum,rus,anim
+ stem: кавказеч.
+ paradigm: Noun-num-consonant
+ trans_ru: кавказец
 

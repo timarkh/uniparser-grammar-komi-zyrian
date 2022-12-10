@@ -8409,3 +8409,72 @@
  paradigm: Clitics
  trans_ru: ради
 
+-lexeme
+ lex: пӧдлиннӧ
+ gramm: PARENTH,rus
+ stem: пӧдлиннӧ.
+ paradigm: Clitics
+ trans_ru: действительно
+
+-lexeme
+ lex: ну
+ gramm: INTRJ,rus
+ stem: ну.
+ paradigm: Clitics
+ trans_ru: ну
+
+-lexeme
+ lex: дзин
+ gramm: IMIT
+ stem: дзин.
+ paradigm: Clitics
+ trans_ru: дзень
+
+-lexeme
+ lex: пурк-парк
+ gramm: IMIT
+ stem: пурк-парк.
+ paradigm: Clitics
+ trans_ru: второпях
+
+-lexeme
+ lex: ӧтног
+ gramm: ADV
+ stem: ӧтног.
+ paradigm: Adverbials-final
+ trans_ru: одинаково
+
+-lexeme
+ lex: надейнӧ
+ gramm: ADV,rus
+ stem: надейнӧ.
+ paradigm: Adverbials-final
+ trans_ru: вероятно
+
+-lexeme
+ lex: видзӧдӧмпыръяысь
+ gramm: ADV
+ stem: видзӧдӧмпыръяысь.
+ paradigm: Adverbials-final
+ trans_ru: на взгляд
+
+-lexeme
+ lex: лучшӧ
+ gramm: ADV,rus
+ stem: лучшӧ.
+ paradigm: Adverbials-final
+ trans_ru: лучше
+
+-lexeme
+ lex: кывтчӧс
+ gramm: ADV
+ stem: кывтчӧс.
+ paradigm: Adverbials-final
+ trans_ru: внизу по течению
+
+-lexeme
+ lex: катчӧс
+ gramm: ADV
+ stem: катчӧс.
+ paradigm: Adverbials-final
+ trans_ru: вверху по течению

@@ -42097,3 +42097,45 @@
  paradigm: Adj-consonant
  trans_ru: поганый
 
+-lexeme
+ lex: асшӧръя
+ gramm: A
+ stem: .асшӧръя.
+ paradigm: Adj-vowel
+ trans_ru: самостоятельный
+
+-lexeme
+ lex: дӧла
+ gramm: A
+ stem: .дӧла.
+ paradigm: Adj-vowel
+ trans_ru: пылающий
+
+-lexeme
+ lex: паськыдик
+ gramm: A
+ stem: .паськыдик.
+ paradigm: Adj-consonant
+ trans_ru: широковатый
+
+-lexeme
+ lex: лӧзъеджыд
+ gramm: A
+ stem: .лӧзъеджыд.
+ paradigm: Adj-consonant
+ trans_ru: голубой
+
+-lexeme
+ lex: зыркыд
+ gramm: A
+ stem: .зыркыд.
+ paradigm: Adj-consonant
+ trans_ru: тряский
+
+-lexeme
+ lex: дивӧ
+ gramm: A,rus
+ stem: .дивӧ.
+ paradigm: Adj-vowel
+ trans_ru: дивный
+

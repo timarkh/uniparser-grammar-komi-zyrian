@@ -75030,3 +75030,122 @@
  paradigm: Noun-num-consonant
  trans_ru: Намыр
 
+-lexeme
+ lex: Огнёва
+ gramm: N,PN,famn
+ stem: огнёва.
+ paradigm: Noun-num-vowel
+ trans_ru: Огнёва
+
+-lexeme
+ lex: Шордін
+ gramm: N,topn,PN
+ stem: шордін.
+ paradigm: Noun-num-consonant
+ trans_ru: Усть-Шор
+
+-lexeme
+ lex: Прокӧ
+ gramm: N,PN,persn
+ stem: прокӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Прокӧ (Прокопий, Прокофий)
+
+-lexeme
+ lex: Саш
+ gramm: N,persn,PN
+ stem: саш.
+ paradigm: Noun-num-consonant
+ trans_ru: Саша
+
+-lexeme
+ lex: Расъёль
+ gramm: N,topn,PN
+ stem: расъёль.|расъёлл.
+ paradigm: Noun-num-CC'
+ trans_ru: Расъёль
+
+-lexeme
+ lex: Микипер
+ gramm: N,PN,persn
+ stem: микипер.
+ paradigm: Noun-num-consonant
+ trans_ru: Никифор
+
+-lexeme
+ lex: Саксьӧ
+ gramm: N,PN,persn
+ stem: саксьӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Саксе
+
+-lexeme
+ lex: Максьӧ
+ gramm: N,PN,persn
+ stem: максьӧ.
+ paradigm: Noun-num-vowel
+ trans_ru: Максим
+
+-lexeme
+ lex: Чив
+ gramm: N,PN,persn
+ stem: чив.
+ paradigm: Noun-num-consonant
+ trans_ru: Чив
+
+-lexeme
+ lex: Пилим
+ gramm: N,PN,persn
+ stem: пилим.
+ paradigm: Noun-num-consonant
+ trans_ru: Пилим
+
+-lexeme
+ lex: Мелёкин
+ gramm: N,PN,famn
+ stem: мелёкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Мелёхин
+
+-lexeme
+ lex: Пиӧпан
+ gramm: N,PN,persn
+ stem: пиӧпан.
+ paradigm: Noun-num-consonant
+ trans_ru: Феофан
+
+-lexeme
+ lex: Гарья
+ gramm: N,PN,topn
+ stem: гарья.
+ paradigm: Noun-num-vowel
+ trans_ru: Гарья
+
+-lexeme
+ lex: Авзан
+ gramm: N,PN,persn
+ stem: авзан.
+ paradigm: Noun-num-consonant
+ trans_ru: Авзан
+
+-lexeme
+ lex: Ванюк
+ gramm: N,PN,persn
+ stem: ванюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Ванюша
+
+-lexeme
+ lex: Канары
+ gramm: N,topn,PN
+ stem: канары.
+ paradigm: Noun-num-vowel
+ trans_ru: Канары
+
+-lexeme
+ lex: Висдор
+ gramm: N,topn,PN
+ stem: висдор.
+ paradigm: Noun-num-consonant
+ trans_ru: Висдор
+

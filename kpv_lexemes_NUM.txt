@@ -27,6 +27,13 @@
  trans_ru: тысяча
 
 -lexeme
+ lex: тысьӧча
+ gramm: NUM,rus
+ stem: тысьӧча.
+ paradigm: NUM-vowel
+ trans_ru: тысяча
+
+-lexeme
  lex: ӧти
  stem: ӧти.//ӧт.//1.//1-.
  gramm: NUM
